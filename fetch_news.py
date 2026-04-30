@@ -104,7 +104,7 @@ class _RadioLelystadParser(HTMLParser):
             return
         if not self._cur.get("date") and re.search(r"\b20\d{2}\b", t) and len(t) < 50:
             self._cur["date"] = t
-        elif not self._cur.get("title") and len(t) > 8:
+        elif not self._cur.get("title") and len(t) > 8 and t[0].isupper():
             self._cur["title"] = t
 
 

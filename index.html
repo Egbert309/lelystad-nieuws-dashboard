@@ -4,57 +4,65 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Lelystad Nieuws Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     :root {
-      --bg: #0f1117; --surface: #1a1d27; --border: #2a2d3a;
-      --accent: #4f8ef7; --text: #e4e6f0; --muted: #7b7f99;
-      --red: #e05c5c; --radius: 10px;
+      --bg: #e4f1fd;
+      --surface: #ffffff;
+      --border: #c5daf0;
+      --accent: #00a5e3;
+      --accent-dark: #0082b8;
+      --navy: #0a034e;
+      --text: #0a034e;
+      --muted: #5a6a8a;
+      --red: #d0393b;
+      --radius: 8px;
     }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
-
-    header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 16px 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; position: sticky; top: 0; z-index: 10; }
-    .header-left h1 { font-size: 1.25rem; font-weight: 700; }
-    .header-left h1 span { color: var(--accent); }
-    .header-meta { font-size: .78rem; color: var(--muted); margin-top: 3px; }
-    .header-meta #last-updated { color: var(--text); font-weight: 500; }
+    body { font-family: "Roboto", sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+    header { background: var(--navy); border-bottom: 3px solid var(--accent); padding: 14px 24px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 12px; position: sticky; top: 0; z-index: 10; box-shadow: 0 2px 8px rgba(10,3,78,.25); }
+    .header-left { display: flex; align-items: center; gap: 14px; }
+    .header-logo { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+    .logo-mark { width: 36px; height: 36px; background: var(--accent); border-radius: 4px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+    .logo-mark svg { width: 22px; height: 22px; fill: #fff; }
+    .header-titles h1 { font-size: 1.15rem; font-weight: 700; color: #fff; letter-spacing: .01em; }
+    .header-titles h1 span { color: var(--accent); }
+    .header-meta { font-size: .75rem; color: rgba(255,255,255,.65); margin-top: 2px; }
+    .header-meta #last-updated { color: rgba(255,255,255,.9); font-weight: 500; }
     .header-right { display: flex; align-items: center; gap: 14px; }
-    .countdown { font-size: .8rem; color: var(--muted); white-space: nowrap; }
+    .countdown { font-size: .78rem; color: rgba(255,255,255,.6); white-space: nowrap; }
     .countdown span { color: var(--accent); font-weight: 600; }
-    #refresh-btn { background: var(--accent); color: #fff; border: none; border-radius: 6px; padding: 7px 16px; font-size: .85rem; font-weight: 600; cursor: pointer; transition: opacity .15s; white-space: nowrap; }
-    #refresh-btn:hover { opacity: .85; }
-    #refresh-btn:disabled { opacity: .45; cursor: default; }
-
-    #status-bar { font-size: .8rem; padding: 7px 24px; background: #1c1f2e; border-bottom: 1px solid var(--border); color: var(--muted); display: none; }
-    #status-bar.error { color: var(--red); display: block; }
-    #status-bar.loading { color: var(--accent); display: block; }
-
+    #refresh-btn { background: var(--accent); color: #fff; border: none; border-radius: 5px; padding: 7px 16px; font-size: .82rem; font-weight: 600; cursor: pointer; transition: background .15s; white-space: nowrap; font-family: inherit; }
+    #refresh-btn:hover { background: var(--accent-dark); }
+    #refresh-btn:disabled { opacity: .5; cursor: default; }
+    #status-bar { font-size: .8rem; padding: 7px 24px; background: #f0f7fe; border-bottom: 1px solid var(--border); color: var(--muted); display: none; }
+    #status-bar.error { color: var(--red); display: block; background: #fdf0f0; border-bottom-color: #f5c6c6; }
+    #status-bar.loading { color: var(--accent-dark); display: block; }
     main { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; padding: 24px; max-width: 1600px; margin: 0 auto; }
-
-    .source-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); display: flex; flex-direction: column; overflow: hidden; }
-    .card-header { padding: 13px 16px; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; }
-    .card-title { font-weight: 700; font-size: .95rem; display: flex; align-items: center; gap: 8px; }
-    .card-title a { color: var(--text); text-decoration: none; }
+    .source-card { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); display: flex; flex-direction: column; overflow: hidden; box-shadow: 0 1px 4px rgba(10,3,78,.07); transition: box-shadow .15s; }
+    .source-card:hover { box-shadow: 0 4px 12px rgba(10,3,78,.12); }
+    .card-header { padding: 12px 16px; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; background: #f4f9fe; }
+    .card-title { font-weight: 700; font-size: .92rem; display: flex; align-items: center; gap: 8px; }
+    .card-title a { color: var(--navy); text-decoration: none; }
     .card-title a:hover { color: var(--accent); }
     .card-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
-    .badge { font-size: .72rem; font-weight: 700; padding: 2px 8px; border-radius: 999px; background: var(--border); color: var(--muted); }
-    .badge.has-items { background: #1a2d4a; color: var(--accent); }
-
+    .badge { font-size: .7rem; font-weight: 700; padding: 2px 8px; border-radius: 999px; background: #dde9f5; color: var(--muted); }
+    .badge.has-items { background: #cceeff; color: var(--accent-dark); }
     .card-items { list-style: none; flex: 1; overflow-y: auto; max-height: 380px; }
-    .card-items li { border-bottom: 1px solid var(--border); }
+    .card-items li { border-bottom: 1px solid #eaf2fb; }
     .card-items li:last-child { border-bottom: none; }
     .item-link { display: block; padding: 10px 16px; text-decoration: none; color: var(--text); transition: background .1s; }
-    .item-link:hover { background: #21253a; }
-    .item-title { font-size: .875rem; font-weight: 500; line-height: 1.4; }
+    .item-link:hover { background: #f0f7fe; }
+    .item-title { font-size: .875rem; font-weight: 500; line-height: 1.4; color: var(--navy); }
     .item-meta { font-size: .74rem; color: var(--muted); margin-top: 3px; }
-
-    .card-footer { padding: 10px 16px; border-top: 1px solid var(--border); }
-    .card-footer a { font-size: .78rem; color: var(--accent); text-decoration: none; }
+    .card-footer { padding: 9px 16px; border-top: 1px solid var(--border); background: #f4f9fe; }
+    .card-footer a { font-size: .78rem; color: var(--accent-dark); text-decoration: none; font-weight: 500; }
     .card-footer a:hover { text-decoration: underline; }
-
     .empty-state { padding: 24px 16px; text-align: center; color: var(--muted); font-size: .85rem; }
-    .skeleton { padding: 10px 16px; border-bottom: 1px solid var(--border); }
-    .skel-line { height: 12px; border-radius: 4px; background: linear-gradient(90deg, var(--border) 25%, #2e3247 50%, var(--border) 75%); background-size: 200% 100%; animation: shimmer 1.4s infinite; margin-bottom: 6px; }
+    .skeleton { padding: 10px 16px; border-bottom: 1px solid #eaf2fb; }
+    .skel-line { height: 12px; border-radius: 4px; background: linear-gradient(90deg, #dde9f5 25%, #eaf2fb 50%, #dde9f5 75%); background-size: 200% 100%; animation: shimmer 1.4s infinite; margin-bottom: 6px; }
     .skel-line.short { width: 45%; }
     @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
     @media (max-width: 600px) { main { padding: 14px; gap: 14px; } header { padding: 12px 14px; } }
@@ -63,157 +71,45 @@
 <body>
 <header>
   <div class="header-left">
-    <h1>Lelystad <span>Nieuws</span> Dashboard</h1>
-    <div class="header-meta">Bijgewerkt: <span id="last-updated">laden...</span></div>
+    <div class="header-logo">
+      <div class="logo-mark">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 15v-4H7l5-8v4h4l-5 8z"/></svg>
+      </div>
+    </div>
+    <div class="header-titles">
+      <h1>Lelystad <span>Nieuws</span></h1>
+      <div class="header-meta">Bijgewerkt: <span id="last-updated">laden…</span></div>
+    </div>
   </div>
   <div class="header-right">
     <div class="countdown">Volgende verversing: <span id="countdown">60:00</span></div>
-    <button id="refresh-btn" onclick="loadNews(true)">&#8635; Verversen</button>
+    <button id="refresh-btn" onclick="loadNews(true)">↻ Verversen</button>
   </div>
 </header>
 <div id="status-bar"></div>
 <main id="grid"></main>
-
 <script>
   const SOURCES = [
-    { name: "Radio Lelystad",   color: "#e87f3a" },
-    { name: "Omroep Flevoland", color: "#4f8ef7" },
-    { name: "De Stentor",       color: "#3ecf8e" },
-    { name: "Nu.nl",            color: "#e05c5c" },
-    { name: "NOS",              color: "#c97bdb" },
+    { name: "Radio Lelystad",   color: "#d4600a" },
+    { name: "Omroep Flevoland", color: "#00a5e3" },
+    { name: "De Stentor",       color: "#1a8a5a" },
+    { name: "Nu.nl",            color: "#c0292b" },
+    { name: "NOS",              color: "#7b35a8" },
   ];
   const REFRESH_MS = 60 * 60 * 1000;
   const JSON_PATH  = "data/news.json";
   const PREVIEW    = 5;
-
   let countdownSec = REFRESH_MS / 1000;
   let cdTimer = null, arTimer = null;
-
-  function setStatus(msg, type) {
-    const b = document.getElementById("status-bar");
-    b.textContent = msg; b.className = type || "";
-  }
-
-  function fmt(iso) {
-    if (!iso) return "";
-    const d = new Date(iso);
-    if (!isNaN(d)) {
-      return new Intl.DateTimeFormat("nl-NL", {
-        day: "numeric", month: "short", year: "numeric",
-        timeZone: "Europe/Amsterdam"
-      }).format(d);
-    }
-    return iso;
-  }
-
-  function fmtTs(iso) {
-    if (!iso) return "";
-    const d = new Date(iso);
-    if (!isNaN(d)) {
-      return new Intl.DateTimeFormat("nl-NL", {
-        day: "numeric", month: "short", hour: "2-digit", minute: "2-digit",
-        timeZone: "Europe/Amsterdam"
-      }).format(d);
-    }
-    return iso;
-  }
-
-  function fmtCountdown(s) {
-    return String(Math.floor(s/60)).padStart(2,"0") + ":" + String(s%60).padStart(2,"0");
-  }
-
-  function sourceUrl(name) {
-    return "source.html?source=" + encodeURIComponent(name);
-  }
-
-  function renderSkeletons() {
-    const grid = document.getElementById("grid");
-    grid.innerHTML = "";
-    SOURCES.forEach(src => {
-      const card = document.createElement("div");
-      card.className = "source-card";
-      card.innerHTML =
-        '<div class="card-header">' +
-          '<div class="card-title"><span class="card-dot" style="background:' + src.color + '"></span>' + src.name + '</div>' +
-          '<span class="badge">...</span>' +
-        '</div>' +
-        '<ul class="card-items">' +
-          '<li class="skeleton"><div class="skel-line"></div><div class="skel-line short"></div></li>' +
-          '<li class="skeleton"><div class="skel-line"></div><div class="skel-line short"></div></li>' +
-          '<li class="skeleton"><div class="skel-line"></div><div class="skel-line short"></div></li>' +
-        '</ul>';
-      grid.appendChild(card);
-    });
-  }
-
-  function renderData(data) {
-    const grid = document.getElementById("grid");
-    grid.innerHTML = "";
-    document.getElementById("last-updated").textContent =
-      data.updated ? fmtTs(data.updated) : "onbekend";
-
-    SOURCES.forEach(src => {
-      const items = (data.sources || {})[src.name] || [];
-      const preview = items.slice(0, PREVIEW);
-      const card = document.createElement("div");
-      card.className = "source-card";
-
-      const bc = items.length > 0 ? "badge has-items" : "badge";
-      const list = preview.length === 0
-        ? '<li class="empty-state">Geen nieuws gevonden</li>'
-        : preview.map(it =>
-            '<li><a class="item-link" href="' + it.link + '" target="_blank" rel="noopener">' +
-              '<div class="item-title">' + it.title + '</div>' +
-              (it.published ? '<div class="item-meta">' + fmt(it.published) + '</div>' : '') +
-            '</a></li>'
-          ).join("");
-
-      const footer = items.length > 0
-        ? '<div class="card-footer"><a href="' + sourceUrl(src.name) + '">Alle ' + items.length + ' berichten</a></div>'
-        : '';
-
-      card.innerHTML =
-        '<div class="card-header">' +
-          '<div class="card-title">' +
-            '<span class="card-dot" style="background:' + src.color + '"></span>' +
-            '<a href="' + sourceUrl(src.name) + '">' + src.name + '</a>' +
-          '</div>' +
-          '<span class="' + bc + '">' + items.length + '</span>' +
-        '</div>' +
-        '<ul class="card-items">' + list + '</ul>' +
-        footer;
-
-      grid.appendChild(card);
-    });
-  }
-
-  async function loadNews(manual) {
-    const btn = document.getElementById("refresh-btn");
-    btn.disabled = true;
-    if (manual) setStatus("Nieuws ophalen...", "loading");
-    try {
-      const r = await fetch(JSON_PATH + "?t=" + Date.now());
-      if (!r.ok) throw new Error("HTTP " + r.status);
-      renderData(await r.json());
-      setStatus("", "");
-    } catch(e) {
-      setStatus("Fout bij laden: " + e.message, "error");
-    } finally {
-      btn.disabled = false;
-      resetCountdown();
-    }
-  }
-
-  function resetCountdown() {
-    countdownSec = REFRESH_MS / 1000;
-    clearInterval(cdTimer); clearTimeout(arTimer);
-    cdTimer = setInterval(() => {
-      countdownSec = Math.max(0, countdownSec - 1);
-      document.getElementById("countdown").textContent = fmtCountdown(countdownSec);
-    }, 1000);
-    arTimer = setTimeout(() => loadNews(false), REFRESH_MS);
-  }
-
+  function setStatus(msg, type) { const b = document.getElementById("status-bar"); b.textContent = msg; b.className = type || ""; }
+  function fmt(iso) { if (!iso) return "–"; const d = new Date(iso); if (!isNaN(d)) { return new Intl.DateTimeFormat("nl-NL", { day: "numeric", month: "short", year: "numeric", timeZone: "Europe/Amsterdam" }).format(d); } return iso; }
+  function fmtTs(iso) { if (!iso) return "–"; const d = new Date(iso); if (!isNaN(d)) { return new Intl.DateTimeFormat("nl-NL", { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit", timeZone: "Europe/Amsterdam" }).format(d); } return iso; }
+  function fmtCountdown(s) { return String(Math.floor(s/60)).padStart(2,"0") + ":" + String(s%60).padStart(2,"0"); }
+  function sourceUrl(name) { return "source.html?source=" + encodeURIComponent(name); }
+  function renderSkeletons() { const grid = document.getElementById("grid"); grid.innerHTML = ""; SOURCES.forEach(src => { const card = document.createElement("div"); card.className = "source-card"; card.innerHTML = '<div class="card-header"><div class="card-title"><span class="card-dot" style="background:' + src.color + '"></span>' + src.name + '</div><span class="badge">–</span></div><ul class="card-items"><li class="skeleton"><div class="skel-line"></div><div class="skel-line short"></div></li><li class="skeleton"><div class="skel-line"></div><div class="skel-line short"></div></li><li class="skeleton"><div class="skel-line"></div><div class="skel-line short"></div></li></ul>'; grid.appendChild(card); }); }
+  function renderData(data) { const grid = document.getElementById("grid"); grid.innerHTML = ""; document.getElementById("last-updated").textContent = data.updated ? fmtTs(data.updated) : "onbekend"; SOURCES.forEach(src => { const items = (data.sources || {})[src.name] || []; const preview = items.slice(0, PREVIEW); const card = document.createElement("div"); card.className = "source-card"; const bc = items.length > 0 ? "badge has-items" : "badge"; const list = preview.length === 0 ? '<li class="empty-state">Geen nieuws gevonden</li>' : preview.map(it => '<li><a class="item-link" href="' + it.link + '" target="_blank" rel="noopener"><div class="item-title">' + it.title + '</div><div class="item-meta">' + fmt(it.published) + '</div></a></li>').join(""); const footer = items.length > 0 ? '<div class="card-footer"><a href="' + sourceUrl(src.name) + '">Alle ' + items.length + ' berichten →</a></div>' : ''; card.innerHTML = '<div class="card-header"><div class="card-title"><span class="card-dot" style="background:' + src.color + '"></span><a href="' + sourceUrl(src.name) + '">' + src.name + '</a></div><span class="' + bc + '">' + items.length + '</span></div><ul class="card-items">' + list + '</ul>' + footer; grid.appendChild(card); }); }
+  async function loadNews(manual) { const btn = document.getElementById("refresh-btn"); btn.disabled = true; if (manual) setStatus("Nieuws ophalen…", "loading"); try { const r = await fetch(JSON_PATH + "?t=" + Date.now()); if (!r.ok) throw new Error("HTTP " + r.status); renderData(await r.json()); setStatus("", ""); } catch(e) { setStatus("Fout bij laden: " + e.message, "error"); } finally { btn.disabled = false; resetCountdown(); } }
+  function resetCountdown() { countdownSec = REFRESH_MS / 1000; clearInterval(cdTimer); clearTimeout(arTimer); cdTimer = setInterval(() => { countdownSec = Math.max(0, countdownSec - 1); document.getElementById("countdown").textContent = fmtCountdown(countdownSec); }, 1000); arTimer = setTimeout(() => loadNews(false), REFRESH_MS); }
   renderSkeletons();
   loadNews(false);
 </script>

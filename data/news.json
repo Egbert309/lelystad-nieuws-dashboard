@@ -1,8 +1,14 @@
 {
-  "updated": "2026-04-30T16:11:07.460144+00:00",
+  "updated": "2026-04-30T18:00:59.427142+00:00",
   "sources": {
     "Radio Lelystad": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 30/04 | Te weinig maatregelen na bijna-botsing • NL-Alert ingetrokken",
+        "link": "https://www.omroepflevoland.nl/nieuws/469138/nieuwsoverzicht-30-04-te-weinig-maatregelen-na-bijna-botsing-nl-alert-ingetrokken",
+        "published": "Thu, 30 Apr 2026 19:50:40 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Onderzoeksraad kritisch: te weinig concrete maatregelen na bijna-botsing vliegtuigen boven Flevoland",
         "link": "https://www.omroepflevoland.nl/nieuws/469114/onderzoeksraad-kritisch-te-weinig-concrete-maatregelen-na-bijna-botsing-vliegtuigen-boven-flevoland",
@@ -19,12 +25,6 @@
         "title": "Lelystad - Rechtsgang Centrada biedt nog geen duidelijkheid over lot huurders na explosies Boswijk",
         "link": "https://www.omroepflevoland.nl/nieuws/469037/rechtsgang-centrada-biedt-nog-geen-duidelijkheid-over-lot-huurders-na-explosies-boswijk",
         "published": "Wed, 29 Apr 2026 21:03:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Zeewolde - Geen gevaarlijke stoffen in rook Veluwebrand die over Flevoland trok",
-        "link": "https://www.omroepflevoland.nl/nieuws/469047/geen-gevaarlijke-stoffen-in-rook-veluwebrand-die-over-flevoland-trok",
-        "published": "Wed, 29 Apr 2026 21:54:54 GMT+0200",
         "summary": ""
       }
     ],

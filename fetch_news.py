@@ -79,6 +79,10 @@ class _RadioLelystadParser(HTMLParser):
         self._depth += 1
         if tag == "a":
             href = ad.get("href", "")
+            # Maak relatieve URLs absoluut
+            if href.startswith("/"):
+                href = "https://radiolelystad.nl" + href
+            # Alleen artikellinks, niet de /nieuws/ pagina zelf
             if "radiolelystad.nl" in href and href.rstrip("/") != "https://radiolelystad.nl/nieuws":
                 self._cur.setdefault("link", href)
 
@@ -107,8 +111,8 @@ class _RadioLelystadParser(HTMLParser):
 def fetch_radiolelystad(max_items=MAX_ITEMS):
     try:
         req = urllib.request.Request(
-            "https://www.radiolelystad.nl/nieuws/",
-            headers={"User-Agent": "LelyNieuws/1.0"},
+            "https://radiolelystad.nl/nieuws/",
+            headers={"User-Agent": "Mozilla/5.0 (compatible; LelyNieuws/1.0)"},
         )
         with urllib.request.urlopen(req, timeout=15) as resp:
             html = resp.read().decode("utf-8", errors="replace")

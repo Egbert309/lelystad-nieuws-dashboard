@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lelystad Nieuws</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #0f1117; --surface: #1a1d27; --border: #2a2d3a;
+      --accent: #4f8ef7; --text: #e4e6f0; --muted: #7b7f99;
+      --red: #e05c5c; --radius: 10px;
+    }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+    header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 16px 24px; display: flex; align-items: center; gap: 16px; flex-wrap: wrap; position: sticky; top: 0; z-index: 10; }
+    .back-btn { background: none; border: 1px solid var(--border); color: var(--muted); border-radius: 6px; padding: 6px 14px; font-size: .82rem; cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; transition: border-color .15s, color .15s; }
+    .back-btn:hover { border-color: var(--accent); color: var(--accent); }
+    .header-info { flex: 1; }
+    .header-info h1 { font-size: 1.15rem; font-weight: 700; display: flex; align-items: center; gap: 8px; }
+    .header-info h1 .dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+    .header-meta { font-size: .78rem; color: var(--muted); margin-top: 3px; }
+
+    #status-bar { font-size: .8rem; padding: 7px 24px; background: #1c1f2e; border-bottom: 1px solid var(--border); display: none; }
+    #status-bar.error { color: var(--red); display: block; }
+
+    main { max-width: 760px; margin: 32px auto; padding: 0 24px; }
+
+    .article-list { list-style: none; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
+    .article-list li { border-bottom: 1px solid var(--border); }
+    .article-list li:last-child { border-bottom: none; }
+    .article-link { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; padding: 14px 20px; text-decoration: none; color: var(--text); transition: background .1s; }
+    .article-link:hover { background: #21253a; }
+    .article-title { font-size: .9rem; font-weight: 500; line-height: 1.45; flex: 1; }
+    .article-date { font-size: .76rem; color: var(--muted); white-space: nowrap; flex-shrink: 0; }
+
+    .empty { padding: 40px 20px; text-align: center; color: var(--muted); }
+    .count-label { font-size: .78rem; color: var(--muted); margin-bottom: 12px; }
+    @media (max-width: 600px) { main { padding: 0 14px; margin: 20px auto; } .article-link { flex-direction: column; gap: 4px; } }
+  </style>
+</head>
+<body>
+<header>
+  <a class="back-btn" href="index.html">&#8592; Dashboard</a>
+  <div class="header-info">
+    <h1><span class="dot" id="source-dot"></span><span id="source-name">Laden...</span></h1>
+    <div class="header-meta" id="source-meta"></div>
+  </div>
+</header>
+<div id="status-bar"></div>
+<main>
+  <div class="count-label" id="count-label"></div>
+  <ul class="article-list" id="list"></ul>
+</main>
+
+<script>
+  const SOURCE_COLORS = {
+    "Radio Lelystad":   "#e87f3a",
+    "Omroep Flevoland": "#4f8ef7",
+    "De Stentor":       "#3ecf8e",
+    "Nu.nl":            "#e05c5c",
+    "NOS":              "#c97bdb",
+  };
+  const MAX_ITEMS = 10;
+  const JSON_PATH = "data/news.json";
+
+  const params = new URLSearchParams(location.search);
+  const sourceName = params.get("source") || "";
+
+  document.getElementById("source-name").textContent = sourceName || "Onbekende bron";
+  document.title = (sourceName || "Bron") + " - Lelystad Nieuws";
+  const dot = document.getElementById("source-dot");
+  dot.style.background = SOURCE_COLORS[sourceName] || "#7b7f99";
+
+  function fmt(iso) {
+    if (!iso) return "";
+    const d = new Date(iso);
+    if (!isNaN(d)) {
+      return new Intl.DateTimeFormat("nl-NL", {
+        day: "numeric", month: "long", year: "numeric",
+        timeZone: "Europe/Amsterdam"
+      }).format(d);
+    }
+    return iso;
+  }
+
+  async function load() {
+    try {
+      const r = await fetch(JSON_PATH + "?t=" + Date.now());
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      const data = await r.json();
+
+      if (data.updated) {
+        const d = new Date(data.updated);
+        document.getElementById("source-meta").textContent =
+          "Bijgewerkt: " + new Intl.DateTimeFormat("nl-NL", {
+            day: "numeric", month: "short", hour: "2-digit", minute: "2-digit",
+            timeZone: "Europe/Amsterdam"
+          }).format(d);
+      }
+
+      const items = ((data.sources || {})[sourceName] || []).slice(0, MAX_ITEMS);
+      const list  = document.getElementById("list");
+      const label = document.getElementById("count-label");
+
+      if (items.length === 0) {
+        label.textContent = "";
+        list.innerHTML = '<li class="empty">Geen berichten gevonden voor deze bron.</li>';
+        return;
+      }
+
+      label.textContent = "Laatste " + items.length + " berichten";
+      list.innerHTML = items.map((it, i) =>
+        '<li>' +
+          '<a class="article-link" href="' + it.link + '" target="_blank" rel="noopener">' +
+            '<span class="article-title">' + (i + 1) + '. ' + it.title + '</span>' +
+            (it.published ? '<span class="article-date">' + fmt(it.published) + '</span>' : '') +
+          '</a>' +
+        '</li>'
+      ).join("");
+
+    } catch(e) {
+      const bar = document.getElementById("status-bar");
+      bar.textContent = "Fout bij laden: " + e.message;
+      bar.className = "error";
+    }
+  }
+
+  load();
+</script>
+</body>
+</html>

@@ -1,14 +1,6 @@
 {
-  "updated": "2026-05-01T22:37:45.222799+00:00",
+  "updated": "2026-05-01T23:39:27.037275+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Adviezen na bijna-botsing F-16 en lesvliegtuigje 'niet voldoende opgevolgd'",
-        "link": "https://nos.nl/l/2612482",
-        "published": "Thu, 30 Apr 2026 10:01:45 +0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
       {
         "title": "Zorg via het beeldscherm helpt ouderen, 'maar vervangt persoonlijk contact niet'",
@@ -167,6 +159,14 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Adviezen na bijna-botsing F-16 en lesvliegtuigje 'niet voldoende opgevolgd'",
+        "link": "https://nos.nl/l/2612482",
+        "published": "Thu, 30 Apr 2026 10:01:45 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Met bonkend hart door de Waterwijk: ‘Jachtseizoen in Lelystad draait om meer dan vangen’",
@@ -211,7 +211,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 01/04 | COA verkoopt boerderij Bant • Nieuwe aanpak blauwalg",
@@ -267,6 +266,7 @@
         "published": "Thu, 30 Apr 2026 15:58:16 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

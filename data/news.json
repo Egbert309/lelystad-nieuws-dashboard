@@ -1,6 +1,14 @@
 {
-  "updated": "2026-05-01T18:51:56.686452+00:00",
+  "updated": "2026-05-01T19:57:49.087039+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Adviezen na bijna-botsing F-16 en lesvliegtuigje 'niet voldoende opgevolgd'",
+        "link": "https://nos.nl/l/2612482",
+        "published": "Thu, 30 Apr 2026 10:01:45 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 01/04 | COA verkoopt boerderij Bant • Nieuwe aanpak blauwalg",
@@ -54,14 +62,6 @@
         "title": "Flevoland - Onderzoeksraad kritisch: te weinig concrete maatregelen na bijna-botsing vliegtuigen boven Flevoland",
         "link": "https://www.omroepflevoland.nl/nieuws/469114/onderzoeksraad-kritisch-te-weinig-concrete-maatregelen-na-bijna-botsing-vliegtuigen-boven-flevoland",
         "published": "Thu, 30 Apr 2026 15:58:16 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Adviezen na bijna-botsing F-16 en lesvliegtuigje 'niet voldoende opgevolgd'",
-        "link": "https://nos.nl/l/2612482",
-        "published": "Thu, 30 Apr 2026 10:01:45 +0200",
         "summary": ""
       }
     ],

@@ -195,8 +195,7 @@
         return;
       }
 
-      const total = allItems.length;
-      label.textContent = items.length + (total > MAX_ITEMS ? " van " + total : "") + " berichten (nieuwste eerst)";
+      label.textContent = "";
 
       list.innerHTML = items.map((it, i) =>
         '<li>' +

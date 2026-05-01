@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Lelystad Nieuws Dashboard - Feed Collector
+Lelystad Nieuws Dashboard – Feed Collector
 ------------------------------------------
 Bronnen:
-  - Radio Lelystad  (web scraper - geen RSS beschikbaar)
+  - Radio Lelystad  (web scraper – geen RSS beschikbaar)
   - Omroep Flevoland (RSS)
   - De Stentor      (RSS)
   - Nu.nl           (RSS)
@@ -15,8 +15,8 @@ import json
 import os
 import re
 import urllib.request
-from datetime import datetime, timezone
-from html.parser import HTMLParser
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from zoneinfo import ZoneInfo
 
 # ---------------------------------------------------------------------------
@@ -30,11 +30,51 @@ RSS_FEEDS = {
     "NOS":               "https://feeds.nos.nl/nosnieuwsalgemeen",
 }
 
-DATA_FILE = "data/news.json"
-MAX_ITEMS = 25
+DATA_FILE   = "data/news.json"
+MAX_ITEMS   = 25    # maximaal aantal output-items per bron
+FETCH_LIMIT = 100   # hoeveel feed-entries we scannen voor filtering
+DAYS_BACK   = 5     # terugkijkperiode voor NOS en nu.nl (in dagen)
 
 # ---------------------------------------------------------------------------
-# Filtering - Rechtbank-patroon
+# Datum-hulpfuncties
+# ---------------------------------------------------------------------------
+
+_DUTCH_MONTHS = {
+    "januari": 1, "februari": 2, "maart": 3, "april": 4,
+    "mei": 5, "juni": 6, "juli": 7, "augustus": 8,
+    "september": 9, "oktober": 10, "november": 11, "december": 12,
+}
+
+
+def parse_pub_date(s: str) -> datetime | None:
+    """Parset een publicatiedatum (RFC 2822, ISO 8601, of NL-string) naar datetime."""
+    if not s:
+        return None
+    # RFC 2822 (standaard RSS)
+    try:
+        return parsedate_to_datetime(s)
+    except Exception:
+        pass
+    # ISO 8601
+    try:
+        return datetime.fromisoformat(s)
+    except Exception:
+        pass
+    # Nederlandse datumstring: "donderdag 30 april 2026"
+    m = re.search(r"(\d{1,2})\s+(\w+)\s+(\d{4})", s.lower())
+    if m:
+        month = _DUTCH_MONTHS.get(m.group(2))
+        if month:
+            try:
+                return datetime(int(m.group(3)), month, int(m.group(1)), 12, 0, 0,
+                                tzinfo=timezone.utc)
+            except ValueError:
+                pass
+    return None
+
+
+# ---------------------------------------------------------------------------
+# Filtering – Rechtbank-patroon
 # ---------------------------------------------------------------------------
 
 _RECHTBANK_RE = re.compile(
@@ -46,7 +86,7 @@ _RECHTBANK_RE = re.compile(
 _HTML_TAGS_RE = re.compile(r"<[^>]+>")
 
 
-def is_lelystad_news(title, summary):
+def is_lelystad_news(title: str, summary: str) -> bool:
     combined = (title + " " + summary).lower()
     if "lelystad" not in combined:
         return False
@@ -55,78 +95,70 @@ def is_lelystad_news(title, summary):
 
 
 # ---------------------------------------------------------------------------
-# Radio Lelystad - scraper (geen RSS)
+# Radio Lelystad – scraper (geen RSS)
+#
+# Gebruikt regex in plaats van HTMLParser: de HTMLParser-aanpak telde depth
+# verkeerd voor void-elementen zoals <img> en <source>, die wel een starttag
+# hebben maar geen endtag. Daardoor bereikte _depth nooit 0 en werden items
+# nooit opgeslagen.
 # ---------------------------------------------------------------------------
 
-class _RadioLelystadParser(HTMLParser):
-    def __init__(self):
-        super().__init__()
-        self.items = []
-        self._in = False
-        self._depth = 0
-        self._cur = {}
-
-    def handle_starttag(self, tag, attrs):
-        ad = dict(attrs)
-        classes = ad.get("class", "")
-        if "el-item" in classes:
-            self._in = True
-            self._depth = 1
-            self._cur = {}
-            return
-        if not self._in:
-            return
-        self._depth += 1
-        if tag == "a":
-            href = ad.get("href", "")
-            # Maak relatieve URLs absoluut
-            if href.startswith("/"):
-                href = "https://radiolelystad.nl" + href
-            # Alleen artikellinks, niet de /nieuws/ pagina zelf
-            if "radiolelystad.nl" in href and href.rstrip("/") != "https://radiolelystad.nl/nieuws":
-                self._cur.setdefault("link", href)
-
-    def handle_endtag(self, tag):
-        if not self._in:
-            return
-        self._depth -= 1
-        if self._depth <= 0:
-            self._in = False
-            if self._cur.get("link") and self._cur.get("title"):
-                self.items.append(dict(self._cur))
-            self._cur = {}
-
-    def handle_data(self, data):
-        if not self._in:
-            return
-        t = data.strip()
-        if not t or t.lower() in ("lees verder", ""):
-            return
-        if not self._cur.get("date") and re.search(r"\b20\d{2}\b", t) and len(t) < 50:
-            self._cur["date"] = t
-        elif not self._cur.get("title") and len(t) > 8 and t[0].isupper():
-            self._cur["title"] = t
-
-
-def fetch_radiolelystad(max_items=MAX_ITEMS):
+def fetch_radiolelystad(max_items: int = MAX_ITEMS) -> list:
     try:
         req = urllib.request.Request(
-            "https://radiolelystad.nl/nieuws/",
-            headers={"User-Agent": "Mozilla/5.0 (compatible; LelyNieuws/1.0)"},
+            "https://www.radiolelystad.nl/nieuws/",
+            headers={"User-Agent": "Mozilla/5.0 (compatible; LelyNieuws/2.0)"},
         )
         with urllib.request.urlopen(req, timeout=15) as resp:
             html = resp.read().decode("utf-8", errors="replace")
-        parser = _RadioLelystadParser()
-        parser.feed(html)
+
+        # Splits de HTML op el-item blokken; elk blok bevat een nieuwsartikel.
+        blocks = re.split(r'class="[^"]*\bel-item\b[^"]*"', html)[1:]
+
         results = []
-        for item in parser.items[:max_items]:
+        for block in blocks:
+            # Link: eerste relatief pad in href
+            href_m = re.search(r'href="(/[^"]+)"', block)
+            if not href_m:
+                continue
+            href = "https://radiolelystad.nl" + href_m.group(1)
+            if href.rstrip("/") in (
+                "https://radiolelystad.nl/nieuws",
+                "https://radiolelystad.nl",
+            ):
+                continue
+
+            # Datum uit el-meta div
+            date_m = re.search(
+                r'class="[^"]*el-meta[^"]*"[^>]*>\s*([^<]{5,50}?)\s*<', block
+            )
+            date_str = date_m.group(1).strip() if date_m else ""
+
+            # Titel uit el-title element
+            title_m = re.search(
+                r'class="[^"]*el-title[^"]*"[^>]*>\s*([^<]{5,}?)\s*<', block
+            )
+            if not title_m:
+                continue
+            title = title_m.group(1).strip()
+
             results.append({
-                "title":     item["title"],
-                "link":      item["link"],
-                "published": item.get("date", ""),
+                "title":     title,
+                "link":      href,
+                "published": date_str,
                 "summary":   "",
             })
-        print(f"[OK] Radio Lelystad: {len(results)} item(s) (scraper)")
+            if len(results) >= max_items:
+                break
+
+        # Sorteer nieuwste eerst
+        _min_dt = datetime(2000, 1, 1, tzinfo=timezone.utc)
+        results.sort(
+            key=lambda x: parse_pub_date(x["published"]) or _min_dt,
+            reverse=True,
+        )
+
+        print(f"[v] Radio Lelystad: {len(results)} item(s) (scraper)")
         return results
     except Exception as exc:
         print(f"[!] Fout bij Radio Lelystad scraper: {exc}")
@@ -137,24 +169,53 @@ def fetch_radiolelystad(max_items=MAX_ITEMS):
 # RSS-feeds ophalen
 # ---------------------------------------------------------------------------
 
-def fetch_rss(source, url):
+def fetch_rss(source: str, url: str, days_back: int | None = None) -> list:
+    """Haalt RSS-feed op, filtert op Lelystad, sorteert op datum (nieuwste eerst).
+
+    Args:
+        source:    Naam van de bron (voor logging).
+        url:       RSS-feed URL.
+        days_back: Alleen items van de laatste N dagen opnemen (None = geen limiet).
+    """
     items = []
+    cutoff = (
+        datetime.now(timezone.utc) - timedelta(days=days_back)
+        if days_back is not None
+        else None
+    )
     try:
         feed = feedparser.parse(url, request_headers={"User-Agent": "LelyNieuws/1.0"})
-        for entry in feed.entries[:MAX_ITEMS]:
+        for entry in feed.entries[:FETCH_LIMIT]:
             title   = entry.get("title", "").strip()
             summary = _HTML_TAGS_RE.sub("", entry.get("summary", entry.get("description", ""))).strip()
             link    = entry.get("link", "").strip()
             pub     = entry.get("published", "")
+
             if not is_lelystad_news(title, summary):
                 continue
+
+            # Datumfilter (alleen van toepassing als days_back is opgegeven)
+            if cutoff is not None:
+                pub_dt = parse_pub_date(pub)
+                if pub_dt is not None and pub_dt < cutoff:
+                    continue
+
             items.append({
                 "title":     title,
                 "link":      link,
                 "published": pub,
                 "summary":   "",
             })
-        print(f"[OK] {source}: {len(items)} Lelystad-item(s)")
+
+        # Sorteer nieuwste eerst
+        _min_dt = datetime(2000, 1, 1, tzinfo=timezone.utc)
+        items.sort(
+            key=lambda x: parse_pub_date(x["published"]) or _min_dt,
+            reverse=True,
+        )
+
+        print(f"[v] {source}: {len(items)} Lelystad-item(s)"
+              + (f" (laatste {days_back} dagen)" if days_back else ""))
     except Exception as exc:
         print(f"[!] Fout bij {source}: {exc}")
     return items
@@ -164,11 +225,19 @@ def fetch_rss(source, url):
 # Alles ophalen
 # ---------------------------------------------------------------------------
 
-def fetch_all():
+def fetch_all() -> dict:
     results = {}
+
+    # Radio Lelystad via scraper (geen RSS)
     results["Radio Lelystad"] = fetch_radiolelystad()
+
+    # Overige bronnen via RSS
+    # NOS en Nu.nl: beperkt tot de laatste DAYS_BACK dagen
+    _date_filtered = {"NOS", "Nu.nl"}
     for source, url in RSS_FEEDS.items():
-        results[source] = fetch_rss(source, url)
+        days = DAYS_BACK if source in _date_filtered else None
+        results[source] = fetch_rss(source, url, days_back=days)
+
     return results
 
 
@@ -176,7 +245,7 @@ def fetch_all():
 # Opslaan
 # ---------------------------------------------------------------------------
 
-def save(data):
+def save(data: dict) -> None:
     os.makedirs("data", exist_ok=True)
     output = {
         "updated": datetime.now(timezone.utc).isoformat(),
@@ -184,14 +253,14 @@ def save(data):
     }
     with open(DATA_FILE, "w", encoding="utf-8") as fh:
         json.dump(output, fh, ensure_ascii=False, indent=2)
-    print(f"[OK] Opgeslagen: {DATA_FILE}")
+    print(f"[v] Opgeslagen: {DATA_FILE}")
 
 
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
-def main():
+def main() -> None:
     ams = ZoneInfo("Europe/Amsterdam")
     print(f"\n=== Lelystad Nieuws Collector | {datetime.now(ams).strftime('%Y-%m-%d %H:%M')} ===\n")
     data = fetch_all()

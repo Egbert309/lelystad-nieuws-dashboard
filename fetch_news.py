@@ -27,13 +27,19 @@ RSS_FEEDS = {
     "Omroep Flevoland": "https://www.omroepflevoland.nl/RSS",
     "De Stentor":        "https://www.destentor.nl/lelystad/rss.xml",
     "Nu.nl":             "https://www.nu.nl/rss/Algemeen",
-    "NOS":               "https://feeds.nos.nl/nosnieuwsalgemeen",
 }
 
+# NOS heeft meerdere feeds (elk ~20 items); samen geven ze meer dekking.
+NOS_FEEDS = [
+    "https://feeds.nos.nl/nosnieuwsalgemeen",
+    "https://feeds.nos.nl/nosnieuwsbinnenland",
+    "https://feeds.nos.nl/nosnieuwsvideo",
+]
+
 DATA_FILE   = "data/news.json"
-MAX_ITEMS   = 25    # maximaal aantal output-items per bron
-FETCH_LIMIT = 100   # hoeveel feed-entries we scannen voor filtering
-DAYS_BACK   = 5     # terugkijkperiode voor NOS en nu.nl (in dagen)
+MAX_ITEMS   = 50    # maximaal aantal bewaarde items per bron (rolling window)
+FETCH_LIMIT = 100   # hoeveel feed-entries we scannen vóór filtering
+DAYS_BACK   = 5     # rolling window voor NOS en Nu.nl (in dagen)
 
 # ---------------------------------------------------------------------------
 # Datum-hulpfuncties
@@ -72,9 +78,12 @@ def parse_pub_date(s: str) -> datetime | None:
                 pass
     return None
 
-
 # ---------------------------------------------------------------------------
 # Filtering – Rechtbank-patroon
+#
+# Artikelen die Lelystad ALLEEN noemen als zittingsplaats van de rechtbank
+# worden uitgefilterd. We strippen alle "Rechtbank Lelystad"-constructies
+# en kijken of 'lelystad' dan nog overblijft.
 # ---------------------------------------------------------------------------
 
 _RECHTBANK_RE = re.compile(
@@ -112,7 +121,7 @@ def fetch_radiolelystad(max_items: int = MAX_ITEMS) -> list:
         with urllib.request.urlopen(req, timeout=15) as resp:
             html = resp.read().decode("utf-8", errors="replace")
 
-        # Splits de HTML op el-item blokken; elk blok bevat een nieuwsartikel.
+        # Splits de HTML op el-item blokken; elk blok bevat één nieuwsartikel.
         blocks = re.split(r'class="[^"]*\bel-item\b[^"]*"', html)[1:]
 
         results = []
@@ -151,14 +160,14 @@ def fetch_radiolelystad(max_items: int = MAX_ITEMS) -> list:
             if len(results) >= max_items:
                 break
 
-        # Sorteer nieuwste eerst
+        # Sorteer nieuwste eerst op basis van de Nederlandse datumstring
         _min_dt = datetime(2000, 1, 1, tzinfo=timezone.utc)
         results.sort(
             key=lambda x: parse_pub_date(x["published"]) or _min_dt,
             reverse=True,
         )
 
-        print(f"[v] Radio Lelystad: {len(results)} item(s) (scraper)")
+        print(f"[✓] Radio Lelystad: {len(results)} item(s) (scraper)")
         return results
     except Exception as exc:
         print(f"[!] Fout bij Radio Lelystad scraper: {exc}")
@@ -198,7 +207,7 @@ def fetch_rss(source: str, url: str, days_back: int | None = None) -> list:
             if cutoff is not None:
                 pub_dt = parse_pub_date(pub)
                 if pub_dt is not None and pub_dt < cutoff:
-                    continue
+                    continue   # te oud, overslaan
 
             items.append({
                 "title":     title,
@@ -214,7 +223,7 @@ def fetch_rss(source: str, url: str, days_back: int | None = None) -> list:
             reverse=True,
         )
 
-        print(f"[v] {source}: {len(items)} Lelystad-item(s)"
+        print(f"[✓] {source}: {len(items)} Lelystad-item(s)"
               + (f" (laatste {days_back} dagen)" if days_back else ""))
     except Exception as exc:
         print(f"[!] Fout bij {source}: {exc}")
@@ -225,35 +234,118 @@ def fetch_rss(source: str, url: str, days_back: int | None = None) -> list:
 # Alles ophalen
 # ---------------------------------------------------------------------------
 
+def fetch_nos(days_back: int) -> list:
+    """Haalt alle NOS-feeds op, combineert en dedupliceert op link."""
+    all_items: list = []
+    for url in NOS_FEEDS:
+        all_items.extend(fetch_rss("NOS", url, days_back=days_back))
+
+    # Dedupliceer op link (eerste keer gezien wint)
+    seen: dict = {}
+    for item in all_items:
+        link = item.get("link", "")
+        if link and link not in seen:
+            seen[link] = item
+
+    combined = list(seen.values())
+    _min_dt = datetime(2000, 1, 1, tzinfo=timezone.utc)
+    combined.sort(
+        key=lambda x: parse_pub_date(x.get("published", "")) or _min_dt,
+        reverse=True,
+    )
+    print(f"[✓] NOS totaal (alle feeds gecombineerd): {len(combined)} Lelystad-item(s)")
+    return combined
+
+
 def fetch_all() -> dict:
     results = {}
 
     # Radio Lelystad via scraper (geen RSS)
     results["Radio Lelystad"] = fetch_radiolelystad()
 
-    # Overige bronnen via RSS
-    # NOS en Nu.nl: beperkt tot de laatste DAYS_BACK dagen
-    _date_filtered = {"NOS", "Nu.nl"}
+    # Overige bronnen via RSS; Nu.nl: beperkt tot de laatste DAYS_BACK dagen
     for source, url in RSS_FEEDS.items():
-        days = DAYS_BACK if source in _date_filtered else None
+        days = DAYS_BACK if source == "Nu.nl" else None
         results[source] = fetch_rss(source, url, days_back=days)
+
+    # NOS: meerdere feeds samenvoegen, beperkt tot DAYS_BACK dagen
+    results["NOS"] = fetch_nos(days_back=DAYS_BACK)
 
     return results
 
 
 # ---------------------------------------------------------------------------
-# Opslaan
+# Mergen en opslaan  (rolling window)
+#
+# Elke run voegt nieuwe items toe aan de bestaande data zodat een rolling
+# window van DAYS_BACK dagen wordt opgebouwd.  Items ouder dan DAYS_BACK
+# dagen worden verwijderd voor NOS en Nu.nl; andere bronnen bewaren hun
+# items totdat ze worden overschreven door een nieuwe run.
 # ---------------------------------------------------------------------------
+
+_DATE_FILTERED_SOURCES = {"NOS", "Nu.nl"}
+
+
+def load_existing() -> dict:
+    """Leest bestaand news.json; geeft lege dict terug als het niet bestaat."""
+    try:
+        with open(DATA_FILE, "r", encoding="utf-8") as fh:
+            return json.load(fh).get("sources", {})
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def merge_and_prune(existing: dict, fresh: dict) -> dict:
+    """Voegt fresh samen met existing, dedupliceert op link en snoeit oud nieuws."""
+    cutoff = datetime.now(timezone.utc) - timedelta(days=DAYS_BACK)
+    _min_dt = datetime(2000, 1, 1, tzinfo=timezone.utc)
+    merged: dict = {}
+
+    for source in set(existing) | set(fresh):
+        # Nieuwe items hebben prioriteit; dan pas de oude
+        combined_raw = fresh.get(source, []) + existing.get(source, [])
+
+        # Dedupliceer op link
+        seen: dict = {}
+        for item in combined_raw:
+            link = item.get("link", "")
+            if link and link not in seen:
+                seen[link] = item
+
+        items = list(seen.values())
+
+        # Tijdsfilter: voor NOS en Nu.nl items ouder dan DAYS_BACK weggooien
+        if source in _DATE_FILTERED_SOURCES:
+            def keep(it: dict) -> bool:
+                pub_dt = parse_pub_date(it.get("published", ""))
+                return pub_dt is None or pub_dt >= cutoff
+            items = [it for it in items if keep(it)]
+
+        # Sorteer nieuwste eerst, begrens op MAX_ITEMS
+        items.sort(
+            key=lambda x: parse_pub_date(x.get("published", "")) or _min_dt,
+            reverse=True,
+        )
+        merged[source] = items[:MAX_ITEMS]
+
+    return merged
+
 
 def save(data: dict) -> None:
     os.makedirs("data", exist_ok=True)
+    existing = load_existing()
+    merged   = merge_and_prune(existing, data)
+
     output = {
         "updated": datetime.now(timezone.utc).isoformat(),
-        "sources": data,
+        "sources": merged,
     }
     with open(DATA_FILE, "w", encoding="utf-8") as fh:
         json.dump(output, fh, ensure_ascii=False, indent=2)
-    print(f"[v] Opgeslagen: {DATA_FILE}")
+
+    for src, items in merged.items():
+        print(f"  → {src}: {len(items)} item(s) na merge")
+    print(f"[✓] Opgeslagen: {DATA_FILE}")
 
 
 # ---------------------------------------------------------------------------

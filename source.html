@@ -4,39 +4,115 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Lelystad Nieuws</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     :root {
-      --bg: #0f1117; --surface: #1a1d27; --border: #2a2d3a;
-      --accent: #4f8ef7; --text: #e4e6f0; --muted: #7b7f99;
-      --red: #e05c5c; --radius: 10px;
+      --bg: #e4f1fd;
+      --surface: #ffffff;
+      --border: #c5daf0;
+      --accent: #00a5e3;
+      --accent-dark: #0082b8;
+      --navy: #0a034e;
+      --text: #0a034e;
+      --muted: #5a6a8a;
+      --red: #d0393b;
+      --radius: 8px;
     }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+    body { font-family: "Roboto", sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
 
-    header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 16px 24px; display: flex; align-items: center; gap: 16px; flex-wrap: wrap; position: sticky; top: 0; z-index: 10; }
-    .back-btn { background: none; border: 1px solid var(--border); color: var(--muted); border-radius: 6px; padding: 6px 14px; font-size: .82rem; cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; gap: 6px; transition: border-color .15s, color .15s; }
-    .back-btn:hover { border-color: var(--accent); color: var(--accent); }
+    header {
+      background: var(--navy);
+      border-bottom: 3px solid var(--accent);
+      padding: 14px 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      box-shadow: 0 2px 8px rgba(10,3,78,.25);
+    }
+    .back-btn {
+      background: rgba(255,255,255,.1);
+      border: 1px solid rgba(255,255,255,.25);
+      color: rgba(255,255,255,.85);
+      border-radius: 5px;
+      padding: 6px 14px;
+      font-size: .82rem;
+      font-weight: 500;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: background .15s, border-color .15s;
+      font-family: inherit;
+      white-space: nowrap;
+    }
+    .back-btn:hover { background: rgba(255,255,255,.18); border-color: var(--accent); }
+
     .header-info { flex: 1; }
-    .header-info h1 { font-size: 1.15rem; font-weight: 700; display: flex; align-items: center; gap: 8px; }
-    .header-info h1 .dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
-    .header-meta { font-size: .78rem; color: var(--muted); margin-top: 3px; }
+    .header-info h1 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+    .header-meta { font-size: .75rem; color: rgba(255,255,255,.6); margin-top: 3px; }
 
-    #status-bar { font-size: .8rem; padding: 7px 24px; background: #1c1f2e; border-bottom: 1px solid var(--border); display: none; }
-    #status-bar.error { color: var(--red); display: block; }
+    #status-bar { font-size: .8rem; padding: 7px 24px; background: #f0f7fe; border-bottom: 1px solid var(--border); color: var(--muted); display: none; }
+    #status-bar.error { color: var(--red); display: block; background: #fdf0f0; border-bottom-color: #f5c6c6; }
 
-    main { max-width: 760px; margin: 32px auto; padding: 0 24px; }
+    main { max-width: 820px; margin: 28px auto; padding: 0 24px; }
 
-    .article-list { list-style: none; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
-    .article-list li { border-bottom: 1px solid var(--border); }
+    .count-label {
+      font-size: .78rem;
+      color: var(--muted);
+      margin-bottom: 10px;
+      font-weight: 500;
+    }
+
+    .article-list {
+      list-style: none;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: 0 1px 4px rgba(10,3,78,.07);
+    }
+    .article-list li { border-bottom: 1px solid #eaf2fb; }
     .article-list li:last-child { border-bottom: none; }
-    .article-link { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; padding: 14px 20px; text-decoration: none; color: var(--text); transition: background .1s; }
-    .article-link:hover { background: #21253a; }
-    .article-title { font-size: .9rem; font-weight: 500; line-height: 1.45; flex: 1; }
-    .article-date { font-size: .76rem; color: var(--muted); white-space: nowrap; flex-shrink: 0; }
 
-    .empty { padding: 40px 20px; text-align: center; color: var(--muted); }
-    .count-label { font-size: .78rem; color: var(--muted); margin-bottom: 12px; }
-    @media (max-width: 600px) { main { padding: 0 14px; margin: 20px auto; } .article-link { flex-direction: column; gap: 4px; } }
+    .article-link {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 20px;
+      padding: 12px 18px;
+      text-decoration: none;
+      color: var(--text);
+      transition: background .1s;
+    }
+    .article-link:hover { background: #f0f7fe; }
+
+    .article-num { font-size: .78rem; color: var(--muted); flex-shrink: 0; min-width: 22px; }
+    .article-title { font-size: .875rem; font-weight: 500; line-height: 1.45; color: var(--navy); flex: 1; }
+    .article-date { font-size: .74rem; color: var(--muted); white-space: nowrap; flex-shrink: 0; }
+
+    .empty { padding: 40px 20px; text-align: center; color: var(--muted); font-size: .85rem; }
+
+    @media (max-width: 600px) {
+      main { padding: 0 14px; margin: 18px auto; }
+      .article-link { flex-wrap: wrap; gap: 4px; }
+      .article-date { flex-basis: 100%; padding-left: 26px; }
+    }
   </style>
 </head>
 <body>
@@ -55,15 +131,16 @@
 
 <script>
   const SOURCE_COLORS = {
-    "Radio Lelystad":   "#e87f3a",
-    "Omroep Flevoland": "#4f8ef7",
-    "De Stentor":       "#3ecf8e",
-    "Nu.nl":            "#e05c5c",
-    "NOS":              "#c97bdb",
+    "Radio Lelystad":   "#d4600a",
+    "Omroep Flevoland": "#00a5e3",
+    "De Stentor":       "#1a8a5a",
+    "Nu.nl":            "#c0292b",
+    "NOS":              "#7b35a8",
   };
-  const JSON_PATH = "data/news.json";
+  const JSON_PATH  = "data/news.json";
+  const MAX_ITEMS  = 20;
 
-  const params = new URLSearchParams(location.search);
+  const params     = new URLSearchParams(location.search);
   const sourceName = params.get("source") || "";
 
   document.getElementById("source-name").textContent = sourceName || "Onbekende bron";
@@ -83,6 +160,18 @@
     return iso;
   }
 
+  function fmtTs(iso) {
+    if (!iso) return "–";
+    const d = new Date(iso);
+    if (!isNaN(d)) {
+      return new Intl.DateTimeFormat("nl-NL", {
+        day: "numeric", month: "short", hour: "2-digit", minute: "2-digit",
+        timeZone: "Europe/Amsterdam"
+      }).format(d);
+    }
+    return iso;
+  }
+
   async function load() {
     try {
       const r = await fetch(JSON_PATH + "?t=" + Date.now());
@@ -90,15 +179,13 @@
       const data = await r.json();
 
       if (data.updated) {
-        const d = new Date(data.updated);
         document.getElementById("source-meta").textContent =
-          "Bijgewerkt: " + new Intl.DateTimeFormat("nl-NL", {
-            day: "numeric", month: "short", hour: "2-digit", minute: "2-digit",
-            timeZone: "Europe/Amsterdam"
-          }).format(d);
+          "Bijgewerkt: " + fmtTs(data.updated);
       }
 
-      const items = (data.sources || {})[sourceName] || [];
+      const allItems = (data.sources || {})[sourceName] || [];
+      const items    = allItems.slice(0, MAX_ITEMS);
+
       const list  = document.getElementById("list");
       const label = document.getElementById("count-label");
 
@@ -108,11 +195,14 @@
         return;
       }
 
-      label.textContent = items.length + " berichten";
+      const total = allItems.length;
+      label.textContent = items.length + (total > MAX_ITEMS ? " van " + total : "") + " berichten (nieuwste eerst)";
+
       list.innerHTML = items.map((it, i) =>
         '<li>' +
           '<a class="article-link" href="' + it.link + '" target="_blank" rel="noopener">' +
-            '<span class="article-title">' + (i + 1) + '. ' + it.title + '</span>' +
+            '<span class="article-num">' + (i + 1) + '.</span>' +
+            '<span class="article-title">' + it.title + '</span>' +
             '<span class="article-date">' + fmt(it.published) + '</span>' +
           '</a>' +
         '</li>'

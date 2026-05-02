@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-02T21:28:03.093827+00:00",
+  "updated": "2026-05-02T22:26:56.841583+00:00",
   "sources": {
-    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Adviezen na bijna-botsing F-16 en lesvliegtuigje 'niet voldoende opgevolgd'",
+        "link": "https://nos.nl/l/2612482",
+        "published": "Thu, 30 Apr 2026 10:01:45 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Brandweer Flevoland: voorbereid, maar afhankelijk van alert gedrag inwoners",
@@ -123,14 +130,6 @@
         "title": "Rechtszaak over 1587 kilo cocaïne in loods Lelystad uitgesteld: tolk ontbreekt",
         "link": "https://www.destentor.nl/lelystad/rechtszaak-over-1587-kilo-cocaine-in-loods-lelystad-uitgesteld-tolk-ontbreekt~ac92ab9f/",
         "published": "Tue, 28 Apr 2026 17:00:42 GMT",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Adviezen na bijna-botsing F-16 en lesvliegtuigje 'niet voldoende opgevolgd'",
-        "link": "https://nos.nl/l/2612482",
-        "published": "Thu, 30 Apr 2026 10:01:45 +0200",
         "summary": ""
       }
     ],
@@ -291,6 +290,7 @@
         "published": "dinsdag 21 april 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

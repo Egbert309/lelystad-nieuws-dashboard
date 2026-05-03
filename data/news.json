@@ -1,6 +1,7 @@
 {
-  "updated": "2026-05-03T20:28:49.799923+00:00",
+  "updated": "2026-05-03T21:30:09.941626+00:00",
   "sources": {
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Zorg via het beeldscherm helpt ouderen, 'maar vervangt persoonlijk contact niet'",
@@ -209,7 +210,14 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Adviezen na bijna-botsing F-16 en lesvliegtuigje 'niet voldoende opgevolgd'",
+        "link": "https://nos.nl/l/2612482",
+        "published": "Thu, 30 Apr 2026 10:01:45 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Lelystadse zanger Luca Ferron blijft vooruitkijken: 'Iedereen moet met een lach naar huis'",
@@ -299,14 +307,6 @@
         "title": "Flevoland - Onderzoeksraad kritisch: te weinig concrete maatregelen na bijna-botsing vliegtuigen boven Flevoland",
         "link": "https://www.omroepflevoland.nl/nieuws/469114/onderzoeksraad-kritisch-te-weinig-concrete-maatregelen-na-bijna-botsing-vliegtuigen-boven-flevoland",
         "published": "Thu, 30 Apr 2026 15:58:16 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Adviezen na bijna-botsing F-16 en lesvliegtuigje 'niet voldoende opgevolgd'",
-        "link": "https://nos.nl/l/2612482",
-        "published": "Thu, 30 Apr 2026 10:01:45 +0200",
         "summary": ""
       }
     ]

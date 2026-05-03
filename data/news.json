@@ -1,6 +1,7 @@
 {
-  "updated": "2026-05-03T16:33:48.883538+00:00",
+  "updated": "2026-05-03T17:36:07.690406+00:00",
   "sources": {
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Zorg via het beeldscherm helpt ouderen, 'maar vervangt persoonlijk contact niet'",
@@ -159,7 +160,14 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Adviezen na bijna-botsing F-16 en lesvliegtuigje 'niet voldoende opgevolgd'",
+        "link": "https://nos.nl/l/2612482",
+        "published": "Thu, 30 Apr 2026 10:01:45 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Stef vroeg direct subsidie aan voor thuisbatterij, maar wacht al maanden op antwoord",
@@ -207,14 +215,6 @@
         "title": "Rechtszaak over 1587 kilo cocaïne in loods Lelystad uitgesteld: tolk ontbreekt",
         "link": "https://www.destentor.nl/lelystad/rechtszaak-over-1587-kilo-cocaine-in-loods-lelystad-uitgesteld-tolk-ontbreekt~ac92ab9f/",
         "published": "Tue, 28 Apr 2026 17:00:42 GMT",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Adviezen na bijna-botsing F-16 en lesvliegtuigje 'niet voldoende opgevolgd'",
-        "link": "https://nos.nl/l/2612482",
-        "published": "Thu, 30 Apr 2026 10:01:45 +0200",
         "summary": ""
       }
     ],

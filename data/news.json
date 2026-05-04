@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T08:10:38.475724+00:00",
+  "updated": "2026-05-04T10:51:39.161754+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -93,7 +93,28 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Adviezen na bijna-botsing F-16 en lesvliegtuigje 'niet voldoende opgevolgd'",
+        "link": "https://nos.nl/l/2612482",
+        "published": "Thu, 30 Apr 2026 10:01:45 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
+      {
+        "title": "Dodenherdenking in Stadspark vanavond live te volgen bij Radio Lelystad",
+        "link": "https://radiolelystad.nl/dodenherdenking-in-stadspark-vanavond-live-te-volgen-bij-radio-lelystad",
+        "published": "maandag 04 mei 2026",
+        "summary": ""
+      },
+      {
+        "title": "Procedure milieuvergunning compostbedrijf Orgaworld moet over",
+        "link": "https://radiolelystad.nl/procedure-milieuvergunning-compostbedrijf-orgaworld-moet-over",
+        "published": "maandag 04 mei 2026",
+        "summary": ""
+      },
       {
         "title": "Zorg via het beeldscherm helpt ouderen, 'maar vervangt persoonlijk contact niet'",
         "link": "https://radiolelystad.nl/zorg-via-het-beeldscherm-helpt-ouderen-maar-kan-persoonlijk-contact-niet-vervangen",
@@ -251,16 +272,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "Adviezen na bijna-botsing F-16 en lesvliegtuigje 'niet voldoende opgevolgd'",
-        "link": "https://nos.nl/l/2612482",
-        "published": "Thu, 30 Apr 2026 10:01:45 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
+      {
+        "title": "Parenclub moet weg en dat leidt tot kritiek: ‘Het gonst in de stad’",
+        "link": "https://www.destentor.nl/lelystad/parenclub-moet-weg-en-dat-leidt-tot-kritiek-het-gonst-in-de-stad~a77c2613/",
+        "published": "Mon, 04 May 2026 09:00:25 GMT",
+        "summary": ""
+      },
       {
         "title": "Stef vroeg direct subsidie aan voor thuisbatterij, maar wacht al maanden op antwoord",
         "link": "https://www.destentor.nl/lelystad/stef-vroeg-direct-subsidie-aan-voor-thuisbatterij-maar-wacht-al-maanden-op-antwoord~a9adfd12/",

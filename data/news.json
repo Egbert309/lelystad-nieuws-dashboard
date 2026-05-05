@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T01:23:18.540321+00:00",
+  "updated": "2026-05-05T04:49:59.446387+00:00",
   "sources": {
     "Nu.nl": [],
     "Radio Lelystad": [
@@ -294,6 +294,14 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Adviezen na bijna-botsing F-16 en lesvliegtuigje 'niet voldoende opgevolgd'",
+        "link": "https://nos.nl/l/2612482",
+        "published": "Thu, 30 Apr 2026 10:01:45 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Flevolands Kunstfestival moet 5000 euro ophalen in twee weken: ‘Zonder crowdfunding redden we het gewoon niet’",
@@ -359,14 +367,6 @@
         "title": "Rechtszaak over 1587 kilo cocaïne in loods Lelystad uitgesteld: tolk ontbreekt",
         "link": "https://www.destentor.nl/lelystad/rechtszaak-over-1587-kilo-cocaine-in-loods-lelystad-uitgesteld-tolk-ontbreekt~ac92ab9f/",
         "published": "Tue, 28 Apr 2026 17:00:42 GMT",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Adviezen na bijna-botsing F-16 en lesvliegtuigje 'niet voldoende opgevolgd'",
-        "link": "https://nos.nl/l/2612482",
-        "published": "Thu, 30 Apr 2026 10:01:45 +0200",
         "summary": ""
       }
     ]

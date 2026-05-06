@@ -1,7 +1,27 @@
 {
-  "updated": "2026-05-06T15:17:20.050674+00:00",
+  "updated": "2026-05-06T17:18:28.155099+00:00",
   "sources": {
+    "NOS": [],
+    "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Vier partijen in Lelystad slaan eigen weg in: 'We laten zien welke keuzes wij maken'",
+        "link": "https://www.destentor.nl/lelystad/vier-partijen-in-lelystad-slaan-eigen-weg-in-we-laten-zien-welke-keuzes-wij-maken~ac762ce7/",
+        "published": "Wed, 06 May 2026 17:00:41 GMT",
+        "summary": ""
+      },
+      {
+        "title": "T. zit opgesloten en sticht brand in parkeergarage: ‘Toen kwam politie wél’",
+        "link": "https://www.destentor.nl/lelystad/t-zit-opgesloten-en-sticht-brand-in-parkeergarage-toen-kwam-politie-wel~ab867632/",
+        "published": "Wed, 06 May 2026 16:00:58 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Wereldtrekvogeldag in Nationaal Park Nieuw Land met excursies en activiteiten",
+        "link": "https://www.destentor.nl/almere/wereldtrekvogeldag-in-nationaal-park-nieuw-land-met-excursies-en-activiteiten~aae233ae/",
+        "published": "Wed, 06 May 2026 15:25:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Afgelopen week 58 meldingen van de gemeente over sloop, bomenkap en verkeer in Lelystad",
         "link": "https://www.destentor.nl/lelystad/afgelopen-week-58-meldingen-van-de-gemeente-over-sloop-bomenkap-en-verkeer-in-lelystad~a01445b6/",
@@ -94,6 +114,24 @@
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 06/05 | Vijf straatroven in zeven uur • Vrouw uit Biddinghuizen overleden na ongeluk",
+        "link": "https://www.omroepflevoland.nl/nieuws/469832/nieuwsoverzicht-0605-or-vijf-straatroven-in-zeven-uur-*-vrouw-uit-biddinghuizen-overleden-na-ongeluk",
+        "published": "Wed, 06 May 2026 18:16:21 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Sunsation-oprichter Thom Ummels (75) overleden",
+        "link": "https://www.omroepflevoland.nl/nieuws/469854/sunsation-oprichter-thom-ummels-(75)-overleden",
+        "published": "Wed, 06 May 2026 17:21:49 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Treinverkeer tussen Weesp en Almere weer op gang na onderzoek WO-II-bom",
+        "link": "https://www.omroepflevoland.nl/nieuws/469855/treinverkeer-tussen-weesp-en-almere-weer-op-gang-na-onderzoek-wo-ii-bom",
+        "published": "Wed, 06 May 2026 16:45:55 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Geen treinen tussen Weesp en Almere door onschadelijk maken WO-II-bom",
         "link": "https://www.omroepflevoland.nl/nieuws/469855/geen-treinen-tussen-weesp-en-almere-door-onschadelijk-maken-wo-ii-bom",
@@ -263,7 +301,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Partijen buiten het raadsakkoord presenteren alternatief  ‘hoofdlijnenakkoord’",
@@ -481,7 +518,6 @@
         "published": "dinsdag 21 april 2026",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

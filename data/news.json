@@ -1,146 +1,6 @@
 {
-  "updated": "2026-05-06T08:00:23.030242+00:00",
+  "updated": "2026-05-06T10:52:56.775696+00:00",
   "sources": {
-    "Omroep Flevoland": [
-      {
-        "title": "Lelystad - Vier Lelystadse partijen komen met alternatief coalitieakkoord",
-        "link": "https://www.omroepflevoland.nl/nieuws/469588/vier-lelystadse-partijen-komen-met-alternatief-coalitieakkoord",
-        "published": "Wed, 06 May 2026 05:07:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Hengelsportvereniging stimuleert loodvrij vissen: 'Zou fijn zijn als ook de commercie het oppakt'",
-        "link": "https://www.omroepflevoland.nl/nieuws/469740/hengelsportvereniging-stimuleert-loodvrij-vissen:-'zou-fijn-zijn-als-ook-de-commercie-het-oppakt'",
-        "published": "Wed, 06 May 2026 04:14:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Derde editie Bevrijdingsfeest Lelystad uitgebreid met grote markt",
-        "link": "https://www.omroepflevoland.nl/nieuws/469744/derde-editie-bevrijdingsfeest-lelystad-uitgebreid-met-grote-markt",
-        "published": "Tue, 05 May 2026 19:46:27 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Amsterdammer krijgt 3,5 jaar cel voor rol bij overval op juwelier in Batavia Stad",
-        "link": "https://www.omroepflevoland.nl/nieuws/469700/amsterdammer-krijgt-35-jaar-cel-voor-rol-bij-overval-op-juwelier-in-batavia-stad",
-        "published": "Tue, 05 May 2026 10:50:27 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - 'Oogjes op half zeven': hardlopers brengen vrijheidsvuur 's nachts van Wageningen naar Flevoland",
-        "link": "https://www.omroepflevoland.nl/nieuws/469689/'oogjes-op-half-zeven':-hardlopers-brengen-vrijheidsvuur-'s-nachts-van-wageningen-naar-flevoland",
-        "published": "Tue, 05 May 2026 05:14:03 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 04/05 | Celstraf voor verkrachting meisje • Automobilist omgekomen bij ongeval",
-        "link": "https://www.omroepflevoland.nl/nieuws/469641/nieuwsoverzicht-0405-or-celstraf-voor-verkrachting-meisje-*-automobilist-omgekomen-bij-ongeval",
-        "published": "Mon, 04 May 2026 18:51:07 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Automobilist overleden bij aanrijding op Larserringweg in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/469627/automobilist-overleden-bij-aanrijding-op-larserringweg-in-lelystad",
-        "published": "Mon, 04 May 2026 13:13:25 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Waar kun je op 4 mei herdenken in Flevoland?",
-        "link": "https://www.omroepflevoland.nl/nieuws/469593/waar-kun-je-op-4-mei-herdenken-in-flevoland",
-        "published": "Mon, 04 May 2026 08:10:10 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Lelystadse zanger Luca Ferron blijft vooruitkijken: 'Iedereen moet met een lach naar huis'",
-        "link": "https://www.omroepflevoland.nl/nieuws/469281/lelystadse-zanger-luca-ferron-blijft-vooruitkijken:-'iedereen-moet-met-een-lach-naar-huis'",
-        "published": "Sun, 03 May 2026 12:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Brandweer voorbereid op natuurbranden, maar afhankelijk van alert gedrag inwoners",
-        "link": "https://www.omroepflevoland.nl/nieuws/469351/brandweer-voorbereid-op-natuurbranden-maar-afhankelijk-van-alert-gedrag-inwoners",
-        "published": "Sat, 02 May 2026 14:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Brandweer Flevoland: voorbereid, maar afhankelijk van alert gedrag inwoners",
-        "link": "https://www.omroepflevoland.nl/nieuws/469351/brandweer-flevoland:-voorbereid-maar-afhankelijk-van-alert-gedrag-inwoners",
-        "published": "Sat, 02 May 2026 14:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Flevoland paraat voor natuurbranden: 'Maar risico blijft aanwezig'",
-        "link": "https://www.omroepflevoland.nl/nieuws/469351/flevoland-paraat-voor-natuurbranden:-'maar-risico-blijft-aanwezig'",
-        "published": "Sat, 02 May 2026 14:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Huttenbouwweek in Lelystad keert terug na jaren afwezigheid",
-        "link": "https://www.omroepflevoland.nl/nieuws/469357/huttenbouwweek-in-lelystad-keert-terug-na-jaren-afwezigheid",
-        "published": "Sat, 02 May 2026 09:53:09 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Vergunning compostbedrijf Orgaworld ongeldig: nieuwe regels nodig",
-        "link": "https://www.omroepflevoland.nl/nieuws/469276/vergunning-compostbedrijf-orgaworld-ongeldig:-nieuwe-regels-nodig",
-        "published": "Sat, 02 May 2026 08:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 01/04 | COA verkoopt boerderij Bant • Nieuwe aanpak blauwalg",
-        "link": "https://www.omroepflevoland.nl/nieuws/469251/nieuwsoverzicht-01-04-coa-verkoopt-boerderij-bant-nieuwe-aanpak-blauwalg",
-        "published": "Fri, 01 May 2026 18:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Buitenzwemseizoen start spetterend met nieuw spraypark in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/469226/buitenzwemseizoen-start-spetterend-met-nieuw-spraypark-in-lelystad",
-        "published": "Fri, 01 May 2026 16:36:57 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Urk - Urker Dirk T. ernstig bedreigd in gevangenis om verdenking van verkrachting jongens",
-        "link": "https://www.omroepflevoland.nl/nieuws/469232/urker-dirk-t-ernstig-bedreigd-in-gevangenis-om-verdenking-van-verkrachting-jongens",
-        "published": "Fri, 01 May 2026 15:13:28 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Weekendweerbericht: eindelijk een paar buien",
-        "link": "https://www.omroepflevoland.nl/nieuws/469215/weekendweerbericht-eindelijk-een-paar-buien",
-        "published": "Fri, 01 May 2026 13:29:20 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Muggen- en vliegenzwermen vloek of zegen? 'Je zit helemaal onder smurrie'",
-        "link": "https://www.omroepflevoland.nl/nieuws/469147/muggen-en-vliegenzwermen-vloek-of-zegen-je-zit-helemaal-onder-smurrie",
-        "published": "Fri, 01 May 2026 06:01:18 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Muggenzwermen vloek of zegen? 'Je zit helemaal onder smurrie'",
-        "link": "https://www.omroepflevoland.nl/nieuws/469147/muggenzwermen-vloek-of-zegen-je-zit-helemaal-onder-smurrie",
-        "published": "Fri, 01 May 2026 06:01:18 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 30/04 | Te weinig maatregelen na bijna-botsing • NL-Alert ingetrokken",
-        "link": "https://www.omroepflevoland.nl/nieuws/469138/nieuwsoverzicht-30-04-te-weinig-maatregelen-na-bijna-botsing-nl-alert-ingetrokken",
-        "published": "Thu, 30 Apr 2026 19:50:40 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Wietplantage opgerold in woning Lelystad, geen aanhoudingen",
-        "link": "https://www.omroepflevoland.nl/nieuws/469117/wietplantage-opgerold-in-woning-lelystad-geen-aanhoudingen",
-        "published": "Thu, 30 Apr 2026 16:48:02 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Onderzoeksraad kritisch: te weinig concrete maatregelen na bijna-botsing vliegtuigen boven Flevoland",
-        "link": "https://www.omroepflevoland.nl/nieuws/469114/onderzoeksraad-kritisch-te-weinig-concrete-maatregelen-na-bijna-botsing-vliegtuigen-boven-flevoland",
-        "published": "Thu, 30 Apr 2026 15:58:16 GMT+0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
       {
         "title": "Amsterdammer 3,5 jaar cel in voor leidende rol op afstand bij overval Siebel",
@@ -341,8 +201,153 @@
         "summary": ""
       }
     ],
-    "NOS": [],
+    "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Vier Lelystadse partijen komen met alternatief coalitieakkoord",
+        "link": "https://www.omroepflevoland.nl/nieuws/469588/vier-lelystadse-partijen-komen-met-alternatief-coalitieakkoord",
+        "published": "Wed, 06 May 2026 05:07:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Hengelsportvereniging stimuleert loodvrij vissen: 'Zou fijn zijn als ook de commercie het oppakt'",
+        "link": "https://www.omroepflevoland.nl/nieuws/469740/hengelsportvereniging-stimuleert-loodvrij-vissen:-'zou-fijn-zijn-als-ook-de-commercie-het-oppakt'",
+        "published": "Wed, 06 May 2026 04:14:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Derde editie Bevrijdingsfeest Lelystad uitgebreid met grote markt",
+        "link": "https://www.omroepflevoland.nl/nieuws/469744/derde-editie-bevrijdingsfeest-lelystad-uitgebreid-met-grote-markt",
+        "published": "Tue, 05 May 2026 19:46:27 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Amsterdammer krijgt 3,5 jaar cel voor rol bij overval op juwelier in Batavia Stad",
+        "link": "https://www.omroepflevoland.nl/nieuws/469700/amsterdammer-krijgt-35-jaar-cel-voor-rol-bij-overval-op-juwelier-in-batavia-stad",
+        "published": "Tue, 05 May 2026 10:50:27 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - 'Oogjes op half zeven': hardlopers brengen vrijheidsvuur 's nachts van Wageningen naar Flevoland",
+        "link": "https://www.omroepflevoland.nl/nieuws/469689/'oogjes-op-half-zeven':-hardlopers-brengen-vrijheidsvuur-'s-nachts-van-wageningen-naar-flevoland",
+        "published": "Tue, 05 May 2026 05:14:03 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 04/05 | Celstraf voor verkrachting meisje • Automobilist omgekomen bij ongeval",
+        "link": "https://www.omroepflevoland.nl/nieuws/469641/nieuwsoverzicht-0405-or-celstraf-voor-verkrachting-meisje-*-automobilist-omgekomen-bij-ongeval",
+        "published": "Mon, 04 May 2026 18:51:07 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Automobilist overleden bij aanrijding op Larserringweg in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/469627/automobilist-overleden-bij-aanrijding-op-larserringweg-in-lelystad",
+        "published": "Mon, 04 May 2026 13:13:25 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Waar kun je op 4 mei herdenken in Flevoland?",
+        "link": "https://www.omroepflevoland.nl/nieuws/469593/waar-kun-je-op-4-mei-herdenken-in-flevoland",
+        "published": "Mon, 04 May 2026 08:10:10 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Lelystadse zanger Luca Ferron blijft vooruitkijken: 'Iedereen moet met een lach naar huis'",
+        "link": "https://www.omroepflevoland.nl/nieuws/469281/lelystadse-zanger-luca-ferron-blijft-vooruitkijken:-'iedereen-moet-met-een-lach-naar-huis'",
+        "published": "Sun, 03 May 2026 12:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Brandweer voorbereid op natuurbranden, maar afhankelijk van alert gedrag inwoners",
+        "link": "https://www.omroepflevoland.nl/nieuws/469351/brandweer-voorbereid-op-natuurbranden-maar-afhankelijk-van-alert-gedrag-inwoners",
+        "published": "Sat, 02 May 2026 14:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Brandweer Flevoland: voorbereid, maar afhankelijk van alert gedrag inwoners",
+        "link": "https://www.omroepflevoland.nl/nieuws/469351/brandweer-flevoland:-voorbereid-maar-afhankelijk-van-alert-gedrag-inwoners",
+        "published": "Sat, 02 May 2026 14:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Flevoland paraat voor natuurbranden: 'Maar risico blijft aanwezig'",
+        "link": "https://www.omroepflevoland.nl/nieuws/469351/flevoland-paraat-voor-natuurbranden:-'maar-risico-blijft-aanwezig'",
+        "published": "Sat, 02 May 2026 14:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Huttenbouwweek in Lelystad keert terug na jaren afwezigheid",
+        "link": "https://www.omroepflevoland.nl/nieuws/469357/huttenbouwweek-in-lelystad-keert-terug-na-jaren-afwezigheid",
+        "published": "Sat, 02 May 2026 09:53:09 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Vergunning compostbedrijf Orgaworld ongeldig: nieuwe regels nodig",
+        "link": "https://www.omroepflevoland.nl/nieuws/469276/vergunning-compostbedrijf-orgaworld-ongeldig:-nieuwe-regels-nodig",
+        "published": "Sat, 02 May 2026 08:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 01/04 | COA verkoopt boerderij Bant • Nieuwe aanpak blauwalg",
+        "link": "https://www.omroepflevoland.nl/nieuws/469251/nieuwsoverzicht-01-04-coa-verkoopt-boerderij-bant-nieuwe-aanpak-blauwalg",
+        "published": "Fri, 01 May 2026 18:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Buitenzwemseizoen start spetterend met nieuw spraypark in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/469226/buitenzwemseizoen-start-spetterend-met-nieuw-spraypark-in-lelystad",
+        "published": "Fri, 01 May 2026 16:36:57 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Urk - Urker Dirk T. ernstig bedreigd in gevangenis om verdenking van verkrachting jongens",
+        "link": "https://www.omroepflevoland.nl/nieuws/469232/urker-dirk-t-ernstig-bedreigd-in-gevangenis-om-verdenking-van-verkrachting-jongens",
+        "published": "Fri, 01 May 2026 15:13:28 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Weekendweerbericht: eindelijk een paar buien",
+        "link": "https://www.omroepflevoland.nl/nieuws/469215/weekendweerbericht-eindelijk-een-paar-buien",
+        "published": "Fri, 01 May 2026 13:29:20 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Muggen- en vliegenzwermen vloek of zegen? 'Je zit helemaal onder smurrie'",
+        "link": "https://www.omroepflevoland.nl/nieuws/469147/muggen-en-vliegenzwermen-vloek-of-zegen-je-zit-helemaal-onder-smurrie",
+        "published": "Fri, 01 May 2026 06:01:18 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Muggenzwermen vloek of zegen? 'Je zit helemaal onder smurrie'",
+        "link": "https://www.omroepflevoland.nl/nieuws/469147/muggenzwermen-vloek-of-zegen-je-zit-helemaal-onder-smurrie",
+        "published": "Fri, 01 May 2026 06:01:18 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 30/04 | Te weinig maatregelen na bijna-botsing • NL-Alert ingetrokken",
+        "link": "https://www.omroepflevoland.nl/nieuws/469138/nieuwsoverzicht-30-04-te-weinig-maatregelen-na-bijna-botsing-nl-alert-ingetrokken",
+        "published": "Thu, 30 Apr 2026 19:50:40 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Wietplantage opgerold in woning Lelystad, geen aanhoudingen",
+        "link": "https://www.omroepflevoland.nl/nieuws/469117/wietplantage-opgerold-in-woning-lelystad-geen-aanhoudingen",
+        "published": "Thu, 30 Apr 2026 16:48:02 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Onderzoeksraad kritisch: te weinig concrete maatregelen na bijna-botsing vliegtuigen boven Flevoland",
+        "link": "https://www.omroepflevoland.nl/nieuws/469114/onderzoeksraad-kritisch-te-weinig-concrete-maatregelen-na-bijna-botsing-vliegtuigen-boven-flevoland",
+        "published": "Thu, 30 Apr 2026 15:58:16 GMT+0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
+      {
+        "title": "Afgelopen week 58 meldingen van de gemeente over sloop, bomenkap en verkeer in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/afgelopen-week-58-meldingen-van-de-gemeente-over-sloop-bomenkap-en-verkeer-in-lelystad~a01445b6/",
+        "published": "Wed, 06 May 2026 09:05:11 GMT",
+        "summary": ""
+      },
       {
         "title": "Vrouw (50) uit Biddinghuizen overleden bij ernstig ongeluk met vrachtwagen",
         "link": "https://www.destentor.nl/lelystad/vrouw-50-uit-biddinghuizen-overleden-bij-ernstig-ongeluk-met-vrachtwagen~ab3352fc/",
@@ -428,6 +433,7 @@
         "summary": ""
       }
     ],
-    "Nu.nl": []
+    "Nu.nl": [],
+    "NOS": []
   }
 }

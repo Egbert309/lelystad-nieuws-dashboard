@@ -1,6 +1,14 @@
 {
-  "updated": "2026-05-07T08:08:23.772617+00:00",
+  "updated": "2026-05-07T10:55:52.436526+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
+        "link": "https://nos.nl/l/2613443",
+        "published": "Thu, 7 May 2026 12:19:57 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Vier partijen in Lelystad slaan eigen weg in: ‘We laten zien welke keuzes wij maken’",
@@ -123,7 +131,20 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Radio Lelystad": [
+      {
+        "title": "Thom Ummels (75) overleden, de man achter Sunsation en nog heel veel meer",
+        "link": "https://radiolelystad.nl/thom-ummels-75-overleden-de-man-achter-sunsation-en-nog-heel-veel-meer",
+        "published": "donderdag 07 mei 2026",
+        "summary": ""
+      },
+      {
+        "title": "Provincies zetten fonds op voor Lelylijn en willen zelf ook tientallen miljoenen storten",
+        "link": "https://radiolelystad.nl/provincies-zetten-fonds-op-voor-lelylijn-en-willen-zelf-ook-tientallen-miljoenen-storten",
+        "published": "donderdag 07 mei 2026",
+        "summary": ""
+      },
       {
         "title": "Partijen buiten het raadsakkoord presenteren alternatief  ‘hoofdlijnenakkoord’",
         "link": "https://radiolelystad.nl/vier-partijen-presenteren-hoofdlijnenakkoord-en-hopen-op-steun-op-inhoud",
@@ -343,6 +364,18 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Almere - Rook trekt naar het zuiden • Blusvoertuig Lelystad Airport springt bij",
+        "link": "https://www.omroepflevoland.nl/nieuws/469917/rook-trekt-naar-het-zuiden-*-blusvoertuig-lelystad-airport-springt-bij",
+        "published": "Thu, 07 May 2026 11:08:37 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Flevoland wil samen met noordelijke provincies  miljoenen sparen voor Lelylijn",
+        "link": "https://www.omroepflevoland.nl/nieuws/469873/flevoland-wil-samen-met-noordelijke-provincies-miljoenen-sparen-voor-lelylijn",
+        "published": "Thu, 07 May 2026 10:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Flevoland - Flevoland wil jaarlijks 40 miljoen bijdragen aan plan voor nieuwe spoorlijn Lelylijn",
         "link": "https://www.omroepflevoland.nl/nieuws/469873/flevoland-wil-jaarlijks-40-miljoen-bijdragen-aan-plan-voor-nieuwe-spoorlijn-lelylijn",
         "published": "Thu, 07 May 2026 08:00:00 GMT+0200",
@@ -540,8 +573,6 @@
         "published": "Thu, 30 Apr 2026 15:58:16 GMT+0200",
         "summary": ""
       }
-    ],
-    "Nu.nl": [],
-    "NOS": []
+    ]
   }
 }

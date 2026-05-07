@@ -1,14 +1,6 @@
 {
-  "updated": "2026-05-07T10:55:52.436526+00:00",
+  "updated": "2026-05-07T12:23:39.524610+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
-        "link": "https://nos.nl/l/2613443",
-        "published": "Thu, 7 May 2026 12:19:57 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Vier partijen in Lelystad slaan eigen weg in: ‘We laten zien welke keuzes wij maken’",
@@ -131,8 +123,22 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
+        "link": "https://nos.nl/l/2613443",
+        "published": "Thu, 7 May 2026 12:19:57 +0200",
+        "summary": ""
+      }
+    ],
     "Nu.nl": [],
     "Radio Lelystad": [
+      {
+        "title": "Dronken man kan niet meer uit parkeergarage komen en sticht brand als de politie niet komt",
+        "link": "https://radiolelystad.nl/dronken-man-kan-niet-meer-uit-parkeergarage-komen-en-sticht-brand",
+        "published": "donderdag 07 mei 2026",
+        "summary": ""
+      },
       {
         "title": "Thom Ummels (75) overleden, de man achter Sunsation en nog heel veel meer",
         "link": "https://radiolelystad.nl/thom-ummels-75-overleden-de-man-achter-sunsation-en-nog-heel-veel-meer",
@@ -363,6 +369,12 @@
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Kringloop De Groene Sluis Dronten later open, vergunning nog niet rond",
+        "link": "https://www.omroepflevoland.nl/nieuws/469935/kringloop-de-groene-sluis-dronten-later-open-vergunning-nog-niet-rond",
+        "published": "Thu, 07 May 2026 14:16:45 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Almere - Rook trekt naar het zuiden • Blusvoertuig Lelystad Airport springt bij",
         "link": "https://www.omroepflevoland.nl/nieuws/469917/rook-trekt-naar-het-zuiden-*-blusvoertuig-lelystad-airport-springt-bij",

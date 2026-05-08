@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-08T10:12:43.359512+00:00",
+  "updated": "2026-05-08T12:01:48.178238+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
+        "link": "https://nos.nl/l/2613447",
+        "published": "Thu, 7 May 2026 12:52:45 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
+        "link": "https://nos.nl/l/2613443",
+        "published": "Thu, 7 May 2026 12:19:57 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Drie verdiepingen van datacentrum Almere rijp voor sloop na brand",
@@ -386,6 +400,12 @@
     "Nu.nl": [],
     "Radio Lelystad": [
       {
+        "title": "Bij SPOT kunnen jongeren zichzelf zijn - en de stad cultureel laten groeien",
+        "link": "https://radiolelystad.nl/bij-spot-kunnen-jongeren-zichzelf-zijn-met-een-beetje-begeleiding",
+        "published": "vrijdag 08 mei 2026",
+        "summary": ""
+      },
+      {
         "title": "Huurder Lars en Lily door detectivewerk Centrada betrapt op illegaal doorgeven flat",
         "link": "https://radiolelystad.nl/huurder-lars-en-lily-door-detectivewerk-centrada-betrapt-op-illegaal-doorgeven-flat",
         "published": "vrijdag 08 mei 2026",
@@ -629,20 +649,6 @@
         "title": "PVV en Mooi Lelystad kritisch over aankoop pand Party Players vanwege woningbouw",
         "link": "https://radiolelystad.nl/pvv-en-mooi-lelystad-stellen-vragen-over-aankoop-pand-party-players",
         "published": "dinsdag 21 april 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
-        "link": "https://nos.nl/l/2613447",
-        "published": "Thu, 7 May 2026 12:52:45 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
-        "link": "https://nos.nl/l/2613443",
-        "published": "Thu, 7 May 2026 12:19:57 +0200",
         "summary": ""
       }
     ]

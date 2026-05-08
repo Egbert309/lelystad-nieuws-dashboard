@@ -1,11 +1,29 @@
 {
-  "updated": "2026-05-08T14:28:11.287084+00:00",
+  "updated": "2026-05-08T16:06:13.263583+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 08/05 | De dag na de brand • Geld inzamelen voor De Tong",
+        "link": "https://www.omroepflevoland.nl/nieuws/470067/nieuwsoverzicht-0805-or-de-dag-na-de-brand-*-geld-inzamelen-voor-de-tong",
+        "published": "Fri, 08 May 2026 17:40:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Bewoners Warande willen geliefde pakketbezorger Randy behouden en starten petitie",
+        "link": "https://www.omroepflevoland.nl/nieuws/470077/bewoners-warande-willen-geliefde-pakketbezorger-randy-behouden-en-starten-petitie",
+        "published": "Fri, 08 May 2026 17:15:10 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Geldinzameling voor vervoer en restauratie De Tong, kunstwerk verhuist naar Den Helder",
         "link": "https://www.omroepflevoland.nl/nieuws/470089/geldinzameling-voor-vervoer-en-restauratie-de-tong-kunstwerk-verhuist-naar-den-helder",
         "published": "Fri, 08 May 2026 14:36:47 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - TenneT: nieuwe hoogspanningsroute langs snelweg via Almere, Lelystad en Schokland meest reeël",
+        "link": "https://www.omroepflevoland.nl/nieuws/469963/tennet:-nieuwe-hoogspanningsroute-langs-snelweg-via-almere-lelystad-en-schokland-meest-reeel",
+        "published": "Fri, 08 May 2026 14:02:34 GMT+0200",
         "summary": ""
       },
       {
@@ -258,21 +276,6 @@
         "title": "Flevoland - Onderzoeksraad kritisch: te weinig concrete maatregelen na bijna-botsing vliegtuigen boven Flevoland",
         "link": "https://www.omroepflevoland.nl/nieuws/469114/onderzoeksraad-kritisch-te-weinig-concrete-maatregelen-na-bijna-botsing-vliegtuigen-boven-flevoland",
         "published": "Thu, 30 Apr 2026 15:58:16 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
-        "link": "https://nos.nl/l/2613447",
-        "published": "Thu, 7 May 2026 12:52:45 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
-        "link": "https://nos.nl/l/2613443",
-        "published": "Thu, 7 May 2026 12:19:57 +0200",
         "summary": ""
       }
     ],
@@ -533,6 +536,21 @@
         "title": "PVV en Mooi Lelystad kritisch over aankoop pand Party Players vanwege woningbouw",
         "link": "https://radiolelystad.nl/pvv-en-mooi-lelystad-stellen-vragen-over-aankoop-pand-party-players",
         "published": "dinsdag 21 april 2026",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
+        "link": "https://nos.nl/l/2613447",
+        "published": "Thu, 7 May 2026 12:52:45 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
+        "link": "https://nos.nl/l/2613443",
+        "published": "Thu, 7 May 2026 12:19:57 +0200",
         "summary": ""
       }
     ],

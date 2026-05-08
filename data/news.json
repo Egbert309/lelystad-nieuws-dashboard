@@ -1,8 +1,13 @@
 {
-  "updated": "2026-05-08T08:15:36.980836+00:00",
+  "updated": "2026-05-08T10:12:43.359512+00:00",
   "sources": {
-    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Drie verdiepingen van datacentrum Almere rijp voor sloop na brand",
+        "link": "https://www.omroepflevoland.nl/nieuws/470044/drie-verdiepingen-van-datacentrum-almere-rijp-voor-sloop-na-brand",
+        "published": "Fri, 08 May 2026 10:38:57 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Huurder die dochter en kleinzoon in woning laat wonen moet weg van rechter",
         "link": "https://www.omroepflevoland.nl/nieuws/469973/huurder-die-dochter-en-kleinzoon-in-woning-laat-wonen-moet-weg-van-rechter",
@@ -378,21 +383,14 @@
         "summary": ""
       }
     ],
-    "NOS": [
+    "Nu.nl": [],
+    "Radio Lelystad": [
       {
-        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
-        "link": "https://nos.nl/l/2613447",
-        "published": "Thu, 7 May 2026 12:52:45 +0200",
+        "title": "Huurder Lars en Lily door detectivewerk Centrada betrapt op illegaal doorgeven flat",
+        "link": "https://radiolelystad.nl/huurder-lars-en-lily-door-detectivewerk-centrada-betrapt-op-illegaal-doorgeven-flat",
+        "published": "vrijdag 08 mei 2026",
         "summary": ""
       },
-      {
-        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
-        "link": "https://nos.nl/l/2613443",
-        "published": "Thu, 7 May 2026 12:19:57 +0200",
-        "summary": ""
-      }
-    ],
-    "Radio Lelystad": [
       {
         "title": "Van Abeelen  mag van SVL vanwege vertrek Van Oostrum per direct naar Unicum",
         "link": "https://radiolelystad.nl/van-abeelen-mag-van-svl-vanwege-vertrek-van-oostrum-per-direct-naar-unicum",
@@ -631,6 +629,20 @@
         "title": "PVV en Mooi Lelystad kritisch over aankoop pand Party Players vanwege woningbouw",
         "link": "https://radiolelystad.nl/pvv-en-mooi-lelystad-stellen-vragen-over-aankoop-pand-party-players",
         "published": "dinsdag 21 april 2026",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
+        "link": "https://nos.nl/l/2613447",
+        "published": "Thu, 7 May 2026 12:52:45 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
+        "link": "https://nos.nl/l/2613443",
+        "published": "Thu, 7 May 2026 12:19:57 +0200",
         "summary": ""
       }
     ]

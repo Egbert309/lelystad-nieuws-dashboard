@@ -1,20 +1,6 @@
 {
-  "updated": "2026-05-09T10:43:10.624274+00:00",
+  "updated": "2026-05-09T11:38:44.460671+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
-        "link": "https://nos.nl/l/2613447",
-        "published": "Thu, 7 May 2026 12:52:45 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
-        "link": "https://nos.nl/l/2613443",
-        "published": "Thu, 7 May 2026 12:19:57 +0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
       {
         "title": "Botters racen rond Marker Wadden voor goed doel: strijd tegen uitbuiten van kinderen",
@@ -276,6 +262,12 @@
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Dronten - Tankstation zorgt voor vertraging bij opening De Groene Sluis",
+        "link": "https://www.omroepflevoland.nl/nieuws/470121/tankstation-zorgt-voor-vertraging-bij-opening-de-groene-sluis",
+        "published": "Sat, 09 May 2026 12:44:44 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Provincie wil meer woningen in kernen van dorp en stad",
         "link": "https://www.omroepflevoland.nl/nieuws/470106/provincie-wil-meer-woningen-in-kernen-van-dorp-en-stad",
@@ -559,8 +551,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Natuursafari laat inwoners de Lelystadse natuur ontdekken",
+        "link": "https://www.destentor.nl/lelystad/natuursafari-laat-inwoners-de-lelystadse-natuur-ontdekken~aee7b551/",
+        "published": "Sat, 09 May 2026 10:51:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Spannendste weken schooltijd van start: 985 leerlingen in Lelystad doen eindexamen",
         "link": "https://www.destentor.nl/lelystad/spannendste-weken-schooltijd-van-start-985-leerlingen-in-lelystad-doen-eindexamen~a5d0d02a/",
@@ -705,6 +702,21 @@
         "published": "Tue, 28 Apr 2026 17:00:42 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [
+      {
+        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
+        "link": "https://nos.nl/l/2613447",
+        "published": "Thu, 7 May 2026 12:52:45 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
+        "link": "https://nos.nl/l/2613443",
+        "published": "Thu, 7 May 2026 12:19:57 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": []
   }
 }

@@ -1,6 +1,7 @@
 {
-  "updated": "2026-05-09T01:26:33.886281+00:00",
+  "updated": "2026-05-09T04:57:15.675038+00:00",
   "sources": {
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Botters racen rond Marker Wadden voor goed doel: strijd tegen uitbuiten van kinderen",
@@ -261,7 +262,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Spannendste weken schooltijd van start: 985 leerlingen in Lelystad doen eindexamen",
@@ -405,6 +405,20 @@
         "title": "Rechtszaak over 1587 kilo cocaïne in loods Lelystad uitgesteld: tolk ontbreekt",
         "link": "https://www.destentor.nl/lelystad/rechtszaak-over-1587-kilo-cocaine-in-loods-lelystad-uitgesteld-tolk-ontbreekt~ac92ab9f/",
         "published": "Tue, 28 Apr 2026 17:00:42 GMT",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
+        "link": "https://nos.nl/l/2613447",
+        "published": "Thu, 7 May 2026 12:52:45 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
+        "link": "https://nos.nl/l/2613443",
+        "published": "Thu, 7 May 2026 12:19:57 +0200",
         "summary": ""
       }
     ],
@@ -683,20 +697,6 @@
         "title": "Flevoland - Onderzoeksraad kritisch: te weinig concrete maatregelen na bijna-botsing vliegtuigen boven Flevoland",
         "link": "https://www.omroepflevoland.nl/nieuws/469114/onderzoeksraad-kritisch-te-weinig-concrete-maatregelen-na-bijna-botsing-vliegtuigen-boven-flevoland",
         "published": "Thu, 30 Apr 2026 15:58:16 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
-        "link": "https://nos.nl/l/2613447",
-        "published": "Thu, 7 May 2026 12:52:45 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
-        "link": "https://nos.nl/l/2613443",
-        "published": "Thu, 7 May 2026 12:19:57 +0200",
         "summary": ""
       }
     ]

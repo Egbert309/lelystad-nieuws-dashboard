@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T16:39:00.138712+00:00",
+  "updated": "2026-05-10T17:40:20.767280+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -261,7 +261,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Deel Vogelweg gaat twee weken dicht",
@@ -564,20 +563,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
-        "link": "https://nos.nl/l/2613447",
-        "published": "Thu, 7 May 2026 12:52:45 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
-        "link": "https://nos.nl/l/2613443",
-        "published": "Thu, 7 May 2026 12:19:57 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Natuursafari laat inwoners de Lelystadse natuur ontdekken",
@@ -729,6 +714,21 @@
         "published": "Tue, 28 Apr 2026 17:00:42 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [
+      {
+        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
+        "link": "https://nos.nl/l/2613447",
+        "published": "Thu, 7 May 2026 12:52:45 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
+        "link": "https://nos.nl/l/2613443",
+        "published": "Thu, 7 May 2026 12:19:57 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": []
   }
 }

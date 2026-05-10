@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-09T23:34:26.912072+00:00",
+  "updated": "2026-05-10T01:27:56.696263+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
+        "link": "https://nos.nl/l/2613447",
+        "published": "Thu, 7 May 2026 12:52:45 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
+        "link": "https://nos.nl/l/2613443",
+        "published": "Thu, 7 May 2026 12:19:57 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Natuursafari laat inwoners de Lelystadse natuur ontdekken",
@@ -153,21 +167,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
-        "link": "https://nos.nl/l/2613447",
-        "published": "Thu, 7 May 2026 12:52:45 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
-        "link": "https://nos.nl/l/2613443",
-        "published": "Thu, 7 May 2026 12:19:57 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Reddingbootdag bij de KNRM: kijkje bij vrijwilligers die bij nacht en ontij het water op gaan",
@@ -729,6 +728,7 @@
         "published": "dinsdag 21 april 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

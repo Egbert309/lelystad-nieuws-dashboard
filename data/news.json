@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T08:51:19.206652+00:00",
+  "updated": "2026-05-11T11:53:01.137987+00:00",
   "sources": {
     "Nu.nl": [],
     "Radio Lelystad": [
@@ -420,20 +420,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
-        "link": "https://nos.nl/l/2613447",
-        "published": "Thu, 7 May 2026 12:52:45 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
-        "link": "https://nos.nl/l/2613443",
-        "published": "Thu, 7 May 2026 12:19:57 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Weekweerbericht: koele meidagen met bijna dagelijks een paar buien",
@@ -733,6 +719,20 @@
         "title": "Flevoland - Muggenzwermen vloek of zegen? 'Je zit helemaal onder smurrie'",
         "link": "https://www.omroepflevoland.nl/nieuws/469147/muggenzwermen-vloek-of-zegen-je-zit-helemaal-onder-smurrie",
         "published": "Fri, 01 May 2026 06:01:18 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Noord-Nederland wil jaarlijks miljoenen opzijzetten voor aanleg Lelylijn",
+        "link": "https://nos.nl/l/2613447",
+        "published": "Thu, 7 May 2026 12:52:45 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Enorme rookpluimen boven Almere door grote brand in datacenter",
+        "link": "https://nos.nl/l/2613443",
+        "published": "Thu, 7 May 2026 12:19:57 +0200",
         "summary": ""
       }
     ]

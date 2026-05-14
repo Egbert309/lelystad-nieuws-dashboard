@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T21:57:22.905127+00:00",
+  "updated": "2026-05-14T22:50:43.483146+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,7 +303,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Provincie moet duidelijke rol nemen in beleid over arbeidsmigranten",
@@ -606,6 +605,8 @@
         "summary": ""
       }
     ],
+    "NOS": [],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "De gemeente is eruit: nu of nooit voor het nieuwe poppodium in Lelystad",
@@ -841,7 +842,6 @@
         "published": "Tue, 28 Apr 2026 17:00:42 GMT",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

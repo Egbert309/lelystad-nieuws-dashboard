@@ -1,9 +1,13 @@
 {
-  "updated": "2026-05-16T07:44:09.302280+00:00",
+  "updated": "2026-05-16T09:17:11.119481+00:00",
   "sources": {
-    "NOS": [],
-    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Gemeente neigt naar afwijzen plan arbeidsmigranten Swifterringweg",
+        "link": "https://www.omroepflevoland.nl/nieuws/470854/gemeente-neigt-naar-afwijzen-plan-arbeidsmigranten-swifterringweg",
+        "published": "Sat, 16 May 2026 11:02:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 15/05 | Vogelgriep in Biddinghuizen • Bonenvlieg vernielt oogst van uienteler",
         "link": "https://www.omroepflevoland.nl/nieuws/470853/nieuwsoverzicht-1505-or-vogelgriep-in-biddinghuizen-*-bonenvlieg-vernielt-oogst-van-uienteler",
@@ -297,14 +301,10 @@
         "link": "https://www.omroepflevoland.nl/nieuws/469588/vier-lelystadse-partijen-komen-met-alternatief-coalitieakkoord",
         "published": "Wed, 06 May 2026 05:07:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Almere - Hengelsportvereniging stimuleert loodvrij vissen: 'Zou fijn zijn als ook de commercie het oppakt'",
-        "link": "https://www.omroepflevoland.nl/nieuws/469740/hengelsportvereniging-stimuleert-loodvrij-vissen:-'zou-fijn-zijn-als-ook-de-commercie-het-oppakt'",
-        "published": "Wed, 06 May 2026 04:14:00 GMT+0200",
-        "summary": ""
       }
     ],
+    "NOS": [],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Wethouder klaagt over hoeveelheid vragen van de gemeenteraad, expert: ‘Het kost pas tijd als je er een probleem van maakt’",

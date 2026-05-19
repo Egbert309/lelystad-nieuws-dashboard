@@ -1,7 +1,20 @@
 {
-  "updated": "2026-05-19T14:24:39.030778+00:00",
+  "updated": "2026-05-19T17:31:33.891371+00:00",
   "sources": {
+    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 19/05 | Kamer verkiest woningbouw boven Lelystad Airport • Zorgen in Dronten over extra opvang bij azc",
+        "link": "https://www.omroepflevoland.nl/nieuws/471323/nieuwsoverzicht-1905-or-kamer-verkiest-woningbouw-boven-lelystad-airport-*-zorgen-in-dronten-over-extra-opvang-bij-azc",
+        "published": "Tue, 19 May 2026 18:50:09 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Meerderheid Kamer: eerst stikstofoplossing voor huizen en boeren, dan pas Lelystad Airport open",
+        "link": "https://www.omroepflevoland.nl/nieuws/471335/meerderheid-kamer:-eerst-stikstofoplossing-voor-huizen-en-boeren-dan-pas-lelystad-airport-open",
+        "published": "Tue, 19 May 2026 16:27:44 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Verdachte opgepakt na mogelijk schietincident Lelystad,  maar nog veel onduidelijk",
         "link": "https://www.omroepflevoland.nl/nieuws/471324/verdachte-opgepakt-na-mogelijk-schietincident-lelystad-maar-nog-veel-onduidelijk",
@@ -289,21 +302,21 @@
         "link": "https://www.omroepflevoland.nl/nieuws/469917/sein-brand-meester-gegeven-voor-brand-in-datacenter-*-schade-is-groot",
         "published": "Thu, 07 May 2026 21:45:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Zeewolde - 'Bitter Lemon' (55) uit Zeewolde krijgt celstraf voor plannen cocaïnesmokkel naar Nederland",
-        "link": "https://www.omroepflevoland.nl/nieuws/469951/'bitter-lemon'-(55)-uit-zeewolde-krijgt-celstraf-voor-plannen-cocainesmokkel-naar-nederland",
-        "published": "Thu, 07 May 2026 15:37:49 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Dronten - Kringloop De Groene Sluis Dronten later open, vergunning nog niet rond",
-        "link": "https://www.omroepflevoland.nl/nieuws/469935/kringloop-de-groene-sluis-dronten-later-open-vergunning-nog-niet-rond",
-        "published": "Thu, 07 May 2026 14:16:45 GMT+0200",
-        "summary": ""
       }
     ],
     "De Stentor": [
+      {
+        "title": "Openbaar vervoer in Lelystad: in drie jaar minder haltes, meer bussen",
+        "link": "https://www.destentor.nl/lelystad/openbaar-vervoer-in-lelystad-in-drie-jaar-minder-haltes-meer-bussen~adb19388/",
+        "published": "Tue, 19 May 2026 15:32:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Inbraak in supermarkt in Lelystad levert geen buit op, maar wel ‘zeker een schade van 15.000 euro’",
+        "link": "https://www.destentor.nl/lelystad/inbraak-in-supermarkt-in-lelystad-levert-geen-buit-op-maar-wel-zeker-een-schade-van-15-000-euro~ac5e3eb59/",
+        "published": "Tue, 19 May 2026 14:59:54 GMT",
+        "summary": ""
+      },
       {
         "title": "Interactieve bijeenkomst helpt inwoners digitale oplichting te herkennen",
         "link": "https://www.destentor.nl/lelystad/interactieve-bijeenkomst-helpt-inwoners-digitale-oplichting-te-herkennen~ae590c44/",
@@ -865,7 +878,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": []
+    "Nu.nl": []
   }
 }

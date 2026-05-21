@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T09:27:08.435861+00:00",
+  "updated": "2026-05-21T12:36:36.503012+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,16 +303,25 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Rechtbank: proef op Zeeuws spoor belangrijker dan treinrit naar school",
-        "link": "https://nos.nl/l/2615125",
-        "published": "Wed, 20 May 2026 13:40:05 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Taakstraf voor Lelystedeling die brand stichtte om uit parkeergarage te komen",
+        "link": "https://www.omroepflevoland.nl/nieuws/471489/taakstraf-voor-lelystedeling-die-brand-stichtte-om-uit-parkeergarage-te-komen",
+        "published": "Thu, 21 May 2026 13:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Explosief op Lelystads politiebureau blijkt bij kringloop gevonden handgranaat",
+        "link": "https://www.omroepflevoland.nl/nieuws/471544/explosief-op-lelystads-politiebureau-blijkt-bij-kringloop-gevonden-handgranaat",
+        "published": "Thu, 21 May 2026 12:19:17 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Provinciale Staten: samenwerking met metropoolregio Amsterdam moet democratischer en inzichtelijker",
+        "link": "https://www.omroepflevoland.nl/nieuws/471479/provinciale-staten:-samenwerking-met-metropoolregio-amsterdam-moet-democratischer-en-inzichtelijker",
+        "published": "Thu, 21 May 2026 12:10:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Man en vrouw opgepakt door speciaal politieteam voor schietpartij in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/471346/man-en-vrouw-opgepakt-door-speciaal-politieteam-voor-schietpartij-in-lelystad",
@@ -594,27 +603,31 @@
         "link": "https://www.omroepflevoland.nl/nieuws/470530/jos-bundelde-allerlei-klachten-over-haar-wooncomplex-samen-in-een-petitie:-'dat-was-wel-even-schrikken'",
         "published": "Wed, 13 May 2026 06:43:00 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Flevoland - Deels omgewaaide vrachtwagen op de Ketelbrug zorgt voor urenlang vaststaand verkeer, A6 dicht naar het zuiden",
-        "link": "https://www.omroepflevoland.nl/nieuws/470486/deels-omgewaaide-vrachtwagen-op-de-ketelbrug-zorgt-voor-urenlang-vaststaand-verkeer-a6-dicht-naar-het-zuiden",
-        "published": "Mon, 11 May 2026 23:14:32 GMT+0200",
+        "title": "Rechtbank: proef op Zeeuws spoor belangrijker dan treinrit naar school",
+        "link": "https://nos.nl/l/2615125",
+        "published": "Wed, 20 May 2026 13:40:05 +0200",
         "summary": ""
-      },
+      }
+    ],
+    "Nu.nl": [
       {
-        "title": "Flevoland - Weekweerbericht: koele meidagen met bijna dagelijks een paar buien",
-        "link": "https://www.omroepflevoland.nl/nieuws/470361/weekweerbericht:-koele-meidagen-met-bijna-dagelijks-een-paar-buien",
-        "published": "Mon, 11 May 2026 10:24:52 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Deel Vogelweg gaat twee weken dicht",
-        "link": "https://www.omroepflevoland.nl/nieuws/469981/deel-vogelweg-gaat-twee-weken-dicht",
-        "published": "Sun, 10 May 2026 12:46:21 GMT+0200",
+        "title": "Politiebureau Lelystad kort ontruimd omdat persoon handgranaat aflevert bij balie",
+        "link": "https://www.nu.nl/binnenland/6396615/politiebureau-lelystad-kort-ontruimd-omdat-persoon-handgranaat-aflevert-bij-balie.html",
+        "published": "Thu, 21 May 2026 13:16:08 +0200",
         "summary": ""
       }
     ],
     "De Stentor": [
+      {
+        "title": "Politiebureau Lelystad na ontruiming om mogelijk explosief weer vrijgegeven",
+        "link": "https://www.destentor.nl/lelystad/politiebureau-lelystad-na-ontruiming-om-mogelijk-explosief-weer-vrijgegeven~a65247da/",
+        "published": "Thu, 21 May 2026 10:15:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Man (40) zit opgesloten in parkeergarage en belt 112, maar niemand komt. Dus sticht hij brand",
         "link": "https://www.destentor.nl/lelystad/man-40-zit-opgesloten-in-parkeergarage-en-belt-112-maar-niemand-komt-dus-sticht-hij-brand~a7770bc0/",
@@ -907,12 +920,6 @@
         "title": "Stroomstoring in Lelystad opgelost",
         "link": "https://www.destentor.nl/lelystad/stroomstoring-in-lelystad-opgelost~a2f5534b/",
         "published": "Wed, 29 Apr 2026 11:54:52 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Afgelopen week 37 meldingen van de gemeente over onder meer bouw in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-37-meldingen-van-de-gemeente-over-onder-meer-bouw-in-lelystad~ac0e60c8/",
-        "published": "Wed, 29 Apr 2026 09:05:09 GMT",
         "summary": ""
       }
     ]

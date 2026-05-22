@@ -1,15 +1,13 @@
 {
-  "updated": "2026-05-22T16:59:49.511904+00:00",
+  "updated": "2026-05-22T18:54:18.297963+00:00",
   "sources": {
-    "Nu.nl": [
-      {
-        "title": "Politiebureau Lelystad kort ontruimd omdat persoon handgranaat aflevert bij balie",
-        "link": "https://www.nu.nl/binnenland/6396615/politiebureau-lelystad-kort-ontruimd-omdat-persoon-handgranaat-aflevert-bij-balie.html",
-        "published": "Thu, 21 May 2026 13:16:08 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Grondverkopen Flevokust brengen geld in het laatje voor Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/471684/grondverkopen-flevokust-brengen-geld-in-het-laatje-voor-lelystad",
+        "published": "Fri, 22 May 2026 19:21:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 22/05 | Flevolandse bedrijven doorzocht door FIOD • Hoogspanningsverbinding door Noordoostpolder",
         "link": "https://www.omroepflevoland.nl/nieuws/471729/nieuwsoverzicht-2205-or-flevolandse-bedrijven-doorzocht-door-fiod-*-hoogspanningsverbinding-door-noordoostpolder",
@@ -303,11 +301,13 @@
         "link": "https://www.omroepflevoland.nl/nieuws/470693/rechter-wil-wegpiraat-persoonlijk-spreken-na-reeks-verkeersovertredingen",
         "published": "Thu, 14 May 2026 10:00:00 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "Nu.nl": [
       {
-        "title": "Lelystad - Bestuurder rijdt bijna 120 kilometer per uur waar je 50 mag; rechter dwingt hem  tot volgen cursus",
-        "link": "https://www.omroepflevoland.nl/nieuws/470691/bestuurder-rijdt-bijna-120-kilometer-per-uur-waar-je-50-mag-rechter-dwingt-hem-tot-volgen-cursus",
-        "published": "Wed, 13 May 2026 20:44:10 GMT+0200",
+        "title": "Politiebureau Lelystad kort ontruimd omdat persoon handgranaat aflevert bij balie",
+        "link": "https://www.nu.nl/binnenland/6396615/politiebureau-lelystad-kort-ontruimd-omdat-persoon-handgranaat-aflevert-bij-balie.html",
+        "published": "Thu, 21 May 2026 13:16:08 +0200",
         "summary": ""
       }
     ],
@@ -613,14 +613,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Rechtbank: proef op Zeeuws spoor belangrijker dan treinrit naar school",
-        "link": "https://nos.nl/l/2615125",
-        "published": "Wed, 20 May 2026 13:40:05 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Topweekend voor mooiweerrijders: Lelystad telt relatief veel cabrio's en ook veel motoren",
@@ -920,6 +912,14 @@
         "title": "Kunstfestival in Flevoland moet 5000 euro ophalen in twee weken: ‘Anders redden we het gewoon niet’",
         "link": "https://www.destentor.nl/lelystad/kunstfestival-in-flevoland-moet-5000-euro-ophalen-in-twee-weken-anders-redden-we-het-gewoon-niet~a172cf5b/",
         "published": "Mon, 04 May 2026 17:00:00 GMT",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Rechtbank: proef op Zeeuws spoor belangrijker dan treinrit naar school",
+        "link": "https://nos.nl/l/2615125",
+        "published": "Wed, 20 May 2026 13:40:05 +0200",
         "summary": ""
       }
     ]

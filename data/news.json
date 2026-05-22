@@ -1,6 +1,14 @@
 {
-  "updated": "2026-05-22T11:35:29.580954+00:00",
+  "updated": "2026-05-22T14:06:41.162057+00:00",
   "sources": {
+    "Nu.nl": [
+      {
+        "title": "Politiebureau Lelystad kort ontruimd omdat persoon handgranaat aflevert bij balie",
+        "link": "https://www.nu.nl/binnenland/6396615/politiebureau-lelystad-kort-ontruimd-omdat-persoon-handgranaat-aflevert-bij-balie.html",
+        "published": "Thu, 21 May 2026 13:16:08 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Woningen in Bastion en Marderhoek gesloten na aantreffen hennepplantages",
@@ -303,15 +311,19 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
-      {
-        "title": "Politiebureau Lelystad kort ontruimd omdat persoon handgranaat aflevert bij balie",
-        "link": "https://www.nu.nl/binnenland/6396615/politiebureau-lelystad-kort-ontruimd-omdat-persoon-handgranaat-aflevert-bij-balie.html",
-        "published": "Thu, 21 May 2026 13:16:08 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Burgemeester Lelystad sluit twee huizen vanwege hennepkwekerijen",
+        "link": "https://www.omroepflevoland.nl/nieuws/471674/burgemeester-lelystad-sluit-twee-huizen-vanwege-hennepkwekerijen",
+        "published": "Fri, 22 May 2026 15:02:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Waarschuwingsschoten gelost bij achtervolging in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/471658/waarschuwingsschoten-gelost-bij-achtervolging-in-lelystad",
+        "published": "Fri, 22 May 2026 11:37:45 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Politie lost waarschuwingsschoten tijdens achtervolging in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/471658/politie-lost-waarschuwingsschoten-tijdens-achtervolging-in-lelystad",
@@ -599,17 +611,13 @@
         "link": "https://www.omroepflevoland.nl/nieuws/470675/nieuwsoverzicht-1305-or-'vergunning-febo's-almere-terecht-ingetrokken'-*-buizerd-verdedigt-nest",
         "published": "Wed, 13 May 2026 18:45:00 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Flevoland - Nieuwsoverzicht 13/05 |  • 'Vergunning FEBO's Almere terecht ingetrokken' • Buizerd verdedigt nest",
-        "link": "https://www.omroepflevoland.nl/nieuws/470675/nieuwsoverzicht-1305-or-*-'vergunning-febo's-almere-terecht-ingetrokken'-*-buizerd-verdedigt-nest",
-        "published": "Wed, 13 May 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Gemeente Lelystad hoeft minder bij te leggen voor poppodium",
-        "link": "https://www.omroepflevoland.nl/nieuws/470653/gemeente-lelystad-hoeft-minder-bij-te-leggen-voor-poppodium",
-        "published": "Wed, 13 May 2026 15:34:39 GMT+0200",
+        "title": "Rechtbank: proef op Zeeuws spoor belangrijker dan treinrit naar school",
+        "link": "https://nos.nl/l/2615125",
+        "published": "Wed, 20 May 2026 13:40:05 +0200",
         "summary": ""
       }
     ],
@@ -912,14 +920,6 @@
         "title": "Nieuw wandelnetwerk in Lelystad geopend: routes verbinden stad en natuur",
         "link": "https://www.destentor.nl/lelystad/nieuw-wandelnetwerk-in-lelystad-geopend-routes-verbinden-stad-en-natuur~a7181ce5/",
         "published": "Mon, 04 May 2026 12:45:00 GMT",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Rechtbank: proef op Zeeuws spoor belangrijker dan treinrit naar school",
-        "link": "https://nos.nl/l/2615125",
-        "published": "Wed, 20 May 2026 13:40:05 +0200",
         "summary": ""
       }
     ]

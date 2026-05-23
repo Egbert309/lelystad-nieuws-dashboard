@@ -1,22 +1,6 @@
 {
-  "updated": "2026-05-23T09:52:50.846547+00:00",
+  "updated": "2026-05-23T11:01:56.481808+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Rechtbank: proef op Zeeuws spoor belangrijker dan treinrit naar school",
-        "link": "https://nos.nl/l/2615125",
-        "published": "Wed, 20 May 2026 13:40:05 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Politiebureau Lelystad kort ontruimd omdat persoon handgranaat aflevert bij balie",
-        "link": "https://www.nu.nl/binnenland/6396615/politiebureau-lelystad-kort-ontruimd-omdat-persoon-handgranaat-aflevert-bij-balie.html",
-        "published": "Thu, 21 May 2026 13:16:08 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Een frisse duik nemen? Op deze zwemplekken in Lelystad is de waterkwaliteit in orde",
@@ -621,6 +605,14 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [
+      {
+        "title": "Politiebureau Lelystad kort ontruimd omdat persoon handgranaat aflevert bij balie",
+        "link": "https://www.nu.nl/binnenland/6396615/politiebureau-lelystad-kort-ontruimd-omdat-persoon-handgranaat-aflevert-bij-balie.html",
+        "published": "Thu, 21 May 2026 13:16:08 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Osmanli Moskee breidt uit met buurtactiviteiten en parkeerplaatsen",
@@ -920,6 +912,14 @@
         "title": "Procedure milieuvergunning compostbedrijf Orgaworld moet over",
         "link": "https://radiolelystad.nl/procedure-milieuvergunning-compostbedrijf-orgaworld-moet-over",
         "published": "maandag 04 mei 2026",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Rechtbank: proef op Zeeuws spoor belangrijker dan treinrit naar school",
+        "link": "https://nos.nl/l/2615125",
+        "published": "Wed, 20 May 2026 13:40:05 +0200",
         "summary": ""
       }
     ]

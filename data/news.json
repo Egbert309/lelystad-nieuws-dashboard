@@ -1,7 +1,6 @@
 {
-  "updated": "2026-05-27T17:48:29.156878+00:00",
+  "updated": "2026-05-27T19:53:50.513175+00:00",
   "sources": {
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 27/05 |  Moslims vieren deze week feest  • Almere teleurgesteld over beslissing KNVB",
@@ -606,15 +605,13 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "KNVB ziet af van verhuizing naar Almere en blijft in Zeist",
-        "link": "https://nos.nl/l/2615983",
-        "published": "Wed, 27 May 2026 09:04:17 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
+      {
+        "title": "Twee mannen (33 en 35) opgepakt na achtervolging met waarschuwingsschoten in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/twee-mannen-33-en-35-opgepakt-na-achtervolging-met-waarschuwingsschoten-in-lelystad~a40524a4/",
+        "published": "Wed, 27 May 2026 19:36:58 GMT",
+        "summary": ""
+      },
       {
         "title": "Wafaa (73) kan zijn ogen niet geloven als hij bij zijn snackbar komt",
         "link": "https://www.destentor.nl/lelystad/wafaa-73-kan-zijn-ogen-niet-geloven-als-hij-bij-zijn-snackbar-komt~a49f38e5/",
@@ -908,11 +905,14 @@
         "link": "https://www.destentor.nl/lelystad/soufian-36-dacht-dat-het-oplichting-was-maar-opent-nu-zijn-eigen-sneakerwinkel-voor-een-euro-huur~ae52c245/",
         "published": "Sun, 10 May 2026 18:00:00 GMT",
         "summary": ""
-      },
+      }
+    ],
+    "Nu.nl": [],
+    "NOS": [
       {
-        "title": "Natuursafari laat inwoners de Lelystadse natuur ontdekken",
-        "link": "https://www.destentor.nl/lelystad/natuursafari-laat-inwoners-de-lelystadse-natuur-ontdekken~aee7b551/",
-        "published": "Sat, 09 May 2026 10:51:00 GMT",
+        "title": "KNVB ziet af van verhuizing naar Almere en blijft in Zeist",
+        "link": "https://nos.nl/l/2615983",
+        "published": "Wed, 27 May 2026 09:04:17 +0200",
         "summary": ""
       }
     ]

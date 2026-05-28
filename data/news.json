@@ -1,14 +1,7 @@
 {
-  "updated": "2026-05-28T16:48:40.255854+00:00",
+  "updated": "2026-05-28T19:30:53.097002+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "KNVB ziet af van verhuizing naar Almere en blijft in Zeist",
-        "link": "https://nos.nl/l/2615983",
-        "published": "Wed, 27 May 2026 09:04:17 +0200",
-        "summary": ""
-      }
-    ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Laatste overgebleven wethouder van Lelystad verlaat de politiek",
@@ -313,6 +306,12 @@
     ],
     "Radio Lelystad": [
       {
+        "title": "Elektrisch vrachttoestel dat ook op Lelystad moet vliegen komt langs",
+        "link": "https://radiolelystad.nl/pionier-toont-elektrisch-vrachtvliegtuigje-dat-vanaf-volgend-jaar-ook-op-lelystad-moet-vliegen",
+        "published": "donderdag 28 mei 2026",
+        "summary": ""
+      },
+      {
         "title": "'Pensionado' Sjaak Kruis gaat niet voor een tweede termijn als wethouder",
         "link": "https://radiolelystad.nl/sjaak-kruis-gaat-niet-voor-een-tweede-termijn-als-wethouder",
         "published": "donderdag 28 mei 2026",
@@ -605,16 +604,21 @@
         "link": "https://radiolelystad.nl/provincies-zetten-fonds-op-voor-lelylijn-en-willen-zelf-ook-tientallen-miljoenen-storten",
         "published": "donderdag 07 mei 2026",
         "summary": ""
-      },
-      {
-        "title": "Partijen buiten het raadsakkoord presenteren alternatief  ‘hoofdlijnenakkoord’",
-        "link": "https://radiolelystad.nl/vier-partijen-presenteren-hoofdlijnenakkoord-en-hopen-op-steun-op-inhoud",
-        "published": "woensdag 06 mei 2026",
-        "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Twee jaar cel voor verkrachten ex-partner, man maakte ook stiekem foto's en video's",
+        "link": "https://www.omroepflevoland.nl/nieuws/472370/twee-jaar-cel-voor-verkrachten-ex-partner-man-maakte-ook-stiekem-foto's-en-video's",
+        "published": "Thu, 28 May 2026 20:14:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Minister in beroep tegen uitspraak over vliegveld maar sluit handhaven om natuurvergunning niet uit",
+        "link": "https://www.omroepflevoland.nl/nieuws/472396/minister-in-beroep-tegen-uitspraak-over-vliegveld-maar-sluit-handhaven-om-natuurvergunning-niet-uit",
+        "published": "Thu, 28 May 2026 19:12:50 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 28/05 | Weinig klachten over noodopvang Walibi • Belangstelling van boeren op landbouwbeurs",
         "link": "https://www.omroepflevoland.nl/nieuws/472324/nieuwsoverzicht-2805-or-weinig-klachten-over-noodopvang-walibi-*-belangstelling-van-boeren-op-landbouwbeurs",
@@ -902,17 +906,13 @@
         "link": "https://www.omroepflevoland.nl/nieuws/471313/zoon-mag-huis-moeder-na-explosies-niet-meer-bezoeken-van-rechter",
         "published": "Tue, 19 May 2026 19:30:00 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Flevoland - Nieuwsoverzicht 19/05 | Kamer verkiest woningbouw boven Lelystad Airport • Zorgen in Dronten over extra opvang bij azc",
-        "link": "https://www.omroepflevoland.nl/nieuws/471323/nieuwsoverzicht-1905-or-kamer-verkiest-woningbouw-boven-lelystad-airport-*-zorgen-in-dronten-over-extra-opvang-bij-azc",
-        "published": "Tue, 19 May 2026 18:50:09 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Meerderheid Kamer: eerst stikstofoplossing voor huizen en boeren, dan pas Lelystad Airport open",
-        "link": "https://www.omroepflevoland.nl/nieuws/471335/meerderheid-kamer:-eerst-stikstofoplossing-voor-huizen-en-boeren-dan-pas-lelystad-airport-open",
-        "published": "Tue, 19 May 2026 16:27:44 GMT+0200",
+        "title": "KNVB ziet af van verhuizing naar Almere en blijft in Zeist",
+        "link": "https://nos.nl/l/2615983",
+        "published": "Wed, 27 May 2026 09:04:17 +0200",
         "summary": ""
       }
     ]

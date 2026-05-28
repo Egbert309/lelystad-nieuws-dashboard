@@ -1,7 +1,14 @@
 {
-  "updated": "2026-05-28T05:57:08.454604+00:00",
+  "updated": "2026-05-28T09:47:45.223908+00:00",
   "sources": {
+    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Recherche speurt in appartement naar sporen van vermoedelijke steekpartij, één lichtgewonde",
+        "link": "https://www.omroepflevoland.nl/nieuws/472326/recherche-speurt-in-appartement-naar-sporen-van-vermoedelijke-steekpartij-een-lichtgewonde",
+        "published": "Thu, 28 May 2026 11:31:06 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 27/05 |  Moslims vieren deze week feest  • Almere teleurgesteld over beslissing KNVB",
         "link": "https://www.omroepflevoland.nl/nieuws/472239/nieuwsoverzicht-2705-or-moslims-vieren-deze-week-feest-*-almere-teleurgesteld-over-beslissing-knvb",
@@ -294,20 +301,6 @@
         "title": "Flevoland - Nieuwsoverzicht 18/05 | Coalitie Dronten wil geen noodopvang meer • Mogelijk schietincident in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/471220/nieuwsoverzicht-1805-or-coalitie-dronten-wil-geen-noodopvang-meer-*-mogelijk-schietincident-in-lelystad",
         "published": "Mon, 18 May 2026 18:50:12 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 18/5 | Coalitie Dronten wil geen noodopvang meer • Mogelijk schietincident in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/471220/nieuwsoverzicht-185-or-coalitie-dronten-wil-geen-noodopvang-meer-*-mogelijk-schietincident-in-lelystad",
-        "published": "Mon, 18 May 2026 18:50:12 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "KNVB ziet af van verhuizing naar Almere en blijft in Zeist",
-        "link": "https://nos.nl/l/2615983",
-        "published": "Wed, 27 May 2026 09:04:17 +0200",
         "summary": ""
       }
     ],
@@ -613,10 +606,9 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
-        "title": "Raadsfractie Leefbaar Lelystad maakt zich zorgen over thuisonderwijs",
+        "title": "Mooi Lelystad en  Leefbaar maken zich zorgen over thuisonderwijs",
         "link": "https://radiolelystad.nl/raadsfractie-leefbaar-lelystad-maakt-zich-zorgen-over-thuisonderwijs",
         "published": "woensdag 27 mei 2026",
         "summary": ""
@@ -913,6 +905,14 @@
         "title": "Deal Party Players is al afgesproken, maar dat mocht ook, zeggen b. en w. na vragen raad",
         "link": "https://radiolelystad.nl/uitkopen-party-players-is-al-afgesproken-maar-dat-mocht-ook-zeggen-b-en-w-na-vragen-raad",
         "published": "woensdag 06 mei 2026",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "KNVB ziet af van verhuizing naar Almere en blijft in Zeist",
+        "link": "https://nos.nl/l/2615983",
+        "published": "Wed, 27 May 2026 09:04:17 +0200",
         "summary": ""
       }
     ]

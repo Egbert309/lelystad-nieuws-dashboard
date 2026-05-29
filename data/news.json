@@ -1,6 +1,7 @@
 {
-  "updated": "2026-05-29T22:22:08.855483+00:00",
+  "updated": "2026-05-29T23:59:13.169148+00:00",
   "sources": {
+    "Nu.nl": [],
     "NOS": [
       {
         "title": "KNVB ziet af van verhuizing naar Almere en blijft in Zeist",
@@ -914,7 +915,6 @@
         "published": "Tue, 12 May 2026 21:00:19 GMT",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

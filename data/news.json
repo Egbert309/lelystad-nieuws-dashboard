@@ -1,6 +1,7 @@
 {
-  "updated": "2026-05-30T22:43:29.912522+00:00",
+  "updated": "2026-05-30T23:47:42.243094+00:00",
   "sources": {
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Skanken bij Poppodium Corneel met de Afterbeat Club",
@@ -605,6 +606,20 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "30/5 in Nieuwsuur: De Vos op remigratie-conferentie • Expositie Gormley • De vijanden van het Westen",
+        "link": "https://nos.nl/l/2616493",
+        "published": "Sat, 30 May 2026 21:12:14 +0200",
+        "summary": ""
+      },
+      {
+        "title": "KNVB ziet af van verhuizing naar Almere en blijft in Zeist",
+        "link": "https://nos.nl/l/2615983",
+        "published": "Wed, 27 May 2026 09:04:17 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - ‘Telefooncel van de wind’ helpt Lelystedelingen bij rouwverwerking",
@@ -904,21 +919,6 @@
         "title": "Flevoland - Nieuwsoverzicht 20/05 | Koningin bezoekt Zeewolde • Motorrijder overlijdt na ongeluk A6",
         "link": "https://www.omroepflevoland.nl/nieuws/471451/nieuwsoverzicht-2005-or-koningin-bezoekt-zeewolde-*-motorrijder-overlijdt-na-ongeluk-a6",
         "published": "Wed, 20 May 2026 18:44:53 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "30/5 in Nieuwsuur: De Vos op remigratie-conferentie • Expositie Gormley • De vijanden van het Westen",
-        "link": "https://nos.nl/l/2616493",
-        "published": "Sat, 30 May 2026 21:12:14 +0200",
-        "summary": ""
-      },
-      {
-        "title": "KNVB ziet af van verhuizing naar Almere en blijft in Zeist",
-        "link": "https://nos.nl/l/2615983",
-        "published": "Wed, 27 May 2026 09:04:17 +0200",
         "summary": ""
       }
     ]

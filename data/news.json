@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T16:51:38.270948+00:00",
+  "updated": "2026-05-31T17:50:34.053918+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -605,20 +605,7 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "30/5 in Nieuwsuur: De Vos op remigratie-conferentie • Expositie Gormley • De vijanden van het Westen",
-        "link": "https://nos.nl/l/2616493",
-        "published": "Sat, 30 May 2026 21:12:14 +0200",
-        "summary": ""
-      },
-      {
-        "title": "KNVB ziet af van verhuizing naar Almere en blijft in Zeist",
-        "link": "https://nos.nl/l/2615983",
-        "published": "Wed, 27 May 2026 09:04:17 +0200",
-        "summary": ""
-      }
-    ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Almere - Wethouder moet sturing geven, niet naar 'lintjes en recepties', vindt SP",
@@ -921,6 +908,19 @@
         "summary": ""
       }
     ],
-    "Nu.nl": []
+    "NOS": [
+      {
+        "title": "30/5 in Nieuwsuur: De Vos op remigratie-conferentie • Expositie Gormley • De vijanden van het Westen",
+        "link": "https://nos.nl/l/2616493",
+        "published": "Sat, 30 May 2026 21:12:14 +0200",
+        "summary": ""
+      },
+      {
+        "title": "KNVB ziet af van verhuizing naar Almere en blijft in Zeist",
+        "link": "https://nos.nl/l/2615983",
+        "published": "Wed, 27 May 2026 09:04:17 +0200",
+        "summary": ""
+      }
+    ]
   }
 }

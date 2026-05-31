@@ -1,21 +1,7 @@
 {
-  "updated": "2026-05-31T18:57:18.964514+00:00",
+  "updated": "2026-05-31T20:01:31.024269+00:00",
   "sources": {
     "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "30/5 in Nieuwsuur: De Vos op remigratie-conferentie • Expositie Gormley • De vijanden van het Westen",
-        "link": "https://nos.nl/l/2616493",
-        "published": "Sat, 30 May 2026 21:12:14 +0200",
-        "summary": ""
-      },
-      {
-        "title": "KNVB ziet af van verhuizing naar Almere en blijft in Zeist",
-        "link": "https://nos.nl/l/2615983",
-        "published": "Wed, 27 May 2026 09:04:17 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Almere - Wethouder moet sturing geven, niet naar 'lintjes en recepties', vindt SP",
@@ -919,6 +905,20 @@
         "title": "Grootschalige stroomstoring in Almere en Lelystad aan de gang",
         "link": "https://www.destentor.nl/almere/grootschalige-stroomstoring-in-almere-en-lelystad-aan-de-gang~ab9b5f540/",
         "published": "Wed, 13 May 2026 08:38:27 GMT",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "30/5 in Nieuwsuur: De Vos op remigratie-conferentie • Expositie Gormley • De vijanden van het Westen",
+        "link": "https://nos.nl/l/2616493",
+        "published": "Sat, 30 May 2026 21:12:14 +0200",
+        "summary": ""
+      },
+      {
+        "title": "KNVB ziet af van verhuizing naar Almere en blijft in Zeist",
+        "link": "https://nos.nl/l/2615983",
+        "published": "Wed, 27 May 2026 09:04:17 +0200",
         "summary": ""
       }
     ]

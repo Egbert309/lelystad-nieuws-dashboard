@@ -1,14 +1,6 @@
 {
-  "updated": "2026-06-03T22:19:17.532860+00:00",
+  "updated": "2026-06-04T00:23:07.987530+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "30/5 in Nieuwsuur: De Vos op remigratie-conferentie • Expositie Gormley • De vijanden van het Westen",
-        "link": "https://nos.nl/l/2616493",
-        "published": "Sat, 30 May 2026 21:12:14 +0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
       {
         "title": "Excuses politie aan taxifamilie die slachtoffer was van Kempenaar Groep",
@@ -613,6 +605,15 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "30/5 in Nieuwsuur: De Vos op remigratie-conferentie • Expositie Gormley • De vijanden van het Westen",
+        "link": "https://nos.nl/l/2616493",
+        "published": "Sat, 30 May 2026 21:12:14 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Excuses van politie aan taxifamilie die beschoten, beroofd en bedreigd werd door Kempenaargroep",
@@ -914,7 +915,6 @@
         "published": "Sat, 23 May 2026 14:00:00 GMT+0200",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

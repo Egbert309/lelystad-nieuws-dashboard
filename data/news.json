@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T05:05:46.795978+00:00",
+  "updated": "2026-06-05T08:58:45.830697+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -606,7 +606,6 @@
       }
     ],
     "Nu.nl": [],
-    "NOS": [],
     "De Stentor": [
       {
         "title": "Na bom, schietincident en bedreigingen vragen ouders om straatverbod voor eigen zoon: ‘Niet meer te corrigeren’",
@@ -908,6 +907,7 @@
         "published": "Wed, 20 May 2026 15:24:30 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": []
   }
 }

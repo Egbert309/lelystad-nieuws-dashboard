@@ -1,6 +1,7 @@
 {
-  "updated": "2026-06-06T08:18:52.245564+00:00",
+  "updated": "2026-06-06T10:47:36.574915+00:00",
   "sources": {
+    "NOS": [],
     "Nu.nl": [],
     "De Stentor": [
       {
@@ -606,8 +607,13 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Almere en Urk moeten nog tientallen statushouders onderdak bieden, daardoor blijven azc's vol",
+        "link": "https://www.omroepflevoland.nl/nieuws/473273/almere-en-urk-moeten-nog-tientallen-statushouders-onderdak-bieden-daardoor-blijven-azc's-vol",
+        "published": "Sat, 06 Jun 2026 11:45:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 05/06  | Brand in milieustraat Urk •  Nieuwe spoedpost in Almere",
         "link": "https://www.omroepflevoland.nl/nieuws/473286/nieuwsoverzicht-0506-or-brand-in-milieustraat-urk-*-nieuwe-spoedpost-in-almere",
@@ -900,12 +906,6 @@
         "title": "Flevoland - Gemengde reacties op 120 miljoen extra voor ouderenwoningen: 'Doekje voor het bloeden'",
         "link": "https://www.omroepflevoland.nl/nieuws/472331/gemengde-reacties-op-120-miljoen-extra-voor-ouderenwoningen:-'doekje-voor-het-bloeden'",
         "published": "Thu, 28 May 2026 15:28:04 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Recherche speurt in appartement naar sporen van vermoedelijke steekpartij, één lichtgewonde",
-        "link": "https://www.omroepflevoland.nl/nieuws/472326/recherche-speurt-in-appartement-naar-sporen-van-vermoedelijke-steekpartij-een-lichtgewonde",
-        "published": "Thu, 28 May 2026 11:31:06 GMT+0200",
         "summary": ""
       }
     ]

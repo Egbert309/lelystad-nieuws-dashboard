@@ -1,7 +1,6 @@
 {
-  "updated": "2026-06-06T17:12:51.559286+00:00",
+  "updated": "2026-06-06T18:59:46.129118+00:00",
   "sources": {
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Raadsakkoord klaar voor de politieke beraadslaging, negen partijen zijn het eens",
@@ -304,6 +303,8 @@
         "summary": ""
       }
     ],
+    "NOS": [],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Inbrekers in Lelystad vaker succesvol dan vijf jaar geleden, en dit jaar minder actief",
@@ -907,7 +908,6 @@
         "published": "Thu, 28 May 2026 15:28:04 GMT+0200",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

@@ -1,7 +1,6 @@
 {
-  "updated": "2026-06-06T22:51:01.675073+00:00",
+  "updated": "2026-06-06T23:52:59.523221+00:00",
   "sources": {
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Unicum wint van Lunteren en blijft in de eerste klasse",
@@ -304,6 +303,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "De Stentor": [
       {
         "title": "Inbrekers in Lelystad vaker succesvol dan vijf jaar geleden, en dit jaar minder actief",
@@ -606,7 +606,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Raadsakkoord klaar voor de politieke beraadslaging, negen partijen zijn het eens",
@@ -908,6 +907,7 @@
         "published": "woensdag 13 mei 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

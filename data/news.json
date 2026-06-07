@@ -1,7 +1,13 @@
 {
-  "updated": "2026-06-07T19:00:33.711452+00:00",
+  "updated": "2026-06-07T20:56:31.813047+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Verwarde man staat op gebouw, hulpdiensten in Lelystad massaal uitgerukt",
+        "link": "https://www.omroepflevoland.nl/nieuws/473545/verwarde-man-staat-op-gebouw-hulpdiensten-in-lelystad-massaal-uitgerukt",
+        "published": "Sun, 07 Jun 2026 22:24:21 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Emmeloord - Herdenkingsbankje houdt herinnering aan piloot Floris levend: 'Hij was zo'n verbinder'",
         "link": "https://www.omroepflevoland.nl/nieuws/472895/herdenkingsbankje-houdt-herinnering-aan-piloot-floris-levend:-'hij-was-zo'n-verbinder'",
@@ -295,20 +301,14 @@
         "link": "https://www.omroepflevoland.nl/nieuws/472374/veel-boeren-hebben-belangstelling-voor-nieuwe-landbouwtechnieken-op-akkerbouwdag",
         "published": "Thu, 28 May 2026 17:03:43 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Flevoland - Flevolanders trotseren de Alpe d'Huez om geld op te halen voor kankeronderzoek",
-        "link": "https://www.omroepflevoland.nl/nieuws/472355/flevolanders-trotseren-de-alpe-d'huez-om-geld-op-te-halen-voor-kankeronderzoek",
-        "published": "Thu, 28 May 2026 16:35:31 GMT+0200",
-        "summary": ""
       }
     ],
-    "NOS": [],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "‘Opa, het is mooi geweest’: polderpionier Hajé (67) hoort het wel, maar gaat met Feikje (69) voor nieuw avontuur",
         "link": "https://www.destentor.nl/lelystad/opa-het-is-mooi-geweest-polderpionier-haje-67-hoort-het-wel-maar-gaat-met-feikje-69-voor-nieuw-avontuur~a3adf932/",
-        "published": "Sun, 07 Jun 2026 15:00:44 GMT",
+        "published": "Sun, 07 Jun 2026 15:00:00 GMT",
         "summary": ""
       },
       {
@@ -908,6 +908,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": []
+    "NOS": []
   }
 }

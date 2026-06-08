@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T00:01:34.406288+00:00",
+  "updated": "2026-06-08T05:20:36.619857+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,6 +303,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "NOS": [],
     "Radio Lelystad": [
       {
@@ -608,6 +609,24 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Lelystad - Nils begint eigen voetbalclub in Lelystad:  'Voetballen moet vooral leuk zijn'",
+        "link": "https://www.omroepflevoland.nl/nieuws/473159/nils-begint-eigen-voetbalclub-in-lelystad:-'voetballen-moet-vooral-leuk-zijn'",
+        "published": "Mon, 08 Jun 2026 06:22:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Urk - Zeldzame nazi-kaart gedigitaliseerd voor publiek en verder onderzoek",
+        "link": "https://www.omroepflevoland.nl/nieuws/473158/zeldzame-nazi-kaart-gedigitaliseerd-voor-publiek-en-verder-onderzoek",
+        "published": "Mon, 08 Jun 2026 06:11:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Hulpdiensten helpen verwarde man van dak kantoorgebouw in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/473545/hulpdiensten-helpen-verwarde-man-van-dak-kantoorgebouw-in-lelystad",
+        "published": "Sun, 07 Jun 2026 22:24:21 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Lelystad - Speciaal politieteam haalt verwarde man van dak kantoorgebouw in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/473545/speciaal-politieteam-haalt-verwarde-man-van-dak-kantoorgebouw-in-lelystad",
         "published": "Sun, 07 Jun 2026 22:24:21 GMT+0200",
@@ -888,26 +907,7 @@
         "link": "https://www.omroepflevoland.nl/nieuws/472411/meer-doorstroming-of-opnieuw-chaos-meningen-verdeeld-over-aanpak-rotonde-bij-het-ns-station-lelystad",
         "published": "Fri, 29 May 2026 07:20:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Flevoland - Vrouwen  in Flevoland krijgen minder kinderen dan gemiddeld",
-        "link": "https://www.omroepflevoland.nl/nieuws/472378/vrouwen-in-flevoland-krijgen-minder-kinderen-dan-gemiddeld",
-        "published": "Fri, 29 May 2026 06:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Twee jaar cel voor verkrachten ex-partner, man maakte ook stiekem foto's en video's",
-        "link": "https://www.omroepflevoland.nl/nieuws/472370/twee-jaar-cel-voor-verkrachten-ex-partner-man-maakte-ook-stiekem-foto's-en-video's",
-        "published": "Thu, 28 May 2026 20:14:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Minister in beroep tegen uitspraak over vliegveld maar sluit handhaven om natuurvergunning niet uit",
-        "link": "https://www.omroepflevoland.nl/nieuws/472396/minister-in-beroep-tegen-uitspraak-over-vliegveld-maar-sluit-handhaven-om-natuurvergunning-niet-uit",
-        "published": "Thu, 28 May 2026 19:12:50 GMT+0200",
-        "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

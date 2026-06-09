@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T21:26:09.631398+00:00",
+  "updated": "2026-06-09T23:06:27.153762+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -304,6 +304,7 @@
       }
     ],
     "NOS": [],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Beoogd slachtoffer laat helpdeskfraudeur uit Lelystad in de val lopen in Doornenburg",
@@ -907,7 +908,6 @@
         "published": "Sat, 23 May 2026 14:00:18 GMT",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

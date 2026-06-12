@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T18:54:52.206712+00:00",
+  "updated": "2026-06-12T20:57:08.052372+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,26 +303,7 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Lelystad ontslaat directeur jeugdzorg om 'schrikbewind', gemeente overweegt aangifte",
-        "link": "https://nos.nl/l/2618148",
-        "published": "Thu, 11 Jun 2026 20:50:55 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Parenclub gaat in vlammen op",
-        "link": "https://nos.nl/l/2618050",
-        "published": "Thu, 11 Jun 2026 09:20:35 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Grote brand verwoest parenclub in Lelystad, pand was net gekocht door gemeente",
-        "link": "https://nos.nl/l/2618043",
-        "published": "Thu, 11 Jun 2026 07:57:19 +0200",
-        "summary": ""
-      }
-    ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 12/06 | Verbod op gezichtsbedekkende kleding Urk bij rellen • Almere bezuinigt op huishoudelijke hulp",
@@ -625,18 +606,37 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Lelystad ontslaat directeur jeugdzorg om 'schrikbewind', gemeente overweegt aangifte",
+        "link": "https://nos.nl/l/2618148",
+        "published": "Thu, 11 Jun 2026 20:50:55 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Parenclub gaat in vlammen op",
+        "link": "https://nos.nl/l/2618050",
+        "published": "Thu, 11 Jun 2026 09:20:35 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Grote brand verwoest parenclub in Lelystad, pand was net gekocht door gemeente",
+        "link": "https://nos.nl/l/2618043",
+        "published": "Thu, 11 Jun 2026 07:57:19 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
+      {
+        "title": "Overval met neppistool eindigt in frituurmandjes werpen: Mitchell (24) vlucht op één schoen",
+        "link": "https://www.destentor.nl/lelystad/overval-met-neppistool-eindigt-in-frituurmandjes-werpen-mitchell-24-vlucht-op-een-schoen~ae9a39d7/",
+        "published": "Fri, 12 Jun 2026 19:20:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Woningmarkt Lelystad: 56 procent van de kopers kwam vorig jaar van buiten de gemeente",
         "link": "https://www.destentor.nl/lelystad/woningmarkt-lelystad-56-procent-van-de-kopers-kwam-vorig-jaar-van-buiten-de-gemeente~a6e04d50/",
         "published": "Fri, 12 Jun 2026 15:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Overval met neppistool eindigt in frituurmandjes werpen: Mitchell (24) vlucht op één schoen",
-        "link": "https://www.destentor.nl/lelystad/overval-met-neppistool-eindigt-in-frituurmandjes-werpen-mitchell-24-vlucht-op-een-schoen~ae9a39d7/",
-        "published": "Fri, 12 Jun 2026 15:00:00 GMT",
         "summary": ""
       },
       {

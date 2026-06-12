@@ -1,6 +1,26 @@
 {
-  "updated": "2026-06-12T09:49:18.007196+00:00",
+  "updated": "2026-06-12T12:45:48.543129+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Lelystad ontslaat directeur jeugdzorg om 'schrikbewind', gemeente overweegt aangifte",
+        "link": "https://nos.nl/l/2618148",
+        "published": "Thu, 11 Jun 2026 20:50:55 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Parenclub gaat in vlammen op",
+        "link": "https://nos.nl/l/2618050",
+        "published": "Thu, 11 Jun 2026 09:20:35 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Grote brand verwoest parenclub in Lelystad, pand was net gekocht door gemeente",
+        "link": "https://nos.nl/l/2618043",
+        "published": "Thu, 11 Jun 2026 07:57:19 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Tas met verse groente als cadeau bij geboorte baby lijkt niet haalbaar, duurder dan gedacht",
@@ -300,26 +320,6 @@
         "title": "Politie heeft zelf ook nog veel vragen over mogelijke schoten bij Larserdreef",
         "link": "https://radiolelystad.nl/politie-heeft-zelf-ook-nog-veel-vragen-over-mogelijke-schoten-bij-larserdreef",
         "published": "dinsdag 19 mei 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Lelystad ontslaat directeur jeugdzorg om 'schrikbewind', gemeente overweegt aangifte",
-        "link": "https://nos.nl/l/2618148",
-        "published": "Thu, 11 Jun 2026 20:50:55 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Parenclub gaat in vlammen op",
-        "link": "https://nos.nl/l/2618050",
-        "published": "Thu, 11 Jun 2026 09:20:35 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Grote brand verwoest parenclub in Lelystad, pand was net gekocht door gemeente",
-        "link": "https://nos.nl/l/2618043",
-        "published": "Thu, 11 Jun 2026 07:57:19 +0200",
         "summary": ""
       }
     ],
@@ -628,6 +628,24 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Flevoland - Vrachtwagen rijdt tegen slagboom: verkeershinder A6 ter hoogte van Ketelbrug",
+        "link": "https://www.omroepflevoland.nl/nieuws/474166/vrachtwagen-rijdt-tegen-slagboom:-verkeershinder-a6-ter-hoogte-van-ketelbrug",
+        "published": "Fri, 12 Jun 2026 13:31:17 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Weekendweerbericht: fris juni-weekend met soms een beetje regen",
+        "link": "https://www.omroepflevoland.nl/nieuws/474160/weekendweerbericht:-fris-juni-weekend-met-soms-een-beetje-regen",
+        "published": "Fri, 12 Jun 2026 13:23:22 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Massale vechtpartij bij partycentrum Lelystad, vijftig mensen beuken op elkaar in",
+        "link": "https://www.omroepflevoland.nl/nieuws/474146/massale-vechtpartij-bij-partycentrum-lelystad-vijftig-mensen-beuken-op-elkaar-in",
+        "published": "Fri, 12 Jun 2026 12:21:20 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Lelystad - Brand bij parenclub levert veel vragen op bij de politiek in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/474140/brand-bij-parenclub-levert-veel-vragen-op-bij-de-politiek-in-lelystad",
         "published": "Fri, 12 Jun 2026 11:40:58 GMT+0200",
@@ -907,24 +925,6 @@
         "title": "Lelystad - 'Ik doe gewoon mee': Prokkeldag brengt mensen met en zonder beperking samen",
         "link": "https://www.omroepflevoland.nl/nieuws/473313/'ik-doe-gewoon-mee':-prokkeldag-brengt-mensen-met-en-zonder-beperking-samen",
         "published": "Fri, 05 Jun 2026 16:21:52 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Negen politieke partijen zijn het eens over raadsakkoord Lelystad: elk jaar 1.400 huizen erbij",
-        "link": "https://www.omroepflevoland.nl/nieuws/473074/negen-politieke-partijen-zijn-het-eens-over-raadsakkoord-lelystad:-elk-jaar-1.400-huizen-erbij",
-        "published": "Fri, 05 Jun 2026 12:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Ruim een maand eerder dan gepland kan verkeer weer ongehinderd over een vernieuwde Oostranddreef",
-        "link": "https://www.omroepflevoland.nl/nieuws/473215/ruim-een-maand-eerder-dan-gepland-kan-verkeer-weer-ongehinderd-over-een-vernieuwde-oostranddreef",
-        "published": "Thu, 04 Jun 2026 20:57:05 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 04/06 | Irritatie over gedumpt afval in Lelystad • Haven van IJmuiden boven water",
-        "link": "https://www.omroepflevoland.nl/nieuws/473163/nieuwsoverzicht-0406-or-irritatie-over-gedumpt-afval-in-lelystad-*-haven-van-ijmuiden-boven-water",
-        "published": "Thu, 04 Jun 2026 18:45:00 GMT+0200",
         "summary": ""
       }
     ]

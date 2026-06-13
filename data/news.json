@@ -1,6 +1,7 @@
 {
-  "updated": "2026-06-13T05:11:14.874114+00:00",
+  "updated": "2026-06-13T08:41:21.117961+00:00",
   "sources": {
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Pand Party Players was wel verkocht, maar nog niet overgedragen aan de gemeente",
@@ -300,27 +301,6 @@
         "title": "Stemmen staken bij motie van afkeuring omtrent aankoop Party Players",
         "link": "https://radiolelystad.nl/stemmen-staken-bij-motie-van-afkeuring-omtrent-aankoop-party-players",
         "published": "dinsdag 19 mei 2026",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "Lelystad ontslaat directeur jeugdzorg om 'schrikbewind', gemeente overweegt aangifte",
-        "link": "https://nos.nl/l/2618148",
-        "published": "Thu, 11 Jun 2026 20:50:55 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Parenclub gaat in vlammen op",
-        "link": "https://nos.nl/l/2618050",
-        "published": "Thu, 11 Jun 2026 09:20:35 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Grote brand verwoest parenclub in Lelystad, pand was net gekocht door gemeente",
-        "link": "https://nos.nl/l/2618043",
-        "published": "Thu, 11 Jun 2026 07:57:19 +0200",
         "summary": ""
       }
     ],
@@ -925,6 +905,26 @@
         "title": "Lelystad - Unicum wint van Lunteren en blijft in de eerste klasse",
         "link": "https://www.omroepflevoland.nl/sport/473452/unicum-wint-van-lunteren-en-blijft-in-de-eerste-klasse",
         "published": "Sat, 06 Jun 2026 21:00:02 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Lelystad ontslaat directeur jeugdzorg om 'schrikbewind', gemeente overweegt aangifte",
+        "link": "https://nos.nl/l/2618148",
+        "published": "Thu, 11 Jun 2026 20:50:55 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Parenclub gaat in vlammen op",
+        "link": "https://nos.nl/l/2618050",
+        "published": "Thu, 11 Jun 2026 09:20:35 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Grote brand verwoest parenclub in Lelystad, pand was net gekocht door gemeente",
+        "link": "https://nos.nl/l/2618043",
+        "published": "Thu, 11 Jun 2026 07:57:19 +0200",
         "summary": ""
       }
     ]

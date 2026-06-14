@@ -1,6 +1,33 @@
 {
-  "updated": "2026-06-14T19:02:05.835955+00:00",
+  "updated": "2026-06-14T20:55:36.835193+00:00",
   "sources": {
+    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Criminele zoon mag niet bij zijn ouders in Lelystad komen",
+        "link": "https://nos.nl/l/2618414",
+        "published": "Sat, 13 Jun 2026 17:09:53 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad ontslaat directeur jeugdzorg om 'schrikbewind', gemeente overweegt aangifte",
+        "link": "https://nos.nl/l/2618148",
+        "published": "Thu, 11 Jun 2026 20:50:55 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Parenclub gaat in vlammen op",
+        "link": "https://nos.nl/l/2618050",
+        "published": "Thu, 11 Jun 2026 09:20:35 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Grote brand verwoest parenclub in Lelystad, pand was net gekocht door gemeente",
+        "link": "https://nos.nl/l/2618043",
+        "published": "Thu, 11 Jun 2026 07:57:19 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Tienjarig  Met Inzet Lukt Alles: 'Ik ben de vrijwilligers zo dankbaar'",
@@ -605,32 +632,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Criminele zoon mag niet bij zijn ouders in Lelystad komen",
-        "link": "https://nos.nl/l/2618414",
-        "published": "Sat, 13 Jun 2026 17:09:53 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad ontslaat directeur jeugdzorg om 'schrikbewind', gemeente overweegt aangifte",
-        "link": "https://nos.nl/l/2618148",
-        "published": "Thu, 11 Jun 2026 20:50:55 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Parenclub gaat in vlammen op",
-        "link": "https://nos.nl/l/2618050",
-        "published": "Thu, 11 Jun 2026 09:20:35 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Grote brand verwoest parenclub in Lelystad, pand was net gekocht door gemeente",
-        "link": "https://nos.nl/l/2618043",
-        "published": "Thu, 11 Jun 2026 07:57:19 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Zoon mag na elf incidenten niet meer in buurt van ouderlijk huis in Lelystad komen",
@@ -932,7 +933,6 @@
         "published": "Fri, 29 May 2026 13:22:42 GMT",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

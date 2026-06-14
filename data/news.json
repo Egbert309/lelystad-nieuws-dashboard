@@ -1,6 +1,33 @@
 {
-  "updated": "2026-06-13T23:00:05.478856+00:00",
+  "updated": "2026-06-14T00:07:10.030602+00:00",
   "sources": {
+    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Criminele zoon mag niet bij zijn ouders in Lelystad komen",
+        "link": "https://nos.nl/l/2618414",
+        "published": "Sat, 13 Jun 2026 17:09:53 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad ontslaat directeur jeugdzorg om 'schrikbewind', gemeente overweegt aangifte",
+        "link": "https://nos.nl/l/2618148",
+        "published": "Thu, 11 Jun 2026 20:50:55 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Parenclub gaat in vlammen op",
+        "link": "https://nos.nl/l/2618050",
+        "published": "Thu, 11 Jun 2026 09:20:35 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Grote brand verwoest parenclub in Lelystad, pand was net gekocht door gemeente",
+        "link": "https://nos.nl/l/2618043",
+        "published": "Thu, 11 Jun 2026 07:57:19 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Zonnepanelen onder voorwaarden welkom op huisjes werkeiland Lelystad-Haven",
@@ -303,7 +330,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Afgebrande parenclub staat nog op naam van verkoper: gemeente Lelystad wacht af",
@@ -905,32 +931,6 @@
         "title": "Stemmen staken bij motie van afkeuring omtrent aankoop Party Players",
         "link": "https://radiolelystad.nl/stemmen-staken-bij-motie-van-afkeuring-omtrent-aankoop-party-players",
         "published": "dinsdag 19 mei 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Criminele zoon mag niet bij zijn ouders in Lelystad komen",
-        "link": "https://nos.nl/l/2618414",
-        "published": "Sat, 13 Jun 2026 17:09:53 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad ontslaat directeur jeugdzorg om 'schrikbewind', gemeente overweegt aangifte",
-        "link": "https://nos.nl/l/2618148",
-        "published": "Thu, 11 Jun 2026 20:50:55 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Parenclub gaat in vlammen op",
-        "link": "https://nos.nl/l/2618050",
-        "published": "Thu, 11 Jun 2026 09:20:35 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Grote brand verwoest parenclub in Lelystad, pand was net gekocht door gemeente",
-        "link": "https://nos.nl/l/2618043",
-        "published": "Thu, 11 Jun 2026 07:57:19 +0200",
         "summary": ""
       }
     ]

@@ -1,6 +1,631 @@
 {
-  "updated": "2026-06-18T02:08:00.611789+00:00",
+  "updated": "2026-06-18T07:21:23.738925+00:00",
   "sources": {
+    "Nu.nl": [],
+    "De Stentor": [
+      {
+        "title": "FlevoMeer Bibliotheek staat stil bij Keti Koti met inspirerende middag",
+        "link": "https://www.destentor.nl/lelystad/flevomeer-bibliotheek-staat-stil-bij-keti-koti-met-inspirerende-middag~ac5c08c5/",
+        "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Miljoenendeal én getekend contract, dan brandt parenclub plots af. En de verkoper is de dupe",
+        "link": "https://www.destentor.nl/lelystad/miljoenendeal-en-getekend-contract-dan-brandt-parenclub-plots-af-en-de-verkoper-is-de-dupe~ab8bc77b/",
+        "published": "Thu, 18 Jun 2026 04:00:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland viert 40-jarig bestaan met evenement ‘Wij Flevoland’",
+        "link": "https://www.destentor.nl/lelystad/flevoland-viert-40-jarig-bestaan-met-evenement-wij-flevoland~a8fc71583/",
+        "published": "Wed, 17 Jun 2026 16:46:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "COA klopte meerdere malen bij Dronten aan voor openhouden Walibi-opvang: ‘Onbespreekbaar’",
+        "link": "https://www.destentor.nl/dronten/coa-klopte-meerdere-malen-bij-dronten-aan-voor-openhouden-walibi-opvang-onbespreekbaar~a4a8f083/",
+        "published": "Wed, 17 Jun 2026 16:39:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Nieuw model op de Hanzelijn is vooral goed nieuws voor de oren: ‘Deze treinen kunnen hard door de tunnels’",
+        "link": "https://www.destentor.nl/dronten/nieuw-model-op-de-hanzelijn-is-vooral-goed-nieuws-voor-de-oren-deze-treinen-kunnen-hard-door-de-tunnels~a4be4138/",
+        "published": "Wed, 17 Jun 2026 14:34:02 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Afgelopen week 41 meldingen van de gemeente over sloop en verkeer in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/afgelopen-week-41-meldingen-van-de-gemeente-over-sloop-en-verkeer-in-lelystad~acb7a78d/",
+        "published": "Wed, 17 Jun 2026 09:03:06 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente Lelystad maakt onderzoeken openbaar: wethouders schiepen onveilige sfeer op het stadhuis",
+        "link": "https://www.destentor.nl/lelystad/gemeente-lelystad-maakt-onderzoeken-openbaar-wethouders-schiepen-onveilige-sfeer-op-het-stadhuis~a1b74489/",
+        "published": "Tue, 16 Jun 2026 17:00:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Voor het tweede jaar op rij meer inwoners van Lelystad arbeidsongeschikt, hoogste aantal sinds 2017",
+        "link": "https://www.destentor.nl/lelystad/voor-het-tweede-jaar-op-rij-meer-inwoners-van-lelystad-arbeidsongeschikt-hoogste-aantal-sinds-2017~ae10ab83/",
+        "published": "Tue, 16 Jun 2026 15:30:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Explosie in de nacht beschadigt wooncomplex in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/explosie-in-de-nacht-beschadigt-wooncomplex-in-lelystad~a6e6aad2/",
+        "published": "Tue, 16 Jun 2026 08:12:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Schade door nachtelijke explosie bij wooncomplex in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/schade-door-nachtelijke-explosie-bij-wooncomplex-in-lelystad~a6e6aad2/",
+        "published": "Tue, 16 Jun 2026 08:12:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad in de herkansing met raadsakkoord, maar tegenstanders zijn fel: ‘Een marketingconcept’",
+        "link": "https://www.destentor.nl/lelystad/lelystad-in-de-herkansing-met-raadsakkoord-maar-tegenstanders-zijn-fel-een-marketingconcept~a5564259/",
+        "published": "Tue, 16 Jun 2026 04:00:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Medewerker van gevangenis opgepakt en ontslagen na smokkelpoging",
+        "link": "https://www.destentor.nl/lelystad/medewerker-van-gevangenis-opgepakt-en-ontslagen-na-smokkelpoging~a0ca9aa5/",
+        "published": "Mon, 15 Jun 2026 14:05:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Educatief afvalspel gelanceerd op basisscholen in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/educatief-afvalspel-gelanceerd-op-basisscholen-in-lelystad~aec17db8/",
+        "published": "Mon, 15 Jun 2026 12:00:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Zoon mag na elf incidenten niet meer in buurt van ouderlijk huis in Lelystad komen",
+        "link": "https://www.destentor.nl/lelystad/zoon-mag-na-elf-incidenten-niet-meer-in-buurt-van-ouderlijk-huis-in-lelystad-komen~a2a0dca6/",
+        "published": "Sun, 14 Jun 2026 16:46:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Politie in Lelystad gebruikt taser bij aanhouding minderjarige jongens na beroving fatbike",
+        "link": "https://www.destentor.nl/lelystad/politie-in-lelystad-gebruikt-taser-bij-aanhouding-minderjarige-jongens-na-beroving-fatbike~a3126697/",
+        "published": "Sun, 14 Jun 2026 14:42:09 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Heb jij Sammy, Winkey of Qamar gezien? Deze zeven huisdieren worden in Lelystad vermist",
+        "link": "https://www.destentor.nl/lelystad/heb-jij-sammy-winkey-of-qamar-gezien-deze-zeven-huisdieren-worden-in-lelystad-vermist~a04cd4598/",
+        "published": "Sun, 14 Jun 2026 09:11:27 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Tandartspraktijk verbijsterd over komst van concurrent aan de overkant",
+        "link": "https://www.destentor.nl/lelystad/tandartspraktijk-verbijsterd-over-komst-van-concurrent-aan-de-overkant~a86b0a12/",
+        "published": "Sat, 13 Jun 2026 18:30:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Afgebrande parenclub staat nog op naam van verkoper, gemeente Lelystad wacht af",
+        "link": "https://www.destentor.nl/lelystad/afgebrande-parenclub-staat-nog-op-naam-van-verkoper-gemeente-lelystad-wacht-af~aebf26c40/",
+        "published": "Sat, 13 Jun 2026 14:16:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Overval met neppistool eindigt in frituurmandjes werpen: Mitchell (24) vlucht op één schoen",
+        "link": "https://www.destentor.nl/lelystad/overval-met-neppistool-eindigt-in-frituurmandjes-werpen-mitchell-24-vlucht-op-een-schoen~ae9a39d7/",
+        "published": "Fri, 12 Jun 2026 19:20:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Woningmarkt Lelystad: 56 procent van de kopers kwam vorig jaar van buiten de gemeente",
+        "link": "https://www.destentor.nl/lelystad/woningmarkt-lelystad-56-procent-van-de-kopers-kwam-vorig-jaar-van-buiten-de-gemeente~a6e04d50/",
+        "published": "Fri, 12 Jun 2026 15:30:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Lara wordt wakker door app op haar telefoon, dan weet ze dat het mis is: ‘Bizar hoe snel het gaat’",
+        "link": "https://www.destentor.nl/lelystad/lara-wordt-wakker-door-app-op-haar-telefoon-dan-weet-ze-dat-het-mis-is-bizar-hoe-snel-het-gaat~a91e587f7/",
+        "published": "Thu, 11 Jun 2026 18:00:37 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Asbest gevonden na brand parenclub Lelystad, maar: ‘Geen gevaar voor gezondheid’",
+        "link": "https://www.destentor.nl/lelystad/asbest-gevonden-na-brand-parenclub-lelystad-maar-geen-gevaar-voor-gezondheid~abaf1039/",
+        "published": "Thu, 11 Jun 2026 14:39:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Stroomstoring op Wold in Lelystad opgelost",
+        "link": "https://www.destentor.nl/lelystad/stroomstoring-op-wold-in-lelystad-opgelost~a5c236a1/",
+        "published": "Thu, 11 Jun 2026 11:14:53 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Stroomstoring op Wold in Lelystad op dit moment",
+        "link": "https://www.destentor.nl/lelystad/stroomstoring-op-wold-in-lelystad-op-dit-moment~a5c236a1/",
+        "published": "Thu, 11 Jun 2026 11:14:53 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad ontslaat jeugdzorgdirecteur na ‘intimidatie, bedreigingen en vernederingen’",
+        "link": "https://www.destentor.nl/lelystad/lelystad-ontslaat-jeugdzorgdirecteur-na-intimidatie-bedreigingen-en-vernederingen~a2e17e93/",
+        "published": "Thu, 11 Jun 2026 10:35:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Auto’s rijden over groot voorwerp op Ketelbrug met flinke file tot gevolg",
+        "link": "https://www.destentor.nl/lelystad/autos-rijden-over-groot-voorwerp-op-ketelbrug-met-flinke-file-tot-gevolg~ab850e77/",
+        "published": "Thu, 11 Jun 2026 07:57:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "‘Huursoldaat’ die explosief legt in Lelystad geronseld via Snapchat door makelaar in geweld",
+        "link": "https://www.destentor.nl/lelystad/huursoldaat-die-explosief-legt-in-lelystad-geronseld-via-snapchat-door-makelaar-in-geweld~a018e899/",
+        "published": "Thu, 11 Jun 2026 05:00:36 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Prognose: meer dan 27.000 laadpalen in Lelystad nodig voor volledig elektrisch rijden in 2050",
+        "link": "https://www.destentor.nl/lelystad/prognose-meer-dan-27-000-laadpalen-in-lelystad-nodig-voor-volledig-elektrisch-rijden-in-2050~ac648611/",
+        "published": "Wed, 10 Jun 2026 15:30:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Kinderen maken eigen animatiefilm in de bieb, later deze maand ook workshop 3D-printen",
+        "link": "https://www.destentor.nl/lelystad/kinderen-maken-eigen-animatiefilm-in-de-bieb-later-deze-maand-ook-workshop-3d-printen~a1150dde/",
+        "published": "Wed, 10 Jun 2026 10:41:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Afgelopen week 58 meldingen van de gemeente over bouw, sloop, bomenkap en horeca in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/afgelopen-week-58-meldingen-van-de-gemeente-over-bouw-sloop-bomenkap-en-horeca-in-lelystad~a5077eaa/",
+        "published": "Wed, 10 Jun 2026 09:02:40 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Slager uit Lelystad hoort eis van zeven jaar cel: ‘Ik ben de verliezer, ik heb alles verloren’",
+        "link": "https://www.destentor.nl/lelystad/slager-uit-lelystad-hoort-eis-van-zeven-jaar-cel-ik-ben-de-verliezer-ik-heb-alles-verloren~a7d5ac8b/",
+        "published": "Wed, 10 Jun 2026 08:00:16 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Mario (62) organiseert WK-feestje, maar moet spandoeken weghalen: ‘Hebben de boa’s niks beters te doen?’",
+        "link": "https://www.destentor.nl/lelystad/mario-62-organiseert-wk-feestje-maar-moet-spandoeken-weghalen-hebben-de-boas-niks-beters-te-doen~a7f551c3e/",
+        "published": "Tue, 09 Jun 2026 18:30:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Alerte vrouw waarschuwt politie: fraudeur (19) uit Lelystad aangehouden in haar huis",
+        "link": "https://www.destentor.nl/lelystad/alerte-vrouw-waarschuwt-politie-fraudeur-19-uit-lelystad-aangehouden-in-haar-huis~a3d8c792/",
+        "published": "Tue, 09 Jun 2026 16:07:25 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Na jaren ligt er nu echt een plan voor ‘mini-Dubai’ voor de kust van Lelystad",
+        "link": "https://www.destentor.nl/lelystad/na-jaren-ligt-er-nu-echt-een-plan-voor-mini-dubai-voor-de-kust-van-lelystad~a12e66a4/",
+        "published": "Tue, 09 Jun 2026 04:00:20 GMT",
+        "summary": ""
+      },
+      {
+        "title": "2700 woningen, stadsstrand, en een boulevard: ‘mini-Dubai’ in Markermeer dichterbij dan ooit",
+        "link": "https://www.destentor.nl/lelystad/2700-woningen-stadsstrand-en-een-boulevard-mini-dubai-in-markermeer-dichterbij-dan-ooit~a12e66a4/",
+        "published": "Tue, 09 Jun 2026 04:00:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Oostranddreef in Lelystad weer open na grootschalige vernieuwing",
+        "link": "https://www.destentor.nl/lelystad/oostranddreef-in-lelystad-weer-open-na-grootschalige-vernieuwing~acc2f81b/",
+        "published": "Mon, 08 Jun 2026 15:40:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Ongeluk in Lelystad afgehandeld, rijstrook weer open op A6",
+        "link": "https://www.destentor.nl/lelystad/ongeluk-in-lelystad-afgehandeld-rijstrook-weer-open-op-a6~a1a0d5d8/",
+        "published": "Mon, 08 Jun 2026 06:53:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "‘Opa, het is mooi geweest’: polderpionier Hajé (67) hoort het wel, maar gaat met Feikje (69) voor nieuw avontuur",
+        "link": "https://www.destentor.nl/lelystad/opa-het-is-mooi-geweest-polderpionier-haje-67-hoort-het-wel-maar-gaat-met-feikje-69-voor-nieuw-avontuur~a3adf932/",
+        "published": "Sun, 07 Jun 2026 15:00:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Unicum blijft in de eerste klasse dankzij Torino Hunte, een vrijwel vergeten voetballer",
+        "link": "https://www.destentor.nl/regio-zwolle/unicum-blijft-in-de-eerste-klasse-dankzij-torino-hunte-een-vrijwel-vergeten-voetballer~a8d2dec9/",
+        "published": "Sun, 07 Jun 2026 09:36:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Heb jij Teddy gezien? Dit huisdier wordt in Lelystad vermist",
+        "link": "https://www.destentor.nl/lelystad/heb-jij-teddy-gezien-dit-huisdier-wordt-in-lelystad-vermist~a4adaad5/",
+        "published": "Sun, 07 Jun 2026 09:11:17 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Inbrekers in Lelystad vaker succesvol dan vijf jaar geleden, en dit jaar minder actief",
+        "link": "https://www.destentor.nl/lelystad/inbrekers-in-lelystad-vaker-succesvol-dan-vijf-jaar-geleden-en-dit-jaar-minder-actief~a141b014/",
+        "published": "Fri, 05 Jun 2026 15:30:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Stroomstoring in Lelystad opgelost",
+        "link": "https://www.destentor.nl/lelystad/stroomstoring-in-lelystad-opgelost~a913770d/",
+        "published": "Fri, 05 Jun 2026 13:08:52 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Flinke stroomstoring in Lelystad op dit moment",
+        "link": "https://www.destentor.nl/lelystad/flinke-stroomstoring-in-lelystad-op-dit-moment~a913770d/",
+        "published": "Fri, 05 Jun 2026 13:08:52 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Stroomstoring op Wold in Lelystad aan de gang",
+        "link": "https://www.destentor.nl/lelystad/stroomstoring-op-wold-in-lelystad-aan-de-gang~a913770d/",
+        "published": "Fri, 05 Jun 2026 13:08:52 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad probeert het na bestuurlijke chaos opnieuw met breed raadsakkoord: dit zijn de plannen",
+        "link": "https://www.destentor.nl/lelystad/lelystad-probeert-het-na-bestuurlijke-chaos-opnieuw-met-breed-raadsakkoord-dit-zijn-de-plannen~afe83c3f/",
+        "published": "Fri, 05 Jun 2026 10:00:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Na bom, schietincident en bedreigingen vragen ouders om straatverbod voor eigen zoon: ‘Niet meer te corrigeren’",
+        "link": "https://www.destentor.nl/lelystad/na-bom-schietincident-en-bedreigingen-vragen-ouders-om-straatverbod-voor-eigen-zoon-niet-meer-te-corrigeren~adae72d8/",
+        "published": "Thu, 04 Jun 2026 19:40:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Koningin Máxima opent batterijpark bij centrale in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/koningin-maxima-opent-batterijpark-bij-centrale-in-lelystad~a8d6cf74/",
+        "published": "Thu, 04 Jun 2026 12:32:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Boeken, muziek en ontmoeting in FlevoMeer Bibliotheek Lelystad",
+        "link": "https://www.destentor.nl/lelystad/boeken-muziek-en-ontmoeting-in-flevomeer-bibliotheek-lelystad~a5dee72c/",
+        "published": "Thu, 04 Jun 2026 07:00:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Prinses Viktória bezoekt Taalschool Lelystad: ‘Ik hoop de lichtpuntjes te laten zien’",
+        "link": "https://www.destentor.nl/lelystad/prinses-viktoria-bezoekt-taalschool-lelystad-ik-hoop-de-lichtpuntjes-te-laten-zien~a85dc884/",
+        "published": "Wed, 03 Jun 2026 15:32:46 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente Lelystad moet dit jaar nog 84 statushouders huisvesten",
+        "link": "https://www.destentor.nl/lelystad/gemeente-lelystad-moet-dit-jaar-nog-84-statushouders-huisvesten~ad045e4f/",
+        "published": "Wed, 03 Jun 2026 15:29:00 GMT",
+        "summary": ""
+      }
+    ],
+    "Omroep Flevoland": [
+      {
+        "title": "Swifterbant - Zoon na dodelijke aanrijding van zijn vader op Elandweg: 'Wij hebben geen afscheid kunnen nemen’",
+        "link": "https://www.omroepflevoland.nl/nieuws/512786/zoon-na-dodelijke-aanrijding-van-zijn-vader-op-elandweg:-'wij-hebben-geen-afscheid-kunnen-nemen'",
+        "published": "Thu, 18 Jun 2026 07:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Netcongestie zit natuurcamping dwars - kleinere camping is plan B",
+        "link": "https://www.omroepflevoland.nl/nieuws/512798/netcongestie-zit-natuurcamping-dwars-kleinere-camping-is-plan-b",
+        "published": "Thu, 18 Jun 2026 06:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Technische storing op website gemeente: digitaal aanvragen doen lukt niet",
+        "link": "https://www.omroepflevoland.nl/nieuws/512736/technische-storing-op-website-gemeente:-digitaal-aanvragen-doen-lukt-niet",
+        "published": "Wed, 17 Jun 2026 20:31:05 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Minister beperkt aantal 'grotere' vliegtuigen op Lelystad Airport",
+        "link": "https://www.omroepflevoland.nl/nieuws/512741/minister-beperkt-aantal-'grotere'-vliegtuigen-op-lelystad-airport",
+        "published": "Wed, 17 Jun 2026 19:12:14 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 17/06 | Niet genoeg controles op straatintimidatie • Burgemeester onder druk",
+        "link": "https://www.omroepflevoland.nl/nieuws/512768/nieuwsoverzicht-1706-or-niet-genoeg-controles-op-straatintimidatie-*-burgemeester-onder-druk",
+        "published": "Wed, 17 Jun 2026 18:50:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - File op Larserweg bij Lelystad door aanrijding tussen twee auto's",
+        "link": "https://www.omroepflevoland.nl/nieuws/512774/file-op-larserweg-bij-lelystad-door-aanrijding-tussen-twee-auto's",
+        "published": "Wed, 17 Jun 2026 18:01:53 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Agenten slingeren 40 fatbikebestuurders in Lelystad op de bon, vier fietsen in beslag genomen",
+        "link": "https://www.omroepflevoland.nl/nieuws/512746/agenten-slingeren-40-fatbikebestuurders-in-lelystad-op-de-bon-vier-fietsen-in-beslag-genomen",
+        "published": "Wed, 17 Jun 2026 17:49:34 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Dronten - Burgemeester Dronten stemde in met extra noodopvang asielzoekers na 'hoge bestuurlijke druk'",
+        "link": "https://www.omroepflevoland.nl/nieuws/512636/burgemeester-dronten-stemde-in-met-extra-noodopvang-asielzoekers-na-'hoge-bestuurlijke-druk'",
+        "published": "Wed, 17 Jun 2026 15:23:56 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Besluit over bouw 2.700 woningen bij Lelystadse kust uitgesteld",
+        "link": "https://www.omroepflevoland.nl/nieuws/512646/besluit-over-bouw-2.700-woningen-bij-lelystadse-kust-uitgesteld",
+        "published": "Wed, 17 Jun 2026 11:06:15 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 16/06 | Oplossing voor taxi-oorlog Almere • Explosie bij appartementen Lars Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/512585/nieuwsoverzicht-1606-or-oplossing-voor-taxi-oorlog-almere-*-explosie-bij-appartementen-lars-lelystad",
+        "published": "Tue, 16 Jun 2026 18:48:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Jongen (18) had 'cruciale' rol in overval juwelier Batavia Stad en moet de cel in",
+        "link": "https://www.omroepflevoland.nl/nieuws/512596/jongen-(18)-had-'cruciale'-rol-in-overval-juwelier-batavia-stad-en-moet-de-cel-in",
+        "published": "Tue, 16 Jun 2026 18:10:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Onderzoek legt wangedrag oud-wethouders bloot: 'Het zijn allemaal randdebielen'",
+        "link": "https://www.omroepflevoland.nl/nieuws/512602/onderzoek-legt-wangedrag-oud-wethouders-bloot:-'het-zijn-allemaal-randdebielen'",
+        "published": "Tue, 16 Jun 2026 16:06:30 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Gewonde bij autobrand in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/512589/gewonde-bij-autobrand-in-lelystad",
+        "published": "Tue, 16 Jun 2026 15:25:40 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Boswachter baalt van wekelijkse afvaldump: 'Hier word ik wel verdrietig van'",
+        "link": "https://www.omroepflevoland.nl/nieuws/512586/boswachter-baalt-van-wekelijkse-afvaldump:-'hier-word-ik-wel-verdrietig-van'",
+        "published": "Tue, 16 Jun 2026 15:06:56 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Explosie bij appartementencomplex Lars Lelystad, deur en gevel raken beschadigd",
+        "link": "https://www.omroepflevoland.nl/nieuws/512568/explosie-bij-appartementencomplex-lars-lelystad-deur-en-gevel-raken-beschadigd",
+        "published": "Tue, 16 Jun 2026 10:56:01 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Oppositie kritisch op financiën nieuw raadsakkoord, maar voorstel krijgt brede steun",
+        "link": "https://www.omroepflevoland.nl/nieuws/474584/oppositie-kritisch-op-financien-nieuw-raadsakkoord-maar-voorstel-krijgt-brede-steun",
+        "published": "Tue, 16 Jun 2026 10:18:59 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 15/06 | Burgemeester baalt van einde noodopvang  •  Update in vermissingszaak Marc Jaskulski",
+        "link": "https://www.omroepflevoland.nl/nieuws/474539/nieuwsoverzicht-1506-or-burgemeester-baalt-van-einde-noodopvang-*-update-in-vermissingszaak-marc-jaskulski",
+        "published": "Mon, 15 Jun 2026 18:56:31 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Collega's betrappen medewerker van gevangenis in Lelystad die verboden spullen naar binnen wilde smokkelen",
+        "link": "https://www.omroepflevoland.nl/nieuws/474536/collega's-betrappen-medewerker-van-gevangenis-in-lelystad-die-verboden-spullen-naar-binnen-wilde-smokkelen",
+        "published": "Mon, 15 Jun 2026 15:27:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Noordoostpolder - Geen coffeeshop, wel brede aanpak drugsgebruik in coalitieakkoord Noordoostpolder",
+        "link": "https://www.omroepflevoland.nl/nieuws/474517/geen-coffeeshop-wel-brede-aanpak-drugsgebruik-in-coalitieakkoord-noordoostpolder",
+        "published": "Mon, 15 Jun 2026 14:10:55 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Huurdersvereniging: 'Centrada moet meer doen tegen schimmelwoningen'",
+        "link": "https://www.omroepflevoland.nl/nieuws/472915/huurdersvereniging:-'centrada-moet-meer-doen-tegen-schimmelwoningen'",
+        "published": "Mon, 15 Jun 2026 06:04:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Tienjarig  Met Inzet Lukt Alles: 'Ik ben de vrijwilligers zo dankbaar'",
+        "link": "https://www.omroepflevoland.nl/nieuws/474424/tienjarig-met-inzet-lukt-alles:-'ik-ben-de-vrijwilligers-zo-dankbaar'",
+        "published": "Sun, 14 Jun 2026 18:15:09 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Twee minderjarige jongens aangehouden na stelen van fatbike in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/474416/twee-minderjarige-jongens-aangehouden-na-stelen-van-fatbike-in-lelystad",
+        "published": "Sun, 14 Jun 2026 16:18:31 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Twee minderjarige jongens aangehouden na beroving van fatbike in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/474416/twee-minderjarige-jongens-aangehouden-na-beroving-van-fatbike-in-lelystad",
+        "published": "Sun, 14 Jun 2026 16:18:31 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Van verdwenen onderzoek tot ‘couppoging’: waarom het de Lelystadse politiek maar niet lukt om de jeugdzorg op orde te krijgen",
+        "link": "https://www.omroepflevoland.nl/nieuws/474178/van-verdwenen-onderzoek-tot-'couppoging':-waarom-het-de-lelystadse-politiek-maar-niet-lukt-om-de-jeugdzorg-op-orde-te-krijgen",
+        "published": "Sun, 14 Jun 2026 10:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Wethouder Kruis stond op het punt op te stappen: 'Kon het niet verantwoorden'",
+        "link": "https://www.omroepflevoland.nl/nieuws/474169/wethouder-kruis-stond-op-het-punt-op-te-stappen:-'kon-het-niet-verantwoorden'",
+        "published": "Sun, 14 Jun 2026 09:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Zonnepanelen onder voorwaarden welkom op huisjes werkeiland Lelystad-Haven",
+        "link": "https://www.omroepflevoland.nl/nieuws/474035/zonnepanelen-onder-voorwaarden-welkom-op-huisjes-werkeiland-lelystad-haven",
+        "published": "Sat, 13 Jun 2026 19:02:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Lelystadse familie krijgt 'vurig' gewenst straatverbod voor volwassen zoon na reeks incidenten",
+        "link": "https://www.omroepflevoland.nl/nieuws/474204/lelystadse-familie-krijgt-'vurig'-gewenst-straatverbod-voor-volwassen-zoon-na-reeks-incidenten",
+        "published": "Sat, 13 Jun 2026 13:57:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Onderzoek naar Lelystadse incestzaak tegen man (61) loopt nog",
+        "link": "https://www.omroepflevoland.nl/nieuws/474210/onderzoek-naar-lelystadse-incestzaak-tegen-man-(61)-loopt-nog",
+        "published": "Sat, 13 Jun 2026 11:38:51 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 12/06 | Verbod op gezichtsbedekkende kleding Urk bij rellen • Almere bezuinigt op huishoudelijke hulp",
+        "link": "https://www.omroepflevoland.nl/nieuws/473714/nieuwsoverzicht-1206-or-verbod-op-gezichtsbedekkende-kleding-urk-bij-rellen-*-almere-bezuinigt-op-huishoudelijke-hulp",
+        "published": "Fri, 12 Jun 2026 18:03:45 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Gemeente: nog veel onduidelijk over deal parenclub na verwoestende brand",
+        "link": "https://www.omroepflevoland.nl/nieuws/474181/gemeente:-nog-veel-onduidelijk-over-deal-parenclub-na-verwoestende-brand",
+        "published": "Fri, 12 Jun 2026 16:33:05 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Van voetbaltalent naar overval op de Happie Snack: hoe kon het zo misgaan?",
+        "link": "https://www.omroepflevoland.nl/nieuws/474162/van-voetbaltalent-naar-overval-op-de-happie-snack:-hoe-kon-het-zo-misgaan",
+        "published": "Fri, 12 Jun 2026 14:53:01 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Vrachtwagen rijdt tegen slagboom: verkeer op A6 ter hoogte van Ketelbrug gehinderd",
+        "link": "https://www.omroepflevoland.nl/nieuws/474166/vrachtwagen-rijdt-tegen-slagboom:-verkeer-op-a6-ter-hoogte-van-ketelbrug-gehinderd",
+        "published": "Fri, 12 Jun 2026 13:31:17 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Vrachtwagen rijdt tegen slagboom: verkeershinder A6 ter hoogte van Ketelbrug",
+        "link": "https://www.omroepflevoland.nl/nieuws/474166/vrachtwagen-rijdt-tegen-slagboom:-verkeershinder-a6-ter-hoogte-van-ketelbrug",
+        "published": "Fri, 12 Jun 2026 13:31:17 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Weekendweerbericht: fris juni-weekend met soms een beetje regen",
+        "link": "https://www.omroepflevoland.nl/nieuws/474160/weekendweerbericht:-fris-juni-weekend-met-soms-een-beetje-regen",
+        "published": "Fri, 12 Jun 2026 13:23:22 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Massale vechtpartij bij partycentrum Lelystad, vijftig mensen beuken op elkaar in",
+        "link": "https://www.omroepflevoland.nl/nieuws/474146/massale-vechtpartij-bij-partycentrum-lelystad-vijftig-mensen-beuken-op-elkaar-in",
+        "published": "Fri, 12 Jun 2026 12:21:20 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Brand bij parenclub levert veel vragen op bij de politiek in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/474140/brand-bij-parenclub-levert-veel-vragen-op-bij-de-politiek-in-lelystad",
+        "published": "Fri, 12 Jun 2026 11:40:58 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Brandresten gevonden in de tuin? Geen zorgen, maar let wel goed op, zegt gemeente Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/474118/brandresten-gevonden-in-de-tuin-geen-zorgen-maar-let-wel-goed-op-zegt-gemeente-lelystad",
+        "published": "Fri, 12 Jun 2026 10:20:34 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Babygroentetas in Lelystad lijkt niet haalbaar: 'geen aanbieders en te duur'",
+        "link": "https://www.omroepflevoland.nl/nieuws/474040/babygroentetas-in-lelystad-lijkt-niet-haalbaar:-'geen-aanbieders-en-te-duur'",
+        "published": "Fri, 12 Jun 2026 09:33:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Scholieren op de fiets naar Den Haag voor overhandiging van cheque aan de Hersenstichting",
+        "link": "https://www.omroepflevoland.nl/nieuws/474041/scholieren-op-de-fiets-naar-den-haag-voor-overhandiging-van-cheque-aan-de-hersenstichting",
+        "published": "Fri, 12 Jun 2026 06:44:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Zeewolde - Wie dit weekend naar Harderwijk wil moet omrijden: kruispunt Gooiseweg/Ganzenweg grotendeels afgesloten",
+        "link": "https://www.omroepflevoland.nl/nieuws/473993/wie-dit-weekend-naar-harderwijk-wil-moet-omrijden:-kruispunt-gooisewegganzenweg-grotendeels-afgesloten",
+        "published": "Fri, 12 Jun 2026 05:55:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Wachten op het verlossende telefoontje: feest en verdriet bij de eindexamenuitslagen",
+        "link": "https://www.omroepflevoland.nl/nieuws/474051/wachten-op-het-verlossende-telefoontje:-feest-en-verdriet-bij-de-eindexamenuitslagen",
+        "published": "Thu, 11 Jun 2026 19:08:36 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 11/06 | Gemeente Lelystad ontslaat directeur  jeugdzorgorganisatie  • Hogere straf voor Urker visser dan geëist",
+        "link": "https://www.omroepflevoland.nl/nieuws/473713/nieuwsoverzicht-1106-or-gemeente-lelystad-ontslaat-directeur-jeugdzorgorganisatie-*-hogere-straf-voor-urker-visser-dan-geeist",
+        "published": "Thu, 11 Jun 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Treinen op Flevolijn en Hanzelijn krijgen volgend jaar lijnnummers",
+        "link": "https://www.omroepflevoland.nl/nieuws/474017/treinen-op-flevolijn-en-hanzelijn-krijgen-volgend-jaar-lijnnummers",
+        "published": "Thu, 11 Jun 2026 15:24:43 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - NS wil met lijnnummers treinreizen in Flevoland eenvoudiger maken",
+        "link": "https://www.omroepflevoland.nl/nieuws/474017/ns-wil-met-lijnnummers-treinreizen-in-flevoland-eenvoudiger-maken",
+        "published": "Thu, 11 Jun 2026 15:24:43 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - 'Grove misdragingen' leiden tot ontslag directeur jeugdzorg Lelystad, gemeente overweegt aangifte",
+        "link": "https://www.omroepflevoland.nl/nieuws/473999/'grove-misdragingen'-leiden-tot-ontslag-directeur-jeugdzorg-lelystad-gemeente-overweegt-aangifte",
+        "published": "Thu, 11 Jun 2026 12:20:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Meerdere auto's beschadigd door stalen object op Ketelbrug",
+        "link": "https://www.omroepflevoland.nl/nieuws/473992/meerdere-auto's-beschadigd-door-stalen-object-op-ketelbrug",
+        "published": "Thu, 11 Jun 2026 11:24:27 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Lange file op Ketelbrug door groot  stalen voorwerp, meerdere auto's beschadigd",
+        "link": "https://www.omroepflevoland.nl/nieuws/473992/lange-file-op-ketelbrug-door-groot-stalen-voorwerp-meerdere-auto's-beschadigd",
+        "published": "Thu, 11 Jun 2026 11:24:27 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Net door gemeente gekochte parenclub in Lelystad verwoest door brand",
+        "link": "https://www.omroepflevoland.nl/nieuws/473965/net-door-gemeente-gekochte-parenclub-in-lelystad-verwoest-door-brand",
+        "published": "Thu, 11 Jun 2026 06:55:53 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Grote uitslaande brand bij parenclub Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/473965/grote-uitslaande-brand-bij-parenclub-lelystad",
+        "published": "Thu, 11 Jun 2026 06:55:53 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Urk - SGP op Urk 'not amused' over antwoord aan kerken die willen helpen bij dakloosheid",
+        "link": "https://www.omroepflevoland.nl/nieuws/473784/sgp-op-urk-'not-amused'-over-antwoord-aan-kerken-die-willen-helpen-bij-dakloosheid",
+        "published": "Wed, 10 Jun 2026 20:27:44 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Drenthe brengt met 50 miljoen Nedersaksenlijn stukje dichterbij",
+        "link": "https://nos.nl/l/2619112",
+        "published": "Thu, 18 Jun 2026 08:48:10 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Onderzoek naar opgestapte wethouders Lelystad: patroon van denigrerend gedrag",
+        "link": "https://nos.nl/l/2618907",
+        "published": "Tue, 16 Jun 2026 22:50:24 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Criminele zoon mag niet bij zijn ouders in Lelystad komen",
+        "link": "https://nos.nl/l/2618414",
+        "published": "Sat, 13 Jun 2026 17:09:53 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Aanscherpen regels thuisonderwijs heeft volgens het stadhuis weinig gevolgen",
@@ -300,625 +925,6 @@
         "title": "Woningen in Bastion en Marderhoek gesloten na aantreffen hennepplantages",
         "link": "https://radiolelystad.nl/woningen-in-bastion-en-marderhoek-gesloten-na-aantreffen-hennepplantages",
         "published": "vrijdag 22 mei 2026",
-        "summary": ""
-      }
-    ],
-    "De Stentor": [
-      {
-        "title": "Flevoland viert 40-jarig bestaan met evenement ‘Wij Flevoland’",
-        "link": "https://www.destentor.nl/lelystad/flevoland-viert-40-jarig-bestaan-met-evenement-wij-flevoland~a8fc71583/",
-        "published": "Wed, 17 Jun 2026 16:46:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "COA klopte meerdere malen bij Dronten aan voor openhouden Walibi-opvang: ‘Onbespreekbaar’",
-        "link": "https://www.destentor.nl/dronten/coa-klopte-meerdere-malen-bij-dronten-aan-voor-openhouden-walibi-opvang-onbespreekbaar~a4a8f083/",
-        "published": "Wed, 17 Jun 2026 16:39:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Nieuw model op de Hanzelijn is vooral goed nieuws voor de oren: ‘Deze treinen kunnen hard door de tunnels’",
-        "link": "https://www.destentor.nl/dronten/nieuw-model-op-de-hanzelijn-is-vooral-goed-nieuws-voor-de-oren-deze-treinen-kunnen-hard-door-de-tunnels~a4be4138/",
-        "published": "Wed, 17 Jun 2026 14:34:02 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Afgelopen week 41 meldingen van de gemeente over sloop en verkeer in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-41-meldingen-van-de-gemeente-over-sloop-en-verkeer-in-lelystad~acb7a78d/",
-        "published": "Wed, 17 Jun 2026 09:03:06 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente Lelystad maakt onderzoeken openbaar: wethouders schiepen onveilige sfeer op het stadhuis",
-        "link": "https://www.destentor.nl/lelystad/gemeente-lelystad-maakt-onderzoeken-openbaar-wethouders-schiepen-onveilige-sfeer-op-het-stadhuis~a1b74489/",
-        "published": "Tue, 16 Jun 2026 17:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Voor het tweede jaar op rij meer inwoners van Lelystad arbeidsongeschikt, hoogste aantal sinds 2017",
-        "link": "https://www.destentor.nl/lelystad/voor-het-tweede-jaar-op-rij-meer-inwoners-van-lelystad-arbeidsongeschikt-hoogste-aantal-sinds-2017~ae10ab83/",
-        "published": "Tue, 16 Jun 2026 15:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Explosie in de nacht beschadigt wooncomplex in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/explosie-in-de-nacht-beschadigt-wooncomplex-in-lelystad~a6e6aad2/",
-        "published": "Tue, 16 Jun 2026 08:12:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Schade door nachtelijke explosie bij wooncomplex in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/schade-door-nachtelijke-explosie-bij-wooncomplex-in-lelystad~a6e6aad2/",
-        "published": "Tue, 16 Jun 2026 08:12:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad in de herkansing met raadsakkoord, maar tegenstanders zijn fel: ‘Een marketingconcept’",
-        "link": "https://www.destentor.nl/lelystad/lelystad-in-de-herkansing-met-raadsakkoord-maar-tegenstanders-zijn-fel-een-marketingconcept~a5564259/",
-        "published": "Tue, 16 Jun 2026 04:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Medewerker van gevangenis opgepakt en ontslagen na smokkelpoging",
-        "link": "https://www.destentor.nl/lelystad/medewerker-van-gevangenis-opgepakt-en-ontslagen-na-smokkelpoging~a0ca9aa5/",
-        "published": "Mon, 15 Jun 2026 14:05:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Educatief afvalspel gelanceerd op basisscholen in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/educatief-afvalspel-gelanceerd-op-basisscholen-in-lelystad~aec17db8/",
-        "published": "Mon, 15 Jun 2026 12:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Zoon mag na elf incidenten niet meer in buurt van ouderlijk huis in Lelystad komen",
-        "link": "https://www.destentor.nl/lelystad/zoon-mag-na-elf-incidenten-niet-meer-in-buurt-van-ouderlijk-huis-in-lelystad-komen~a2a0dca6/",
-        "published": "Sun, 14 Jun 2026 16:46:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Politie in Lelystad gebruikt taser bij aanhouding minderjarige jongens na beroving fatbike",
-        "link": "https://www.destentor.nl/lelystad/politie-in-lelystad-gebruikt-taser-bij-aanhouding-minderjarige-jongens-na-beroving-fatbike~a3126697/",
-        "published": "Sun, 14 Jun 2026 14:42:09 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Heb jij Sammy, Winkey of Qamar gezien? Deze zeven huisdieren worden in Lelystad vermist",
-        "link": "https://www.destentor.nl/lelystad/heb-jij-sammy-winkey-of-qamar-gezien-deze-zeven-huisdieren-worden-in-lelystad-vermist~a04cd4598/",
-        "published": "Sun, 14 Jun 2026 09:11:27 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Tandartspraktijk verbijsterd over komst van concurrent aan de overkant",
-        "link": "https://www.destentor.nl/lelystad/tandartspraktijk-verbijsterd-over-komst-van-concurrent-aan-de-overkant~a86b0a12/",
-        "published": "Sat, 13 Jun 2026 18:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Afgebrande parenclub staat nog op naam van verkoper, gemeente Lelystad wacht af",
-        "link": "https://www.destentor.nl/lelystad/afgebrande-parenclub-staat-nog-op-naam-van-verkoper-gemeente-lelystad-wacht-af~aebf26c40/",
-        "published": "Sat, 13 Jun 2026 14:16:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Overval met neppistool eindigt in frituurmandjes werpen: Mitchell (24) vlucht op één schoen",
-        "link": "https://www.destentor.nl/lelystad/overval-met-neppistool-eindigt-in-frituurmandjes-werpen-mitchell-24-vlucht-op-een-schoen~ae9a39d7/",
-        "published": "Fri, 12 Jun 2026 19:20:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Woningmarkt Lelystad: 56 procent van de kopers kwam vorig jaar van buiten de gemeente",
-        "link": "https://www.destentor.nl/lelystad/woningmarkt-lelystad-56-procent-van-de-kopers-kwam-vorig-jaar-van-buiten-de-gemeente~a6e04d50/",
-        "published": "Fri, 12 Jun 2026 15:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Lara wordt wakker door app op haar telefoon, dan weet ze dat het mis is: ‘Bizar hoe snel het gaat’",
-        "link": "https://www.destentor.nl/lelystad/lara-wordt-wakker-door-app-op-haar-telefoon-dan-weet-ze-dat-het-mis-is-bizar-hoe-snel-het-gaat~a91e587f7/",
-        "published": "Thu, 11 Jun 2026 18:00:37 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Asbest gevonden na brand parenclub Lelystad, maar: ‘Geen gevaar voor gezondheid’",
-        "link": "https://www.destentor.nl/lelystad/asbest-gevonden-na-brand-parenclub-lelystad-maar-geen-gevaar-voor-gezondheid~abaf1039/",
-        "published": "Thu, 11 Jun 2026 14:39:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Stroomstoring op Wold in Lelystad opgelost",
-        "link": "https://www.destentor.nl/lelystad/stroomstoring-op-wold-in-lelystad-opgelost~a5c236a1/",
-        "published": "Thu, 11 Jun 2026 11:14:53 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Stroomstoring op Wold in Lelystad op dit moment",
-        "link": "https://www.destentor.nl/lelystad/stroomstoring-op-wold-in-lelystad-op-dit-moment~a5c236a1/",
-        "published": "Thu, 11 Jun 2026 11:14:53 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad ontslaat jeugdzorgdirecteur na ‘intimidatie, bedreigingen en vernederingen’",
-        "link": "https://www.destentor.nl/lelystad/lelystad-ontslaat-jeugdzorgdirecteur-na-intimidatie-bedreigingen-en-vernederingen~a2e17e93/",
-        "published": "Thu, 11 Jun 2026 10:35:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Auto’s rijden over groot voorwerp op Ketelbrug met flinke file tot gevolg",
-        "link": "https://www.destentor.nl/lelystad/autos-rijden-over-groot-voorwerp-op-ketelbrug-met-flinke-file-tot-gevolg~ab850e77/",
-        "published": "Thu, 11 Jun 2026 07:57:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "‘Huursoldaat’ die explosief legt in Lelystad geronseld via Snapchat door makelaar in geweld",
-        "link": "https://www.destentor.nl/lelystad/huursoldaat-die-explosief-legt-in-lelystad-geronseld-via-snapchat-door-makelaar-in-geweld~a018e899/",
-        "published": "Thu, 11 Jun 2026 05:00:36 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Prognose: meer dan 27.000 laadpalen in Lelystad nodig voor volledig elektrisch rijden in 2050",
-        "link": "https://www.destentor.nl/lelystad/prognose-meer-dan-27-000-laadpalen-in-lelystad-nodig-voor-volledig-elektrisch-rijden-in-2050~ac648611/",
-        "published": "Wed, 10 Jun 2026 15:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Kinderen maken eigen animatiefilm in de bieb, later deze maand ook workshop 3D-printen",
-        "link": "https://www.destentor.nl/lelystad/kinderen-maken-eigen-animatiefilm-in-de-bieb-later-deze-maand-ook-workshop-3d-printen~a1150dde/",
-        "published": "Wed, 10 Jun 2026 10:41:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Afgelopen week 58 meldingen van de gemeente over bouw, sloop, bomenkap en horeca in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-58-meldingen-van-de-gemeente-over-bouw-sloop-bomenkap-en-horeca-in-lelystad~a5077eaa/",
-        "published": "Wed, 10 Jun 2026 09:02:40 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Slager uit Lelystad hoort eis van zeven jaar cel: ‘Ik ben de verliezer, ik heb alles verloren’",
-        "link": "https://www.destentor.nl/lelystad/slager-uit-lelystad-hoort-eis-van-zeven-jaar-cel-ik-ben-de-verliezer-ik-heb-alles-verloren~a7d5ac8b/",
-        "published": "Wed, 10 Jun 2026 08:00:16 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Mario (62) organiseert WK-feestje, maar moet spandoeken weghalen: ‘Hebben de boa’s niks beters te doen?’",
-        "link": "https://www.destentor.nl/lelystad/mario-62-organiseert-wk-feestje-maar-moet-spandoeken-weghalen-hebben-de-boas-niks-beters-te-doen~a7f551c3e/",
-        "published": "Tue, 09 Jun 2026 18:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Alerte vrouw waarschuwt politie: fraudeur (19) uit Lelystad aangehouden in haar huis",
-        "link": "https://www.destentor.nl/lelystad/alerte-vrouw-waarschuwt-politie-fraudeur-19-uit-lelystad-aangehouden-in-haar-huis~a3d8c792/",
-        "published": "Tue, 09 Jun 2026 16:07:25 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Na jaren ligt er nu echt een plan voor ‘mini-Dubai’ voor de kust van Lelystad",
-        "link": "https://www.destentor.nl/lelystad/na-jaren-ligt-er-nu-echt-een-plan-voor-mini-dubai-voor-de-kust-van-lelystad~a12e66a4/",
-        "published": "Tue, 09 Jun 2026 04:00:20 GMT",
-        "summary": ""
-      },
-      {
-        "title": "2700 woningen, stadsstrand, en een boulevard: ‘mini-Dubai’ in Markermeer dichterbij dan ooit",
-        "link": "https://www.destentor.nl/lelystad/2700-woningen-stadsstrand-en-een-boulevard-mini-dubai-in-markermeer-dichterbij-dan-ooit~a12e66a4/",
-        "published": "Tue, 09 Jun 2026 04:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Oostranddreef in Lelystad weer open na grootschalige vernieuwing",
-        "link": "https://www.destentor.nl/lelystad/oostranddreef-in-lelystad-weer-open-na-grootschalige-vernieuwing~acc2f81b/",
-        "published": "Mon, 08 Jun 2026 15:40:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Ongeluk in Lelystad afgehandeld, rijstrook weer open op A6",
-        "link": "https://www.destentor.nl/lelystad/ongeluk-in-lelystad-afgehandeld-rijstrook-weer-open-op-a6~a1a0d5d8/",
-        "published": "Mon, 08 Jun 2026 06:53:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "‘Opa, het is mooi geweest’: polderpionier Hajé (67) hoort het wel, maar gaat met Feikje (69) voor nieuw avontuur",
-        "link": "https://www.destentor.nl/lelystad/opa-het-is-mooi-geweest-polderpionier-haje-67-hoort-het-wel-maar-gaat-met-feikje-69-voor-nieuw-avontuur~a3adf932/",
-        "published": "Sun, 07 Jun 2026 15:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Unicum blijft in de eerste klasse dankzij Torino Hunte, een vrijwel vergeten voetballer",
-        "link": "https://www.destentor.nl/regio-zwolle/unicum-blijft-in-de-eerste-klasse-dankzij-torino-hunte-een-vrijwel-vergeten-voetballer~a8d2dec9/",
-        "published": "Sun, 07 Jun 2026 09:36:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Heb jij Teddy gezien? Dit huisdier wordt in Lelystad vermist",
-        "link": "https://www.destentor.nl/lelystad/heb-jij-teddy-gezien-dit-huisdier-wordt-in-lelystad-vermist~a4adaad5/",
-        "published": "Sun, 07 Jun 2026 09:11:17 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Inbrekers in Lelystad vaker succesvol dan vijf jaar geleden, en dit jaar minder actief",
-        "link": "https://www.destentor.nl/lelystad/inbrekers-in-lelystad-vaker-succesvol-dan-vijf-jaar-geleden-en-dit-jaar-minder-actief~a141b014/",
-        "published": "Fri, 05 Jun 2026 15:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Stroomstoring in Lelystad opgelost",
-        "link": "https://www.destentor.nl/lelystad/stroomstoring-in-lelystad-opgelost~a913770d/",
-        "published": "Fri, 05 Jun 2026 13:08:52 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Flinke stroomstoring in Lelystad op dit moment",
-        "link": "https://www.destentor.nl/lelystad/flinke-stroomstoring-in-lelystad-op-dit-moment~a913770d/",
-        "published": "Fri, 05 Jun 2026 13:08:52 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Stroomstoring op Wold in Lelystad aan de gang",
-        "link": "https://www.destentor.nl/lelystad/stroomstoring-op-wold-in-lelystad-aan-de-gang~a913770d/",
-        "published": "Fri, 05 Jun 2026 13:08:52 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad probeert het na bestuurlijke chaos opnieuw met breed raadsakkoord: dit zijn de plannen",
-        "link": "https://www.destentor.nl/lelystad/lelystad-probeert-het-na-bestuurlijke-chaos-opnieuw-met-breed-raadsakkoord-dit-zijn-de-plannen~afe83c3f/",
-        "published": "Fri, 05 Jun 2026 10:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Na bom, schietincident en bedreigingen vragen ouders om straatverbod voor eigen zoon: ‘Niet meer te corrigeren’",
-        "link": "https://www.destentor.nl/lelystad/na-bom-schietincident-en-bedreigingen-vragen-ouders-om-straatverbod-voor-eigen-zoon-niet-meer-te-corrigeren~adae72d8/",
-        "published": "Thu, 04 Jun 2026 19:40:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Koningin Máxima opent batterijpark bij centrale in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/koningin-maxima-opent-batterijpark-bij-centrale-in-lelystad~a8d6cf74/",
-        "published": "Thu, 04 Jun 2026 12:32:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Boeken, muziek en ontmoeting in FlevoMeer Bibliotheek Lelystad",
-        "link": "https://www.destentor.nl/lelystad/boeken-muziek-en-ontmoeting-in-flevomeer-bibliotheek-lelystad~a5dee72c/",
-        "published": "Thu, 04 Jun 2026 07:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Prinses Viktória bezoekt Taalschool Lelystad: ‘Ik hoop de lichtpuntjes te laten zien’",
-        "link": "https://www.destentor.nl/lelystad/prinses-viktoria-bezoekt-taalschool-lelystad-ik-hoop-de-lichtpuntjes-te-laten-zien~a85dc884/",
-        "published": "Wed, 03 Jun 2026 15:32:46 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente Lelystad moet dit jaar nog 84 statushouders huisvesten",
-        "link": "https://www.destentor.nl/lelystad/gemeente-lelystad-moet-dit-jaar-nog-84-statushouders-huisvesten~ad045e4f/",
-        "published": "Wed, 03 Jun 2026 15:29:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Afgelopen week 67 meldingen van de gemeente over sloop en horeca in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-67-meldingen-van-de-gemeente-over-sloop-en-horeca-in-lelystad~ae9b9322/",
-        "published": "Wed, 03 Jun 2026 09:01:22 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Workshop woordkunst in Observatorium Robert Morris bij Lelystad",
-        "link": "https://www.destentor.nl/lelystad/workshop-woordkunst-in-observatorium-robert-morris-bij-lelystad~a6423bdc/",
-        "published": "Wed, 03 Jun 2026 09:00:00 GMT",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "Onderzoek naar opgestapte wethouders Lelystad: patroon van denigrerend gedrag",
-        "link": "https://nos.nl/l/2618907",
-        "published": "Tue, 16 Jun 2026 22:50:24 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Criminele zoon mag niet bij zijn ouders in Lelystad komen",
-        "link": "https://nos.nl/l/2618414",
-        "published": "Sat, 13 Jun 2026 17:09:53 +0200",
-        "summary": ""
-      }
-    ],
-    "Omroep Flevoland": [
-      {
-        "title": "Lelystad - Technische storing op website gemeente: digitaal aanvragen doen lukt niet",
-        "link": "https://www.omroepflevoland.nl/nieuws/512736/technische-storing-op-website-gemeente:-digitaal-aanvragen-doen-lukt-niet",
-        "published": "Wed, 17 Jun 2026 20:31:05 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Minister beperkt aantal 'grotere' vliegtuigen op Lelystad Airport",
-        "link": "https://www.omroepflevoland.nl/nieuws/512741/minister-beperkt-aantal-'grotere'-vliegtuigen-op-lelystad-airport",
-        "published": "Wed, 17 Jun 2026 19:12:14 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 17/06 | Niet genoeg controles op straatintimidatie • Burgemeester onder druk",
-        "link": "https://www.omroepflevoland.nl/nieuws/512768/nieuwsoverzicht-1706-or-niet-genoeg-controles-op-straatintimidatie-*-burgemeester-onder-druk",
-        "published": "Wed, 17 Jun 2026 18:50:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - File op Larserweg bij Lelystad door aanrijding tussen twee auto's",
-        "link": "https://www.omroepflevoland.nl/nieuws/512774/file-op-larserweg-bij-lelystad-door-aanrijding-tussen-twee-auto's",
-        "published": "Wed, 17 Jun 2026 18:01:53 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Agenten slingeren 40 fatbikebestuurders in Lelystad op de bon, vier fietsen in beslag genomen",
-        "link": "https://www.omroepflevoland.nl/nieuws/512746/agenten-slingeren-40-fatbikebestuurders-in-lelystad-op-de-bon-vier-fietsen-in-beslag-genomen",
-        "published": "Wed, 17 Jun 2026 17:49:34 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Dronten - Burgemeester Dronten stemde in met extra noodopvang asielzoekers na 'hoge bestuurlijke druk'",
-        "link": "https://www.omroepflevoland.nl/nieuws/512636/burgemeester-dronten-stemde-in-met-extra-noodopvang-asielzoekers-na-'hoge-bestuurlijke-druk'",
-        "published": "Wed, 17 Jun 2026 15:23:56 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Besluit over bouw 2.700 woningen bij Lelystadse kust uitgesteld",
-        "link": "https://www.omroepflevoland.nl/nieuws/512646/besluit-over-bouw-2.700-woningen-bij-lelystadse-kust-uitgesteld",
-        "published": "Wed, 17 Jun 2026 11:06:15 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 16/06 | Oplossing voor taxi-oorlog Almere • Explosie bij appartementen Lars Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/512585/nieuwsoverzicht-1606-or-oplossing-voor-taxi-oorlog-almere-*-explosie-bij-appartementen-lars-lelystad",
-        "published": "Tue, 16 Jun 2026 18:48:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Jongen (18) had 'cruciale' rol in overval juwelier Batavia Stad en moet de cel in",
-        "link": "https://www.omroepflevoland.nl/nieuws/512596/jongen-(18)-had-'cruciale'-rol-in-overval-juwelier-batavia-stad-en-moet-de-cel-in",
-        "published": "Tue, 16 Jun 2026 18:10:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Onderzoek legt wangedrag oud-wethouders bloot: 'Het zijn allemaal randdebielen'",
-        "link": "https://www.omroepflevoland.nl/nieuws/512602/onderzoek-legt-wangedrag-oud-wethouders-bloot:-'het-zijn-allemaal-randdebielen'",
-        "published": "Tue, 16 Jun 2026 16:06:30 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Gewonde bij autobrand in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/512589/gewonde-bij-autobrand-in-lelystad",
-        "published": "Tue, 16 Jun 2026 15:25:40 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Boswachter baalt van wekelijkse afvaldump: 'Hier word ik wel verdrietig van'",
-        "link": "https://www.omroepflevoland.nl/nieuws/512586/boswachter-baalt-van-wekelijkse-afvaldump:-'hier-word-ik-wel-verdrietig-van'",
-        "published": "Tue, 16 Jun 2026 15:06:56 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Explosie bij appartementencomplex Lars Lelystad, deur en gevel raken beschadigd",
-        "link": "https://www.omroepflevoland.nl/nieuws/512568/explosie-bij-appartementencomplex-lars-lelystad-deur-en-gevel-raken-beschadigd",
-        "published": "Tue, 16 Jun 2026 10:56:01 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Oppositie kritisch op financiën nieuw raadsakkoord, maar voorstel krijgt brede steun",
-        "link": "https://www.omroepflevoland.nl/nieuws/474584/oppositie-kritisch-op-financien-nieuw-raadsakkoord-maar-voorstel-krijgt-brede-steun",
-        "published": "Tue, 16 Jun 2026 10:18:59 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 15/06 | Burgemeester baalt van einde noodopvang  •  Update in vermissingszaak Marc Jaskulski",
-        "link": "https://www.omroepflevoland.nl/nieuws/474539/nieuwsoverzicht-1506-or-burgemeester-baalt-van-einde-noodopvang-*-update-in-vermissingszaak-marc-jaskulski",
-        "published": "Mon, 15 Jun 2026 18:56:31 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Collega's betrappen medewerker van gevangenis in Lelystad die verboden spullen naar binnen wilde smokkelen",
-        "link": "https://www.omroepflevoland.nl/nieuws/474536/collega's-betrappen-medewerker-van-gevangenis-in-lelystad-die-verboden-spullen-naar-binnen-wilde-smokkelen",
-        "published": "Mon, 15 Jun 2026 15:27:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Noordoostpolder - Geen coffeeshop, wel brede aanpak drugsgebruik in coalitieakkoord Noordoostpolder",
-        "link": "https://www.omroepflevoland.nl/nieuws/474517/geen-coffeeshop-wel-brede-aanpak-drugsgebruik-in-coalitieakkoord-noordoostpolder",
-        "published": "Mon, 15 Jun 2026 14:10:55 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Huurdersvereniging: 'Centrada moet meer doen tegen schimmelwoningen'",
-        "link": "https://www.omroepflevoland.nl/nieuws/472915/huurdersvereniging:-'centrada-moet-meer-doen-tegen-schimmelwoningen'",
-        "published": "Mon, 15 Jun 2026 06:04:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Tienjarig  Met Inzet Lukt Alles: 'Ik ben de vrijwilligers zo dankbaar'",
-        "link": "https://www.omroepflevoland.nl/nieuws/474424/tienjarig-met-inzet-lukt-alles:-'ik-ben-de-vrijwilligers-zo-dankbaar'",
-        "published": "Sun, 14 Jun 2026 18:15:09 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Twee minderjarige jongens aangehouden na stelen van fatbike in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/474416/twee-minderjarige-jongens-aangehouden-na-stelen-van-fatbike-in-lelystad",
-        "published": "Sun, 14 Jun 2026 16:18:31 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Twee minderjarige jongens aangehouden na beroving van fatbike in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/474416/twee-minderjarige-jongens-aangehouden-na-beroving-van-fatbike-in-lelystad",
-        "published": "Sun, 14 Jun 2026 16:18:31 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Van verdwenen onderzoek tot ‘couppoging’: waarom het de Lelystadse politiek maar niet lukt om de jeugdzorg op orde te krijgen",
-        "link": "https://www.omroepflevoland.nl/nieuws/474178/van-verdwenen-onderzoek-tot-'couppoging':-waarom-het-de-lelystadse-politiek-maar-niet-lukt-om-de-jeugdzorg-op-orde-te-krijgen",
-        "published": "Sun, 14 Jun 2026 10:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Wethouder Kruis stond op het punt op te stappen: 'Kon het niet verantwoorden'",
-        "link": "https://www.omroepflevoland.nl/nieuws/474169/wethouder-kruis-stond-op-het-punt-op-te-stappen:-'kon-het-niet-verantwoorden'",
-        "published": "Sun, 14 Jun 2026 09:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Zonnepanelen onder voorwaarden welkom op huisjes werkeiland Lelystad-Haven",
-        "link": "https://www.omroepflevoland.nl/nieuws/474035/zonnepanelen-onder-voorwaarden-welkom-op-huisjes-werkeiland-lelystad-haven",
-        "published": "Sat, 13 Jun 2026 19:02:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Lelystadse familie krijgt 'vurig' gewenst straatverbod voor volwassen zoon na reeks incidenten",
-        "link": "https://www.omroepflevoland.nl/nieuws/474204/lelystadse-familie-krijgt-'vurig'-gewenst-straatverbod-voor-volwassen-zoon-na-reeks-incidenten",
-        "published": "Sat, 13 Jun 2026 13:57:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Onderzoek naar Lelystadse incestzaak tegen man (61) loopt nog",
-        "link": "https://www.omroepflevoland.nl/nieuws/474210/onderzoek-naar-lelystadse-incestzaak-tegen-man-(61)-loopt-nog",
-        "published": "Sat, 13 Jun 2026 11:38:51 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 12/06 | Verbod op gezichtsbedekkende kleding Urk bij rellen • Almere bezuinigt op huishoudelijke hulp",
-        "link": "https://www.omroepflevoland.nl/nieuws/473714/nieuwsoverzicht-1206-or-verbod-op-gezichtsbedekkende-kleding-urk-bij-rellen-*-almere-bezuinigt-op-huishoudelijke-hulp",
-        "published": "Fri, 12 Jun 2026 18:03:45 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Gemeente: nog veel onduidelijk over deal parenclub na verwoestende brand",
-        "link": "https://www.omroepflevoland.nl/nieuws/474181/gemeente:-nog-veel-onduidelijk-over-deal-parenclub-na-verwoestende-brand",
-        "published": "Fri, 12 Jun 2026 16:33:05 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Van voetbaltalent naar overval op de Happie Snack: hoe kon het zo misgaan?",
-        "link": "https://www.omroepflevoland.nl/nieuws/474162/van-voetbaltalent-naar-overval-op-de-happie-snack:-hoe-kon-het-zo-misgaan",
-        "published": "Fri, 12 Jun 2026 14:53:01 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Vrachtwagen rijdt tegen slagboom: verkeer op A6 ter hoogte van Ketelbrug gehinderd",
-        "link": "https://www.omroepflevoland.nl/nieuws/474166/vrachtwagen-rijdt-tegen-slagboom:-verkeer-op-a6-ter-hoogte-van-ketelbrug-gehinderd",
-        "published": "Fri, 12 Jun 2026 13:31:17 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Vrachtwagen rijdt tegen slagboom: verkeershinder A6 ter hoogte van Ketelbrug",
-        "link": "https://www.omroepflevoland.nl/nieuws/474166/vrachtwagen-rijdt-tegen-slagboom:-verkeershinder-a6-ter-hoogte-van-ketelbrug",
-        "published": "Fri, 12 Jun 2026 13:31:17 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Weekendweerbericht: fris juni-weekend met soms een beetje regen",
-        "link": "https://www.omroepflevoland.nl/nieuws/474160/weekendweerbericht:-fris-juni-weekend-met-soms-een-beetje-regen",
-        "published": "Fri, 12 Jun 2026 13:23:22 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Massale vechtpartij bij partycentrum Lelystad, vijftig mensen beuken op elkaar in",
-        "link": "https://www.omroepflevoland.nl/nieuws/474146/massale-vechtpartij-bij-partycentrum-lelystad-vijftig-mensen-beuken-op-elkaar-in",
-        "published": "Fri, 12 Jun 2026 12:21:20 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Brand bij parenclub levert veel vragen op bij de politiek in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/474140/brand-bij-parenclub-levert-veel-vragen-op-bij-de-politiek-in-lelystad",
-        "published": "Fri, 12 Jun 2026 11:40:58 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Brandresten gevonden in de tuin? Geen zorgen, maar let wel goed op, zegt gemeente Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/474118/brandresten-gevonden-in-de-tuin-geen-zorgen-maar-let-wel-goed-op-zegt-gemeente-lelystad",
-        "published": "Fri, 12 Jun 2026 10:20:34 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Babygroentetas in Lelystad lijkt niet haalbaar: 'geen aanbieders en te duur'",
-        "link": "https://www.omroepflevoland.nl/nieuws/474040/babygroentetas-in-lelystad-lijkt-niet-haalbaar:-'geen-aanbieders-en-te-duur'",
-        "published": "Fri, 12 Jun 2026 09:33:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Scholieren op de fiets naar Den Haag voor overhandiging van cheque aan de Hersenstichting",
-        "link": "https://www.omroepflevoland.nl/nieuws/474041/scholieren-op-de-fiets-naar-den-haag-voor-overhandiging-van-cheque-aan-de-hersenstichting",
-        "published": "Fri, 12 Jun 2026 06:44:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Zeewolde - Wie dit weekend naar Harderwijk wil moet omrijden: kruispunt Gooiseweg/Ganzenweg grotendeels afgesloten",
-        "link": "https://www.omroepflevoland.nl/nieuws/473993/wie-dit-weekend-naar-harderwijk-wil-moet-omrijden:-kruispunt-gooisewegganzenweg-grotendeels-afgesloten",
-        "published": "Fri, 12 Jun 2026 05:55:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Wachten op het verlossende telefoontje: feest en verdriet bij de eindexamenuitslagen",
-        "link": "https://www.omroepflevoland.nl/nieuws/474051/wachten-op-het-verlossende-telefoontje:-feest-en-verdriet-bij-de-eindexamenuitslagen",
-        "published": "Thu, 11 Jun 2026 19:08:36 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 11/06 | Gemeente Lelystad ontslaat directeur  jeugdzorgorganisatie  • Hogere straf voor Urker visser dan geëist",
-        "link": "https://www.omroepflevoland.nl/nieuws/473713/nieuwsoverzicht-1106-or-gemeente-lelystad-ontslaat-directeur-jeugdzorgorganisatie-*-hogere-straf-voor-urker-visser-dan-geeist",
-        "published": "Thu, 11 Jun 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Treinen op Flevolijn en Hanzelijn krijgen volgend jaar lijnnummers",
-        "link": "https://www.omroepflevoland.nl/nieuws/474017/treinen-op-flevolijn-en-hanzelijn-krijgen-volgend-jaar-lijnnummers",
-        "published": "Thu, 11 Jun 2026 15:24:43 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - NS wil met lijnnummers treinreizen in Flevoland eenvoudiger maken",
-        "link": "https://www.omroepflevoland.nl/nieuws/474017/ns-wil-met-lijnnummers-treinreizen-in-flevoland-eenvoudiger-maken",
-        "published": "Thu, 11 Jun 2026 15:24:43 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - 'Grove misdragingen' leiden tot ontslag directeur jeugdzorg Lelystad, gemeente overweegt aangifte",
-        "link": "https://www.omroepflevoland.nl/nieuws/473999/'grove-misdragingen'-leiden-tot-ontslag-directeur-jeugdzorg-lelystad-gemeente-overweegt-aangifte",
-        "published": "Thu, 11 Jun 2026 12:20:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Meerdere auto's beschadigd door stalen object op Ketelbrug",
-        "link": "https://www.omroepflevoland.nl/nieuws/473992/meerdere-auto's-beschadigd-door-stalen-object-op-ketelbrug",
-        "published": "Thu, 11 Jun 2026 11:24:27 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Lange file op Ketelbrug door groot  stalen voorwerp, meerdere auto's beschadigd",
-        "link": "https://www.omroepflevoland.nl/nieuws/473992/lange-file-op-ketelbrug-door-groot-stalen-voorwerp-meerdere-auto's-beschadigd",
-        "published": "Thu, 11 Jun 2026 11:24:27 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Net door gemeente gekochte parenclub in Lelystad verwoest door brand",
-        "link": "https://www.omroepflevoland.nl/nieuws/473965/net-door-gemeente-gekochte-parenclub-in-lelystad-verwoest-door-brand",
-        "published": "Thu, 11 Jun 2026 06:55:53 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Grote uitslaande brand bij parenclub Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/473965/grote-uitslaande-brand-bij-parenclub-lelystad",
-        "published": "Thu, 11 Jun 2026 06:55:53 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Urk - SGP op Urk 'not amused' over antwoord aan kerken die willen helpen bij dakloosheid",
-        "link": "https://www.omroepflevoland.nl/nieuws/473784/sgp-op-urk-'not-amused'-over-antwoord-aan-kerken-die-willen-helpen-bij-dakloosheid",
-        "published": "Wed, 10 Jun 2026 20:27:44 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Dronten - Flink omrijden bij Dronten door afgesloten wegen vanwege werkzaamheden aan rotonde",
-        "link": "https://www.omroepflevoland.nl/nieuws/473709/flink-omrijden-bij-dronten-door-afgesloten-wegen-vanwege-werkzaamheden-aan-rotonde",
-        "published": "Wed, 10 Jun 2026 19:44:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 10/06 | Celstraf geëist tegen veroorzaker dodelijk ongeval Rutten •  Defensie maakt plannen kazerne in Zeewolde bekend",
-        "link": "https://www.omroepflevoland.nl/nieuws/473711/nieuwsoverzicht-1006-or-celstraf-geeist-tegen-veroorzaker-dodelijk-ongeval-rutten-*-defensie-maakt-plannen-kazerne-in-zeewolde-bekend",
-        "published": "Wed, 10 Jun 2026 18:49:23 GMT+0200",
         "summary": ""
       }
     ]

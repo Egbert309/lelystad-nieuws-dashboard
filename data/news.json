@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T22:48:13.449636+00:00",
+  "updated": "2026-06-19T00:17:02.139084+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -619,7 +619,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Natuurcamping Hollandse Hout vertraagd door netcongestie",
@@ -921,6 +920,7 @@
         "published": "dinsdag 26 mei 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

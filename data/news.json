@@ -1,6 +1,7 @@
 {
-  "updated": "2026-06-19T22:54:00.249554+00:00",
+  "updated": "2026-06-19T23:55:07.814139+00:00",
   "sources": {
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Vergroening woningen Lelystad valt terug: minder nieuwe zonnepanelen en warmtepompen",
@@ -303,7 +304,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Kandidaat-wethouders bekend, twee oude bekenden, drie nieuwe namen",
@@ -606,6 +606,20 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Drenthe brengt met 50 miljoen Nedersaksenlijn stukje dichterbij",
+        "link": "https://nos.nl/l/2619112",
+        "published": "Thu, 18 Jun 2026 08:48:10 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Onderzoek naar opgestapte wethouders Lelystad: patroon van denigrerend gedrag",
+        "link": "https://nos.nl/l/2618907",
+        "published": "Tue, 16 Jun 2026 22:50:24 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 19/06 | Klachten Upcycleperron genegeerd • Celstraf voor verkrachting",
@@ -905,20 +919,6 @@
         "title": "Flevoland - Treinen op Flevolijn en Hanzelijn krijgen volgend jaar lijnnummers",
         "link": "https://www.omroepflevoland.nl/nieuws/474017/treinen-op-flevolijn-en-hanzelijn-krijgen-volgend-jaar-lijnnummers",
         "published": "Thu, 11 Jun 2026 15:24:43 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Drenthe brengt met 50 miljoen Nedersaksenlijn stukje dichterbij",
-        "link": "https://nos.nl/l/2619112",
-        "published": "Thu, 18 Jun 2026 08:48:10 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Onderzoek naar opgestapte wethouders Lelystad: patroon van denigrerend gedrag",
-        "link": "https://nos.nl/l/2618907",
-        "published": "Tue, 16 Jun 2026 22:50:24 +0200",
         "summary": ""
       }
     ]

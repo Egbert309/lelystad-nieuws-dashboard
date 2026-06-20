@@ -1,7 +1,6 @@
 {
-  "updated": "2026-06-20T15:26:21.990017+00:00",
+  "updated": "2026-06-20T17:10:55.421093+00:00",
   "sources": {
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Vrijwilligers werken met macht en macht aan Oldtimerdag, die gewoon doorgaat morgen",
@@ -326,6 +325,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Flevoland - Doodsangsten tijdens hevig noodweer: 'Het schip ging gevaarlijk heen en weer, lag behoorlijk scheef'",
+        "link": "https://www.omroepflevoland.nl/nieuws/513148/doodsangsten-tijdens-hevig-noodweer:-'het-schip-ging-gevaarlijk-heen-en-weer-lag-behoorlijk-scheef'",
+        "published": "Sat, 20 Jun 2026 17:33:05 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Flevoland - Van Arendonk switcht van hockey naar wereldtop zeilen: 'De droom is om gouden olympische medaille te prolongeren'",
         "link": "https://www.omroepflevoland.nl/sport/474549/van-arendonk-switcht-van-hockey-naar-wereldtop-zeilen:-'de-droom-is-om-gouden-olympische-medaille-te-prolongeren'",
         "published": "Sat, 20 Jun 2026 15:00:00 GMT+0200",
@@ -618,14 +623,9 @@
         "link": "https://www.omroepflevoland.nl/nieuws/474040/babygroentetas-in-lelystad-lijkt-niet-haalbaar:-'geen-aanbieders-en-te-duur'",
         "published": "Fri, 12 Jun 2026 09:33:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Flevoland - Scholieren op de fiets naar Den Haag voor overhandiging van cheque aan de Hersenstichting",
-        "link": "https://www.omroepflevoland.nl/nieuws/474041/scholieren-op-de-fiets-naar-den-haag-voor-overhandiging-van-cheque-aan-de-hersenstichting",
-        "published": "Fri, 12 Jun 2026 06:44:00 GMT+0200",
-        "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Vergroening woningen Lelystad valt terug: minder nieuwe zonnepanelen en warmtepompen",

@@ -1,10 +1,9 @@
 {
-  "updated": "2026-06-21T17:13:46.244076+00:00",
+  "updated": "2026-06-21T19:07:55.518162+00:00",
   "sources": {
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
-        "title": "Vrijwilligers werken met macht en macht aan Oldtimerdag, die gewoon doorgaat morgen",
+        "title": "Vrijwilligers werken met macht en macht aan Oldtimerdag, die gewoon doorgaat",
         "link": "https://radiolelystad.nl/vrijwilligers-werken-met-macht-en-macht-aan-oldtimerdag-die-gewoon-doorgaat-morgen",
         "published": "zaterdag 20 juni 2026",
         "summary": ""
@@ -304,26 +303,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
-        "link": "https://nos.nl/l/2619487",
-        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drenthe brengt met 50 miljoen Nedersaksenlijn stukje dichterbij",
-        "link": "https://nos.nl/l/2619112",
-        "published": "Thu, 18 Jun 2026 08:48:10 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Onderzoek naar opgestapte wethouders Lelystad: patroon van denigrerend gedrag",
-        "link": "https://nos.nl/l/2618907",
-        "published": "Tue, 16 Jun 2026 22:50:24 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Heb jij Bonnie, Noa of Sjoerd(je) gezien? Deze vier huisdieren worden in Lelystad vermist",
@@ -340,7 +319,7 @@
       {
         "title": "Poëziefestival Sunsation stopt eerder door noodweer, maar eert nog wel overleden oprichter Thom Ummels",
         "link": "https://www.destentor.nl/lelystad/poeziefestival-sunsation-stopt-eerder-door-noodweer-maar-eert-nog-wel-overleden-oprichter-thom-ummels~a48afc33/",
-        "published": "Sun, 21 Jun 2026 08:01:01 GMT",
+        "published": "Sun, 21 Jun 2026 08:01:00 GMT",
         "summary": ""
       },
       {
@@ -626,6 +605,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad -  Ronkende motoren trekken duizenden liefhebbers naar Lelystad: 'De geur en de sfeer horen erbij '",
@@ -925,6 +905,26 @@
         "title": "Lelystad - Brandresten gevonden in de tuin? Geen zorgen, maar let wel goed op, zegt gemeente Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/474118/brandresten-gevonden-in-de-tuin-geen-zorgen-maar-let-wel-goed-op-zegt-gemeente-lelystad",
         "published": "Fri, 12 Jun 2026 10:20:34 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
+        "link": "https://nos.nl/l/2619487",
+        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Drenthe brengt met 50 miljoen Nedersaksenlijn stukje dichterbij",
+        "link": "https://nos.nl/l/2619112",
+        "published": "Thu, 18 Jun 2026 08:48:10 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Onderzoek naar opgestapte wethouders Lelystad: patroon van denigrerend gedrag",
+        "link": "https://nos.nl/l/2618907",
+        "published": "Tue, 16 Jun 2026 22:50:24 +0200",
         "summary": ""
       }
     ]

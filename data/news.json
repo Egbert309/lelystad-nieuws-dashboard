@@ -1,7 +1,6 @@
 {
-  "updated": "2026-06-21T02:27:31.864150+00:00",
+  "updated": "2026-06-21T07:20:57.021186+00:00",
   "sources": {
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Vrijwilligers werken met macht en macht aan Oldtimerdag, die gewoon doorgaat morgen",
@@ -301,6 +300,26 @@
         "title": "Mooi Lelystad en  Leefbaar maken zich zorgen over thuisonderwijs",
         "link": "https://radiolelystad.nl/raadsfractie-leefbaar-lelystad-maakt-zich-zorgen-over-thuisonderwijs",
         "published": "woensdag 27 mei 2026",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
+        "link": "https://nos.nl/l/2619487",
+        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Drenthe brengt met 50 miljoen Nedersaksenlijn stukje dichterbij",
+        "link": "https://nos.nl/l/2619112",
+        "published": "Thu, 18 Jun 2026 08:48:10 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Onderzoek naar opgestapte wethouders Lelystad: patroon van denigrerend gedrag",
+        "link": "https://nos.nl/l/2618907",
+        "published": "Tue, 16 Jun 2026 22:50:24 +0200",
         "summary": ""
       }
     ],
@@ -606,26 +625,7 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
-        "link": "https://nos.nl/l/2619487",
-        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drenthe brengt met 50 miljoen Nedersaksenlijn stukje dichterbij",
-        "link": "https://nos.nl/l/2619112",
-        "published": "Thu, 18 Jun 2026 08:48:10 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Onderzoek naar opgestapte wethouders Lelystad: patroon van denigrerend gedrag",
-        "link": "https://nos.nl/l/2618907",
-        "published": "Tue, 16 Jun 2026 22:50:24 +0200",
-        "summary": ""
-      }
-    ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Doodsangsten tijdens hevig noodweer: 'Het schip ging gevaarlijk heen en weer, lag behoorlijk scheef'",

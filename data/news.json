@@ -1,27 +1,6 @@
 {
-  "updated": "2026-06-21T10:56:33.300378+00:00",
+  "updated": "2026-06-21T13:00:57.116132+00:00",
   "sources": {
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
-        "link": "https://nos.nl/l/2619487",
-        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drenthe brengt met 50 miljoen Nedersaksenlijn stukje dichterbij",
-        "link": "https://nos.nl/l/2619112",
-        "published": "Thu, 18 Jun 2026 08:48:10 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Onderzoek naar opgestapte wethouders Lelystad: patroon van denigrerend gedrag",
-        "link": "https://nos.nl/l/2618907",
-        "published": "Tue, 16 Jun 2026 22:50:24 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Doodsangsten tijdens hevig noodweer: 'Het schip ging gevaarlijk heen en weer, lag behoorlijk scheef'",
@@ -321,6 +300,27 @@
         "title": "Lelystad - Babygroentetas in Lelystad lijkt niet haalbaar: 'geen aanbieders en te duur'",
         "link": "https://www.omroepflevoland.nl/nieuws/474040/babygroentetas-in-lelystad-lijkt-niet-haalbaar:-'geen-aanbieders-en-te-duur'",
         "published": "Fri, 12 Jun 2026 09:33:00 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
+        "link": "https://nos.nl/l/2619487",
+        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Drenthe brengt met 50 miljoen Nedersaksenlijn stukje dichterbij",
+        "link": "https://nos.nl/l/2619112",
+        "published": "Thu, 18 Jun 2026 08:48:10 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Onderzoek naar opgestapte wethouders Lelystad: patroon van denigrerend gedrag",
+        "link": "https://nos.nl/l/2618907",
+        "published": "Tue, 16 Jun 2026 22:50:24 +0200",
         "summary": ""
       }
     ],

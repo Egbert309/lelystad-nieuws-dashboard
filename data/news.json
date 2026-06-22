@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T22:55:49.748196+00:00",
+  "updated": "2026-06-22T00:01:49.081992+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,20 +303,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
-        "link": "https://nos.nl/l/2619487",
-        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drenthe brengt met 50 miljoen Nedersaksenlijn stukje dichterbij",
-        "link": "https://nos.nl/l/2619112",
-        "published": "Thu, 18 Jun 2026 08:48:10 +0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
       {
         "title": "Vrijwilligers werken met macht en macht aan Oldtimerdag, die gewoon doorgaat",
@@ -616,6 +602,20 @@
         "title": "Mooi Lelystad en  Leefbaar maken zich zorgen over thuisonderwijs",
         "link": "https://radiolelystad.nl/raadsfractie-leefbaar-lelystad-maakt-zich-zorgen-over-thuisonderwijs",
         "published": "woensdag 27 mei 2026",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
+        "link": "https://nos.nl/l/2619487",
+        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Drenthe brengt met 50 miljoen Nedersaksenlijn stukje dichterbij",
+        "link": "https://nos.nl/l/2619112",
+        "published": "Thu, 18 Jun 2026 08:48:10 +0200",
         "summary": ""
       }
     ],

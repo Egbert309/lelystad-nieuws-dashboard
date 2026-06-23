@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T19:40:07.139226+00:00",
+  "updated": "2026-06-23T20:38:23.357158+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,15 +303,14 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
-        "link": "https://nos.nl/l/2619487",
-        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
-        "summary": ""
-      }
-    ],
+    "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Meerdere sportevenementen in regio afgelast door de hitte: ‘Moeilijke beslissing’",
+        "link": "https://www.destentor.nl/binnenland/meerdere-sportevenementen-in-regio-afgelast-door-de-hitte-moeilijke-beslissing~aceca12d/",
+        "published": "Tue, 23 Jun 2026 19:51:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Tot een explosie komt het (net) niet, maar minderjarig duo krijgt wel straf",
         "link": "https://www.destentor.nl/lelystad/tot-een-explosie-komt-het-net-niet-maar-minderjarig-duo-krijgt-wel-straf~a66b2eb5/",
@@ -605,15 +604,8 @@
         "link": "https://www.destentor.nl/lelystad/afgelopen-week-58-meldingen-van-de-gemeente-over-bouw-sloop-bomenkap-en-horeca-in-lelystad~a5077eaa/",
         "published": "Wed, 10 Jun 2026 09:02:40 GMT",
         "summary": ""
-      },
-      {
-        "title": "Slager uit Lelystad hoort eis van zeven jaar cel: ‘Ik ben de verliezer, ik heb alles verloren’",
-        "link": "https://www.destentor.nl/lelystad/slager-uit-lelystad-hoort-eis-van-zeven-jaar-cel-ik-ben-de-verliezer-ik-heb-alles-verloren~a7d5ac8b/",
-        "published": "Wed, 10 Jun 2026 08:00:16 GMT",
-        "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Vijf jaar cel voor eigenaar van loods waar 1600 kilo coke lag",
@@ -625,6 +617,12 @@
         "title": "Flevoland - Nieuwsoverzicht 23/06 | Moeder met kleine kinderen op straat in Almere • Gekantelde vrachtwagen blokkeert Ganzenweg",
         "link": "https://www.omroepflevoland.nl/nieuws/513643/nieuwsoverzicht-2306-or-moeder-met-kleine-kinderen-op-straat-in-almere-*-gekantelde-vrachtwagen-blokkeert-ganzenweg",
         "published": "Tue, 23 Jun 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Centrada wil huurder op straat zetten om ongebruikte douche en tandenstokers",
+        "link": "https://www.omroepflevoland.nl/nieuws/513620/centrada-wil-huurder-op-straat-zetten-om-ongebruikte-douche-en-tandenstokers",
+        "published": "Tue, 23 Jun 2026 16:22:19 GMT+0200",
         "summary": ""
       },
       {
@@ -908,11 +906,13 @@
         "link": "https://www.omroepflevoland.nl/nieuws/472915/huurdersvereniging:-'centrada-moet-meer-doen-tegen-schimmelwoningen'",
         "published": "Mon, 15 Jun 2026 06:04:00 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Lelystad - Tienjarig  Met Inzet Lukt Alles: 'Ik ben de vrijwilligers zo dankbaar'",
-        "link": "https://www.omroepflevoland.nl/nieuws/474424/tienjarig-met-inzet-lukt-alles:-'ik-ben-de-vrijwilligers-zo-dankbaar'",
-        "published": "Sun, 14 Jun 2026 18:15:09 GMT+0200",
+        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
+        "link": "https://nos.nl/l/2619487",
+        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
         "summary": ""
       }
     ]

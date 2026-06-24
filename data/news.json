@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T08:05:42.869294+00:00",
+  "updated": "2026-06-24T10:02:24.494205+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -303,16 +303,19 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
-        "link": "https://nos.nl/l/2619487",
-        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
+      {
+        "title": "Geding om jeugdzorg van de baan, organisaties tevreden met gemeente",
+        "link": "https://radiolelystad.nl/geding-om-jeugdzorg-van-de-baan-organisaties-tevreden-met-gemeente",
+        "published": "woensdag 24 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "De paarden van de ponyclub hebben nu een fatsoenlijke stal (video)",
+        "link": "https://radiolelystad.nl/de-paarden-van-de-ponyclub-hebben-nu-een-fatsoenlijke-stal-video",
+        "published": "woensdag 24 juni 2026",
+        "summary": ""
+      },
       {
         "title": "Gedicht van de week: Vaarwel (Willemijn Steenbakkers)",
         "link": "https://radiolelystad.nl/gedicht-van-de-week-vaarwel-willemijn-steenbakkers",
@@ -600,21 +603,21 @@
         "link": "https://radiolelystad.nl/ook-dit-jaar-moeten-er-weer-zieke-essen-worden-gekapt",
         "published": "woensdag 03 juni 2026",
         "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: Spoken Word: Sociale Mobiliteit (Séun Steenken)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-spoken-word-sociale-mobiliteit-seun-steenken",
-        "published": "woensdag 03 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Vier en  drie jaar cel voor brandstichting in woning met slapend gezin",
-        "link": "https://radiolelystad.nl/vier-en-drie-jaar-cel-voor-brandstichting-in-woning-met-slapend-gezin",
-        "published": "dinsdag 02 juni 2026",
-        "summary": ""
       }
     ],
     "De Stentor": [
+      {
+        "title": "Afgelopen week 47 meldingen van de gemeente over sloop en bomenkap in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/afgelopen-week-47-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-lelystad~ac8031e2/",
+        "published": "Wed, 24 Jun 2026 09:42:39 GMT",
+        "summary": ""
+      },
+      {
+        "title": "OV-ambassadeurs houden spreekuur in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/ov-ambassadeurs-houden-spreekuur-in-lelystad~a8ac5ab7/",
+        "published": "Wed, 24 Jun 2026 09:00:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Meerdere sportevenementen in regio afgelast door de hitte: ‘Moeilijke beslissing’",
         "link": "https://www.destentor.nl/binnenland/meerdere-sportevenementen-in-regio-afgelast-door-de-hitte-moeilijke-beslissing~aceca12d/",
@@ -902,19 +905,16 @@
         "link": "https://www.destentor.nl/lelystad/prognose-meer-dan-27-000-laadpalen-in-lelystad-nodig-voor-volledig-elektrisch-rijden-in-2050~ac648611/",
         "published": "Wed, 10 Jun 2026 15:30:00 GMT",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Kinderen maken eigen animatiefilm in de bieb, later deze maand ook workshop 3D-printen",
-        "link": "https://www.destentor.nl/lelystad/kinderen-maken-eigen-animatiefilm-in-de-bieb-later-deze-maand-ook-workshop-3d-printen~a1150dde/",
-        "published": "Wed, 10 Jun 2026 10:41:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Afgelopen week 58 meldingen van de gemeente over bouw, sloop, bomenkap en horeca in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-58-meldingen-van-de-gemeente-over-bouw-sloop-bomenkap-en-horeca-in-lelystad~a5077eaa/",
-        "published": "Wed, 10 Jun 2026 09:02:40 GMT",
+        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
+        "link": "https://nos.nl/l/2619487",
+        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

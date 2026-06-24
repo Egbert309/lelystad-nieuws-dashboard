@@ -1,8 +1,27 @@
 {
-  "updated": "2026-06-24T13:40:24.924864+00:00",
+  "updated": "2026-06-24T14:52:43.404511+00:00",
   "sources": {
-    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
+        "link": "https://nos.nl/l/2619487",
+        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Netbeheerder Tennet noemt Lelystad als optie voor kleine kernreactor",
+        "link": "https://www.omroepflevoland.nl/nieuws/513797/netbeheerder-tennet-noemt-lelystad-als-optie-voor-kleine-kernreactor",
+        "published": "Wed, 24 Jun 2026 16:22:57 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Veel auto-ongelukken in Flevoland, mogelijk speelt hitte een rol",
+        "link": "https://www.omroepflevoland.nl/nieuws/513804/veel-auto-ongelukken-in-flevoland-mogelijk-speelt-hitte-een-rol",
+        "published": "Wed, 24 Jun 2026 16:00:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Kort geding over jeugdzorg in Lelystad van de baan",
         "link": "https://www.omroepflevoland.nl/nieuws/513771/kort-geding-over-jeugdzorg-in-lelystad-van-de-baan",
@@ -289,18 +308,6 @@
         "title": "Lelystad - Gewonde bij autobrand in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/512589/gewonde-bij-autobrand-in-lelystad",
         "published": "Tue, 16 Jun 2026 15:25:40 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Boswachter baalt van wekelijkse afvaldump: 'Hier word ik wel verdrietig van'",
-        "link": "https://www.omroepflevoland.nl/nieuws/512586/boswachter-baalt-van-wekelijkse-afvaldump:-'hier-word-ik-wel-verdrietig-van'",
-        "published": "Tue, 16 Jun 2026 15:06:56 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Explosie bij appartementencomplex Lars Lelystad, deur en gevel raken beschadigd",
-        "link": "https://www.omroepflevoland.nl/nieuws/512568/explosie-bij-appartementencomplex-lars-lelystad-deur-en-gevel-raken-beschadigd",
-        "published": "Tue, 16 Jun 2026 10:56:01 GMT+0200",
         "summary": ""
       }
     ],
@@ -606,7 +613,14 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Radio Lelystad": [
+      {
+        "title": "Redding is nabij voor slecht werkende hypermoderne afvalbakken in Stadshart",
+        "link": "https://radiolelystad.nl/redding-is-nabij-voor-slecht-werkende-hypermoderne-afvalbakken-in-stadshart",
+        "published": "woensdag 24 juni 2026",
+        "summary": ""
+      },
       {
         "title": "Ontkennende vleeshandelaar krijgt toch vijf jaar voor 1600 kilo coke in loods",
         "link": "https://radiolelystad.nl/ontkennende-vleeshandelaar-krijgt-toch-vijf-jaar-voor-1600-kilo-coke-in-loods",
@@ -899,20 +913,6 @@
         "title": "Ouders vragen rechter om straatverbod voor hun eigen volwassen zoon",
         "link": "https://radiolelystad.nl/ouders-vragen-rechter-om-straatverbod-voor-hun-eigen-volwassen-zoon",
         "published": "donderdag 04 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Persoonlijke verhalen van Surinaamse Nederlanders in Flevoland gezocht",
-        "link": "https://radiolelystad.nl/hfa-zoekt-persoonlijke-verhalen-van-surinaamse-nederlanders-in-flevoland",
-        "published": "donderdag 04 juni 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
-        "link": "https://nos.nl/l/2619487",
-        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
         "summary": ""
       }
     ]

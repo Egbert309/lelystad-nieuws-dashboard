@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T01:34:23.514534+00:00",
+  "updated": "2026-06-24T02:59:13.260798+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -605,6 +605,15 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
+        "link": "https://nos.nl/l/2619487",
+        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Meerdere sportevenementen in regio afgelast door de hitte: ‘Moeilijke beslissing’",
@@ -906,15 +915,6 @@
         "published": "Wed, 10 Jun 2026 09:02:40 GMT",
         "summary": ""
       }
-    ],
-    "NOS": [
-      {
-        "title": "Eerste speech nieuwe PvdD-leider Teunissen, volgt verbrede koers van voorganger",
-        "link": "https://nos.nl/l/2619487",
-        "published": "Sat, 20 Jun 2026 14:37:58 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

@@ -1,11 +1,23 @@
 {
-  "updated": "2026-06-25T13:40:57.268257+00:00",
+  "updated": "2026-06-25T14:54:13.428937+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Brug Houtribsluizen wil niet meer dicht, verkeer beide kanten op staat vast",
+        "link": "https://www.omroepflevoland.nl/nieuws/513988/brug-houtribsluizen-wil-niet-meer-dicht-verkeer-beide-kanten-op-staat-vast",
+        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Zoektocht naar gewassen die met minder bestrijdingsmiddelen kunnen",
         "link": "https://www.omroepflevoland.nl/nieuws/513241/zoektocht-naar-gewassen-die-met-minder-bestrijdingsmiddelen-kunnen",
         "published": "Thu, 25 Jun 2026 06:40:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Tropische hitte in Flevoland | Morgen code rood • Brug van de Houtribsluizen in Lelystad zit vast",
+        "link": "https://www.omroepflevoland.nl/nieuws/513478/tropische-hitte-in-flevoland-or-morgen-code-rood-*-brug-van-de-houtribsluizen-in-lelystad-zit-vast",
+        "published": "Thu, 25 Jun 2026 06:00:00 GMT+0200",
         "summary": ""
       },
       {
@@ -289,20 +301,9 @@
         "link": "https://www.omroepflevoland.nl/nieuws/512746/agenten-slingeren-40-fatbikebestuurders-in-lelystad-op-de-bon-vier-fietsen-in-beslag-genomen",
         "published": "Wed, 17 Jun 2026 17:49:34 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Dronten - Burgemeester Dronten stemde in met extra noodopvang asielzoekers na 'hoge bestuurlijke druk'",
-        "link": "https://www.omroepflevoland.nl/nieuws/512636/burgemeester-dronten-stemde-in-met-extra-noodopvang-asielzoekers-na-'hoge-bestuurlijke-druk'",
-        "published": "Wed, 17 Jun 2026 15:23:56 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Besluit over bouw 2.700 woningen bij Lelystadse kust uitgesteld",
-        "link": "https://www.omroepflevoland.nl/nieuws/512646/besluit-over-bouw-2.700-woningen-bij-lelystadse-kust-uitgesteld",
-        "published": "Wed, 17 Jun 2026 11:06:15 GMT+0200",
-        "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Zeven groene bedrijven openen dit weekend de deuren in Lelystad",
@@ -605,6 +606,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Speelschip Karveel heeft weer te maken met vernielingen, onveiligheid  en overlast",
@@ -906,8 +908,6 @@
         "published": "maandag 08 juni 2026",
         "summary": ""
       }
-    ],
-    "Nu.nl": [],
-    "NOS": []
+    ]
   }
 }

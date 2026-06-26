@@ -1,311 +1,15 @@
 {
-  "updated": "2026-06-26T08:10:12.256330+00:00",
+  "updated": "2026-06-26T10:02:49.796249+00:00",
   "sources": {
-    "Omroep Flevoland": [
-      {
-        "title": "Lelystad - Buren voor de rechter om lekkage in badkamer",
-        "link": "https://www.omroepflevoland.nl/nieuws/514020/buren-voor-de-rechter-om-lekkage-in-badkamer",
-        "published": "Fri, 26 Jun 2026 08:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Vergunningen verleend voor eerste fase datacentrum Flevokust Campus",
-        "link": "https://www.omroepflevoland.nl/nieuws/513998/vergunningen-verleend-voor-eerste-fase-datacentrum-flevokust-campus",
-        "published": "Fri, 26 Jun 2026 07:40:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Vooral basisscholen in oude gebouwen vandaag dicht",
-        "link": "https://www.omroepflevoland.nl/nieuws/513984/vooral-basisscholen-in-oude-gebouwen-vandaag-dicht",
-        "published": "Fri, 26 Jun 2026 06:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Honderden leerlingen strijden met zelfgebouwde elektrische karts op de Energy Experience",
-        "link": "https://www.omroepflevoland.nl/nieuws/513962/honderden-leerlingen-strijden-met-zelfgebouwde-elektrische-karts-op-de-energy-experience",
-        "published": "Thu, 25 Jun 2026 21:40:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Herstel verzakt terrein Flevokust Haven minimaal een jaar uitgesteld",
-        "link": "https://www.omroepflevoland.nl/nieuws/514006/herstel-verzakt-terrein-flevokust-haven-minimaal-een-jaar-uitgesteld",
-        "published": "Thu, 25 Jun 2026 20:50:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Geen vervolg op pilot tweede uur gratis parkeren in Stadshart Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/513993/geen-vervolg-op-pilot-tweede-uur-gratis-parkeren-in-stadshart-lelystad",
-        "published": "Thu, 25 Jun 2026 20:17:40 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 25/06 | Extreme hitte: code rood • Defqon.1 sluit deuren voor dagbezoekers",
-        "link": "https://www.omroepflevoland.nl/nieuws/513813/nieuwsoverzicht-2506-or-extreme-hitte:-code-rood-*-defqon.1-sluit-deuren-voor-dagbezoekers",
-        "published": "Thu, 25 Jun 2026 18:55:19 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Houtribbrug weer omlaag na storing: auto's rijden weer, schepen liggen stil",
-        "link": "https://www.omroepflevoland.nl/nieuws/513988/houtribbrug-weer-omlaag-na-storing:-auto's-rijden-weer-schepen-liggen-stil",
-        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Houtribbrug weer omlaag na storing. Auto's rijden weer, schepen liggen stil",
-        "link": "https://www.omroepflevoland.nl/nieuws/513988/houtribbrug-weer-omlaag-na-storing.-auto's-rijden-weer-schepen-liggen-stil",
-        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Houtribbrug weer omlaag na storing. Auto's rijden weer., schepen liggen stil",
-        "link": "https://www.omroepflevoland.nl/nieuws/513988/houtribbrug-weer-omlaag-na-storing.-auto's-rijden-weer.-schepen-liggen-stil",
-        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Houtribbrug weer omlaag na storing, autoverkeer langzaam weer op gang",
-        "link": "https://www.omroepflevoland.nl/nieuws/513988/houtribbrug-weer-omlaag-na-storing-autoverkeer-langzaam-weer-op-gang",
-        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Houtribbrug weer omlaag na storing, verkeer nog niet op gang",
-        "link": "https://www.omroepflevoland.nl/nieuws/513988/houtribbrug-weer-omlaag-na-storing-verkeer-nog-niet-op-gang",
-        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Brug Houtribsluizen wil niet meer dicht, verkeer beide kanten op staat vast",
-        "link": "https://www.omroepflevoland.nl/nieuws/513988/brug-houtribsluizen-wil-niet-meer-dicht-verkeer-beide-kanten-op-staat-vast",
-        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - KNMI kondigt code rood af voor Flevoland wegens extreme hitte, scholen dicht",
-        "link": "https://www.omroepflevoland.nl/nieuws/513991/knmi-kondigt-code-rood-af-voor-flevoland-wegens-extreme-hitte-scholen-dicht",
-        "published": "Thu, 25 Jun 2026 16:04:07 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Zoektocht naar gewassen die met minder bestrijdingsmiddelen kunnen",
-        "link": "https://www.omroepflevoland.nl/nieuws/513241/zoektocht-naar-gewassen-die-met-minder-bestrijdingsmiddelen-kunnen",
-        "published": "Thu, 25 Jun 2026 06:40:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Tropische hitte in Flevoland | Morgen code rood • Scholen gaan dicht",
-        "link": "https://www.omroepflevoland.nl/nieuws/513478/tropische-hitte-in-flevoland-or-morgen-code-rood-*-scholen-gaan-dicht",
-        "published": "Thu, 25 Jun 2026 06:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Tropische hitte in Flevoland | Morgen code rood • Brug van de Houtribsluizen in Lelystad zit vast",
-        "link": "https://www.omroepflevoland.nl/nieuws/513478/tropische-hitte-in-flevoland-or-morgen-code-rood-*-brug-van-de-houtribsluizen-in-lelystad-zit-vast",
-        "published": "Thu, 25 Jun 2026 06:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Tropische hitte in Flevoland | Museum Batavialand eerder dicht • Bezoekerscentrum Natuurpark helemaal dicht",
-        "link": "https://www.omroepflevoland.nl/nieuws/513478/tropische-hitte-in-flevoland-or-museum-batavialand-eerder-dicht-*-bezoekerscentrum-natuurpark-helemaal-dicht",
-        "published": "Thu, 25 Jun 2026 06:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Bouwvakkers gooien dankzij zinderende hitte op de bouwplaats 's middags al de bezwete handdoek in de ring",
-        "link": "https://www.omroepflevoland.nl/nieuws/513808/bouwvakkers-gooien-dankzij-zinderende-hitte-op-de-bouwplaats-'s-middags-al-de-bezwete-handdoek-in-de-ring",
-        "published": "Wed, 24 Jun 2026 20:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 24/06 | Almeerders krijgen 15 jaar cel voor liquidatiepoging • Kernreactor mogelijk naar Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/513830/nieuwsoverzicht-2406-or-almeerders-krijgen-15-jaar-cel-voor-liquidatiepoging-*-kernreactor-mogelijk-naar-lelystad",
-        "published": "Wed, 24 Jun 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Netbeheerder TenneT noemt Lelystad als optie voor kleine kernreactor",
-        "link": "https://www.omroepflevoland.nl/nieuws/513797/netbeheerder-tennet-noemt-lelystad-als-optie-voor-kleine-kernreactor",
-        "published": "Wed, 24 Jun 2026 16:22:57 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Veel auto-ongelukken in Flevoland, mogelijk speelt hitte een rol",
-        "link": "https://www.omroepflevoland.nl/nieuws/513804/veel-auto-ongelukken-in-flevoland-mogelijk-speelt-hitte-een-rol",
-        "published": "Wed, 24 Jun 2026 16:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Kort geding over jeugdzorg in Lelystad van de baan",
-        "link": "https://www.omroepflevoland.nl/nieuws/513771/kort-geding-over-jeugdzorg-in-lelystad-van-de-baan",
-        "published": "Wed, 24 Jun 2026 13:44:30 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Openbaar vervoer rijdt weer na staking tegen bezuinigingsplannen",
-        "link": "https://www.omroepflevoland.nl/nieuws/513727/openbaar-vervoer-rijdt-weer-na-staking-tegen-bezuinigingsplannen",
-        "published": "Wed, 24 Jun 2026 07:27:38 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Openbaar vervoer begint weer te rijden na staking, mogelijk nog wel vertraging en uitval",
-        "link": "https://www.omroepflevoland.nl/nieuws/513727/openbaar-vervoer-begint-weer-te-rijden-na-staking-mogelijk-nog-wel-vertraging-en-uitval",
-        "published": "Wed, 24 Jun 2026 07:27:38 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Openbaar vervoer ligt plat door staking, na 8.00 uur weer eerste treinen en bussen",
-        "link": "https://www.omroepflevoland.nl/nieuws/513727/openbaar-vervoer-ligt-plat-door-staking-na-8.00-uur-weer-eerste-treinen-en-bussen",
-        "published": "Wed, 24 Jun 2026 07:27:38 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Vijf jaar cel voor eigenaar van loods waar 1600 kilo coke lag",
-        "link": "https://www.omroepflevoland.nl/nieuws/513628/vijf-jaar-cel-voor-eigenaar-van-loods-waar-1600-kilo-coke-lag",
-        "published": "Tue, 23 Jun 2026 20:15:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 23/06 | Moeder met kleine kinderen op straat in Almere • Gekantelde vrachtwagen blokkeert Ganzenweg",
-        "link": "https://www.omroepflevoland.nl/nieuws/513643/nieuwsoverzicht-2306-or-moeder-met-kleine-kinderen-op-straat-in-almere-*-gekantelde-vrachtwagen-blokkeert-ganzenweg",
-        "published": "Tue, 23 Jun 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Centrada wil huurder op straat zetten om ongebruikte douche en tandenstokers",
-        "link": "https://www.omroepflevoland.nl/nieuws/513620/centrada-wil-huurder-op-straat-zetten-om-ongebruikte-douche-en-tandenstokers",
-        "published": "Tue, 23 Jun 2026 16:22:19 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Man woont volgens corporatie bij buurvrouw en wil zíjn huis ontruimen",
-        "link": "https://www.omroepflevoland.nl/nieuws/513620/man-woont-volgens-corporatie-bij-buurvrouw-en-wil-zijn-huis-ontruimen",
-        "published": "Tue, 23 Jun 2026 16:22:19 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Onderzoek naar onderbroek geeft geen uitsluitsel in zaak rond misbruik buurmeisje (4)",
-        "link": "https://www.omroepflevoland.nl/nieuws/513606/onderzoek-naar-onderbroek-geeft-geen-uitsluitsel-in-zaak-rond-misbruik-buurmeisje-(4)",
-        "published": "Tue, 23 Jun 2026 15:25:23 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Ganzenweg tijdelijk dicht vanaf Harderwijk naar Lelystad/Zeewolde door gekantelde vrachtwagen",
-        "link": "https://www.omroepflevoland.nl/nieuws/513609/ganzenweg-tijdelijk-dicht-vanaf-harderwijk-naar-lelystadzeewolde-door-gekantelde-vrachtwagen",
-        "published": "Tue, 23 Jun 2026 14:58:45 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Ganzenweg dicht vanaf Harderwijk naar Lelystad/Zeewolde door gekantelde vrachtwagen, 'Kan tot de avond duren'",
-        "link": "https://www.omroepflevoland.nl/nieuws/513609/ganzenweg-dicht-vanaf-harderwijk-naar-lelystadzeewolde-door-gekantelde-vrachtwagen-'kan-tot-de-avond-duren'",
-        "published": "Tue, 23 Jun 2026 14:58:45 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Advocaat broer vermoorde Ryan wil vader van meisje als getuige horen",
-        "link": "https://www.omroepflevoland.nl/nieuws/513523/advocaat-broer-vermoorde-ryan-wil-vader-van-meisje-als-getuige-horen",
-        "published": "Tue, 23 Jun 2026 08:40:36 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Hoe jongeren uit de criminaliteit blijven: studenten adviseren burgemeester",
-        "link": "https://www.omroepflevoland.nl/nieuws/513505/hoe-jongeren-uit-de-criminaliteit-blijven:-studenten-adviseren-burgemeester",
-        "published": "Tue, 23 Jun 2026 07:20:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Studenten helpen burgemeester: zo blijft jeugd uit de criminaliteit",
-        "link": "https://www.omroepflevoland.nl/nieuws/513505/studenten-helpen-burgemeester:-zo-blijft-jeugd-uit-de-criminaliteit",
-        "published": "Tue, 23 Jun 2026 07:20:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Biddinghuizen - Hulpdiensten vinden 'vermiste' zwemmers veilig op eilandje bij Biddinghuzien",
-        "link": "https://www.omroepflevoland.nl/nieuws/513545/hulpdiensten-vinden-'vermiste'-zwemmers-veilig-op-eilandje-bij-biddinghuzien",
-        "published": "Tue, 23 Jun 2026 06:54:14 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Politie denkt dat Lelystedeling met pistool schoot in kapperszaak Amsterdam en zo twee mensen verwondde",
-        "link": "https://www.omroepflevoland.nl/nieuws/513500/politie-denkt-dat-lelystedeling-met-pistool-schoot-in-kapperszaak-amsterdam-en-zo-twee-mensen-verwondde",
-        "published": "Mon, 22 Jun 2026 20:08:11 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 22/06 | Vrouw komt om door geweld • Sportevenementen afgelast door extreme hitte",
-        "link": "https://www.omroepflevoland.nl/nieuws/513483/nieuwsoverzicht-2206-or-vrouw-komt-om-door-geweld-*-sportevenementen-afgelast-door-extreme-hitte",
-        "published": "Mon, 22 Jun 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Ondernemers uit Almere en Rutten in de prijzen bij verkiezing Flevolandse Zakenvrouw",
-        "link": "https://www.omroepflevoland.nl/nieuws/513475/ondernemers-uit-almere-en-rutten-in-de-prijzen-bij-verkiezing-flevolandse-zakenvrouw",
-        "published": "Mon, 22 Jun 2026 16:38:03 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Omega Groep wil forse betaling van Lelystad en Almere voor geboden jeugdhulp van de afgelopen drie jaar",
-        "link": "https://www.omroepflevoland.nl/nieuws/513305/omega-groep-wil-forse-betaling-van-lelystad-en-almere-voor-geboden-jeugdhulp-van-de-afgelopen-drie-jaar",
-        "published": "Mon, 22 Jun 2026 14:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Omegagroep wil betaling van Lelystad en Almere voor geboden jeugdhulp van de afgelopen drie jaar",
-        "link": "https://www.omroepflevoland.nl/nieuws/513305/omegagroep-wil-betaling-van-lelystad-en-almere-voor-geboden-jeugdhulp-van-de-afgelopen-drie-jaar",
-        "published": "Mon, 22 Jun 2026 14:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Wielerwedstrijd rond IJsselmeer en triatlon Zeewolde afgelast, onverantwoord om te sporten bij hoge temperaturen",
-        "link": "https://www.omroepflevoland.nl/sport/513330/wielerwedstrijd-rond-ijsselmeer-en-triatlon-zeewolde-afgelast-onverantwoord-om-te-sporten-bij-hoge-temperaturen",
-        "published": "Mon, 22 Jun 2026 12:12:16 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Weekweerbericht: ijsjes inslaan want extreme hittegolf komt eraan",
-        "link": "https://www.omroepflevoland.nl/nieuws/513325/weekweerbericht:-ijsjes-inslaan-want-extreme-hittegolf-komt-eraan",
-        "published": "Mon, 22 Jun 2026 11:56:28 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad -  Ronkende motoren trekken duizenden liefhebbers naar Lelystad: 'De geur en de sfeer horen erbij '",
-        "link": "https://www.omroepflevoland.nl/nieuws/513248/ronkende-motoren-trekken-duizenden-liefhebbers-naar-lelystad:-'de-geur-en-de-sfeer-horen-erbij-'",
-        "published": "Sun, 21 Jun 2026 17:23:14 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Doodsangsten tijdens hevig noodweer: 'Het schip ging gevaarlijk heen en weer, lag behoorlijk scheef'",
-        "link": "https://www.omroepflevoland.nl/nieuws/513148/doodsangsten-tijdens-hevig-noodweer:-'het-schip-ging-gevaarlijk-heen-en-weer-lag-behoorlijk-scheef'",
-        "published": "Sat, 20 Jun 2026 17:33:05 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Van Arendonk switcht van hockey naar wereldtop zeilen: 'De droom is om gouden olympische medaille te prolongeren'",
-        "link": "https://www.omroepflevoland.nl/sport/474549/van-arendonk-switcht-van-hockey-naar-wereldtop-zeilen:-'de-droom-is-om-gouden-olympische-medaille-te-prolongeren'",
-        "published": "Sat, 20 Jun 2026 15:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Honderden meldingen door noodweer in Flevoland: 'Sinds storm Eunice niet meer zo druk geweest'",
-        "link": "https://www.omroepflevoland.nl/nieuws/513129/honderden-meldingen-door-noodweer-in-flevoland:-'sinds-storm-eunice-niet-meer-zo-druk-geweest'",
-        "published": "Sat, 20 Jun 2026 11:30:12 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Noodweer zorgt voor honderden meldingen in Flevoland: 'Sinds storm Eunice niet meer zo druk geweest'",
-        "link": "https://www.omroepflevoland.nl/nieuws/513129/noodweer-zorgt-voor-honderden-meldingen-in-flevoland:-'sinds-storm-eunice-niet-meer-zo-druk-geweest'",
-        "published": "Sat, 20 Jun 2026 11:30:12 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Wachtlijst voor sociale huurwoningen groeit verder: 'Dat gaat heel hard'",
-        "link": "https://www.omroepflevoland.nl/nieuws/513014/wachtlijst-voor-sociale-huurwoningen-groeit-verder:-'dat-gaat-heel-hard'",
-        "published": "Sat, 20 Jun 2026 08:00:00 GMT+0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
       {
-        "title": "Q-dance blaast Defqon.1 alsnog af, tienduizenden campinggasten moeten naar huis",
+        "title": "Partij voor de Dieren boos over schapen zonder schaduw bij hotel Van der Valk",
+        "link": "https://radiolelystad.nl/partij-voor-de-dieren-boos-over-schapen-zonder-schaduw-bij-van-der-valk",
+        "published": "vrijdag 26 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Defqon.1 alsnog afgelast, tienduizenden campinggasten geleidelijk naar huis",
         "link": "https://radiolelystad.nl/q-dance-blaast-defqon-1-alsnog-af-tienduizenden-campinggasten-moeten-naar-huis",
         "published": "vrijdag 26 juni 2026",
         "summary": ""
@@ -597,16 +301,8 @@
         "link": "https://radiolelystad.nl/optreden-handhaving-tegen-wk-vlaggetjes-in-botter-levert-kritiek-en-vragen-aan-het-college-op",
         "published": "dinsdag 09 juni 2026",
         "summary": ""
-      },
-      {
-        "title": "Spaanse film tussen de Hollandse akkers op de Flevolandse polderklei (video)",
-        "link": "https://radiolelystad.nl/spaanse-film-op-de-polderklei-tussen-de-hollandse-akkers-video0",
-        "published": "dinsdag 09 juni 2026",
-        "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": [],
     "De Stentor": [
       {
         "title": "Klok in examenlokaal loopt te snel, stelt student (63): ‘Had ik meer tijd gehad, dan had ik zeker een 8 gehaald’",
@@ -908,6 +604,310 @@
         "published": "Fri, 12 Jun 2026 15:30:00 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Buren voor de rechter om lekkage in badkamer",
+        "link": "https://www.omroepflevoland.nl/nieuws/514020/buren-voor-de-rechter-om-lekkage-in-badkamer",
+        "published": "Fri, 26 Jun 2026 08:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Vergunningen verleend voor eerste fase datacentrum Flevokust Campus",
+        "link": "https://www.omroepflevoland.nl/nieuws/513998/vergunningen-verleend-voor-eerste-fase-datacentrum-flevokust-campus",
+        "published": "Fri, 26 Jun 2026 07:40:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Vooral basisscholen in oude gebouwen vandaag dicht",
+        "link": "https://www.omroepflevoland.nl/nieuws/513984/vooral-basisscholen-in-oude-gebouwen-vandaag-dicht",
+        "published": "Fri, 26 Jun 2026 06:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Biddinghuizen - Ongeregeldheden op terrein Defqon.1, fans geschokt en boos over afgelasting festival",
+        "link": "https://www.omroepflevoland.nl/nieuws/514073/ongeregeldheden-op-terrein-defqon.1-fans-geschokt-en-boos-over-afgelasting-festival",
+        "published": "Fri, 26 Jun 2026 02:24:54 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Honderden leerlingen strijden met zelfgebouwde elektrische karts op de Energy Experience",
+        "link": "https://www.omroepflevoland.nl/nieuws/513962/honderden-leerlingen-strijden-met-zelfgebouwde-elektrische-karts-op-de-energy-experience",
+        "published": "Thu, 25 Jun 2026 21:40:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Herstel verzakt terrein Flevokust Haven minimaal een jaar uitgesteld",
+        "link": "https://www.omroepflevoland.nl/nieuws/514006/herstel-verzakt-terrein-flevokust-haven-minimaal-een-jaar-uitgesteld",
+        "published": "Thu, 25 Jun 2026 20:50:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Geen vervolg op pilot tweede uur gratis parkeren in Stadshart Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/513993/geen-vervolg-op-pilot-tweede-uur-gratis-parkeren-in-stadshart-lelystad",
+        "published": "Thu, 25 Jun 2026 20:17:40 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 25/06 | Extreme hitte: code rood • Defqon.1 sluit deuren voor dagbezoekers",
+        "link": "https://www.omroepflevoland.nl/nieuws/513813/nieuwsoverzicht-2506-or-extreme-hitte:-code-rood-*-defqon.1-sluit-deuren-voor-dagbezoekers",
+        "published": "Thu, 25 Jun 2026 18:55:19 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Houtribbrug weer omlaag na storing: auto's rijden weer, schepen liggen stil",
+        "link": "https://www.omroepflevoland.nl/nieuws/513988/houtribbrug-weer-omlaag-na-storing:-auto's-rijden-weer-schepen-liggen-stil",
+        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Houtribbrug weer omlaag na storing. Auto's rijden weer, schepen liggen stil",
+        "link": "https://www.omroepflevoland.nl/nieuws/513988/houtribbrug-weer-omlaag-na-storing.-auto's-rijden-weer-schepen-liggen-stil",
+        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Houtribbrug weer omlaag na storing. Auto's rijden weer., schepen liggen stil",
+        "link": "https://www.omroepflevoland.nl/nieuws/513988/houtribbrug-weer-omlaag-na-storing.-auto's-rijden-weer.-schepen-liggen-stil",
+        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Houtribbrug weer omlaag na storing, autoverkeer langzaam weer op gang",
+        "link": "https://www.omroepflevoland.nl/nieuws/513988/houtribbrug-weer-omlaag-na-storing-autoverkeer-langzaam-weer-op-gang",
+        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Houtribbrug weer omlaag na storing, verkeer nog niet op gang",
+        "link": "https://www.omroepflevoland.nl/nieuws/513988/houtribbrug-weer-omlaag-na-storing-verkeer-nog-niet-op-gang",
+        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Brug Houtribsluizen wil niet meer dicht, verkeer beide kanten op staat vast",
+        "link": "https://www.omroepflevoland.nl/nieuws/513988/brug-houtribsluizen-wil-niet-meer-dicht-verkeer-beide-kanten-op-staat-vast",
+        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - KNMI kondigt code rood af voor Flevoland wegens extreme hitte, scholen dicht",
+        "link": "https://www.omroepflevoland.nl/nieuws/513991/knmi-kondigt-code-rood-af-voor-flevoland-wegens-extreme-hitte-scholen-dicht",
+        "published": "Thu, 25 Jun 2026 16:04:07 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Zoektocht naar gewassen die met minder bestrijdingsmiddelen kunnen",
+        "link": "https://www.omroepflevoland.nl/nieuws/513241/zoektocht-naar-gewassen-die-met-minder-bestrijdingsmiddelen-kunnen",
+        "published": "Thu, 25 Jun 2026 06:40:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Tropische hitte in Flevoland | Morgen code rood • Scholen gaan dicht",
+        "link": "https://www.omroepflevoland.nl/nieuws/513478/tropische-hitte-in-flevoland-or-morgen-code-rood-*-scholen-gaan-dicht",
+        "published": "Thu, 25 Jun 2026 06:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Tropische hitte in Flevoland | Morgen code rood • Brug van de Houtribsluizen in Lelystad zit vast",
+        "link": "https://www.omroepflevoland.nl/nieuws/513478/tropische-hitte-in-flevoland-or-morgen-code-rood-*-brug-van-de-houtribsluizen-in-lelystad-zit-vast",
+        "published": "Thu, 25 Jun 2026 06:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Tropische hitte in Flevoland | Museum Batavialand eerder dicht • Bezoekerscentrum Natuurpark helemaal dicht",
+        "link": "https://www.omroepflevoland.nl/nieuws/513478/tropische-hitte-in-flevoland-or-museum-batavialand-eerder-dicht-*-bezoekerscentrum-natuurpark-helemaal-dicht",
+        "published": "Thu, 25 Jun 2026 06:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Bouwvakkers gooien dankzij zinderende hitte op de bouwplaats 's middags al de bezwete handdoek in de ring",
+        "link": "https://www.omroepflevoland.nl/nieuws/513808/bouwvakkers-gooien-dankzij-zinderende-hitte-op-de-bouwplaats-'s-middags-al-de-bezwete-handdoek-in-de-ring",
+        "published": "Wed, 24 Jun 2026 20:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 24/06 | Almeerders krijgen 15 jaar cel voor liquidatiepoging • Kernreactor mogelijk naar Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/513830/nieuwsoverzicht-2406-or-almeerders-krijgen-15-jaar-cel-voor-liquidatiepoging-*-kernreactor-mogelijk-naar-lelystad",
+        "published": "Wed, 24 Jun 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Netbeheerder TenneT noemt Lelystad als optie voor kleine kernreactor",
+        "link": "https://www.omroepflevoland.nl/nieuws/513797/netbeheerder-tennet-noemt-lelystad-als-optie-voor-kleine-kernreactor",
+        "published": "Wed, 24 Jun 2026 16:22:57 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Veel auto-ongelukken in Flevoland, mogelijk speelt hitte een rol",
+        "link": "https://www.omroepflevoland.nl/nieuws/513804/veel-auto-ongelukken-in-flevoland-mogelijk-speelt-hitte-een-rol",
+        "published": "Wed, 24 Jun 2026 16:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Kort geding over jeugdzorg in Lelystad van de baan",
+        "link": "https://www.omroepflevoland.nl/nieuws/513771/kort-geding-over-jeugdzorg-in-lelystad-van-de-baan",
+        "published": "Wed, 24 Jun 2026 13:44:30 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Openbaar vervoer rijdt weer na staking tegen bezuinigingsplannen",
+        "link": "https://www.omroepflevoland.nl/nieuws/513727/openbaar-vervoer-rijdt-weer-na-staking-tegen-bezuinigingsplannen",
+        "published": "Wed, 24 Jun 2026 07:27:38 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Openbaar vervoer begint weer te rijden na staking, mogelijk nog wel vertraging en uitval",
+        "link": "https://www.omroepflevoland.nl/nieuws/513727/openbaar-vervoer-begint-weer-te-rijden-na-staking-mogelijk-nog-wel-vertraging-en-uitval",
+        "published": "Wed, 24 Jun 2026 07:27:38 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Openbaar vervoer ligt plat door staking, na 8.00 uur weer eerste treinen en bussen",
+        "link": "https://www.omroepflevoland.nl/nieuws/513727/openbaar-vervoer-ligt-plat-door-staking-na-8.00-uur-weer-eerste-treinen-en-bussen",
+        "published": "Wed, 24 Jun 2026 07:27:38 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Vijf jaar cel voor eigenaar van loods waar 1600 kilo coke lag",
+        "link": "https://www.omroepflevoland.nl/nieuws/513628/vijf-jaar-cel-voor-eigenaar-van-loods-waar-1600-kilo-coke-lag",
+        "published": "Tue, 23 Jun 2026 20:15:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 23/06 | Moeder met kleine kinderen op straat in Almere • Gekantelde vrachtwagen blokkeert Ganzenweg",
+        "link": "https://www.omroepflevoland.nl/nieuws/513643/nieuwsoverzicht-2306-or-moeder-met-kleine-kinderen-op-straat-in-almere-*-gekantelde-vrachtwagen-blokkeert-ganzenweg",
+        "published": "Tue, 23 Jun 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Centrada wil huurder op straat zetten om ongebruikte douche en tandenstokers",
+        "link": "https://www.omroepflevoland.nl/nieuws/513620/centrada-wil-huurder-op-straat-zetten-om-ongebruikte-douche-en-tandenstokers",
+        "published": "Tue, 23 Jun 2026 16:22:19 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Man woont volgens corporatie bij buurvrouw en wil zíjn huis ontruimen",
+        "link": "https://www.omroepflevoland.nl/nieuws/513620/man-woont-volgens-corporatie-bij-buurvrouw-en-wil-zijn-huis-ontruimen",
+        "published": "Tue, 23 Jun 2026 16:22:19 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Onderzoek naar onderbroek geeft geen uitsluitsel in zaak rond misbruik buurmeisje (4)",
+        "link": "https://www.omroepflevoland.nl/nieuws/513606/onderzoek-naar-onderbroek-geeft-geen-uitsluitsel-in-zaak-rond-misbruik-buurmeisje-(4)",
+        "published": "Tue, 23 Jun 2026 15:25:23 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Ganzenweg tijdelijk dicht vanaf Harderwijk naar Lelystad/Zeewolde door gekantelde vrachtwagen",
+        "link": "https://www.omroepflevoland.nl/nieuws/513609/ganzenweg-tijdelijk-dicht-vanaf-harderwijk-naar-lelystadzeewolde-door-gekantelde-vrachtwagen",
+        "published": "Tue, 23 Jun 2026 14:58:45 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Ganzenweg dicht vanaf Harderwijk naar Lelystad/Zeewolde door gekantelde vrachtwagen, 'Kan tot de avond duren'",
+        "link": "https://www.omroepflevoland.nl/nieuws/513609/ganzenweg-dicht-vanaf-harderwijk-naar-lelystadzeewolde-door-gekantelde-vrachtwagen-'kan-tot-de-avond-duren'",
+        "published": "Tue, 23 Jun 2026 14:58:45 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Advocaat broer vermoorde Ryan wil vader van meisje als getuige horen",
+        "link": "https://www.omroepflevoland.nl/nieuws/513523/advocaat-broer-vermoorde-ryan-wil-vader-van-meisje-als-getuige-horen",
+        "published": "Tue, 23 Jun 2026 08:40:36 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Hoe jongeren uit de criminaliteit blijven: studenten adviseren burgemeester",
+        "link": "https://www.omroepflevoland.nl/nieuws/513505/hoe-jongeren-uit-de-criminaliteit-blijven:-studenten-adviseren-burgemeester",
+        "published": "Tue, 23 Jun 2026 07:20:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Studenten helpen burgemeester: zo blijft jeugd uit de criminaliteit",
+        "link": "https://www.omroepflevoland.nl/nieuws/513505/studenten-helpen-burgemeester:-zo-blijft-jeugd-uit-de-criminaliteit",
+        "published": "Tue, 23 Jun 2026 07:20:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Biddinghuizen - Hulpdiensten vinden 'vermiste' zwemmers veilig op eilandje bij Biddinghuzien",
+        "link": "https://www.omroepflevoland.nl/nieuws/513545/hulpdiensten-vinden-'vermiste'-zwemmers-veilig-op-eilandje-bij-biddinghuzien",
+        "published": "Tue, 23 Jun 2026 06:54:14 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Politie denkt dat Lelystedeling met pistool schoot in kapperszaak Amsterdam en zo twee mensen verwondde",
+        "link": "https://www.omroepflevoland.nl/nieuws/513500/politie-denkt-dat-lelystedeling-met-pistool-schoot-in-kapperszaak-amsterdam-en-zo-twee-mensen-verwondde",
+        "published": "Mon, 22 Jun 2026 20:08:11 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 22/06 | Vrouw komt om door geweld • Sportevenementen afgelast door extreme hitte",
+        "link": "https://www.omroepflevoland.nl/nieuws/513483/nieuwsoverzicht-2206-or-vrouw-komt-om-door-geweld-*-sportevenementen-afgelast-door-extreme-hitte",
+        "published": "Mon, 22 Jun 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Ondernemers uit Almere en Rutten in de prijzen bij verkiezing Flevolandse Zakenvrouw",
+        "link": "https://www.omroepflevoland.nl/nieuws/513475/ondernemers-uit-almere-en-rutten-in-de-prijzen-bij-verkiezing-flevolandse-zakenvrouw",
+        "published": "Mon, 22 Jun 2026 16:38:03 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Omega Groep wil forse betaling van Lelystad en Almere voor geboden jeugdhulp van de afgelopen drie jaar",
+        "link": "https://www.omroepflevoland.nl/nieuws/513305/omega-groep-wil-forse-betaling-van-lelystad-en-almere-voor-geboden-jeugdhulp-van-de-afgelopen-drie-jaar",
+        "published": "Mon, 22 Jun 2026 14:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Omegagroep wil betaling van Lelystad en Almere voor geboden jeugdhulp van de afgelopen drie jaar",
+        "link": "https://www.omroepflevoland.nl/nieuws/513305/omegagroep-wil-betaling-van-lelystad-en-almere-voor-geboden-jeugdhulp-van-de-afgelopen-drie-jaar",
+        "published": "Mon, 22 Jun 2026 14:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Wielerwedstrijd rond IJsselmeer en triatlon Zeewolde afgelast, onverantwoord om te sporten bij hoge temperaturen",
+        "link": "https://www.omroepflevoland.nl/sport/513330/wielerwedstrijd-rond-ijsselmeer-en-triatlon-zeewolde-afgelast-onverantwoord-om-te-sporten-bij-hoge-temperaturen",
+        "published": "Mon, 22 Jun 2026 12:12:16 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Weekweerbericht: ijsjes inslaan want extreme hittegolf komt eraan",
+        "link": "https://www.omroepflevoland.nl/nieuws/513325/weekweerbericht:-ijsjes-inslaan-want-extreme-hittegolf-komt-eraan",
+        "published": "Mon, 22 Jun 2026 11:56:28 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad -  Ronkende motoren trekken duizenden liefhebbers naar Lelystad: 'De geur en de sfeer horen erbij '",
+        "link": "https://www.omroepflevoland.nl/nieuws/513248/ronkende-motoren-trekken-duizenden-liefhebbers-naar-lelystad:-'de-geur-en-de-sfeer-horen-erbij-'",
+        "published": "Sun, 21 Jun 2026 17:23:14 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Doodsangsten tijdens hevig noodweer: 'Het schip ging gevaarlijk heen en weer, lag behoorlijk scheef'",
+        "link": "https://www.omroepflevoland.nl/nieuws/513148/doodsangsten-tijdens-hevig-noodweer:-'het-schip-ging-gevaarlijk-heen-en-weer-lag-behoorlijk-scheef'",
+        "published": "Sat, 20 Jun 2026 17:33:05 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Van Arendonk switcht van hockey naar wereldtop zeilen: 'De droom is om gouden olympische medaille te prolongeren'",
+        "link": "https://www.omroepflevoland.nl/sport/474549/van-arendonk-switcht-van-hockey-naar-wereldtop-zeilen:-'de-droom-is-om-gouden-olympische-medaille-te-prolongeren'",
+        "published": "Sat, 20 Jun 2026 15:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Honderden meldingen door noodweer in Flevoland: 'Sinds storm Eunice niet meer zo druk geweest'",
+        "link": "https://www.omroepflevoland.nl/nieuws/513129/honderden-meldingen-door-noodweer-in-flevoland:-'sinds-storm-eunice-niet-meer-zo-druk-geweest'",
+        "published": "Sat, 20 Jun 2026 11:30:12 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Noodweer zorgt voor honderden meldingen in Flevoland: 'Sinds storm Eunice niet meer zo druk geweest'",
+        "link": "https://www.omroepflevoland.nl/nieuws/513129/noodweer-zorgt-voor-honderden-meldingen-in-flevoland:-'sinds-storm-eunice-niet-meer-zo-druk-geweest'",
+        "published": "Sat, 20 Jun 2026 11:30:12 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [],
+    "Nu.nl": []
   }
 }

@@ -1,6 +1,7 @@
 {
-  "updated": "2026-06-26T11:50:22.448101+00:00",
+  "updated": "2026-06-26T12:34:42.952587+00:00",
   "sources": {
+    "NOS": [],
     "De Stentor": [
       {
         "title": "Lelystad vraagt booteigenaren op tijd hun winterstalling te regelen",
@@ -605,9 +606,14 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Nu.nl": [],
     "Radio Lelystad": [
+      {
+        "title": "CDA is bezorgd over de staat van brandkranen in Lelystad",
+        "link": "https://radiolelystad.nl/cda-is-bezorgd-over-de-staat-van-brandkranen-in-lelystad",
+        "published": "vrijdag 26 juni 2026",
+        "summary": ""
+      },
       {
         "title": "Partij voor de Dieren boos over schapen zonder schaduw bij hotel Van der Valk",
         "link": "https://radiolelystad.nl/partij-voor-de-dieren-boos-over-schapen-zonder-schaduw-bij-van-der-valk",
@@ -899,12 +905,6 @@
       {
         "title": "Beoogd slachtoffer laat helpdeskfraudeur uit Lelystad in de val lopen in Doornenburg",
         "link": "https://radiolelystad.nl/beoogd-slachtoffer-laat-helpdeskfraudeur-in-de-val-lopen",
-        "published": "dinsdag 09 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Actie handhavers tegen WK-vlaggetjes in Botter leidt tot geklaag en tot raadsvragen",
-        "link": "https://radiolelystad.nl/optreden-handhaving-tegen-wk-vlaggetjes-in-botter-levert-kritiek-en-vragen-aan-het-college-op",
         "published": "dinsdag 09 juni 2026",
         "summary": ""
       }

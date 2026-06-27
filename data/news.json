@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-27T16:20:16.038393+00:00",
+  "updated": "2026-06-27T17:21:50.621288+00:00",
   "sources": {
+    "Nu.nl": [],
+    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Wijk met tuinders, ambachtslieden, kunstenaars opent voor de 23e keer de deuren",
+        "link": "https://www.omroepflevoland.nl/nieuws/514328/wijk-met-tuinders-ambachtslieden-kunstenaars-opent-voor-de-23e-keer-de-deuren",
+        "published": "Sat, 27 Jun 2026 18:00:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Wijk met tuinders, ambachtslieden, kunstenaars opent voor de 23 keer de deuren",
         "link": "https://www.omroepflevoland.nl/nieuws/514328/wijk-met-tuinders-ambachtslieden-kunstenaars-opent-voor-de-23-keer-de-deuren",
@@ -15,7 +23,7 @@
         "summary": ""
       },
       {
-        "title": "Flevoland - Oud-paralympisch atleet Jelmar Bos klaar voor maatschappelijke loopbaan ‘Gedwongen einde sportcarrière deed veel pijn’",
+        "title": "Flevoland - Oud-paralympisch atleet Jelmar Bos klaar voor maatschappelijke loopbaan 'Gedwongen einde sportcarrière deed veel pijn'",
         "link": "https://www.omroepflevoland.nl/nieuws/514137/oud-paralympisch-atleet-jelmar-bos-klaar-voor-maatschappelijke-loopbaan-'gedwongen-einde-sportcarriere-deed-veel-pijn'",
         "published": "Sat, 27 Jun 2026 13:01:00 GMT+0200",
         "summary": ""
@@ -294,12 +302,6 @@
         "title": "Lelystad - Studenten helpen burgemeester: zo blijft jeugd uit de criminaliteit",
         "link": "https://www.omroepflevoland.nl/nieuws/513505/studenten-helpen-burgemeester:-zo-blijft-jeugd-uit-de-criminaliteit",
         "published": "Tue, 23 Jun 2026 07:20:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Biddinghuizen - Hulpdiensten vinden 'vermiste' zwemmers veilig op eilandje bij Biddinghuzien",
-        "link": "https://www.omroepflevoland.nl/nieuws/513545/hulpdiensten-vinden-'vermiste'-zwemmers-veilig-op-eilandje-bij-biddinghuzien",
-        "published": "Tue, 23 Jun 2026 06:54:14 GMT+0200",
         "summary": ""
       }
     ],
@@ -605,8 +607,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Geen aparte busbaan van en naar Lelystad Airport, goedkopere oplossingen lijken voldoende",

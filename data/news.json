@@ -1,7 +1,6 @@
 {
-  "updated": "2026-06-27T21:20:13.204289+00:00",
+  "updated": "2026-06-27T22:18:49.738007+00:00",
   "sources": {
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Bergingsbedrijven houden rekening met extreme hitte: 'We halen mensen zo vlug mogelijk van de snelweg af'",
@@ -606,6 +605,8 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Geen aparte busbaan van en naar Lelystad Airport, goedkopere oplossingen lijken voldoende",
@@ -907,7 +908,6 @@
         "published": "woensdag 10 juni 2026",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

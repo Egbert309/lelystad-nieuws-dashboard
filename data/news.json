@@ -1,8 +1,13 @@
 {
-  "updated": "2026-06-27T11:28:12.108800+00:00",
+  "updated": "2026-06-27T12:20:14.377285+00:00",
   "sources": {
-    "NOS": [],
     "Radio Lelystad": [
+      {
+        "title": "Geen aparte busbaan van en naar Lelystad Airport, goedkopere oplossingen lijken voldoende",
+        "link": "https://radiolelystad.nl/geen-aparte-busbaan-van-en-naar-lelystad-airport-goedkopere-oplossingen-lijken-voldoende",
+        "published": "zaterdag 27 juni 2026",
+        "summary": ""
+      },
       {
         "title": "CDA is na problemen bij Party Players bezorgd over de staat van brandkranen",
         "link": "https://radiolelystad.nl/cda-is-bezorgd-over-de-staat-van-brandkranen-in-lelystad",
@@ -296,20 +301,19 @@
         "link": "https://radiolelystad.nl/gedicht-van-de-week-het-leven-charmane-pengel",
         "published": "woensdag 10 juni 2026",
         "summary": ""
-      },
-      {
-        "title": "Beoogd slachtoffer laat helpdeskfraudeur uit Lelystad in de val lopen in Doornenburg",
-        "link": "https://radiolelystad.nl/beoogd-slachtoffer-laat-helpdeskfraudeur-in-de-val-lopen",
-        "published": "dinsdag 09 juni 2026",
-        "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Oud-paralympisch atleet Jelmar Bos klaar voor maatschappelijke loopbaan ‘Gedwongen einde sportcarrière deed veel pijn’",
         "link": "https://www.omroepflevoland.nl/nieuws/514137/oud-paralympisch-atleet-jelmar-bos-klaar-voor-maatschappelijke-loopbaan-'gedwongen-einde-sportcarriere-deed-veel-pijn'",
         "published": "Sat, 27 Jun 2026 13:01:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Storing Houtribbrug voorbij, verkeer tussen Lelystad en Enkhuizen komt weer op gang",
+        "link": "https://www.omroepflevoland.nl/nieuws/514315/storing-houtribbrug-voorbij-verkeer-tussen-lelystad-en-enkhuizen-komt-weer-op-gang",
+        "published": "Sat, 27 Jun 2026 12:56:46 GMT+0200",
         "summary": ""
       },
       {
@@ -598,12 +602,6 @@
         "title": "Flevoland - Ondernemers uit Almere en Rutten in de prijzen bij verkiezing Flevolandse Zakenvrouw",
         "link": "https://www.omroepflevoland.nl/nieuws/513475/ondernemers-uit-almere-en-rutten-in-de-prijzen-bij-verkiezing-flevolandse-zakenvrouw",
         "published": "Mon, 22 Jun 2026 16:38:03 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Omega Groep wil forse betaling van Lelystad en Almere voor geboden jeugdhulp van de afgelopen drie jaar",
-        "link": "https://www.omroepflevoland.nl/nieuws/513305/omega-groep-wil-forse-betaling-van-lelystad-en-almere-voor-geboden-jeugdhulp-van-de-afgelopen-drie-jaar",
-        "published": "Mon, 22 Jun 2026 14:00:00 GMT+0200",
         "summary": ""
       }
     ],
@@ -908,6 +906,8 @@
         "published": "Sun, 14 Jun 2026 14:42:09 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [],
+    "Nu.nl": []
   }
 }

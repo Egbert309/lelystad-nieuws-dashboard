@@ -1,8 +1,6 @@
 {
-  "updated": "2026-06-27T09:39:24.010356+00:00",
+  "updated": "2026-06-27T10:35:42.655402+00:00",
   "sources": {
-    "Nu.nl": [],
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Almere - Celstraf voor overvaller Happie Snack, 'wilde geld stelen om te kunnen onderduiken'",
@@ -908,6 +906,8 @@
         "published": "Sun, 14 Jun 2026 09:11:27 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [],
+    "Nu.nl": []
   }
 }

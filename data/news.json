@@ -1,7 +1,13 @@
 {
-  "updated": "2026-06-27T15:24:34.048667+00:00",
+  "updated": "2026-06-27T16:20:16.038393+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Wijk met tuinders, ambachtslieden, kunstenaars opent voor de 23 keer de deuren",
+        "link": "https://www.omroepflevoland.nl/nieuws/514328/wijk-met-tuinders-ambachtslieden-kunstenaars-opent-voor-de-23-keer-de-deuren",
+        "published": "Sat, 27 Jun 2026 18:00:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Brandweer haalt jong reetje uit sloot in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/514294/brandweer-haalt-jong-reetje-uit-sloot-in-lelystad",
@@ -295,15 +301,15 @@
         "link": "https://www.omroepflevoland.nl/nieuws/513545/hulpdiensten-vinden-'vermiste'-zwemmers-veilig-op-eilandje-bij-biddinghuzien",
         "published": "Tue, 23 Jun 2026 06:54:14 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Politie denkt dat Lelystedeling met pistool schoot in kapperszaak Amsterdam en zo twee mensen verwondde",
-        "link": "https://www.omroepflevoland.nl/nieuws/513500/politie-denkt-dat-lelystedeling-met-pistool-schoot-in-kapperszaak-amsterdam-en-zo-twee-mensen-verwondde",
-        "published": "Mon, 22 Jun 2026 20:08:11 GMT+0200",
-        "summary": ""
       }
     ],
     "De Stentor": [
+      {
+        "title": "Lelystad betaalt ruim een miljoen voor leegstaand postkantoor",
+        "link": "https://www.destentor.nl/lelystad/lelystad-betaalt-ruim-een-miljoen-voor-leegstaand-postkantoor~aab67a04/",
+        "published": "Sat, 27 Jun 2026 16:00:47 GMT",
+        "summary": ""
+      },
       {
         "title": "Dit stuurden jullie in: Perfect barbecueweer in Meppel • Jubilerende muziekvereniging zoekt oud-leden",
         "link": "https://www.destentor.nl/zwolle/dit-stuurden-jullie-in-perfect-barbecueweer-in-meppel-jubilerende-muziekvereniging-zoekt-oud-leden~a24b63d5/",
@@ -597,14 +603,9 @@
         "link": "https://www.destentor.nl/lelystad/zoon-mag-na-elf-incidenten-niet-meer-in-buurt-van-ouderlijk-huis-in-lelystad-komen~a2a0dca6/",
         "published": "Sun, 14 Jun 2026 16:46:00 GMT",
         "summary": ""
-      },
-      {
-        "title": "Politie in Lelystad gebruikt taser bij aanhouding minderjarige jongens na beroving fatbike",
-        "link": "https://www.destentor.nl/lelystad/politie-in-lelystad-gebruikt-taser-bij-aanhouding-minderjarige-jongens-na-beroving-fatbike~a3126697/",
-        "published": "Sun, 14 Jun 2026 14:42:09 GMT",
-        "summary": ""
       }
     ],
+    "NOS": [],
     "Nu.nl": [],
     "Radio Lelystad": [
       {
@@ -907,7 +908,6 @@
         "published": "woensdag 10 juni 2026",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

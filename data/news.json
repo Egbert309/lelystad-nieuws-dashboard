@@ -1,7 +1,15 @@
 {
-  "updated": "2026-06-28T10:49:02.673356+00:00",
+  "updated": "2026-06-28T11:30:53.844927+00:00",
   "sources": {
+    "NOS": [],
+    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Ammoniak lekt uit leiding bij frietbakkerij langs A6, bedrijf ontruimd",
+        "link": "https://www.omroepflevoland.nl/nieuws/514389/ammoniak-lekt-uit-leiding-bij-frietbakkerij-langs-a6-bedrijf-ontruimd",
+        "published": "Sun, 28 Jun 2026 13:13:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Grote stroomstoring in Lelystad veroorzaakt problemen voor zo'n 2.000 huishoudens",
         "link": "https://www.omroepflevoland.nl/nieuws/514387/grote-stroomstoring-in-lelystad-veroorzaakt-problemen-voor-zo'n-2.000-huishoudens",
@@ -293,12 +301,6 @@
       {
         "title": "Flevoland - Ganzenweg tijdelijk dicht vanaf Harderwijk naar Lelystad/Zeewolde door gekantelde vrachtwagen",
         "link": "https://www.omroepflevoland.nl/nieuws/513609/ganzenweg-tijdelijk-dicht-vanaf-harderwijk-naar-lelystadzeewolde-door-gekantelde-vrachtwagen",
-        "published": "Tue, 23 Jun 2026 14:58:45 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Ganzenweg dicht vanaf Harderwijk naar Lelystad/Zeewolde door gekantelde vrachtwagen, 'Kan tot de avond duren'",
-        "link": "https://www.omroepflevoland.nl/nieuws/513609/ganzenweg-dicht-vanaf-harderwijk-naar-lelystadzeewolde-door-gekantelde-vrachtwagen-'kan-tot-de-avond-duren'",
         "published": "Tue, 23 Jun 2026 14:58:45 GMT+0200",
         "summary": ""
       }
@@ -906,8 +908,6 @@
         "published": "woensdag 10 juni 2026",
         "summary": ""
       }
-    ],
-    "Nu.nl": [],
-    "NOS": []
+    ]
   }
 }

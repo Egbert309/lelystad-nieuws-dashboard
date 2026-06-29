@@ -1,8 +1,6 @@
 {
-  "updated": "2026-06-29T21:28:01.564902+00:00",
+  "updated": "2026-06-29T22:20:51.313151+00:00",
   "sources": {
-    "Nu.nl": [],
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Raadsleden willen dat school gevaarlijke honden toch naar Hondsdraf kan",
@@ -908,6 +906,8 @@
         "published": "Wed, 24 Jun 2026 07:27:38 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [],
+    "Nu.nl": []
   }
 }

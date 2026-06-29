@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T02:59:28.977172+00:00",
+  "updated": "2026-06-29T04:39:33.876798+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,6 +303,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Geen aparte busbaan van en naar Lelystad Airport, goedkopere oplossingen lijken voldoende",
@@ -605,9 +606,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Slappe Flevolandse bodem vraagt om goede voorbereiding bouwplannen, 'Voorkom hoge kosten achteraf'",
+        "link": "https://www.omroepflevoland.nl/nieuws/514133/slappe-flevolandse-bodem-vraagt-om-goede-voorbereiding-bouwplannen-'voorkom-hoge-kosten-achteraf'",
+        "published": "Mon, 29 Jun 2026 05:55:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Ammoniak lekt uit leiding bij frietbakkerij langs A6, bedrijf ontruimd",
         "link": "https://www.omroepflevoland.nl/nieuws/514389/ammoniak-lekt-uit-leiding-bij-frietbakkerij-langs-a6-bedrijf-ontruimd",
@@ -901,13 +906,8 @@
         "link": "https://www.omroepflevoland.nl/nieuws/513606/onderzoek-naar-onderbroek-geeft-geen-uitsluitsel-in-zaak-rond-misbruik-buurmeisje-(4)",
         "published": "Tue, 23 Jun 2026 15:25:23 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Flevoland - Ganzenweg tijdelijk dicht vanaf Harderwijk naar Lelystad/Zeewolde door gekantelde vrachtwagen",
-        "link": "https://www.omroepflevoland.nl/nieuws/513609/ganzenweg-tijdelijk-dicht-vanaf-harderwijk-naar-lelystadzeewolde-door-gekantelde-vrachtwagen",
-        "published": "Tue, 23 Jun 2026 14:58:45 GMT+0200",
-        "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

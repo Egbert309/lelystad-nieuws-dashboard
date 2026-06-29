@@ -1,8 +1,14 @@
 {
-  "updated": "2026-06-29T14:20:21.587872+00:00",
+  "updated": "2026-06-29T16:15:24.227775+00:00",
   "sources": {
     "NOS": [],
     "De Stentor": [
+      {
+        "title": "Criminelen in zicht: politie kan in Lelystad beelden van meer dan 2000 particuliere camera's opvragen",
+        "link": "https://www.destentor.nl/lelystad/criminelen-in-zicht-politie-kan-in-lelystad-beelden-van-meer-dan-2000-particuliere-camera-s-opvragen~ad14d737/",
+        "published": "Mon, 29 Jun 2026 15:30:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Heb jij Spidey, Teddy of Luna gezien? Deze 11 huisdieren worden in Lelystad vermist",
         "link": "https://www.destentor.nl/lelystad/heb-jij-spidey-teddy-of-luna-gezien-deze-11-huisdieren-worden-in-lelystad-vermist~a380ddf3/",
@@ -296,15 +302,8 @@
         "link": "https://www.destentor.nl/lelystad/voor-het-tweede-jaar-op-rij-meer-inwoners-van-lelystad-arbeidsongeschikt-hoogste-aantal-sinds-2017~ae10ab83/",
         "published": "Tue, 16 Jun 2026 15:30:00 GMT",
         "summary": ""
-      },
-      {
-        "title": "Explosie in de nacht beschadigt wooncomplex in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/explosie-in-de-nacht-beschadigt-wooncomplex-in-lelystad~a6e6aad2/",
-        "published": "Tue, 16 Jun 2026 08:12:00 GMT",
-        "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Raadsleden willen dat school gevaarlijke honden toch naar Hondsdraf kan",
@@ -609,6 +608,18 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Dronten - Oud-prof Aziz kijkt met genoegen uit naar Nederland tegen Marokko: 'Ben wel nerveus, Nederland is niet makkelijk'",
+        "link": "https://www.omroepflevoland.nl/nieuws/514573/oud-prof-aziz-kijkt-met-genoegen-uit-naar-nederland-tegen-marokko:-'ben-wel-nerveus-nederland-is-niet-makkelijk'",
+        "published": "Mon, 29 Jun 2026 18:11:17 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Gemeenten schuiven meest inclusieve werkgevers naar voren voor nominatie Flevopenning",
+        "link": "https://www.omroepflevoland.nl/nieuws/514579/gemeenten-schuiven-meest-inclusieve-werkgevers-naar-voren-voor-nominatie-flevopenning",
+        "published": "Mon, 29 Jun 2026 16:53:37 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Lelystad - Motorrijder 'tientallen meters weggeslingerd' na botsing met aanhanger in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/514547/motorrijder-'tientallen-meters-weggeslingerd'-na-botsing-met-aanhanger-in-lelystad",
         "published": "Mon, 29 Jun 2026 13:29:50 GMT+0200",
@@ -895,19 +906,8 @@
         "link": "https://www.omroepflevoland.nl/nieuws/513628/vijf-jaar-cel-voor-eigenaar-van-loods-waar-1600-kilo-coke-lag",
         "published": "Tue, 23 Jun 2026 20:15:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 23/06 | Moeder met kleine kinderen op straat in Almere • Gekantelde vrachtwagen blokkeert Ganzenweg",
-        "link": "https://www.omroepflevoland.nl/nieuws/513643/nieuwsoverzicht-2306-or-moeder-met-kleine-kinderen-op-straat-in-almere-*-gekantelde-vrachtwagen-blokkeert-ganzenweg",
-        "published": "Tue, 23 Jun 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Centrada wil huurder op straat zetten om ongebruikte douche en tandenstokers",
-        "link": "https://www.omroepflevoland.nl/nieuws/513620/centrada-wil-huurder-op-straat-zetten-om-ongebruikte-douche-en-tandenstokers",
-        "published": "Tue, 23 Jun 2026 16:22:19 GMT+0200",
-        "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

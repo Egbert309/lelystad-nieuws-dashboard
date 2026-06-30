@@ -1,6 +1,8 @@
 {
-  "updated": "2026-06-30T10:10:16.775213+00:00",
+  "updated": "2026-06-30T11:50:39.933411+00:00",
   "sources": {
+    "NOS": [],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Raadsleden willen dat school gevaarlijke honden toch naar Hondsdraf kan",
@@ -303,8 +305,13 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Lelystadse vrienden redden enige boekwinkel van de stad: 'Lelystad zonder boekwinkel ondenkbaar'",
+        "link": "https://www.omroepflevoland.nl/nieuws/514693/lelystadse-vrienden-redden-enige-boekwinkel-van-de-stad:-'lelystad-zonder-boekwinkel-ondenkbaar'",
+        "published": "Tue, 30 Jun 2026 11:24:05 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Toch doorstart voor ReadShop in Kroonpassage: 'Lelystad zonder boekwinkel ondenkbaar'",
         "link": "https://www.omroepflevoland.nl/nieuws/514693/toch-doorstart-voor-readshop-in-kroonpassage:-'lelystad-zonder-boekwinkel-ondenkbaar'",
@@ -598,16 +605,15 @@
         "link": "https://www.omroepflevoland.nl/nieuws/513727/openbaar-vervoer-rijdt-weer-na-staking-tegen-bezuinigingsplannen",
         "published": "Wed, 24 Jun 2026 07:27:38 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Flevoland - Openbaar vervoer begint weer te rijden na staking, mogelijk nog wel vertraging en uitval",
-        "link": "https://www.omroepflevoland.nl/nieuws/513727/openbaar-vervoer-begint-weer-te-rijden-na-staking-mogelijk-nog-wel-vertraging-en-uitval",
-        "published": "Wed, 24 Jun 2026 07:27:38 GMT+0200",
-        "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Stilte in Deventer, in Lelystad toeterende auto's: zo beleven voetbalfans Nederland- Marokko",
+        "link": "https://www.destentor.nl/binnenland/stilte-in-deventer-in-lelystad-toeterende-auto-s-zo-beleven-voetbalfans-nederland-marokko~ad5e80ab/",
+        "published": "Tue, 30 Jun 2026 09:41:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Feest bij het station in Lelystad, teleurstelling in Deventer: zo beleven voetbalfans het WK-duel Nederland - Marokko",
         "link": "https://www.destentor.nl/binnenland/feest-bij-het-station-in-lelystad-teleurstelling-in-deventer-zo-beleven-voetbalfans-het-wk-duel-nederland-marokko~ad5e80ab/",
@@ -900,12 +906,6 @@
         "title": "Nieuw model op de Hanzelijn is vooral goed nieuws voor de oren: ‘Deze treinen kunnen hard door de tunnels’",
         "link": "https://www.destentor.nl/dronten/nieuw-model-op-de-hanzelijn-is-vooral-goed-nieuws-voor-de-oren-deze-treinen-kunnen-hard-door-de-tunnels~a4be4138/",
         "published": "Wed, 17 Jun 2026 14:34:02 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Afgelopen week 41 meldingen van de gemeente over sloop en verkeer in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-41-meldingen-van-de-gemeente-over-sloop-en-verkeer-in-lelystad~acb7a78d/",
-        "published": "Wed, 17 Jun 2026 09:03:06 GMT",
         "summary": ""
       }
     ]

@@ -1,7 +1,6 @@
 {
-  "updated": "2026-06-30T18:30:08.279686+00:00",
+  "updated": "2026-06-30T19:30:37.973977+00:00",
   "sources": {
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Waarom dit mega-batterijpark cruciaal is voor onze stroomvoorziening",
@@ -304,7 +303,14 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Hamburgerzaak, zorgverlener en Readshop: deze bedrijven gingen in april en mei failliet",
+        "link": "https://www.omroepflevoland.nl/nieuws/512595/hamburgerzaak-zorgverlener-en-readshop:-deze-bedrijven-gingen-in-april-en-mei-failliet",
+        "published": "Tue, 30 Jun 2026 20:44:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 30/06 | Koningin opent batterijpark • Zorgen over bezuiniging huishoudelijke ondersteuning",
         "link": "https://www.omroepflevoland.nl/nieuws/514552/nieuwsoverzicht-3006-or-koningin-opent-batterijpark-*-zorgen-over-bezuiniging-huishoudelijke-ondersteuning",
@@ -598,15 +604,8 @@
         "link": "https://www.omroepflevoland.nl/nieuws/513830/nieuwsoverzicht-2406-or-almeerders-krijgen-15-jaar-cel-voor-liquidatiepoging-*-kernreactor-mogelijk-naar-lelystad",
         "published": "Wed, 24 Jun 2026 18:45:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Netbeheerder TenneT noemt Lelystad als optie voor kleine kernreactor",
-        "link": "https://www.omroepflevoland.nl/nieuws/513797/netbeheerder-tennet-noemt-lelystad-als-optie-voor-kleine-kernreactor",
-        "published": "Wed, 24 Jun 2026 16:22:57 GMT+0200",
-        "summary": ""
       }
     ],
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Read Shop Kroonpassage maakt doorstart met nieuwe exploitanten",
@@ -908,6 +907,7 @@
         "published": "donderdag 11 juni 2026",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": []
   }
 }

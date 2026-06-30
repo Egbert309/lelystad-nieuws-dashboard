@@ -1,7 +1,6 @@
 {
-  "updated": "2026-06-30T14:47:04.100139+00:00",
+  "updated": "2026-06-30T15:45:40.288880+00:00",
   "sources": {
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Koningin opent nieuw batterijpark bij Máximacentrale Lelystad",
@@ -304,6 +303,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Read Shop Kroonpassage maakt doorstart met nieuwe exploitanten",
@@ -606,6 +606,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "De Stentor": [
       {
         "title": "Zo opent de koningin nieuw batterijpark bij Máximacentrale",
@@ -907,7 +908,6 @@
         "published": "Wed, 17 Jun 2026 16:46:00 GMT",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

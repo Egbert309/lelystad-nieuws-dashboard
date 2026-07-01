@@ -1,7 +1,6 @@
 {
-  "updated": "2026-07-01T13:09:47.867146+00:00",
+  "updated": "2026-07-01T14:54:46.306447+00:00",
   "sources": {
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Nieuwe wethouders geïnstalleerd, net na middernacht en dus een dag later",
@@ -304,9 +303,10 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Omroep Flevoland": [
       {
-        "title": "Flevoland - OM eist taakstraf in dodelijk ongeval op A6: 'Je was niet aan het opletten'",
+        "title": "Swifterbant - OM eist taakstraf in dodelijk ongeval op A6: 'Je was niet aan het opletten'",
         "link": "https://www.omroepflevoland.nl/nieuws/514861/om-eist-taakstraf-in-dodelijk-ongeval-op-a6:-'je-was-niet-aan-het-opletten'",
         "published": "Wed, 01 Jul 2026 14:00:01 GMT+0200",
         "summary": ""
@@ -606,7 +606,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Melk ruilen leek een win-win: nu staan twee zuivelbedrijven voor de rechter en loopt de schade in de miljoenen",
@@ -908,6 +907,7 @@
         "published": "Thu, 18 Jun 2026 15:30:00 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

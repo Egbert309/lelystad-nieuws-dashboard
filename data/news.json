@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-01T08:21:20.475613+00:00",
+  "updated": "2026-07-01T10:18:03.680102+00:00",
   "sources": {
     "De Stentor": [
+      {
+        "title": "Lelystad mag zich dementievriendelijk noemen",
+        "link": "https://www.destentor.nl/lelystad/lelystad-mag-zich-dementievriendelijk-noemen~a57d924c/",
+        "published": "Wed, 01 Jul 2026 10:09:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Afgelopen week 47 meldingen van de gemeente over sloop, bomenkap en horeca in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/afgelopen-week-47-meldingen-van-de-gemeente-over-sloop-bomenkap-en-horeca-in-lelystad~a812d358/",
+        "published": "Wed, 01 Jul 2026 09:02:09 GMT",
+        "summary": ""
+      },
       {
         "title": "Waarom dit mega-batterijpark cruciaal is voor onze stroomvoorziening",
         "link": "https://www.destentor.nl/lelystad/waarom-dit-mega-batterijpark-cruciaal-is-voor-onze-stroomvoorziening~aa5cef67/",
@@ -289,21 +301,8 @@
         "link": "https://www.destentor.nl/lelystad/zomerse-kinderactiviteiten-in-flevomeer-bibliotheek-lelystad~a42ae924/",
         "published": "Thu, 18 Jun 2026 08:00:00 GMT",
         "summary": ""
-      },
-      {
-        "title": "FlevoMeer Bibliotheek staat stil bij Keti Koti met inspirerende middag",
-        "link": "https://www.destentor.nl/lelystad/flevomeer-bibliotheek-staat-stil-bij-keti-koti-met-inspirerende-middag~ac5c08c5/",
-        "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Miljoenendeal én getekend contract, dan brandt parenclub plots af. En de verkoper is de dupe",
-        "link": "https://www.destentor.nl/lelystad/miljoenendeal-en-getekend-contract-dan-brandt-parenclub-plots-af-en-de-verkoper-is-de-dupe~ab8bc77b/",
-        "published": "Thu, 18 Jun 2026 04:00:00 GMT",
-        "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Eerste bewoners trekken in nieuwe dementievriendelijke woningen: 'De vraag blijft groeien'",
@@ -908,6 +907,7 @@
         "published": "donderdag 11 juni 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

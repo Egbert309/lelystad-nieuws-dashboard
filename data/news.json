@@ -1,6 +1,8 @@
 {
-  "updated": "2026-07-01T22:24:45.982569+00:00",
+  "updated": "2026-07-01T23:25:20.537856+00:00",
   "sources": {
+    "NOS": [],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Melk ruilen leek een win-win: nu staan twee zuivelbedrijven voor de rechter en loopt de schade in de miljoenen",
@@ -303,7 +305,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 01/07 | Nieuwe camera duikt op langs de weg  •  Dementievriendelijke woningen opgeleverd",
@@ -907,7 +908,6 @@
         "published": "vrijdag 12 juni 2026",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

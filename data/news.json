@@ -1,9 +1,20 @@
 {
-  "updated": "2026-07-02T08:00:20.757883+00:00",
+  "updated": "2026-07-02T09:59:30.257451+00:00",
   "sources": {
-    "Nu.nl": [],
     "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Swifterbant - Rechtbank: 'Geen sprake van ernstige schuld bij dodelijke aanrijding met fietser bij Swifterbant'",
+        "link": "https://www.omroepflevoland.nl/nieuws/514908/rechtbank:-'geen-sprake-van-ernstige-schuld-bij-dodelijke-aanrijding-met-fietser-bij-swifterbant'",
+        "published": "Thu, 02 Jul 2026 10:33:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nog niet alle statushouders  in Almere, Zeewolde en Urk hebben een huis toegewezen gekregen",
+        "link": "https://www.omroepflevoland.nl/nieuws/514884/nog-niet-alle-statushouders-in-almere-zeewolde-en-urk-hebben-een-huis-toegewezen-gekregen",
+        "published": "Thu, 02 Jul 2026 10:33:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Honderden kinderen rennen zomervakantie tegemoet tijdens ScoolsOut Run",
         "link": "https://www.omroepflevoland.nl/nieuws/514898/honderden-kinderen-rennen-zomervakantie-tegemoet-tijdens-scoolsout-run",
@@ -291,21 +302,22 @@
         "link": "https://www.omroepflevoland.nl/nieuws/513988/houtribbrug-weer-omlaag-na-storing-verkeer-nog-niet-op-gang",
         "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Brug Houtribsluizen wil niet meer dicht, verkeer beide kanten op staat vast",
-        "link": "https://www.omroepflevoland.nl/nieuws/513988/brug-houtribsluizen-wil-niet-meer-dicht-verkeer-beide-kanten-op-staat-vast",
-        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - KNMI kondigt code rood af voor Flevoland wegens extreme hitte, scholen dicht",
-        "link": "https://www.omroepflevoland.nl/nieuws/513991/knmi-kondigt-code-rood-af-voor-flevoland-wegens-extreme-hitte-scholen-dicht",
-        "published": "Thu, 25 Jun 2026 16:04:07 GMT+0200",
-        "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Lelystad gaat aan de slag met nieuwe buurtschap: welke ontwikkelaar wil Overbeke bouwen?",
+        "link": "https://www.destentor.nl/lelystad/lelystad-gaat-aan-de-slag-met-nieuwe-buurtschap-welke-ontwikkelaar-wil-overbeke-bouwen~a027a4fc/",
+        "published": "Thu, 02 Jul 2026 08:31:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Vaccinaties: één op de negen baby's in Lelystad nog nooit geprikt",
+        "link": "https://www.destentor.nl/lelystad/vaccinaties-een-op-de-negen-baby-s-in-lelystad-nog-nooit-geprikt~a0aa704a/",
+        "published": "Wed, 01 Jul 2026 15:30:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Melk ruilen leek een win-win: nu staan twee zuivelbedrijven voor de rechter en loopt de schade in de miljoenen",
         "link": "https://www.destentor.nl/lelystad/melk-ruilen-leek-een-win-win-nu-staan-twee-zuivelbedrijven-voor-de-rechter-en-loopt-de-schade-in-de-miljoenen~af0d757a/",
@@ -593,21 +605,15 @@
         "link": "https://www.destentor.nl/almere/nieuwe-projecten-krijgen-steun-uit-regio-deal-nieuw-land~a1ab5a3f/",
         "published": "Fri, 19 Jun 2026 15:00:00 GMT",
         "summary": ""
-      },
-      {
-        "title": "Jan Leentvaar nieuwe voorzitter van Voedselbank Lelystad",
-        "link": "https://www.destentor.nl/lelystad/jan-leentvaar-nieuwe-voorzitter-van-voedselbank-lelystad~a2508792/",
-        "published": "Fri, 19 Jun 2026 09:59:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "WOZ-waarde in Lelystad sinds 2023 niet zó hard gestegen",
-        "link": "https://www.destentor.nl/lelystad/woz-waarde-in-lelystad-sinds-2023-niet-zo-hard-gestegen~aa299d4b/",
-        "published": "Thu, 18 Jun 2026 15:30:00 GMT",
-        "summary": ""
       }
     ],
     "Radio Lelystad": [
+      {
+        "title": "Lagere straf voor pakketbezorger die fietser doodreed op donkere Elandweg",
+        "link": "https://radiolelystad.nl/lagere-straf-voor-pakketbezorger-die-fietser-doodreed-op-elandweg",
+        "published": "donderdag 02 juli 2026",
+        "summary": ""
+      },
       {
         "title": "Er gloort hoop voor de school voor gevaarlijke honden, maar zonder ingreep raad",
         "link": "https://radiolelystad.nl/er-gloort-hoop-voor-de-school-voor-probleemhonden-maar-zonder-juridische-actie",
@@ -899,12 +905,6 @@
       {
         "title": "Pand Party Players was wel verkocht, maar nog niet overgedragen aan de gemeente",
         "link": "https://radiolelystad.nl/pand-party-players-was-nog-niet-in-eigendom-overgedragen-aan-gemeente",
-        "published": "vrijdag 12 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Tas met verse groente als cadeau bij geboorte baby lijkt niet haalbaar, duurder dan gedacht",
-        "link": "https://radiolelystad.nl/tas-met-verse-groente-als-cadeau-bij-geboorte-baby-lijkt-niet-haalbaar",
         "published": "vrijdag 12 juni 2026",
         "summary": ""
       }

@@ -1,6 +1,7 @@
 {
-  "updated": "2026-07-02T16:31:00.594921+00:00",
+  "updated": "2026-07-02T17:31:39.606018+00:00",
   "sources": {
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Gemeente moet opkomen voor schapen bij Van der Valk Hotel, vindt de gemeenteraad",
@@ -303,8 +304,19 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 02/07 | 'Weinig inteelt in Oostvaardersplassen' • EOD in actie in Almere",
+        "link": "https://www.omroepflevoland.nl/nieuws/514556/nieuwsoverzicht-0207-or-'weinig-inteelt-in-oostvaardersplassen'-*-eod-in-actie-in-almere",
+        "published": "Thu, 02 Jul 2026 18:59:36 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Juf Carol  uit Lelystad Oost stopt na 46 jaar: 'Ze leerde ons tot tien tellen als je boos was'",
+        "link": "https://www.omroepflevoland.nl/nieuws/515021/juf-carol-uit-lelystad-oost-stopt-na-46-jaar:-'ze-leerde-ons-tot-tien-tellen-als-je-boos-was'",
+        "published": "Thu, 02 Jul 2026 17:57:10 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Juf Carol  uit Lelystad Oost stopt na 46 jaar: 'Ze leerde ons tot 10 tellen als je boos was'",
         "link": "https://www.omroepflevoland.nl/nieuws/515021/juf-carol-uit-lelystad-oost-stopt-na-46-jaar:-'ze-leerde-ons-tot-10-tellen-als-je-boos-was'",
@@ -592,20 +604,9 @@
         "link": "https://www.omroepflevoland.nl/nieuws/513988/houtribbrug-weer-omlaag-na-storing.-auto's-rijden-weer-schepen-liggen-stil",
         "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Houtribbrug weer omlaag na storing. Auto's rijden weer., schepen liggen stil",
-        "link": "https://www.omroepflevoland.nl/nieuws/513988/houtribbrug-weer-omlaag-na-storing.-auto's-rijden-weer.-schepen-liggen-stil",
-        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Houtribbrug weer omlaag na storing, autoverkeer langzaam weer op gang",
-        "link": "https://www.omroepflevoland.nl/nieuws/513988/houtribbrug-weer-omlaag-na-storing-autoverkeer-langzaam-weer-op-gang",
-        "published": "Thu, 25 Jun 2026 16:17:47 GMT+0200",
-        "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Tienduizenden mensen in Lelystad drinken te veel volgens nieuwe alcoholnorm",
@@ -907,7 +908,6 @@
         "published": "Sun, 21 Jun 2026 08:01:00 GMT",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

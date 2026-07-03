@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T18:23:28.008085+00:00",
+  "updated": "2026-07-03T19:27:45.265527+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -9,7 +9,7 @@
         "summary": ""
       },
       {
-        "title": "Flevoland - Man in Lelystad beroofd van fiets onder bedreiging van vuurwapen",
+        "title": "Lelystad - Man in Lelystad beroofd van fiets onder bedreiging van vuurwapen",
         "link": "https://www.omroepflevoland.nl/nieuws/515149/man-in-lelystad-beroofd-van-fiets-onder-bedreiging-van-vuurwapen",
         "published": "Fri, 03 Jul 2026 12:05:26 GMT+0200",
         "summary": ""
@@ -303,6 +303,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Man onder bedreiging met vuurwapen beroofd van fiets in speeltuin bij school De Tjalk",
@@ -605,6 +606,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "De Stentor": [
       {
         "title": "Gewapende straatroof in Lelystad, politie zoekt getuigen",
@@ -906,8 +908,6 @@
         "published": "Mon, 22 Jun 2026 04:01:00 GMT",
         "summary": ""
       }
-    ],
-    "NOS": [],
-    "Nu.nl": []
+    ]
   }
 }

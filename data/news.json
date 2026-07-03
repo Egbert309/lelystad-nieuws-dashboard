@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:22:31.766933+00:00",
+  "updated": "2026-07-03T21:22:11.341316+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,6 +303,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Man onder bedreiging met vuurwapen beroofd van fiets in speeltuin bij school De Tjalk",
@@ -605,7 +606,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 03/07 | Onderzoek naar fatbikevrije zones • Proef met gratis menstruatieproducten",
@@ -908,6 +908,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": []
+    "NOS": []
   }
 }

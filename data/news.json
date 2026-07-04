@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T20:17:44.274030+00:00",
+  "updated": "2026-07-04T21:16:46.679192+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,6 +303,8 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
+    "NOS": [],
     "De Stentor": [
       {
         "title": "Geen geld om je huis te verduurzamen? Deze gemeente heeft het liggen, maar het wil nog niet vlotten",
@@ -906,8 +908,6 @@
         "published": "Fri, 26 Jun 2026 02:24:54 GMT+0200",
         "summary": ""
       }
-    ],
-    "Nu.nl": [],
-    "NOS": []
+    ]
   }
 }

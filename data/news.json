@@ -1,6 +1,7 @@
 {
-  "updated": "2026-07-05T12:23:20.121719+00:00",
+  "updated": "2026-07-05T13:28:47.645844+00:00",
   "sources": {
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Heb jij Chico, Luna of Misty gezien? Deze 14 huisdieren worden in Lelystad vermist",
@@ -303,8 +304,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Staatsbosbeheer sluit buitencentra, Almeerderhout deze maand, Oostvaardersplassen later",
+        "link": "https://www.omroepflevoland.nl/nieuws/515184/staatsbosbeheer-sluit-buitencentra-almeerderhout-deze-maand-oostvaardersplassen-later",
+        "published": "Sun, 05 Jul 2026 14:00:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Buitencentrum Staatsbosbeheer Almeerderhout sluit eind deze maand de deuren, later sluit ook buitencentrum Oostvaardersplassen",
         "link": "https://www.omroepflevoland.nl/nieuws/515184/buitencentrum-staatsbosbeheer-almeerderhout-sluit-eind-deze-maand-de-deuren-later-sluit-ook-buitencentrum-oostvaardersplassen",
@@ -596,12 +602,6 @@
       {
         "title": "Flevoland - Hitte in Flevoland |  Hitterecord • Zwembad Zeewolde dicht • morgen weer code oranje",
         "link": "https://www.omroepflevoland.nl/nieuws/513478/hitte-in-flevoland-or-hitterecord-*-zwembad-zeewolde-dicht-*-morgen-weer-code-oranje",
-        "published": "Fri, 26 Jun 2026 03:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Hitte in Flevoland |  Hitterecord • Schuilen in kerk • Schaduw voor schapen",
-        "link": "https://www.omroepflevoland.nl/nieuws/513478/hitte-in-flevoland-or-hitterecord-*-schuilen-in-kerk-*-schaduw-voor-schapen",
         "published": "Fri, 26 Jun 2026 03:30:00 GMT+0200",
         "summary": ""
       }

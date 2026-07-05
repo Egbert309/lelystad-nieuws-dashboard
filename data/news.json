@@ -1,8 +1,6 @@
 {
-  "updated": "2026-07-05T22:17:30.917695+00:00",
+  "updated": "2026-07-05T23:19:49.741703+00:00",
   "sources": {
-    "Nu.nl": [],
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Staatsbosbeheer sluit buitencentra, Almeerderhout deze maand, Oostvaardersplassen later",
@@ -908,6 +906,8 @@
         "published": "Tue, 23 Jun 2026 17:00:55 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [],
+    "Nu.nl": []
   }
 }

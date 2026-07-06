@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T02:59:05.036478+00:00",
+  "updated": "2026-07-06T04:34:23.372298+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -305,6 +305,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Flevoland - ' Doorfietspad' van Lelystad naar Almere bijna klaar",
+        "link": "https://www.omroepflevoland.nl/nieuws/514568/'-doorfietspad'-van-lelystad-naar-almere-bijna-klaar",
+        "published": "Mon, 06 Jul 2026 06:20:00 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Flevoland - Staatsbosbeheer sluit buitencentra, Almeerderhout deze maand, Oostvaardersplassen later",
         "link": "https://www.omroepflevoland.nl/nieuws/515184/staatsbosbeheer-sluit-buitencentra-almeerderhout-deze-maand-oostvaardersplassen-later",
         "published": "Sun, 05 Jul 2026 14:00:00 GMT+0200",
@@ -596,12 +602,6 @@
         "title": "Lelystad - Vooral basisscholen in oude gebouwen vandaag dicht",
         "link": "https://www.omroepflevoland.nl/nieuws/513984/vooral-basisscholen-in-oude-gebouwen-vandaag-dicht",
         "published": "Fri, 26 Jun 2026 06:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Hitte in Flevoland |  Hitterecord • Zwembad Zeewolde dicht • morgen weer code oranje",
-        "link": "https://www.omroepflevoland.nl/nieuws/513478/hitte-in-flevoland-or-hitterecord-*-zwembad-zeewolde-dicht-*-morgen-weer-code-oranje",
-        "published": "Fri, 26 Jun 2026 03:30:00 GMT+0200",
         "summary": ""
       }
     ],
@@ -907,7 +907,7 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": []
+    "NOS": [],
+    "Nu.nl": []
   }
 }

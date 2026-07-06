@@ -1,14 +1,6 @@
 {
-  "updated": "2026-07-06T18:34:04.478317+00:00",
+  "updated": "2026-07-06T19:30:21.739670+00:00",
   "sources": {
-    "Nu.nl": [
-      {
-        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
-        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
-        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
-        "summary": ""
-      }
-    ],
     "NOS": [
       {
         "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
@@ -321,6 +313,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Lelystad - Mogelijk steekincident bij woning, verdachte ervandoor",
+        "link": "https://www.omroepflevoland.nl/nieuws/515561/mogelijk-steekincident-bij-woning-verdachte-ervandoor",
+        "published": "Mon, 06 Jul 2026 20:50:24 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Flevoland - Nieuwsoverzicht 06/07 | Koningsdag 2027 in Lelystad: 'Grote eer' • Doorfietspad bijna klaar",
         "link": "https://www.omroepflevoland.nl/nieuws/515509/nieuwsoverzicht-0607-or-koningsdag-2027-in-lelystad:-'grote-eer'-*-doorfietspad-bijna-klaar",
         "published": "Mon, 06 Jul 2026 18:50:00 GMT+0200",
@@ -613,15 +611,23 @@
         "link": "https://www.omroepflevoland.nl/nieuws/514315/opnieuw-storing-houribbrug-geen-verkeer-mogelijk-tussen-lelystad-en-enkhuizen",
         "published": "Sat, 27 Jun 2026 12:56:46 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "Nu.nl": [
       {
-        "title": "Almere - Celstraf voor overvaller Happie Snack, 'wilde geld stelen om te kunnen onderduiken'",
-        "link": "https://www.omroepflevoland.nl/nieuws/514198/celstraf-voor-overvaller-happie-snack-'wilde-geld-stelen-om-te-kunnen-onderduiken'",
-        "published": "Fri, 26 Jun 2026 20:12:00 GMT+0200",
+        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
+        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
+        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
         "summary": ""
       }
     ],
     "De Stentor": [
+      {
+        "title": "Bewoner gestoken bij voordeur in Lelystad, politie zoekt verdachte",
+        "link": "https://www.destentor.nl/lelystad/bewoner-gestoken-bij-voordeur-in-lelystad-politie-zoekt-verdachte~ac617ee8/",
+        "published": "Mon, 06 Jul 2026 18:55:22 GMT",
+        "summary": ""
+      },
       {
         "title": "Green House moet ontmoetingsplek worden voor Kenniscentrum Nieuwe Natuur in Lelystad",
         "link": "https://www.destentor.nl/lelystad/green-house-moet-ontmoetingsplek-worden-voor-kenniscentrum-nieuwe-natuur-in-lelystad~a50b0965/",
@@ -914,12 +920,6 @@
         "title": "Leerlingen van De Albatros krijgen les over het leven onder water",
         "link": "https://www.destentor.nl/lelystad/leerlingen-van-de-albatros-krijgen-les-over-het-leven-onder-water~acf4353d/",
         "published": "Wed, 24 Jun 2026 11:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Afgelopen week 47 meldingen van de gemeente over sloop en bomenkap in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-47-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-lelystad~ac8031e2/",
-        "published": "Wed, 24 Jun 2026 09:42:39 GMT",
         "summary": ""
       }
     ]

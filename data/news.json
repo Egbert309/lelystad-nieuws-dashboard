@@ -1,22 +1,6 @@
 {
-  "updated": "2026-07-07T12:51:41.449894+00:00",
+  "updated": "2026-07-07T13:40:19.377030+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
-        "link": "https://nos.nl/l/2621900",
-        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
-        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
-        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Jeu-de-boulers in Lelystad kunnen straks ook bij slecht weer de baan op",
@@ -629,6 +613,12 @@
         "summary": ""
       },
       {
+        "title": "Lelystad - Dertien binnenbanen: Lelystad krijgt een overdekte 'boulodrome'",
+        "link": "https://www.omroepflevoland.nl/nieuws/515639/dertien-binnenbanen:-lelystad-krijgt-een-overdekte-'boulodrome'",
+        "published": "Tue, 07 Jul 2026 14:24:52 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Lelystad - Lelystad krijgt hal om overdekt jeu de boules te spelen, 'Koersen op opening in april'",
         "link": "https://www.omroepflevoland.nl/nieuws/515639/lelystad-krijgt-hal-om-overdekt-jeu-de-boules-te-spelen-'koersen-op-opening-in-april'",
         "published": "Tue, 07 Jul 2026 14:24:52 GMT+0200",
@@ -915,11 +905,21 @@
         "link": "https://www.omroepflevoland.nl/nieuws/513997/bezwaarperiode-voorbij:-station-lelystad-nu-officieel-rijksmonument",
         "published": "Sun, 28 Jun 2026 08:00:00 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Flevoland - Bergingsbedrijven houden rekening met extreme hitte: 'We halen mensen zo vlug mogelijk van de snelweg af'",
-        "link": "https://www.omroepflevoland.nl/nieuws/514319/bergingsbedrijven-houden-rekening-met-extreme-hitte:-'we-halen-mensen-zo-vlug-mogelijk-van-de-snelweg-af'",
-        "published": "Sat, 27 Jun 2026 19:30:00 GMT+0200",
+        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
+        "link": "https://nos.nl/l/2621900",
+        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
+        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
+        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
         "summary": ""
       }
     ]

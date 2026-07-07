@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-07T10:08:23.984871+00:00",
+  "updated": "2026-07-07T11:57:25.001768+00:00",
   "sources": {
+    "Nu.nl": [
+      {
+        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
+        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
+        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
+        "summary": ""
+      }
+    ],
     "NOS": [
       {
         "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
@@ -10,6 +18,12 @@
       }
     ],
     "Radio Lelystad": [
+      {
+        "title": "Jong Lelystad zou in de zomer graag de vuilniswagen wat vaker langs zien komen",
+        "link": "https://radiolelystad.nl/jong-lelystad-wil-in-de-zomer-de-vuilniswagen-vaker-langs-zien-komen",
+        "published": "dinsdag 07 juli 2026",
+        "summary": ""
+      },
       {
         "title": "Vrouw in Neckarstraat in deuropening eigen huis in been gestoken, dader voortvluchtig",
         "link": "https://radiolelystad.nl/bewoonster-neckarstraat-neergestoken-in-deuropening-dader-voortvluchtig",
@@ -302,12 +316,6 @@
         "title": "Multibestuurder Jan Leentvaar wordt per 1 september voorzitter van de voedselbank",
         "link": "https://radiolelystad.nl/multibestuurder-jan-leentvaar-wordt-per-1-september-voorzitter-van-de-voedselbank",
         "published": "donderdag 18 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Aanscherpen regels thuisonderwijs heeft volgens het stadhuis weinig gevolgen",
-        "link": "https://radiolelystad.nl/aanscherpen-regels-thuisonderwijs-heeft-volgens-het-stadhuis-weinig-gevolgen",
-        "published": "woensdag 17 juni 2026",
         "summary": ""
       }
     ],
@@ -610,14 +618,6 @@
         "title": "Lelystad - Wijk met tuinders, ambachtslieden, kunstenaars opent voor de 23 keer de deuren",
         "link": "https://www.omroepflevoland.nl/nieuws/514328/wijk-met-tuinders-ambachtslieden-kunstenaars-opent-voor-de-23-keer-de-deuren",
         "published": "Sat, 27 Jun 2026 18:00:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
-        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
-        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
         "summary": ""
       }
     ],

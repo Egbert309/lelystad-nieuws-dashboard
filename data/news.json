@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-08T20:25:28.075662+00:00",
+  "updated": "2026-07-08T21:22:09.459435+00:00",
   "sources": {
-    "Nu.nl": [
+    "NOS": [
       {
-        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
-        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
-        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
+        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
+        "link": "https://nos.nl/l/2621900",
+        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
         "summary": ""
       }
     ],
@@ -613,6 +613,14 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [
+      {
+        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
+        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
+        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Rechter acht misbruik meisje (4) niet bewezen; verhoor slachtoffertje was sturend",
@@ -912,14 +920,6 @@
         "title": "Minister beperkt gebruik vergrote start-en landingsbaan Lelystad Airport",
         "link": "https://radiolelystad.nl/minister-legt-beperkingen-op-aan-gebruik-vergrote-start-en-landingsbaan-lelystad-airport",
         "published": "vrijdag 19 juni 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
-        "link": "https://nos.nl/l/2621900",
-        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
         "summary": ""
       }
     ]

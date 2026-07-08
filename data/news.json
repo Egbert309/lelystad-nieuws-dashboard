@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-07T23:17:37.366098+00:00",
+  "updated": "2026-07-08T00:16:49.880373+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
+        "link": "https://nos.nl/l/2621900",
+        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Hajé probeert via Raad van State alsnog laadpalen en drive-thru langs A6  te krijgen",
@@ -912,14 +920,6 @@
         "title": "Klok in examenlokaal loopt te snel, stelt student (63): ‘Had ik meer tijd gehad, dan had ik zeker een 8 gehaald’",
         "link": "https://www.destentor.nl/zwolle/klok-in-examenlokaal-loopt-te-snel-stelt-student-63-had-ik-meer-tijd-gehad-dan-had-ik-zeker-een-8-gehaald~a9cef4c72/",
         "published": "Thu, 25 Jun 2026 16:00:31 GMT",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
-        "link": "https://nos.nl/l/2621900",
-        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
         "summary": ""
       }
     ]

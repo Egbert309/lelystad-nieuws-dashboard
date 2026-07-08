@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-08T01:30:26.385178+00:00",
+  "updated": "2026-07-08T02:57:58.209273+00:00",
   "sources": {
-    "Nu.nl": [
+    "NOS": [
       {
-        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
-        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
-        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
+        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
+        "link": "https://nos.nl/l/2621900",
+        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
         "summary": ""
       }
     ],
@@ -313,6 +313,12 @@
     ],
     "Radio Lelystad": [
       {
+        "title": "Gedicht van de week: Goud en zilver heb ik niet (Furgell Pansa)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-goud-en-zilver-heb-ik-niet-furgell-pansa",
+        "published": "woensdag 08 juli 2026",
+        "summary": ""
+      },
+      {
         "title": "Hajé probeert via Raad van State alsnog laadpalen en drive-thru langs A6  te krijgen",
         "link": "https://radiolelystad.nl/haje-probeert-via-raad-van-state-alsnog-laadpalen-en-drive-thru-te-krijgen",
         "published": "dinsdag 07 juli 2026",
@@ -603,12 +609,6 @@
       {
         "title": "Torenvalkweg tussen brug en Knardijk wordt een fietspad, werk begint maandag",
         "link": "https://radiolelystad.nl/maandag-begint-het-ombouwen-van-de-tot-fietspad",
-        "published": "donderdag 18 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Jaarrapport Centrada: 'Vorig jaar ging veel goed, maar er zijn grote uitdagingen'",
-        "link": "https://radiolelystad.nl/jaarrapport-centrada-het-gaat-goed-maar-er-zijn-grote-uitdagingen",
         "published": "donderdag 18 juni 2026",
         "summary": ""
       }
@@ -915,11 +915,11 @@
         "summary": ""
       }
     ],
-    "NOS": [
+    "Nu.nl": [
       {
-        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
-        "link": "https://nos.nl/l/2621900",
-        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
+        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
+        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
+        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
         "summary": ""
       }
     ]

@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-08T07:44:51.837516+00:00",
+  "updated": "2026-07-08T08:47:50.847351+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
+        "link": "https://nos.nl/l/2621900",
+        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Communicatienetwerk voor hulpdiensten werkt niet overal in de terminal van Lelystad Airport",
@@ -912,14 +920,6 @@
         "title": "Almere - Gemeenten schuiven meest inclusieve werkgevers naar voren voor nominatie Flevopenning",
         "link": "https://www.omroepflevoland.nl/nieuws/514579/gemeenten-schuiven-meest-inclusieve-werkgevers-naar-voren-voor-nominatie-flevopenning",
         "published": "Mon, 29 Jun 2026 16:53:37 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
-        "link": "https://nos.nl/l/2621900",
-        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
         "summary": ""
       }
     ]

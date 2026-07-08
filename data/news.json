@@ -1,14 +1,6 @@
 {
-  "updated": "2026-07-08T17:28:45.246768+00:00",
+  "updated": "2026-07-08T18:25:45.674850+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
-        "link": "https://nos.nl/l/2621900",
-        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
-        "summary": ""
-      }
-    ],
     "Nu.nl": [
       {
         "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
@@ -316,6 +308,14 @@
         "title": "Lelystad betaalt ruim 1 miljoen euro voor leegstaand postkantoor",
         "link": "https://www.destentor.nl/lelystad/lelystad-betaalt-ruim-1-miljoen-euro-voor-leegstaand-postkantoor~aab67a04/",
         "published": "Sat, 27 Jun 2026 16:00:00 GMT",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
+        "link": "https://nos.nl/l/2621900",
+        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
         "summary": ""
       }
     ],

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-08T04:05:11.683653+00:00",
+  "updated": "2026-07-08T05:57:21.143474+00:00",
   "sources": {
     "De Stentor": [
+      {
+        "title": "Communicatienetwerk voor hulpdiensten werkt niet overal in de terminal van Lelystad Airport",
+        "link": "https://www.destentor.nl/lelystad/communicatienetwerk-voor-hulpdiensten-werkt-niet-overal-in-de-terminal-van-lelystad-airport~aaf75f8da/",
+        "published": "Wed, 08 Jul 2026 05:00:52 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Irene wil gelukkiger en gezonder oud worden, daarom ruilt ze haar grote huis  in voor een plek in dit buurtje",
+        "link": "https://www.destentor.nl/lelystad/irene-wil-gelukkiger-en-gezonder-oud-worden-daarom-ruilt-ze-haar-grote-huis-in-voor-een-plek-in-dit-buurtje~a070f42b/",
+        "published": "Wed, 08 Jul 2026 05:00:43 GMT",
+        "summary": ""
+      },
       {
         "title": "Met tandenstokers bij voordeur probeert woningstichting aan te tonen dat Lelystedeling niet in huis woont",
         "link": "https://www.destentor.nl/lelystad/met-tandenstokers-bij-voordeur-probeert-woningstichting-aan-te-tonen-dat-lelystedeling-niet-in-huis-woont~a185be4e/",
@@ -289,17 +301,13 @@
         "link": "https://www.destentor.nl/lelystad/dementerende-man-uit-lelystad-die-vermist-was-in-goede-gezondheid-gevonden~a11aeb1b/",
         "published": "Fri, 26 Jun 2026 10:40:00 GMT",
         "summary": ""
-      },
+      }
+    ],
+    "Nu.nl": [
       {
-        "title": "Politie valt binnen bij huis van vermeend kopstuk van criminele jeugdgroep",
-        "link": "https://www.destentor.nl/lelystad/politie-valt-binnen-bij-huis-van-vermeend-kopstuk-van-criminele-jeugdgroep~a37f2040/",
-        "published": "Fri, 26 Jun 2026 10:07:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Klok in examenlokaal loopt te snel, stelt student (63): ‘Had ik meer tijd gehad, dan had ik zeker een 8 gehaald’",
-        "link": "https://www.destentor.nl/zwolle/klok-in-examenlokaal-loopt-te-snel-stelt-student-63-had-ik-meer-tijd-gehad-dan-had-ik-zeker-een-8-gehaald~a9cef4c72/",
-        "published": "Thu, 25 Jun 2026 16:00:31 GMT",
+        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
+        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
+        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
         "summary": ""
       }
     ],
@@ -613,15 +621,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
-      {
-        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
-        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
-        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
+      {
+        "title": "Dronten - Komst van kringloopwinkel Groene Sluis naar Dronten steeds onzekerder",
+        "link": "https://www.omroepflevoland.nl/nieuws/515719/komst-van-kringloopwinkel-groene-sluis-naar-dronten-steeds-onzekerder",
+        "published": "Wed, 08 Jul 2026 06:50:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Rechter beslist over lot huurder aan Wittezeestraat: Centrada mag niet ontruimen",
         "link": "https://www.omroepflevoland.nl/nieuws/515717/rechter-beslist-over-lot-huurder-aan-wittezeestraat:-centrada-mag-niet-ontruimen",
@@ -914,12 +920,6 @@
         "title": "Lelystad - Motorrijder 'tientallen meters weggeslingerd' na botsing met aanhanger in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/514547/motorrijder-'tientallen-meters-weggeslingerd'-na-botsing-met-aanhanger-in-lelystad",
         "published": "Mon, 29 Jun 2026 13:29:50 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Weekweerbericht: Einde hittegolf, aangename zomerweek met soms een bui in het vooruitzicht",
-        "link": "https://www.omroepflevoland.nl/nieuws/514402/weekweerbericht:-einde-hittegolf-aangename-zomerweek-met-soms-een-bui-in-het-vooruitzicht",
-        "published": "Mon, 29 Jun 2026 11:59:32 GMT+0200",
         "summary": ""
       }
     ]

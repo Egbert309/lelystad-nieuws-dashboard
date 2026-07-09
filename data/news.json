@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T19:29:44.665752+00:00",
+  "updated": "2026-07-09T20:30:56.057018+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -605,14 +605,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
-      {
-        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
-        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
-        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Eerste statiegeldbulkmachine van Lelystad geopend bij Concern voor Werk",
@@ -912,6 +904,14 @@
         "title": "Grote stroomstoring in Lelystad opgelost",
         "link": "https://www.destentor.nl/lelystad/grote-stroomstoring-in-lelystad-opgelost~a9b32f0c/",
         "published": "Sun, 28 Jun 2026 07:57:49 GMT",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
+        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
+        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
         "summary": ""
       }
     ],

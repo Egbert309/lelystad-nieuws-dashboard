@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-09T21:27:20.503144+00:00",
+  "updated": "2026-07-09T22:27:33.648879+00:00",
   "sources": {
-    "Nu.nl": [
+    "NOS": [
       {
-        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
-        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
-        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
+        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
+        "link": "https://nos.nl/l/2621900",
+        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
         "summary": ""
       }
     ],
@@ -311,11 +311,313 @@
         "summary": ""
       }
     ],
-    "NOS": [
+    "Omroep Flevoland": [
       {
-        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
-        "link": "https://nos.nl/l/2621900",
-        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
+        "title": "Flevoland - Deze zomer meerdere weken geen treinen op delen van het Flevolandse spoor",
+        "link": "https://www.omroepflevoland.nl/nieuws/515777/deze-zomer-meerdere-weken-geen-treinen-op-delen-van-het-flevolandse-spoor",
+        "published": "Thu, 09 Jul 2026 20:06:31 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 09/07 | Toekomst busvervoer onzeker • Markerwaarddijk dicht vanwege ongeluk",
+        "link": "https://www.omroepflevoland.nl/nieuws/515955/nieuwsoverzicht-0907-or-toekomst-busvervoer-onzeker-*-markerwaarddijk-dicht-vanwege-ongeluk",
+        "published": "Thu, 09 Jul 2026 18:43:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Markerwaarddijk enige tijd afgesloten na botsing tussen auto's",
+        "link": "https://www.omroepflevoland.nl/nieuws/515973/markerwaarddijk-enige-tijd-afgesloten-na-botsing-tussen-auto's",
+        "published": "Thu, 09 Jul 2026 18:24:57 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Auto's botsen op elkaar op Markerwaarddijk, weg afgesloten",
+        "link": "https://www.omroepflevoland.nl/nieuws/515973/auto's-botsen-op-elkaar-op-markerwaarddijk-weg-afgesloten",
+        "published": "Thu, 09 Jul 2026 18:24:57 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Almeerse olifantjes vliegen de deur uit: 400 van 500 miniaturen verkocht",
+        "link": "https://www.omroepflevoland.nl/nieuws/515829/almeerse-olifantjes-vliegen-de-deur-uit:-400-van-500-miniaturen-verkocht",
+        "published": "Thu, 09 Jul 2026 11:02:25 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Mini-beeldjes Almeerse olifanten bijna uitverkocht:  'Ik neem ze mee naar  Curaçao'",
+        "link": "https://www.omroepflevoland.nl/nieuws/515829/mini-beeldjes-almeerse-olifanten-bijna-uitverkocht:-'ik-neem-ze-mee-naar-curacao'",
+        "published": "Thu, 09 Jul 2026 11:02:25 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Verkeer uren vertraagd na ongeval op Larserweg",
+        "link": "https://www.omroepflevoland.nl/nieuws/515897/verkeer-uren-vertraagd-na-ongeval-op-larserweg",
+        "published": "Thu, 09 Jul 2026 09:16:50 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Tijdelijke verkeershinder na ongeluk op Larserweg,  automobilisten ongedeerd",
+        "link": "https://www.omroepflevoland.nl/nieuws/515897/tijdelijke-verkeershinder-na-ongeluk-op-larserweg-automobilisten-ongedeerd",
+        "published": "Thu, 09 Jul 2026 09:16:50 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - 'Oude' aanbieders jeugd-GGZ beloven behandelingen af te ronden",
+        "link": "https://www.omroepflevoland.nl/nieuws/515815/'oude'-aanbieders-jeugd-ggz-beloven-behandelingen-af-te-ronden",
+        "published": "Thu, 09 Jul 2026 06:43:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Gemeente wil eisen stellen aan huisvesting Lelystadse arbeidsmigranten",
+        "link": "https://www.omroepflevoland.nl/nieuws/515819/gemeente-wil-eisen-stellen-aan-huisvesting-lelystadse-arbeidsmigranten",
+        "published": "Wed, 08 Jul 2026 21:35:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 08/07 | Bussen vernield • Teleurstelling bij kringloopwinkel",
+        "link": "https://www.omroepflevoland.nl/nieuws/515806/nieuwsoverzicht-0807-or-bussen-vernield-*-teleurstelling-bij-kringloopwinkel",
+        "published": "Wed, 08 Jul 2026 19:15:37 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Rechtbank spreekt Lelystedeling vrij van misbruik buurmeisje (4)",
+        "link": "https://www.omroepflevoland.nl/nieuws/515738/rechtbank-spreekt-lelystedeling-vrij-van-misbruik-buurmeisje-(4)",
+        "published": "Wed, 08 Jul 2026 11:03:21 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Waar moet de koning straks naartoe? Lelystedelingen geven tips",
+        "link": "https://www.omroepflevoland.nl/nieuws/515731/waar-moet-de-koning-straks-naartoe-lelystedelingen-geven-tips",
+        "published": "Wed, 08 Jul 2026 08:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Dronten - Teleurstelling voor De Groene Sluis: opening kringloopwinkel in Dronten verder uit zicht",
+        "link": "https://www.omroepflevoland.nl/nieuws/515719/teleurstelling-voor-de-groene-sluis:-opening-kringloopwinkel-in-dronten-verder-uit-zicht",
+        "published": "Wed, 08 Jul 2026 06:50:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Dronten - Komst van kringloopwinkel Groene Sluis naar Dronten steeds onzekerder",
+        "link": "https://www.omroepflevoland.nl/nieuws/515719/komst-van-kringloopwinkel-groene-sluis-naar-dronten-steeds-onzekerder",
+        "published": "Wed, 08 Jul 2026 06:50:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Rechter beslist over lot huurder aan Wittezeestraat: Centrada mag niet ontruimen",
+        "link": "https://www.omroepflevoland.nl/nieuws/515717/rechter-beslist-over-lot-huurder-aan-wittezeestraat:-centrada-mag-niet-ontruimen",
+        "published": "Tue, 07 Jul 2026 20:34:20 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 07/07 | Ens druk met herstel hagelschade • Lepelaars broeden op Marker Wadden",
+        "link": "https://www.omroepflevoland.nl/nieuws/515678/nieuwsoverzicht-0707-or-ens-druk-met-herstel-hagelschade-*-lepelaars-broeden-op-marker-wadden",
+        "published": "Tue, 07 Jul 2026 18:55:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Wegrestaurant Hajé naar hoogste rechter om drive-thru’s langs A6 te kunnen realiseren",
+        "link": "https://www.omroepflevoland.nl/nieuws/515640/wegrestaurant-haje-naar-hoogste-rechter-om-drive-thru's-langs-a6-te-kunnen-realiseren",
+        "published": "Tue, 07 Jul 2026 16:11:30 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Wegrestaurant Hajé wil nog steeds drive thru's langs de A6, stapt naar Raad van State",
+        "link": "https://www.omroepflevoland.nl/nieuws/515640/wegrestaurant-haje-wil-nog-steeds-drive-thru's-langs-de-a6-stapt-naar-raad-van-state",
+        "published": "Tue, 07 Jul 2026 16:11:30 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Lepelaar nestelt vanaf nu op Marker Wadden, drie broedplekken gevonden",
+        "link": "https://www.omroepflevoland.nl/nieuws/515652/lepelaar-nestelt-vanaf-nu-op-marker-wadden-drie-broedplekken-gevonden",
+        "published": "Tue, 07 Jul 2026 14:45:36 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Dertien binnenbanen: Lelystad krijgt een overdekte 'boulodrome'",
+        "link": "https://www.omroepflevoland.nl/nieuws/515639/dertien-binnenbanen:-lelystad-krijgt-een-overdekte-'boulodrome'",
+        "published": "Tue, 07 Jul 2026 14:24:52 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Lelystad krijgt hal om overdekt jeu de boules te spelen, 'Koersen op opening in april'",
+        "link": "https://www.omroepflevoland.nl/nieuws/515639/lelystad-krijgt-hal-om-overdekt-jeu-de-boules-te-spelen-'koersen-op-opening-in-april'",
+        "published": "Tue, 07 Jul 2026 14:24:52 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - 'Ik doe dit anders nooit': kinderen genieten van gratis Zomerfestival in Lelystad Oost",
+        "link": "https://www.omroepflevoland.nl/nieuws/515576/'ik-doe-dit-anders-nooit':-kinderen-genieten-van-gratis-zomerfestival-in-lelystad-oost",
+        "published": "Tue, 07 Jul 2026 08:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Van lasergamen tot bloemstukjes maken: het Zomerfestival is terug in Lelystad Oost",
+        "link": "https://www.omroepflevoland.nl/nieuws/515576/van-lasergamen-tot-bloemstukjes-maken:-het-zomerfestival-is-terug-in-lelystad-oost",
+        "published": "Tue, 07 Jul 2026 08:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Sluitingen centra Staatsbosbeheer raken Natuurbelevingscentrum De Oostvaarders in Almere niet",
+        "link": "https://www.omroepflevoland.nl/nieuws/515523/sluitingen-centra-staatsbosbeheer-raken-natuurbelevingscentrum-de-oostvaarders-in-almere-niet",
+        "published": "Tue, 07 Jul 2026 06:25:14 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Vrouw in been gestoken met keukenmes, politie zoekt verdachte",
+        "link": "https://www.omroepflevoland.nl/nieuws/515561/vrouw-in-been-gestoken-met-keukenmes-politie-zoekt-verdachte",
+        "published": "Mon, 06 Jul 2026 20:50:24 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Vrouw in been gestoken met keukenmes verdachte ervandoor",
+        "link": "https://www.omroepflevoland.nl/nieuws/515561/vrouw-in-been-gestoken-met-keukenmes-verdachte-ervandoor",
+        "published": "Mon, 06 Jul 2026 20:50:24 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Mogelijk steekincident bij woning, verdachte ervandoor",
+        "link": "https://www.omroepflevoland.nl/nieuws/515561/mogelijk-steekincident-bij-woning-verdachte-ervandoor",
+        "published": "Mon, 06 Jul 2026 20:50:24 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 06/07 | Koningsdag 2027 in Lelystad: 'Grote eer' • Doorfietspad bijna klaar",
+        "link": "https://www.omroepflevoland.nl/nieuws/515509/nieuwsoverzicht-0607-or-koningsdag-2027-in-lelystad:-'grote-eer'-*-doorfietspad-bijna-klaar",
+        "published": "Mon, 06 Jul 2026 18:50:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Uitbreiding hoogspanningsstation Lelystad moet elektriciteitsproblemen verminderen",
+        "link": "https://www.omroepflevoland.nl/nieuws/515507/uitbreiding-hoogspanningsstation-lelystad-moet-elektriciteitsproblemen-verminderen",
+        "published": "Mon, 06 Jul 2026 17:41:25 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Elektrische auto vliegt in brand na botsing met vrachtwagen in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/515532/elektrische-auto-vliegt-in-brand-na-botsing-met-vrachtwagen-in-lelystad",
+        "published": "Mon, 06 Jul 2026 16:27:49 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Koning viert 60ste verjaardag tijdens Koningsdag in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/515520/koning-viert-60ste-verjaardag-tijdens-koningsdag-in-lelystad",
+        "published": "Mon, 06 Jul 2026 14:06:46 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Landelijke viering van Koningsdag volgend jaar in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/515520/landelijke-viering-van-koningsdag-volgend-jaar-in-lelystad",
+        "published": "Mon, 06 Jul 2026 14:06:46 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - 'Doorfietspad' van Lelystad naar Almere bijna klaar",
+        "link": "https://www.omroepflevoland.nl/nieuws/514568/'doorfietspad'-van-lelystad-naar-almere-bijna-klaar",
+        "published": "Mon, 06 Jul 2026 06:20:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - ' Doorfietspad' van Lelystad naar Almere bijna klaar",
+        "link": "https://www.omroepflevoland.nl/nieuws/514568/'-doorfietspad'-van-lelystad-naar-almere-bijna-klaar",
+        "published": "Mon, 06 Jul 2026 06:20:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Staatsbosbeheer sluit buitencentra, Almeerderhout deze maand, Oostvaardersplassen later",
+        "link": "https://www.omroepflevoland.nl/nieuws/515184/staatsbosbeheer-sluit-buitencentra-almeerderhout-deze-maand-oostvaardersplassen-later",
+        "published": "Sun, 05 Jul 2026 14:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Buitencentrum Staatsbosbeheer Almeerderhout sluit eind deze maand de deuren, later sluit ook buitencentrum Oostvaardersplassen",
+        "link": "https://www.omroepflevoland.nl/nieuws/515184/buitencentrum-staatsbosbeheer-almeerderhout-sluit-eind-deze-maand-de-deuren-later-sluit-ook-buitencentrum-oostvaardersplassen",
+        "published": "Sun, 05 Jul 2026 14:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Motorrijder naar ziekenhuis na botsing in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/515282/motorrijder-naar-ziekenhuis-na-botsing-in-lelystad",
+        "published": "Sat, 04 Jul 2026 15:00:20 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Volleyballers van Old Stars-team komen bijna elke maandagavond samen: 'Het uurtje is zo voorbij'",
+        "link": "https://www.omroepflevoland.nl/sport/514543/volleyballers-van-old-stars-team-komen-bijna-elke-maandagavond-samen:-'het-uurtje-is-zo-voorbij'",
+        "published": "Sat, 04 Jul 2026 14:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Volleyballers van Old Stars-team komen bijna elke maandagavond samen: 'Het uurtje is zo voor bij'",
+        "link": "https://www.omroepflevoland.nl/sport/514543/volleyballers-van-old-stars-team-komen-bijna-elke-maandagavond-samen:-'het-uurtje-is-zo-voor-bij'",
+        "published": "Sat, 04 Jul 2026 14:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 03/07 | Onderzoek naar fatbikevrije zones • Proef met gratis menstruatieproducten",
+        "link": "https://www.omroepflevoland.nl/nieuws/514557/nieuwsoverzicht-0307-or-onderzoek-naar-fatbikevrije-zones-*-proef-met-gratis-menstruatieproducten",
+        "published": "Fri, 03 Jul 2026 17:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Man in Lelystad beroofd van fiets onder bedreiging van vuurwapen",
+        "link": "https://www.omroepflevoland.nl/nieuws/515149/man-in-lelystad-beroofd-van-fiets-onder-bedreiging-van-vuurwapen",
+        "published": "Fri, 03 Jul 2026 12:05:26 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Twee woningen in Lelystad na drugsvondsten gesloten op last van burgemeester",
+        "link": "https://www.omroepflevoland.nl/nieuws/515135/twee-woningen-in-lelystad-na-drugsvondsten-gesloten-op-last-van-burgemeester",
+        "published": "Fri, 03 Jul 2026 11:13:03 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 02/07 | 'Weinig inteelt in Oostvaardersplassen' • EOD in actie in Almere",
+        "link": "https://www.omroepflevoland.nl/nieuws/514556/nieuwsoverzicht-0207-or-'weinig-inteelt-in-oostvaardersplassen'-*-eod-in-actie-in-almere",
+        "published": "Thu, 02 Jul 2026 18:59:36 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Juf Carol  uit Lelystad Oost stopt na 46 jaar: 'Ze leerde ons tot tien tellen als je boos was'",
+        "link": "https://www.omroepflevoland.nl/nieuws/515021/juf-carol-uit-lelystad-oost-stopt-na-46-jaar:-'ze-leerde-ons-tot-tien-tellen-als-je-boos-was'",
+        "published": "Thu, 02 Jul 2026 17:57:10 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Juf Carol  uit Lelystad Oost stopt na 46 jaar: 'Ze leerde ons tot 10 tellen als je boos was'",
+        "link": "https://www.omroepflevoland.nl/nieuws/515021/juf-carol-uit-lelystad-oost-stopt-na-46-jaar:-'ze-leerde-ons-tot-10-tellen-als-je-boos-was'",
+        "published": "Thu, 02 Jul 2026 17:57:10 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Swifterbant - Rechtbank: 'Geen sprake van ernstige schuld bij dodelijke aanrijding met fietser bij Swifterbant'",
+        "link": "https://www.omroepflevoland.nl/nieuws/514908/rechtbank:-'geen-sprake-van-ernstige-schuld-bij-dodelijke-aanrijding-met-fietser-bij-swifterbant'",
+        "published": "Thu, 02 Jul 2026 10:33:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nog niet alle statushouders  in Almere, Zeewolde en Urk hebben een huis toegewezen gekregen",
+        "link": "https://www.omroepflevoland.nl/nieuws/514884/nog-niet-alle-statushouders-in-almere-zeewolde-en-urk-hebben-een-huis-toegewezen-gekregen",
+        "published": "Thu, 02 Jul 2026 10:33:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Honderden kinderen rennen zomervakantie tegemoet tijdens ScoolsOut Run",
+        "link": "https://www.omroepflevoland.nl/nieuws/514898/honderden-kinderen-rennen-zomervakantie-tegemoet-tijdens-scoolsout-run",
+        "published": "Thu, 02 Jul 2026 05:55:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 01/07 | Nieuwe camera duikt op langs de weg • Dementievriendelijke woningen opgeleverd",
+        "link": "https://www.omroepflevoland.nl/nieuws/514555/nieuwsoverzicht-0107-or-nieuwe-camera-duikt-op-langs-de-weg-*-dementievriendelijke-woningen-opgeleverd",
+        "published": "Wed, 01 Jul 2026 18:45:00 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
+        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
+        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
         "summary": ""
       }
     ],
@@ -618,308 +920,6 @@
         "title": "Vrijwilligers werken met macht en macht aan Oldtimerdag, die gewoon doorgaat",
         "link": "https://radiolelystad.nl/vrijwilligers-werken-met-macht-en-macht-aan-oldtimerdag-die-gewoon-doorgaat-morgen",
         "published": "zaterdag 20 juni 2026",
-        "summary": ""
-      }
-    ],
-    "Omroep Flevoland": [
-      {
-        "title": "Flevoland - Deze zomer meerdere weken geen treinen op delen van het Flevolandse spoor",
-        "link": "https://www.omroepflevoland.nl/nieuws/515777/deze-zomer-meerdere-weken-geen-treinen-op-delen-van-het-flevolandse-spoor",
-        "published": "Thu, 09 Jul 2026 20:06:31 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 09/07 | Toekomst busvervoer onzeker • Markerwaarddijk dicht vanwege ongeluk",
-        "link": "https://www.omroepflevoland.nl/nieuws/515955/nieuwsoverzicht-0907-or-toekomst-busvervoer-onzeker-*-markerwaarddijk-dicht-vanwege-ongeluk",
-        "published": "Thu, 09 Jul 2026 18:43:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Markerwaarddijk enige tijd afgesloten na botsing tussen auto's",
-        "link": "https://www.omroepflevoland.nl/nieuws/515973/markerwaarddijk-enige-tijd-afgesloten-na-botsing-tussen-auto's",
-        "published": "Thu, 09 Jul 2026 18:24:57 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Auto's botsen op elkaar op Markerwaarddijk, weg afgesloten",
-        "link": "https://www.omroepflevoland.nl/nieuws/515973/auto's-botsen-op-elkaar-op-markerwaarddijk-weg-afgesloten",
-        "published": "Thu, 09 Jul 2026 18:24:57 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Almeerse olifantjes vliegen de deur uit: 400 van 500 miniaturen verkocht",
-        "link": "https://www.omroepflevoland.nl/nieuws/515829/almeerse-olifantjes-vliegen-de-deur-uit:-400-van-500-miniaturen-verkocht",
-        "published": "Thu, 09 Jul 2026 11:02:25 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Mini-beeldjes Almeerse olifanten bijna uitverkocht:  'Ik neem ze mee naar  Curaçao'",
-        "link": "https://www.omroepflevoland.nl/nieuws/515829/mini-beeldjes-almeerse-olifanten-bijna-uitverkocht:-'ik-neem-ze-mee-naar-curacao'",
-        "published": "Thu, 09 Jul 2026 11:02:25 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Verkeer uren vertraagd na ongeval op Larserweg",
-        "link": "https://www.omroepflevoland.nl/nieuws/515897/verkeer-uren-vertraagd-na-ongeval-op-larserweg",
-        "published": "Thu, 09 Jul 2026 09:16:50 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Tijdelijke verkeershinder na ongeluk op Larserweg,  automobilisten ongedeerd",
-        "link": "https://www.omroepflevoland.nl/nieuws/515897/tijdelijke-verkeershinder-na-ongeluk-op-larserweg-automobilisten-ongedeerd",
-        "published": "Thu, 09 Jul 2026 09:16:50 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - 'Oude' aanbieders jeugd-GGZ beloven behandelingen af te ronden",
-        "link": "https://www.omroepflevoland.nl/nieuws/515815/'oude'-aanbieders-jeugd-ggz-beloven-behandelingen-af-te-ronden",
-        "published": "Thu, 09 Jul 2026 06:43:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Gemeente wil eisen stellen aan huisvesting Lelystadse arbeidsmigranten",
-        "link": "https://www.omroepflevoland.nl/nieuws/515819/gemeente-wil-eisen-stellen-aan-huisvesting-lelystadse-arbeidsmigranten",
-        "published": "Wed, 08 Jul 2026 21:35:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 08/07 | Bussen vernield • Teleurstelling bij kringloopwinkel",
-        "link": "https://www.omroepflevoland.nl/nieuws/515806/nieuwsoverzicht-0807-or-bussen-vernield-*-teleurstelling-bij-kringloopwinkel",
-        "published": "Wed, 08 Jul 2026 19:15:37 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Rechtbank spreekt Lelystedeling vrij van misbruik buurmeisje (4)",
-        "link": "https://www.omroepflevoland.nl/nieuws/515738/rechtbank-spreekt-lelystedeling-vrij-van-misbruik-buurmeisje-(4)",
-        "published": "Wed, 08 Jul 2026 11:03:21 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Waar moet de koning straks naartoe? Lelystedelingen geven tips",
-        "link": "https://www.omroepflevoland.nl/nieuws/515731/waar-moet-de-koning-straks-naartoe-lelystedelingen-geven-tips",
-        "published": "Wed, 08 Jul 2026 08:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Dronten - Teleurstelling voor De Groene Sluis: opening kringloopwinkel in Dronten verder uit zicht",
-        "link": "https://www.omroepflevoland.nl/nieuws/515719/teleurstelling-voor-de-groene-sluis:-opening-kringloopwinkel-in-dronten-verder-uit-zicht",
-        "published": "Wed, 08 Jul 2026 06:50:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Dronten - Komst van kringloopwinkel Groene Sluis naar Dronten steeds onzekerder",
-        "link": "https://www.omroepflevoland.nl/nieuws/515719/komst-van-kringloopwinkel-groene-sluis-naar-dronten-steeds-onzekerder",
-        "published": "Wed, 08 Jul 2026 06:50:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Rechter beslist over lot huurder aan Wittezeestraat: Centrada mag niet ontruimen",
-        "link": "https://www.omroepflevoland.nl/nieuws/515717/rechter-beslist-over-lot-huurder-aan-wittezeestraat:-centrada-mag-niet-ontruimen",
-        "published": "Tue, 07 Jul 2026 20:34:20 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 07/07 | Ens druk met herstel hagelschade • Lepelaars broeden op Marker Wadden",
-        "link": "https://www.omroepflevoland.nl/nieuws/515678/nieuwsoverzicht-0707-or-ens-druk-met-herstel-hagelschade-*-lepelaars-broeden-op-marker-wadden",
-        "published": "Tue, 07 Jul 2026 18:55:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Wegrestaurant Hajé naar hoogste rechter om drive-thru’s langs A6 te kunnen realiseren",
-        "link": "https://www.omroepflevoland.nl/nieuws/515640/wegrestaurant-haje-naar-hoogste-rechter-om-drive-thru's-langs-a6-te-kunnen-realiseren",
-        "published": "Tue, 07 Jul 2026 16:11:30 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Wegrestaurant Hajé wil nog steeds drive thru's langs de A6, stapt naar Raad van State",
-        "link": "https://www.omroepflevoland.nl/nieuws/515640/wegrestaurant-haje-wil-nog-steeds-drive-thru's-langs-de-a6-stapt-naar-raad-van-state",
-        "published": "Tue, 07 Jul 2026 16:11:30 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Lepelaar nestelt vanaf nu op Marker Wadden, drie broedplekken gevonden",
-        "link": "https://www.omroepflevoland.nl/nieuws/515652/lepelaar-nestelt-vanaf-nu-op-marker-wadden-drie-broedplekken-gevonden",
-        "published": "Tue, 07 Jul 2026 14:45:36 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Dertien binnenbanen: Lelystad krijgt een overdekte 'boulodrome'",
-        "link": "https://www.omroepflevoland.nl/nieuws/515639/dertien-binnenbanen:-lelystad-krijgt-een-overdekte-'boulodrome'",
-        "published": "Tue, 07 Jul 2026 14:24:52 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Lelystad krijgt hal om overdekt jeu de boules te spelen, 'Koersen op opening in april'",
-        "link": "https://www.omroepflevoland.nl/nieuws/515639/lelystad-krijgt-hal-om-overdekt-jeu-de-boules-te-spelen-'koersen-op-opening-in-april'",
-        "published": "Tue, 07 Jul 2026 14:24:52 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - 'Ik doe dit anders nooit': kinderen genieten van gratis Zomerfestival in Lelystad Oost",
-        "link": "https://www.omroepflevoland.nl/nieuws/515576/'ik-doe-dit-anders-nooit':-kinderen-genieten-van-gratis-zomerfestival-in-lelystad-oost",
-        "published": "Tue, 07 Jul 2026 08:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Van lasergamen tot bloemstukjes maken: het Zomerfestival is terug in Lelystad Oost",
-        "link": "https://www.omroepflevoland.nl/nieuws/515576/van-lasergamen-tot-bloemstukjes-maken:-het-zomerfestival-is-terug-in-lelystad-oost",
-        "published": "Tue, 07 Jul 2026 08:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Sluitingen centra Staatsbosbeheer raken Natuurbelevingscentrum De Oostvaarders in Almere niet",
-        "link": "https://www.omroepflevoland.nl/nieuws/515523/sluitingen-centra-staatsbosbeheer-raken-natuurbelevingscentrum-de-oostvaarders-in-almere-niet",
-        "published": "Tue, 07 Jul 2026 06:25:14 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Vrouw in been gestoken met keukenmes, politie zoekt verdachte",
-        "link": "https://www.omroepflevoland.nl/nieuws/515561/vrouw-in-been-gestoken-met-keukenmes-politie-zoekt-verdachte",
-        "published": "Mon, 06 Jul 2026 20:50:24 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Vrouw in been gestoken met keukenmes verdachte ervandoor",
-        "link": "https://www.omroepflevoland.nl/nieuws/515561/vrouw-in-been-gestoken-met-keukenmes-verdachte-ervandoor",
-        "published": "Mon, 06 Jul 2026 20:50:24 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Mogelijk steekincident bij woning, verdachte ervandoor",
-        "link": "https://www.omroepflevoland.nl/nieuws/515561/mogelijk-steekincident-bij-woning-verdachte-ervandoor",
-        "published": "Mon, 06 Jul 2026 20:50:24 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 06/07 | Koningsdag 2027 in Lelystad: 'Grote eer' • Doorfietspad bijna klaar",
-        "link": "https://www.omroepflevoland.nl/nieuws/515509/nieuwsoverzicht-0607-or-koningsdag-2027-in-lelystad:-'grote-eer'-*-doorfietspad-bijna-klaar",
-        "published": "Mon, 06 Jul 2026 18:50:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Uitbreiding hoogspanningsstation Lelystad moet elektriciteitsproblemen verminderen",
-        "link": "https://www.omroepflevoland.nl/nieuws/515507/uitbreiding-hoogspanningsstation-lelystad-moet-elektriciteitsproblemen-verminderen",
-        "published": "Mon, 06 Jul 2026 17:41:25 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Elektrische auto vliegt in brand na botsing met vrachtwagen in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/515532/elektrische-auto-vliegt-in-brand-na-botsing-met-vrachtwagen-in-lelystad",
-        "published": "Mon, 06 Jul 2026 16:27:49 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Koning viert 60ste verjaardag tijdens Koningsdag in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/515520/koning-viert-60ste-verjaardag-tijdens-koningsdag-in-lelystad",
-        "published": "Mon, 06 Jul 2026 14:06:46 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Landelijke viering van Koningsdag volgend jaar in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/515520/landelijke-viering-van-koningsdag-volgend-jaar-in-lelystad",
-        "published": "Mon, 06 Jul 2026 14:06:46 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - 'Doorfietspad' van Lelystad naar Almere bijna klaar",
-        "link": "https://www.omroepflevoland.nl/nieuws/514568/'doorfietspad'-van-lelystad-naar-almere-bijna-klaar",
-        "published": "Mon, 06 Jul 2026 06:20:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - ' Doorfietspad' van Lelystad naar Almere bijna klaar",
-        "link": "https://www.omroepflevoland.nl/nieuws/514568/'-doorfietspad'-van-lelystad-naar-almere-bijna-klaar",
-        "published": "Mon, 06 Jul 2026 06:20:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Staatsbosbeheer sluit buitencentra, Almeerderhout deze maand, Oostvaardersplassen later",
-        "link": "https://www.omroepflevoland.nl/nieuws/515184/staatsbosbeheer-sluit-buitencentra-almeerderhout-deze-maand-oostvaardersplassen-later",
-        "published": "Sun, 05 Jul 2026 14:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Buitencentrum Staatsbosbeheer Almeerderhout sluit eind deze maand de deuren, later sluit ook buitencentrum Oostvaardersplassen",
-        "link": "https://www.omroepflevoland.nl/nieuws/515184/buitencentrum-staatsbosbeheer-almeerderhout-sluit-eind-deze-maand-de-deuren-later-sluit-ook-buitencentrum-oostvaardersplassen",
-        "published": "Sun, 05 Jul 2026 14:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Motorrijder naar ziekenhuis na botsing in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/515282/motorrijder-naar-ziekenhuis-na-botsing-in-lelystad",
-        "published": "Sat, 04 Jul 2026 15:00:20 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Volleyballers van Old Stars-team komen bijna elke maandagavond samen: 'Het uurtje is zo voorbij'",
-        "link": "https://www.omroepflevoland.nl/sport/514543/volleyballers-van-old-stars-team-komen-bijna-elke-maandagavond-samen:-'het-uurtje-is-zo-voorbij'",
-        "published": "Sat, 04 Jul 2026 14:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Volleyballers van Old Stars-team komen bijna elke maandagavond samen: 'Het uurtje is zo voor bij'",
-        "link": "https://www.omroepflevoland.nl/sport/514543/volleyballers-van-old-stars-team-komen-bijna-elke-maandagavond-samen:-'het-uurtje-is-zo-voor-bij'",
-        "published": "Sat, 04 Jul 2026 14:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 03/07 | Onderzoek naar fatbikevrije zones • Proef met gratis menstruatieproducten",
-        "link": "https://www.omroepflevoland.nl/nieuws/514557/nieuwsoverzicht-0307-or-onderzoek-naar-fatbikevrije-zones-*-proef-met-gratis-menstruatieproducten",
-        "published": "Fri, 03 Jul 2026 17:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Man in Lelystad beroofd van fiets onder bedreiging van vuurwapen",
-        "link": "https://www.omroepflevoland.nl/nieuws/515149/man-in-lelystad-beroofd-van-fiets-onder-bedreiging-van-vuurwapen",
-        "published": "Fri, 03 Jul 2026 12:05:26 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Twee woningen in Lelystad na drugsvondsten gesloten op last van burgemeester",
-        "link": "https://www.omroepflevoland.nl/nieuws/515135/twee-woningen-in-lelystad-na-drugsvondsten-gesloten-op-last-van-burgemeester",
-        "published": "Fri, 03 Jul 2026 11:13:03 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 02/07 | 'Weinig inteelt in Oostvaardersplassen' • EOD in actie in Almere",
-        "link": "https://www.omroepflevoland.nl/nieuws/514556/nieuwsoverzicht-0207-or-'weinig-inteelt-in-oostvaardersplassen'-*-eod-in-actie-in-almere",
-        "published": "Thu, 02 Jul 2026 18:59:36 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Juf Carol  uit Lelystad Oost stopt na 46 jaar: 'Ze leerde ons tot tien tellen als je boos was'",
-        "link": "https://www.omroepflevoland.nl/nieuws/515021/juf-carol-uit-lelystad-oost-stopt-na-46-jaar:-'ze-leerde-ons-tot-tien-tellen-als-je-boos-was'",
-        "published": "Thu, 02 Jul 2026 17:57:10 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Juf Carol  uit Lelystad Oost stopt na 46 jaar: 'Ze leerde ons tot 10 tellen als je boos was'",
-        "link": "https://www.omroepflevoland.nl/nieuws/515021/juf-carol-uit-lelystad-oost-stopt-na-46-jaar:-'ze-leerde-ons-tot-10-tellen-als-je-boos-was'",
-        "published": "Thu, 02 Jul 2026 17:57:10 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Swifterbant - Rechtbank: 'Geen sprake van ernstige schuld bij dodelijke aanrijding met fietser bij Swifterbant'",
-        "link": "https://www.omroepflevoland.nl/nieuws/514908/rechtbank:-'geen-sprake-van-ernstige-schuld-bij-dodelijke-aanrijding-met-fietser-bij-swifterbant'",
-        "published": "Thu, 02 Jul 2026 10:33:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nog niet alle statushouders  in Almere, Zeewolde en Urk hebben een huis toegewezen gekregen",
-        "link": "https://www.omroepflevoland.nl/nieuws/514884/nog-niet-alle-statushouders-in-almere-zeewolde-en-urk-hebben-een-huis-toegewezen-gekregen",
-        "published": "Thu, 02 Jul 2026 10:33:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Honderden kinderen rennen zomervakantie tegemoet tijdens ScoolsOut Run",
-        "link": "https://www.omroepflevoland.nl/nieuws/514898/honderden-kinderen-rennen-zomervakantie-tegemoet-tijdens-scoolsout-run",
-        "published": "Thu, 02 Jul 2026 05:55:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 01/07 | Nieuwe camera duikt op langs de weg • Dementievriendelijke woningen opgeleverd",
-        "link": "https://www.omroepflevoland.nl/nieuws/514555/nieuwsoverzicht-0107-or-nieuwe-camera-duikt-op-langs-de-weg-*-dementievriendelijke-woningen-opgeleverd",
-        "published": "Wed, 01 Jul 2026 18:45:00 GMT+0200",
         "summary": ""
       }
     ]

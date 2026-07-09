@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T01:30:53.501620+00:00",
+  "updated": "2026-07-09T02:58:48.119069+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -311,14 +311,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
-      {
-        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
-        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
-        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Omroep Flevoland heeft nieuwe voorzitter van de Raad van Toezicht",
@@ -618,6 +610,14 @@
         "title": "Lelystad betaalt ruim 1 miljoen euro voor leegstaand postkantoor",
         "link": "https://www.destentor.nl/lelystad/lelystad-betaalt-ruim-1-miljoen-euro-voor-leegstaand-postkantoor~aab67a04/",
         "published": "Sat, 27 Jun 2026 16:00:00 GMT",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
+        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
+        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
         "summary": ""
       }
     ],

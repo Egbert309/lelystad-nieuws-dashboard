@@ -1,6 +1,316 @@
 {
-  "updated": "2026-07-09T04:24:19.114613+00:00",
+  "updated": "2026-07-09T06:17:22.155580+00:00",
   "sources": {
+    "Radio Lelystad": [
+      {
+        "title": "Rechter acht misbruik meisje (4) niet bewezen; verhoor slachtoffertje was sturend",
+        "link": "https://radiolelystad.nl/rechter-acht-misbruik-meisje-4-niet-bewezen-verhoor-was-niet-goed",
+        "published": "woensdag 08 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Verklaring vreemd, maar niet onmogelijk: man mag 'onbewoond' huis blijven huren",
+        "link": "https://radiolelystad.nl/zijn-verklaring-is-vreemd-maar-niet-onmogelijk-huurder-mag-onbewoonde-woning-houden",
+        "published": "woensdag 08 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week: Goud en zilver heb ik niet (Furgell Pansa)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-goud-en-zilver-heb-ik-niet-furgell-pansa",
+        "published": "woensdag 08 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Hajé probeert via Raad van State alsnog laadpalen en drive-thru langs A6  te krijgen",
+        "link": "https://radiolelystad.nl/haje-probeert-via-raad-van-state-alsnog-laadpalen-en-drive-thru-te-krijgen",
+        "published": "dinsdag 07 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Jong Lelystad zou in de zomer graag de vuilniswagen wat vaker langs zien komen",
+        "link": "https://radiolelystad.nl/jong-lelystad-wil-in-de-zomer-de-vuilniswagen-vaker-langs-zien-komen",
+        "published": "dinsdag 07 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Vrouw in Neckarstraat in deuropening eigen huis in been gestoken, dader voortvluchtig",
+        "link": "https://radiolelystad.nl/bewoonster-neckarstraat-neergestoken-in-deuropening-dader-voortvluchtig",
+        "published": "dinsdag 07 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "De koning viert volgend jaar zijn 60ste verjaardag in Lelystad - dat dan ook 60 wordt",
+        "link": "https://radiolelystad.nl/de-koning-viert-zijn-verjaardag-volgend-jaar-in-lelystad-met-zijn-familie",
+        "published": "maandag 06 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Follow the Money in de bres voor directeur JEL en vertrokken wethouders",
+        "link": "https://radiolelystad.nl/follow-the-money-in-de-bres-voor-directeur-jel-en-vertrokken-wethouders",
+        "published": "maandag 06 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Staatsbosbeheer wil bezoekerscentra sluiten, ook de Oostvaardersplassen",
+        "link": "https://radiolelystad.nl/staatsbosbeheer-wil-bezoekerscentra-sluiten-eerst-almeerderhout-en-daarna-ook-de-oostvaardersplassen",
+        "published": "zondag 05 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente denkt na over invulling van leegstaande schuren aan Meerkoetenweg",
+        "link": "https://radiolelystad.nl/gemeente-denkt-na-over-invulling-van-leegstaande-schuren-aan-meerkoetenweg",
+        "published": "zaterdag 04 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Man onder bedreiging met vuurwapen beroofd van fiets in speeltuin bij school De Tjalk",
+        "link": "https://radiolelystad.nl/man-onder-bedreiging-vuurwapen-beroofd-van-fiets-bij-speelplaats-tjalk",
+        "published": "vrijdag 03 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Burgemeester sluit huizen in Oostzeestraat en Fioringras vanwege drugshandel",
+        "link": "https://radiolelystad.nl/burgemeester-sluit-twee-woonhuizen-vanwege-drugshandel",
+        "published": "vrijdag 03 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Schoener 36 gespaard in zoektocht naar woningbouwlocaties in de bestaande stad",
+        "link": "https://radiolelystad.nl/schoener-36-gespaard-in-zoektocht-naar-woningbouwlocaties-in-de-bestaande-stad",
+        "published": "vrijdag 03 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente moet opkomen voor schapen bij Van der Valk Hotel, vindt de gemeenteraad",
+        "link": "https://radiolelystad.nl/gemeente-moet-opkomen-voor-schapen-bij-van-der-valk-hotel-vindt-de-gemeenteraad",
+        "published": "donderdag 02 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Programma ‘Hart voor de Stad’ on hold gezet, nieuw college moet zich er eerst over buigen",
+        "link": "https://radiolelystad.nl/programma-hart-voor-de-stad-on-hold-gezet-nieuw-college-moet-zich-er-eerst-over-buigen",
+        "published": "donderdag 02 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Geen overmatige inteelt gevonden in kuddes grote grazers Oostvaardersplassen",
+        "link": "https://radiolelystad.nl/geen-overmatige-inteelt-gevonden-in-kuddes-grote-grazers-oostvaardersplassen",
+        "published": "donderdag 02 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Lagere straf voor pakketbezorger die fietser doodreed op donkere Elandweg",
+        "link": "https://radiolelystad.nl/lagere-straf-voor-pakketbezorger-die-fietser-doodreed-op-elandweg",
+        "published": "donderdag 02 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Er gloort hoop voor de school voor gevaarlijke honden, maar zonder ingreep raad",
+        "link": "https://radiolelystad.nl/er-gloort-hoop-voor-de-school-voor-probleemhonden-maar-zonder-juridische-actie",
+        "published": "woensdag 01 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Nieuwe wethouders geïnstalleerd, net na middernacht en dus een dag later",
+        "link": "https://radiolelystad.nl/nieuwe-wethoudersploeg-geinstalleerd-net-na-middernacht-en-dus-een-dag-later",
+        "published": "woensdag 01 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week:  Tot de maan kon je hier kijken  (Ernst van der Sloot)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-tot-de-maan-kon-je-hier-kijken-ernst-van-der-sloot",
+        "published": "woensdag 01 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Read Shop Kroonpassage maakt doorstart met nieuwe exploitanten",
+        "link": "https://radiolelystad.nl/read-shop-kroonpassage-maakt-doorstart-met-nieuwe-exploitanten",
+        "published": "dinsdag 30 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Geen haast meer voor gratis parkeren, je betaalt weer gewoon per uur in het Stadshart",
+        "link": "https://radiolelystad.nl/haasten-hoeft-niet-meer-je-betaalt-weer-gewoon-per-uur-parkeren-in-het-stadshart",
+        "published": "dinsdag 30 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Raadsleden willen dat school gevaarlijke honden toch naar Hondsdraf kan",
+        "link": "https://radiolelystad.nl/raadsleden-willen-dat-school-gevaarlijke-honden-toch-naar-hondsdraf-kan",
+        "published": "maandag 29 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "In Lelystad gestolen auto even later door politie achterhaald in Zwaagdijk",
+        "link": "https://radiolelystad.nl/in-lelystad-gestolen-auto-even-later-door-politie-klemgereden-in-zwaagdijk",
+        "published": "maandag 29 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Geen aparte busbaan naar Lelystad Airport, aanpassen wegen lijkt voldoende",
+        "link": "https://radiolelystad.nl/geen-aparte-busbaan-van-en-naar-lelystad-airport-goedkopere-oplossingen-lijken-voldoende",
+        "published": "zaterdag 27 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "CDA is na problemen bij Party Players bezorgd over de staat van brandkranen",
+        "link": "https://radiolelystad.nl/cda-is-bezorgd-over-de-staat-van-brandkranen-in-lelystad",
+        "published": "vrijdag 26 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Partij voor de Dieren boos over schapen zonder schaduw bij hotel Van der Valk",
+        "link": "https://radiolelystad.nl/partij-voor-de-dieren-boos-over-schapen-zonder-schaduw-bij-van-der-valk",
+        "published": "vrijdag 26 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Defqon.1 alsnog afgelast, tienduizenden campinggasten geleidelijk naar huis",
+        "link": "https://radiolelystad.nl/q-dance-blaast-defqon-1-alsnog-af-tienduizenden-campinggasten-moeten-naar-huis",
+        "published": "vrijdag 26 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Brug in dijk naar Enkhuizen wil urenlang niet meer dicht, onafzienbare files",
+        "link": "https://radiolelystad.nl/brug-in-dijk-naar-enkhuizen-urenlang-gestremd-onafzienbare-files",
+        "published": "donderdag 25 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "KNMI kondigt code rood af vanwege extreme hitte, advies om thuis te blijven",
+        "link": "https://radiolelystad.nl/knmi-kondigt-code-rood-af-vanwege-extreme-hitte-mensen-wordt-geadviseerd-thuis-te-blijven",
+        "published": "donderdag 25 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Speelschip Karveel heeft weer te maken met vernielingen, onveiligheid  en overlast",
+        "link": "https://radiolelystad.nl/speelschip-karveel-heeft-weer-te-maken-met-vernielingen-onveiligheid-en-overlast",
+        "published": "donderdag 25 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Haringparty goede doel (Landleven en WensAmbulance) afgelast vanwege hitte",
+        "link": "https://radiolelystad.nl/haringparty-serviceclubs-voor-het-goede-afgelast-vanwege-de-hitte",
+        "published": "donderdag 25 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "TenneT ziet in Lelystad plek voor small modular reactor, kleine kernreactor",
+        "link": "https://radiolelystad.nl/tennet-ziet-in-lelystad-mogelijke-plek-voor-kleine-kernreactor-smg",
+        "published": "woensdag 24 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Redding is nabij voor haperende  afvalbakken met elektronica in Stadshart",
+        "link": "https://radiolelystad.nl/redding-is-nabij-voor-slecht-werkende-hypermoderne-afvalbakken-in-stadshart",
+        "published": "woensdag 24 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Ontkennende vleeshandelaar krijgt toch vijf jaar voor 1600 kilo coke in loods",
+        "link": "https://radiolelystad.nl/ontkennende-vleeshandelaar-krijgt-toch-vijf-jaar-voor-1600-kilo-coke-in-loods",
+        "published": "woensdag 24 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Duo met mentale stoornis plande levensgevaarlijke aanslag op gezin",
+        "link": "https://radiolelystad.nl/jongens-met-psychische-stoornis-planden-levensgevaarlijke-aanslag-op-gezin",
+        "published": "woensdag 24 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Geding om jeugdzorg van de baan, organisaties tevreden met gemeente",
+        "link": "https://radiolelystad.nl/geding-om-jeugdzorg-van-de-baan-organisaties-tevreden-met-gemeente",
+        "published": "woensdag 24 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "De paarden van de ponyclub hebben nu een fatsoenlijke stal (video)",
+        "link": "https://radiolelystad.nl/de-paarden-van-de-ponyclub-hebben-nu-een-fatsoenlijke-stal-video",
+        "published": "woensdag 24 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week: Vaarwel (Willemijn Steenbakkers)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-vaarwel-willemijn-steenbakkers",
+        "published": "woensdag 24 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Station krijgt status van rijksmonument, als eerste gebouw in de stad",
+        "link": "https://radiolelystad.nl/station-krijgt-definitief-de-status-van-rijksmonument-als-eerste-gebouw-in-de-stad",
+        "published": "dinsdag 23 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Mbo'ers denken mee over het voorkomen van jeugdcriminaliteit: 'Maak een wall of shame'",
+        "link": "https://radiolelystad.nl/mboers-denken-mee-over-jeugdcriminaliteit-maak-een-wall-of-shame",
+        "published": "dinsdag 23 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Advocaat oudste broer Ryan al Najjar wil gevluchte vader horen in beroepszaak",
+        "link": "https://radiolelystad.nl/advocaat-oudste-broer-ryan-al-najar-wil-gevluchte-vader-horen-in-beroepszaak",
+        "published": "dinsdag 23 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Lelystedeling  vast voor schietpartij in kapperszaak Bijlmermeer",
+        "link": "https://radiolelystad.nl/lelystedeling-opgepakt-voor-schietpartij-in-kapperszaak-bijlmermeer",
+        "published": "dinsdag 23 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Er werd weer heel veel op touw gezet tegen eenzaamheid in Lelystad (video)",
+        "link": "https://radiolelystad.nl/er-werd-weer-heel-veel-op-touw-gezet-tegen-eenzaamheid-in-lelystad-video",
+        "published": "dinsdag 23 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Teunis Ruiten, directeur van Bureau Gelijke Behandeling: 'Meld het wel!'",
+        "link": "https://radiolelystad.nl/teunis-ruiten-directeur-van-bureau-gelijke-behandeling-flevoland-meldt-het-wel",
+        "published": "maandag 22 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Reddingboot moet in actie komen om bij noodweer  losgeslagen schepen te bergen",
+        "link": "https://radiolelystad.nl/noodweer-reddingboot-moet-in-actie-komen-om-losgeslagen-schepen-te-bergen",
+        "published": "maandag 22 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Vrijwilligers werken met macht en macht aan Oldtimerdag, die gewoon doorgaat",
+        "link": "https://radiolelystad.nl/vrijwilligers-werken-met-macht-en-macht-aan-oldtimerdag-die-gewoon-doorgaat-morgen",
+        "published": "zaterdag 20 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Sunsation afgelast, extreem weer schaadt festivalterrein en apparatuur",
+        "link": "https://radiolelystad.nl/sunsation-afgelast-extreme-weersomstandigheden-schaden-festivalterrein-en-apparatuur",
+        "published": "zaterdag 20 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Kandidaat-wethouders bekend, twee oude bekenden, drie nieuwe namen",
+        "link": "https://radiolelystad.nl/kandidaat-wethouders-bekend-twee-oude-bekenden-en-drie-voor-de-politiek-nieuwe-namen",
+        "published": "vrijdag 19 juni 2026",
+        "summary": ""
+      },
+      {
+        "title": "Minister beperkt gebruik vergrote start-en landingsbaan Lelystad Airport",
+        "link": "https://radiolelystad.nl/minister-legt-beperkingen-op-aan-gebruik-vergrote-start-en-landingsbaan-lelystad-airport",
+        "published": "vrijdag 19 juni 2026",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
+        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
+        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Omroep Flevoland heeft nieuwe voorzitter van de Raad van Toezicht",
@@ -303,7 +613,21 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
+        "link": "https://nos.nl/l/2621900",
+        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - 'Oude' aanbieders jeugd-GGZ beloven behandelingen af te ronden",
+        "link": "https://www.omroepflevoland.nl/nieuws/515815/'oude'-aanbieders-jeugd-ggz-beloven-behandelingen-af-te-ronden",
+        "published": "Thu, 09 Jul 2026 06:43:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Gemeente wil eisen stellen aan huisvesting Lelystadse arbeidsmigranten",
         "link": "https://www.omroepflevoland.nl/nieuws/515819/gemeente-wil-eisen-stellen-aan-huisvesting-lelystadse-arbeidsmigranten",
@@ -596,330 +920,6 @@
         "title": "Lelystad - Koningin opent nieuw batterijpark bij Máximacentrale Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/514710/koningin-opent-nieuw-batterijpark-bij-maximacentrale-lelystad",
         "published": "Tue, 30 Jun 2026 15:38:44 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Lelystadse vrienden redden enige boekwinkel van de stad: 'Lelystad zonder boekwinkel ondenkbaar'",
-        "link": "https://www.omroepflevoland.nl/nieuws/514693/lelystadse-vrienden-redden-enige-boekwinkel-van-de-stad:-'lelystad-zonder-boekwinkel-ondenkbaar'",
-        "published": "Tue, 30 Jun 2026 11:24:05 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Koninklijke familie viert Koningsdag volgend jaar in Lelystad",
-        "link": "https://www.nu.nl/koningshuis/6402094/koninklijke-familie-viert-koningsdag-volgend-jaar-in-lelystad.html",
-        "published": "Mon, 06 Jul 2026 14:14:15 +0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Koning Willem-Alexander viert zijn 60ste verjaardag in Lelystad",
-        "link": "https://nos.nl/l/2621900",
-        "published": "Mon, 6 Jul 2026 14:29:50 +0200",
-        "summary": ""
-      }
-    ],
-    "Radio Lelystad": [
-      {
-        "title": "Rechter acht misbruik meisje (4) niet bewezen; verhoor slachtoffertje was sturend",
-        "link": "https://radiolelystad.nl/rechter-acht-misbruik-meisje-4-niet-bewezen-verhoor-was-niet-goed",
-        "published": "woensdag 08 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Verklaring vreemd, maar niet onmogelijk: man mag 'onbewoond' huis blijven huren",
-        "link": "https://radiolelystad.nl/zijn-verklaring-is-vreemd-maar-niet-onmogelijk-huurder-mag-onbewoonde-woning-houden",
-        "published": "woensdag 08 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: Goud en zilver heb ik niet (Furgell Pansa)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-goud-en-zilver-heb-ik-niet-furgell-pansa",
-        "published": "woensdag 08 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Hajé probeert via Raad van State alsnog laadpalen en drive-thru langs A6  te krijgen",
-        "link": "https://radiolelystad.nl/haje-probeert-via-raad-van-state-alsnog-laadpalen-en-drive-thru-te-krijgen",
-        "published": "dinsdag 07 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Jong Lelystad zou in de zomer graag de vuilniswagen wat vaker langs zien komen",
-        "link": "https://radiolelystad.nl/jong-lelystad-wil-in-de-zomer-de-vuilniswagen-vaker-langs-zien-komen",
-        "published": "dinsdag 07 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Vrouw in Neckarstraat in deuropening eigen huis in been gestoken, dader voortvluchtig",
-        "link": "https://radiolelystad.nl/bewoonster-neckarstraat-neergestoken-in-deuropening-dader-voortvluchtig",
-        "published": "dinsdag 07 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "De koning viert volgend jaar zijn 60ste verjaardag in Lelystad - dat dan ook 60 wordt",
-        "link": "https://radiolelystad.nl/de-koning-viert-zijn-verjaardag-volgend-jaar-in-lelystad-met-zijn-familie",
-        "published": "maandag 06 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Follow the Money in de bres voor directeur JEL en vertrokken wethouders",
-        "link": "https://radiolelystad.nl/follow-the-money-in-de-bres-voor-directeur-jel-en-vertrokken-wethouders",
-        "published": "maandag 06 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Staatsbosbeheer wil bezoekerscentra sluiten, ook de Oostvaardersplassen",
-        "link": "https://radiolelystad.nl/staatsbosbeheer-wil-bezoekerscentra-sluiten-eerst-almeerderhout-en-daarna-ook-de-oostvaardersplassen",
-        "published": "zondag 05 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente denkt na over invulling van leegstaande schuren aan Meerkoetenweg",
-        "link": "https://radiolelystad.nl/gemeente-denkt-na-over-invulling-van-leegstaande-schuren-aan-meerkoetenweg",
-        "published": "zaterdag 04 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Man onder bedreiging met vuurwapen beroofd van fiets in speeltuin bij school De Tjalk",
-        "link": "https://radiolelystad.nl/man-onder-bedreiging-vuurwapen-beroofd-van-fiets-bij-speelplaats-tjalk",
-        "published": "vrijdag 03 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Burgemeester sluit huizen in Oostzeestraat en Fioringras vanwege drugshandel",
-        "link": "https://radiolelystad.nl/burgemeester-sluit-twee-woonhuizen-vanwege-drugshandel",
-        "published": "vrijdag 03 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Schoener 36 gespaard in zoektocht naar woningbouwlocaties in de bestaande stad",
-        "link": "https://radiolelystad.nl/schoener-36-gespaard-in-zoektocht-naar-woningbouwlocaties-in-de-bestaande-stad",
-        "published": "vrijdag 03 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente moet opkomen voor schapen bij Van der Valk Hotel, vindt de gemeenteraad",
-        "link": "https://radiolelystad.nl/gemeente-moet-opkomen-voor-schapen-bij-van-der-valk-hotel-vindt-de-gemeenteraad",
-        "published": "donderdag 02 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Programma ‘Hart voor de Stad’ on hold gezet, nieuw college moet zich er eerst over buigen",
-        "link": "https://radiolelystad.nl/programma-hart-voor-de-stad-on-hold-gezet-nieuw-college-moet-zich-er-eerst-over-buigen",
-        "published": "donderdag 02 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Geen overmatige inteelt gevonden in kuddes grote grazers Oostvaardersplassen",
-        "link": "https://radiolelystad.nl/geen-overmatige-inteelt-gevonden-in-kuddes-grote-grazers-oostvaardersplassen",
-        "published": "donderdag 02 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Lagere straf voor pakketbezorger die fietser doodreed op donkere Elandweg",
-        "link": "https://radiolelystad.nl/lagere-straf-voor-pakketbezorger-die-fietser-doodreed-op-elandweg",
-        "published": "donderdag 02 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Er gloort hoop voor de school voor gevaarlijke honden, maar zonder ingreep raad",
-        "link": "https://radiolelystad.nl/er-gloort-hoop-voor-de-school-voor-probleemhonden-maar-zonder-juridische-actie",
-        "published": "woensdag 01 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Nieuwe wethouders geïnstalleerd, net na middernacht en dus een dag later",
-        "link": "https://radiolelystad.nl/nieuwe-wethoudersploeg-geinstalleerd-net-na-middernacht-en-dus-een-dag-later",
-        "published": "woensdag 01 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gedicht van de week:  Tot de maan kon je hier kijken  (Ernst van der Sloot)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-tot-de-maan-kon-je-hier-kijken-ernst-van-der-sloot",
-        "published": "woensdag 01 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Read Shop Kroonpassage maakt doorstart met nieuwe exploitanten",
-        "link": "https://radiolelystad.nl/read-shop-kroonpassage-maakt-doorstart-met-nieuwe-exploitanten",
-        "published": "dinsdag 30 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Geen haast meer voor gratis parkeren, je betaalt weer gewoon per uur in het Stadshart",
-        "link": "https://radiolelystad.nl/haasten-hoeft-niet-meer-je-betaalt-weer-gewoon-per-uur-parkeren-in-het-stadshart",
-        "published": "dinsdag 30 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Raadsleden willen dat school gevaarlijke honden toch naar Hondsdraf kan",
-        "link": "https://radiolelystad.nl/raadsleden-willen-dat-school-gevaarlijke-honden-toch-naar-hondsdraf-kan",
-        "published": "maandag 29 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "In Lelystad gestolen auto even later door politie achterhaald in Zwaagdijk",
-        "link": "https://radiolelystad.nl/in-lelystad-gestolen-auto-even-later-door-politie-klemgereden-in-zwaagdijk",
-        "published": "maandag 29 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Geen aparte busbaan naar Lelystad Airport, aanpassen wegen lijkt voldoende",
-        "link": "https://radiolelystad.nl/geen-aparte-busbaan-van-en-naar-lelystad-airport-goedkopere-oplossingen-lijken-voldoende",
-        "published": "zaterdag 27 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "CDA is na problemen bij Party Players bezorgd over de staat van brandkranen",
-        "link": "https://radiolelystad.nl/cda-is-bezorgd-over-de-staat-van-brandkranen-in-lelystad",
-        "published": "vrijdag 26 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Partij voor de Dieren boos over schapen zonder schaduw bij hotel Van der Valk",
-        "link": "https://radiolelystad.nl/partij-voor-de-dieren-boos-over-schapen-zonder-schaduw-bij-van-der-valk",
-        "published": "vrijdag 26 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Defqon.1 alsnog afgelast, tienduizenden campinggasten geleidelijk naar huis",
-        "link": "https://radiolelystad.nl/q-dance-blaast-defqon-1-alsnog-af-tienduizenden-campinggasten-moeten-naar-huis",
-        "published": "vrijdag 26 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Brug in dijk naar Enkhuizen wil urenlang niet meer dicht, onafzienbare files",
-        "link": "https://radiolelystad.nl/brug-in-dijk-naar-enkhuizen-urenlang-gestremd-onafzienbare-files",
-        "published": "donderdag 25 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "KNMI kondigt code rood af vanwege extreme hitte, advies om thuis te blijven",
-        "link": "https://radiolelystad.nl/knmi-kondigt-code-rood-af-vanwege-extreme-hitte-mensen-wordt-geadviseerd-thuis-te-blijven",
-        "published": "donderdag 25 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Speelschip Karveel heeft weer te maken met vernielingen, onveiligheid  en overlast",
-        "link": "https://radiolelystad.nl/speelschip-karveel-heeft-weer-te-maken-met-vernielingen-onveiligheid-en-overlast",
-        "published": "donderdag 25 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Haringparty goede doel (Landleven en WensAmbulance) afgelast vanwege hitte",
-        "link": "https://radiolelystad.nl/haringparty-serviceclubs-voor-het-goede-afgelast-vanwege-de-hitte",
-        "published": "donderdag 25 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "TenneT ziet in Lelystad plek voor small modular reactor, kleine kernreactor",
-        "link": "https://radiolelystad.nl/tennet-ziet-in-lelystad-mogelijke-plek-voor-kleine-kernreactor-smg",
-        "published": "woensdag 24 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Redding is nabij voor haperende  afvalbakken met elektronica in Stadshart",
-        "link": "https://radiolelystad.nl/redding-is-nabij-voor-slecht-werkende-hypermoderne-afvalbakken-in-stadshart",
-        "published": "woensdag 24 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Ontkennende vleeshandelaar krijgt toch vijf jaar voor 1600 kilo coke in loods",
-        "link": "https://radiolelystad.nl/ontkennende-vleeshandelaar-krijgt-toch-vijf-jaar-voor-1600-kilo-coke-in-loods",
-        "published": "woensdag 24 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Duo met mentale stoornis plande levensgevaarlijke aanslag op gezin",
-        "link": "https://radiolelystad.nl/jongens-met-psychische-stoornis-planden-levensgevaarlijke-aanslag-op-gezin",
-        "published": "woensdag 24 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Geding om jeugdzorg van de baan, organisaties tevreden met gemeente",
-        "link": "https://radiolelystad.nl/geding-om-jeugdzorg-van-de-baan-organisaties-tevreden-met-gemeente",
-        "published": "woensdag 24 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "De paarden van de ponyclub hebben nu een fatsoenlijke stal (video)",
-        "link": "https://radiolelystad.nl/de-paarden-van-de-ponyclub-hebben-nu-een-fatsoenlijke-stal-video",
-        "published": "woensdag 24 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: Vaarwel (Willemijn Steenbakkers)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-vaarwel-willemijn-steenbakkers",
-        "published": "woensdag 24 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Station krijgt status van rijksmonument, als eerste gebouw in de stad",
-        "link": "https://radiolelystad.nl/station-krijgt-definitief-de-status-van-rijksmonument-als-eerste-gebouw-in-de-stad",
-        "published": "dinsdag 23 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Mbo'ers denken mee over het voorkomen van jeugdcriminaliteit: 'Maak een wall of shame'",
-        "link": "https://radiolelystad.nl/mboers-denken-mee-over-jeugdcriminaliteit-maak-een-wall-of-shame",
-        "published": "dinsdag 23 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Advocaat oudste broer Ryan al Najjar wil gevluchte vader horen in beroepszaak",
-        "link": "https://radiolelystad.nl/advocaat-oudste-broer-ryan-al-najar-wil-gevluchte-vader-horen-in-beroepszaak",
-        "published": "dinsdag 23 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Lelystedeling  vast voor schietpartij in kapperszaak Bijlmermeer",
-        "link": "https://radiolelystad.nl/lelystedeling-opgepakt-voor-schietpartij-in-kapperszaak-bijlmermeer",
-        "published": "dinsdag 23 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Er werd weer heel veel op touw gezet tegen eenzaamheid in Lelystad (video)",
-        "link": "https://radiolelystad.nl/er-werd-weer-heel-veel-op-touw-gezet-tegen-eenzaamheid-in-lelystad-video",
-        "published": "dinsdag 23 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Teunis Ruiten, directeur van Bureau Gelijke Behandeling: 'Meld het wel!'",
-        "link": "https://radiolelystad.nl/teunis-ruiten-directeur-van-bureau-gelijke-behandeling-flevoland-meldt-het-wel",
-        "published": "maandag 22 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Reddingboot moet in actie komen om bij noodweer  losgeslagen schepen te bergen",
-        "link": "https://radiolelystad.nl/noodweer-reddingboot-moet-in-actie-komen-om-losgeslagen-schepen-te-bergen",
-        "published": "maandag 22 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Vrijwilligers werken met macht en macht aan Oldtimerdag, die gewoon doorgaat",
-        "link": "https://radiolelystad.nl/vrijwilligers-werken-met-macht-en-macht-aan-oldtimerdag-die-gewoon-doorgaat-morgen",
-        "published": "zaterdag 20 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Sunsation afgelast, extreem weer schaadt festivalterrein en apparatuur",
-        "link": "https://radiolelystad.nl/sunsation-afgelast-extreme-weersomstandigheden-schaden-festivalterrein-en-apparatuur",
-        "published": "zaterdag 20 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Kandidaat-wethouders bekend, twee oude bekenden, drie nieuwe namen",
-        "link": "https://radiolelystad.nl/kandidaat-wethouders-bekend-twee-oude-bekenden-en-drie-voor-de-politiek-nieuwe-namen",
-        "published": "vrijdag 19 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Minister beperkt gebruik vergrote start-en landingsbaan Lelystad Airport",
-        "link": "https://radiolelystad.nl/minister-legt-beperkingen-op-aan-gebruik-vergrote-start-en-landingsbaan-lelystad-airport",
-        "published": "vrijdag 19 juni 2026",
         "summary": ""
       }
     ]

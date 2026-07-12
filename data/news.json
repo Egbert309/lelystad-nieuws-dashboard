@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T00:16:36.964045+00:00",
+  "updated": "2026-07-12T01:30:31.629859+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,7 +303,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Patricia Smit wil niets anders dan zesde titel 'sterkste vrouw van Nederland': 'Ik ga alles op alles zetten'",
@@ -606,7 +605,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Amateurtheater kan aan de slag met verduurzamen, de tien mille van de ANWB is er",
@@ -908,6 +906,8 @@
         "published": "maandag 22 juni 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": [],
+    "NOS": []
   }
 }

@@ -1,7 +1,6 @@
 {
-  "updated": "2026-07-13T10:13:07.737249+00:00",
+  "updated": "2026-07-13T11:58:57.120263+00:00",
   "sources": {
-    "NOS": [],
     "De Stentor": [
       {
         "title": "Het kost miljoenen, toch willen gemeenten graag Koningsdag organiseren. Dit is waarom",
@@ -304,8 +303,14 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
+    "NOS": [],
     "Radio Lelystad": [
+      {
+        "title": "Een uit de gelopen buurtbarbecue met inmiddels DRIE podia: Jolpop (video)",
+        "link": "https://radiolelystad.nl/een-uit-de-gelopen-buurtbarbecue-met-inmiddels-drie-podia-jolpop",
+        "published": "maandag 13 juli 2026",
+        "summary": ""
+      },
       {
         "title": "Vijftien partijen starten Flevoland Urban Collectief",
         "link": "https://radiolelystad.nl/vijftien-partijen-starten-flevoland-urban-collectief",
@@ -597,12 +602,6 @@
       {
         "title": "Lelystedeling  vast voor schietpartij in kapperszaak Bijlmermeer",
         "link": "https://radiolelystad.nl/lelystedeling-opgepakt-voor-schietpartij-in-kapperszaak-bijlmermeer",
-        "published": "dinsdag 23 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Er werd weer heel veel op touw gezet tegen eenzaamheid in Lelystad (video)",
-        "link": "https://radiolelystad.nl/er-werd-weer-heel-veel-op-touw-gezet-tegen-eenzaamheid-in-lelystad-video",
         "published": "dinsdag 23 juni 2026",
         "summary": ""
       }
@@ -908,6 +907,7 @@
         "published": "Mon, 06 Jul 2026 18:50:00 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

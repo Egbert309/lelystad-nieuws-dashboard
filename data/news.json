@@ -1,7 +1,6 @@
 {
-  "updated": "2026-07-14T14:31:08.120608+00:00",
+  "updated": "2026-07-14T15:27:20.251696+00:00",
   "sources": {
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Speeltuin/ontmoetingsplek Schateiland na moeilijke tijd heropend, onder professionele leiding",
@@ -304,6 +303,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Duo dat minderjarigen inzet als nepagenten, blijft voorlopig in de cel",
@@ -606,8 +606,13 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nederland worstelt met droogte, maar Flevoland houdt het hoofd boven water",
+        "link": "https://www.omroepflevoland.nl/nieuws/516486/nederland-worstelt-met-droogte-maar-flevoland-houdt-het-hoofd-boven-water",
+        "published": "Tue, 14 Jul 2026 17:02:48 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug: 'Levensgevaarlijke actie'",
         "link": "https://www.omroepflevoland.nl/nieuws/516500/rijkswaterstaat-doet-aangifte-na-losschroeven-slagbomen-ketelbrug:-'levensgevaarlijke-actie'",
@@ -901,13 +906,8 @@
         "link": "https://www.omroepflevoland.nl/nieuws/515652/lepelaar-nestelt-vanaf-nu-op-marker-wadden-drie-broedplekken-gevonden",
         "published": "Tue, 07 Jul 2026 14:45:36 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Dertien binnenbanen: Lelystad krijgt een overdekte 'boulodrome'",
-        "link": "https://www.omroepflevoland.nl/nieuws/515639/dertien-binnenbanen:-lelystad-krijgt-een-overdekte-'boulodrome'",
-        "published": "Tue, 07 Jul 2026 14:24:52 GMT+0200",
-        "summary": ""
       }
-    ]
+    ],
+    "NOS": []
   }
 }

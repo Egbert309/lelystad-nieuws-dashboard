@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T09:33:51.192372+00:00",
+  "updated": "2026-07-15T10:31:05.032118+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -605,8 +605,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Tennisvereniging in Lelystad krijgt predicaat voor de gezonde sportomgeving",
+        "link": "https://www.destentor.nl/lelystad/tennisvereniging-in-lelystad-krijgt-predicaat-voor-de-gezonde-sportomgeving~a9b5bf70/",
+        "published": "Wed, 15 Jul 2026 09:58:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Afgelopen week 45 meldingen van de gemeente over sloop en verkeer in Lelystad",
         "link": "https://www.destentor.nl/lelystad/afgelopen-week-45-meldingen-van-de-gemeente-over-sloop-en-verkeer-in-lelystad~a1b31c3b/",
@@ -900,12 +905,6 @@
         "link": "https://www.destentor.nl/lelystad/vaccinaties-een-op-de-negen-baby-s-in-lelystad-nog-nooit-geprikt~a0aa704a/",
         "published": "Wed, 01 Jul 2026 15:30:00 GMT",
         "summary": ""
-      },
-      {
-        "title": "Melk ruilen leek een win-win: nu staan twee zuivelbedrijven voor de rechter en loopt de schade in de miljoenen",
-        "link": "https://www.destentor.nl/lelystad/melk-ruilen-leek-een-win-win-nu-staan-twee-zuivelbedrijven-voor-de-rechter-en-loopt-de-schade-in-de-miljoenen~af0d757a/",
-        "published": "Wed, 01 Jul 2026 12:00:44 GMT",
-        "summary": ""
       }
     ],
     "NOS": [
@@ -915,6 +914,7 @@
         "published": "Tue, 14 Jul 2026 21:30:20 +0200",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

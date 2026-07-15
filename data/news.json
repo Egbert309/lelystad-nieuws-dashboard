@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-15T19:25:44.883675+00:00",
+  "updated": "2026-07-15T20:19:05.639046+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
+        "link": "https://nos.nl/l/2623015",
+        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Vrouw uit Lelystad gepakt na poging helpdeskfraude bij 74-jarige Drontense",
@@ -905,14 +913,6 @@
         "title": "Kinderen ontdekken watersport tijdens Optimist on Tour in Lelystad",
         "link": "https://www.destentor.nl/lelystad/kinderen-ontdekken-watersport-tijdens-optimist-on-tour-in-lelystad~aa6c6bcc/",
         "published": "Thu, 02 Jul 2026 10:00:00 GMT",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
-        "link": "https://nos.nl/l/2623015",
-        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
         "summary": ""
       }
     ]

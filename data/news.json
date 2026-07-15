@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-15T11:28:40.514057+00:00",
+  "updated": "2026-07-15T12:23:50.101565+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
+        "link": "https://nos.nl/l/2623015",
+        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
+      {
+        "title": "Initiatief voor spetterbaden in parken: 'Goedkoper dan zwembad, kan gratis'",
+        "link": "https://radiolelystad.nl/burgerinitiatief-wil-spetterbad-in-woldpark-goedkoper-dan-een-openluchtzwembad-en-perfect-voor-warme-dagen",
+        "published": "woensdag 15 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Stadhuis zag geen alternatief voor omstreden plek voor afvalcentrum",
+        "link": "https://radiolelystad.nl/stadhuis-zag-geen-alternatief-voor-omstreden-plek-noordersluis-voor-afvalcentrum",
+        "published": "woensdag 15 juli 2026",
+        "summary": ""
+      },
       {
         "title": "Restaurantketen Zusje per 6 augustus in pand aan Bataviahaven van mislukt Grand Café MJ",
         "link": "https://radiolelystad.nl/restaurantketen-zusje-per-6-augustus-in-pand-van-mislukt-grand-cafe-mj",
@@ -287,18 +307,6 @@
       {
         "title": "Duo met mentale stoornis plande levensgevaarlijke aanslag op gezin",
         "link": "https://radiolelystad.nl/jongens-met-psychische-stoornis-planden-levensgevaarlijke-aanslag-op-gezin",
-        "published": "woensdag 24 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "Geding om jeugdzorg van de baan, organisaties tevreden met gemeente",
-        "link": "https://radiolelystad.nl/geding-om-jeugdzorg-van-de-baan-organisaties-tevreden-met-gemeente",
-        "published": "woensdag 24 juni 2026",
-        "summary": ""
-      },
-      {
-        "title": "De paarden van de ponyclub hebben nu een fatsoenlijke stal (video)",
-        "link": "https://radiolelystad.nl/de-paarden-van-de-ponyclub-hebben-nu-een-fatsoenlijke-stal-video",
         "published": "woensdag 24 juni 2026",
         "summary": ""
       }
@@ -605,15 +613,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
-        "link": "https://nos.nl/l/2623015",
-        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Twee gedetineerden moeten naar ziekenhuis na geweld in gevangenis Lelystad",
@@ -915,6 +914,7 @@
         "published": "Tue, 07 Jul 2026 20:34:20 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

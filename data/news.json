@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T07:33:29.751729+00:00",
+  "updated": "2026-07-15T08:43:02.256204+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -606,6 +606,14 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
+        "link": "https://nos.nl/l/2623015",
+        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Gedicht van de week: Het Luidste Geluid Ooit (Sem van Galen)",
@@ -905,14 +913,6 @@
         "title": "Gedicht van de week: Vaarwel (Willemijn Steenbakkers)",
         "link": "https://radiolelystad.nl/gedicht-van-de-week-vaarwel-willemijn-steenbakkers",
         "published": "woensdag 24 juni 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
-        "link": "https://nos.nl/l/2623015",
-        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
         "summary": ""
       }
     ]

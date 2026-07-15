@@ -1,7 +1,6 @@
 {
-  "updated": "2026-07-15T16:27:28.898329+00:00",
+  "updated": "2026-07-15T17:26:24.977717+00:00",
   "sources": {
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Vrouw uit Lelystad gepakt na poging helpdeskfraude bij 74-jarige Drontense",
@@ -304,7 +303,21 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
+        "link": "https://nos.nl/l/2623015",
+        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 15/07 | Met gestolen auto de sloot in • Oplichter gepakt dankzij Drontense (74)",
+        "link": "https://www.omroepflevoland.nl/nieuws/516682/nieuwsoverzicht-1507-or-met-gestolen-auto-de-sloot-in-*-oplichter-gepakt-dankzij-drontense-(74)",
+        "published": "Wed, 15 Jul 2026 18:48:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Lelystedeling (23) staat terecht voor online misbruik, twaalf aanklachten van vrouwen aan zijn broek",
         "link": "https://www.omroepflevoland.nl/nieuws/516640/lelystedeling-(23)-staat-terecht-voor-online-misbruik-twaalf-aanklachten-van-vrouwen-aan-zijn-broek",
@@ -597,12 +610,6 @@
         "title": "Lelystad - Waar moet de koning straks naartoe? Lelystedelingen geven tips",
         "link": "https://www.omroepflevoland.nl/nieuws/515731/waar-moet-de-koning-straks-naartoe-lelystedelingen-geven-tips",
         "published": "Wed, 08 Jul 2026 08:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Dronten - Teleurstelling voor De Groene Sluis: opening kringloopwinkel in Dronten verder uit zicht",
-        "link": "https://www.omroepflevoland.nl/nieuws/515719/teleurstelling-voor-de-groene-sluis:-opening-kringloopwinkel-in-dronten-verder-uit-zicht",
-        "published": "Wed, 08 Jul 2026 06:50:00 GMT+0200",
         "summary": ""
       }
     ],
@@ -908,13 +915,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
-        "link": "https://nos.nl/l/2623015",
-        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
-        "summary": ""
-      }
-    ]
+    "Nu.nl": []
   }
 }

@@ -1,317 +1,6 @@
 {
-  "updated": "2026-07-15T00:13:58.512628+00:00",
+  "updated": "2026-07-15T01:30:07.520524+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
-        "link": "https://nos.nl/l/2623015",
-        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
-        "summary": ""
-      }
-    ],
-    "Omroep Flevoland": [
-      {
-        "title": "Lelystad - Bouw nieuw skatepark in Lelystad begonnen: opening in november",
-        "link": "https://www.omroepflevoland.nl/nieuws/516514/bouw-nieuw-skatepark-in-lelystad-begonnen:-opening-in-november",
-        "published": "Tue, 14 Jul 2026 21:13:34 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 14/07 | Nog geen duidelijkheid over vliegtuigcrash • Steekincident bij azc Almere",
-        "link": "https://www.omroepflevoland.nl/nieuws/516535/nieuwsoverzicht-1407-or-nog-geen-duidelijkheid-over-vliegtuigcrash-*-steekincident-bij-azc-almere",
-        "published": "Tue, 14 Jul 2026 18:50:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Waarom Flevoland (nog) geen last heeft van het dreigende watertekort",
-        "link": "https://www.omroepflevoland.nl/nieuws/516486/waarom-flevoland-(nog)-geen-last-heeft-van-het-dreigende-watertekort",
-        "published": "Tue, 14 Jul 2026 17:02:48 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nederland worstelt met droogte, maar Flevoland houdt het hoofd boven water",
-        "link": "https://www.omroepflevoland.nl/nieuws/516486/nederland-worstelt-met-droogte-maar-flevoland-houdt-het-hoofd-boven-water",
-        "published": "Tue, 14 Jul 2026 17:02:48 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug: 'Levensgevaarlijke actie'",
-        "link": "https://www.omroepflevoland.nl/nieuws/516500/rijkswaterstaat-doet-aangifte-na-losschroeven-slagbomen-ketelbrug:-'levensgevaarlijke-actie'",
-        "published": "Tue, 14 Jul 2026 11:57:13 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Rijkswaterstaat doet aangifte tegen één of meerdere slagboomschroevers",
-        "link": "https://www.omroepflevoland.nl/nieuws/516500/rijkswaterstaat-doet-aangifte-tegen-een-of-meerdere-slagboomschroevers",
-        "published": "Tue, 14 Jul 2026 11:57:13 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Oorzaak nog niet bekend van fatale vliegtuigcrash waarbij Emmeloorder om het leven kwam",
-        "link": "https://www.omroepflevoland.nl/nieuws/516479/oorzaak-nog-niet-bekend-van-fatale-vliegtuigcrash-waarbij-emmeloorder-om-het-leven-kwam",
-        "published": "Tue, 14 Jul 2026 10:32:33 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Urk - Urk heeft minste groen in openbare ruimte van Flevoland",
-        "link": "https://www.omroepflevoland.nl/nieuws/516449/urk-heeft-minste-groen-in-openbare-ruimte-van-flevoland",
-        "published": "Tue, 14 Jul 2026 07:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Tbs opgeheven voor veroordeelde in Lelystadse Jolmoord: 'Ik ben zo gelukkig'",
-        "link": "https://www.omroepflevoland.nl/nieuws/516447/tbs-opgeheven-voor-veroordeelde-in-lelystadse-jolmoord:-'ik-ben-zo-gelukkig'",
-        "published": "Tue, 14 Jul 2026 06:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 13/07 | Verdachten overval supermarkt opgepakt • Onderzoek na geweldsincident Almere",
-        "link": "https://www.omroepflevoland.nl/nieuws/516401/nieuwsoverzicht-1307-or-verdachten-overval-supermarkt-opgepakt-*-onderzoek-na-geweldsincident-almere",
-        "published": "Mon, 13 Jul 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Hamers, pallets en nieuwe vriendschappen: de huttenbouwweek is terug in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/516405/hamers-pallets-en-nieuwe-vriendschappen:-de-huttenbouwweek-is-terug-in-lelystad",
-        "published": "Mon, 13 Jul 2026 16:49:44 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Jolpop buurtbewoners: 'Te lawaaierig? Ben je gek?!'",
-        "link": "https://www.omroepflevoland.nl/nieuws/516324/jolpop-buurtbewoners:-'te-lawaaierig-ben-je-gek!'",
-        "published": "Mon, 13 Jul 2026 07:20:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Jolpop buurtbewoners: 'Te laawaaierig? Ben je gek?!'",
-        "link": "https://www.omroepflevoland.nl/nieuws/516324/jolpop-buurtbewoners:-'te-laawaaierig-ben-je-gek!'",
-        "published": "Mon, 13 Jul 2026 07:20:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Jolpop buurtbewoners: 'Te laawaaiierig? Ben je gek?!'",
-        "link": "https://www.omroepflevoland.nl/nieuws/516324/jolpop-buurtbewoners:-'te-laawaaiierig-ben-je-gek!'",
-        "published": "Mon, 13 Jul 2026 07:20:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Zeewolde - Ruim 100 kilo afval uit Aanloophaven Zeewolde gevist tijdens supactie",
-        "link": "https://www.omroepflevoland.nl/nieuws/516312/ruim-100-kilo-afval-uit-aanloophaven-zeewolde-gevist-tijdens-supactie",
-        "published": "Sun, 12 Jul 2026 19:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Dronten - Voorlopig geen kringloopwinkel van Groene Sluis in Dronten, toch blijven initiatiefnemers hopen",
-        "link": "https://www.omroepflevoland.nl/nieuws/516056/voorlopig-geen-kringloopwinkel-van-groene-sluis-in-dronten-toch-blijven-initiatiefnemers-hopen",
-        "published": "Sun, 12 Jul 2026 17:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Dronten - Tweede kringloopwinkel in Dronten gaat niet open, toch blijven initiatiefnemers hopen",
-        "link": "https://www.omroepflevoland.nl/nieuws/516056/tweede-kringloopwinkel-in-dronten-gaat-niet-open-toch-blijven-initiatiefnemers-hopen",
-        "published": "Sun, 12 Jul 2026 17:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Brand in leegstaand winkelpand in centrum van Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/516298/brand-in-leegstaand-winkelpand-in-centrum-van-lelystad",
-        "published": "Sun, 12 Jul 2026 11:40:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Patricia Smit wil niets anders dan zesde titel 'sterkste vrouw van Nederland': 'Ik ga alles op alles zetten'",
-        "link": "https://www.omroepflevoland.nl/sport/515728/patricia-smit-wil-niets-anders-dan-zesde-titel-'sterkste-vrouw-van-nederland':-'ik-ga-alles-op-alles-zetten'",
-        "published": "Sat, 11 Jul 2026 16:04:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Lelystad wil aan Koningsdag 2027  niet meer geld uitgeven dan voorgangers",
-        "link": "https://www.omroepflevoland.nl/nieuws/516188/lelystad-wil-aan-koningsdag-2027-niet-meer-geld-uitgeven-dan-voorgangers",
-        "published": "Sat, 11 Jul 2026 14:02:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Automobilist schroeft slagbomen van Ketelbrug bij storing, oorzaak van probleem nog onduidelijk",
-        "link": "https://www.omroepflevoland.nl/nieuws/516181/automobilist-schroeft-slagbomen-van-ketelbrug-bij-storing-oorzaak-van-probleem-nog-onduidelijk",
-        "published": "Sat, 11 Jul 2026 11:11:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Automobilist schroeft slagboom van Ketelbrug bij storing, oorzaak van probleem nog onduidelijk",
-        "link": "https://www.omroepflevoland.nl/nieuws/516181/automobilist-schroeft-slagboom-van-ketelbrug-bij-storing-oorzaak-van-probleem-nog-onduidelijk",
-        "published": "Sat, 11 Jul 2026 11:11:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 10/07 | 'Lastig om busbedrijf te helpen' • Zeewolde klaar voor Havendagen",
-        "link": "https://www.omroepflevoland.nl/nieuws/516041/nieuwsoverzicht-1007-or-'lastig-om-busbedrijf-te-helpen'-*-zeewolde-klaar-voor-havendagen",
-        "published": "Fri, 10 Jul 2026 17:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Opbouw in volle gang, gratis buurtfestival Jolpop bestaat 25 jaar",
-        "link": "https://www.omroepflevoland.nl/nieuws/516036/opbouw-in-volle-gang-gratis-buurtfestival-jolpop-bestaat-25-jaar",
-        "published": "Fri, 10 Jul 2026 17:34:49 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - File tussen Lelystad en Emmeloord vanwege haperende slagbomen Ketelbrug, probleem inmiddels opgelost",
-        "link": "https://www.omroepflevoland.nl/nieuws/516091/file-tussen-lelystad-en-emmeloord-vanwege-haperende-slagbomen-ketelbrug-probleem-inmiddels-opgelost",
-        "published": "Fri, 10 Jul 2026 16:08:53 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Urk - Urker Dirk T. komt niet eerder vrij, maar maakte mogelijk nog twee slachtoffers in zedenzaak",
-        "link": "https://www.omroepflevoland.nl/nieuws/516067/urker-dirk-t.-komt-niet-eerder-vrij-maar-maakte-mogelijk-nog-twee-slachtoffers-in-zedenzaak",
-        "published": "Fri, 10 Jul 2026 14:19:35 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Twee auto's uitgebrand op parkeerplaats Atolwijk, oorzaak onbekend",
-        "link": "https://www.omroepflevoland.nl/nieuws/516025/twee-auto's-uitgebrand-op-parkeerplaats-atolwijk-oorzaak-onbekend",
-        "published": "Fri, 10 Jul 2026 07:55:28 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Twee auto's volledig uitgebrand op parkeerplaats Atolwijk, oorzaak onbekend",
-        "link": "https://www.omroepflevoland.nl/nieuws/516025/twee-auto's-volledig-uitgebrand-op-parkeerplaats-atolwijk-oorzaak-onbekend",
-        "published": "Fri, 10 Jul 2026 07:55:28 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Koningsdag 2027: wat kan Lelystad leren van eerdere bezoek aan Dokkum?",
-        "link": "https://www.omroepflevoland.nl/nieuws/515956/koningsdag-2027:-wat-kan-lelystad-leren-van-eerdere-bezoek-aan-dokkum",
-        "published": "Fri, 10 Jul 2026 06:50:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Wat kan Lelystad van Dokkum leren over Koningsdag met de koninklijke familie?",
-        "link": "https://www.omroepflevoland.nl/nieuws/515956/wat-kan-lelystad-van-dokkum-leren-over-koningsdag-met-de-koninklijke-familie",
-        "published": "Fri, 10 Jul 2026 06:50:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Hoogleraar transport: 'Provincies in lastig parket om busbedrijf EBS te helpen'",
-        "link": "https://www.omroepflevoland.nl/nieuws/515976/hoogleraar-transport:-'provincies-in-lastig-parket-om-busbedrijf-ebs-te-helpen'",
-        "published": "Fri, 10 Jul 2026 05:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - 'Provincies in lastig parket om EBS te helpen'",
-        "link": "https://www.omroepflevoland.nl/nieuws/515976/'provincies-in-lastig-parket-om-ebs-te-helpen'",
-        "published": "Fri, 10 Jul 2026 05:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Deze zomer meerdere weken geen treinen op delen van het Flevolandse spoor",
-        "link": "https://www.omroepflevoland.nl/nieuws/515777/deze-zomer-meerdere-weken-geen-treinen-op-delen-van-het-flevolandse-spoor",
-        "published": "Thu, 09 Jul 2026 20:06:31 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 09/07 | Toekomst busvervoer onzeker • Markerwaarddijk dicht vanwege ongeluk",
-        "link": "https://www.omroepflevoland.nl/nieuws/515955/nieuwsoverzicht-0907-or-toekomst-busvervoer-onzeker-*-markerwaarddijk-dicht-vanwege-ongeluk",
-        "published": "Thu, 09 Jul 2026 18:43:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Markerwaarddijk enige tijd afgesloten na kop-staartbotsing tussen auto's",
-        "link": "https://www.omroepflevoland.nl/nieuws/515973/markerwaarddijk-enige-tijd-afgesloten-na-kop-staartbotsing-tussen-auto's",
-        "published": "Thu, 09 Jul 2026 18:24:57 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Markerwaarddijk enige tijd afgesloten na botsing tussen auto's",
-        "link": "https://www.omroepflevoland.nl/nieuws/515973/markerwaarddijk-enige-tijd-afgesloten-na-botsing-tussen-auto's",
-        "published": "Thu, 09 Jul 2026 18:24:57 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Auto's botsen op elkaar op Markerwaarddijk, weg afgesloten",
-        "link": "https://www.omroepflevoland.nl/nieuws/515973/auto's-botsen-op-elkaar-op-markerwaarddijk-weg-afgesloten",
-        "published": "Thu, 09 Jul 2026 18:24:57 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Almeerse olifantjes vliegen de deur uit: 400 van 500 miniaturen verkocht",
-        "link": "https://www.omroepflevoland.nl/nieuws/515829/almeerse-olifantjes-vliegen-de-deur-uit:-400-van-500-miniaturen-verkocht",
-        "published": "Thu, 09 Jul 2026 11:02:25 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Mini-beeldjes Almeerse olifanten bijna uitverkocht:  'Ik neem ze mee naar  Curaçao'",
-        "link": "https://www.omroepflevoland.nl/nieuws/515829/mini-beeldjes-almeerse-olifanten-bijna-uitverkocht:-'ik-neem-ze-mee-naar-curacao'",
-        "published": "Thu, 09 Jul 2026 11:02:25 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Verkeer uren vertraagd na ongeval op Larserweg",
-        "link": "https://www.omroepflevoland.nl/nieuws/515897/verkeer-uren-vertraagd-na-ongeval-op-larserweg",
-        "published": "Thu, 09 Jul 2026 09:16:50 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Tijdelijke verkeershinder na ongeluk op Larserweg,  automobilisten ongedeerd",
-        "link": "https://www.omroepflevoland.nl/nieuws/515897/tijdelijke-verkeershinder-na-ongeluk-op-larserweg-automobilisten-ongedeerd",
-        "published": "Thu, 09 Jul 2026 09:16:50 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - 'Oude' aanbieders jeugd-GGZ beloven behandelingen af te ronden",
-        "link": "https://www.omroepflevoland.nl/nieuws/515815/'oude'-aanbieders-jeugd-ggz-beloven-behandelingen-af-te-ronden",
-        "published": "Thu, 09 Jul 2026 06:43:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Gemeente wil eisen stellen aan huisvesting Lelystadse arbeidsmigranten",
-        "link": "https://www.omroepflevoland.nl/nieuws/515819/gemeente-wil-eisen-stellen-aan-huisvesting-lelystadse-arbeidsmigranten",
-        "published": "Wed, 08 Jul 2026 21:35:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 08/07 | Bussen vernield • Teleurstelling bij kringloopwinkel",
-        "link": "https://www.omroepflevoland.nl/nieuws/515806/nieuwsoverzicht-0807-or-bussen-vernield-*-teleurstelling-bij-kringloopwinkel",
-        "published": "Wed, 08 Jul 2026 19:15:37 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Rechtbank spreekt Lelystedeling vrij van misbruik buurmeisje (4)",
-        "link": "https://www.omroepflevoland.nl/nieuws/515738/rechtbank-spreekt-lelystedeling-vrij-van-misbruik-buurmeisje-(4)",
-        "published": "Wed, 08 Jul 2026 11:03:21 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Waar moet de koning straks naartoe? Lelystedelingen geven tips",
-        "link": "https://www.omroepflevoland.nl/nieuws/515731/waar-moet-de-koning-straks-naartoe-lelystedelingen-geven-tips",
-        "published": "Wed, 08 Jul 2026 08:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Dronten - Teleurstelling voor De Groene Sluis: opening kringloopwinkel in Dronten verder uit zicht",
-        "link": "https://www.omroepflevoland.nl/nieuws/515719/teleurstelling-voor-de-groene-sluis:-opening-kringloopwinkel-in-dronten-verder-uit-zicht",
-        "published": "Wed, 08 Jul 2026 06:50:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Dronten - Komst van kringloopwinkel Groene Sluis naar Dronten steeds onzekerder",
-        "link": "https://www.omroepflevoland.nl/nieuws/515719/komst-van-kringloopwinkel-groene-sluis-naar-dronten-steeds-onzekerder",
-        "published": "Wed, 08 Jul 2026 06:50:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Rechter beslist over lot huurder aan Wittezeestraat: Centrada mag niet ontruimen",
-        "link": "https://www.omroepflevoland.nl/nieuws/515717/rechter-beslist-over-lot-huurder-aan-wittezeestraat:-centrada-mag-niet-ontruimen",
-        "published": "Tue, 07 Jul 2026 20:34:20 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 07/07 | Ens druk met herstel hagelschade • Lepelaars broeden op Marker Wadden",
-        "link": "https://www.omroepflevoland.nl/nieuws/515678/nieuwsoverzicht-0707-or-ens-druk-met-herstel-hagelschade-*-lepelaars-broeden-op-marker-wadden",
-        "published": "Tue, 07 Jul 2026 18:55:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Speeltuin/ontmoetingsplek Schateiland na moeilijke tijd heropend, onder professionele leiding",
@@ -913,6 +602,317 @@
         "title": "Lelystad mag zich dementievriendelijk noemen",
         "link": "https://www.destentor.nl/lelystad/lelystad-mag-zich-dementievriendelijk-noemen~a57d924c/",
         "published": "Wed, 01 Jul 2026 10:09:00 GMT",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
+        "link": "https://nos.nl/l/2623015",
+        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
+        "summary": ""
+      }
+    ],
+    "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Bouw nieuw skatepark in Lelystad begonnen: opening in november",
+        "link": "https://www.omroepflevoland.nl/nieuws/516514/bouw-nieuw-skatepark-in-lelystad-begonnen:-opening-in-november",
+        "published": "Tue, 14 Jul 2026 21:13:34 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 14/07 | Nog geen duidelijkheid over vliegtuigcrash • Steekincident bij azc Almere",
+        "link": "https://www.omroepflevoland.nl/nieuws/516535/nieuwsoverzicht-1407-or-nog-geen-duidelijkheid-over-vliegtuigcrash-*-steekincident-bij-azc-almere",
+        "published": "Tue, 14 Jul 2026 18:50:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Waarom Flevoland (nog) geen last heeft van het dreigende watertekort",
+        "link": "https://www.omroepflevoland.nl/nieuws/516486/waarom-flevoland-(nog)-geen-last-heeft-van-het-dreigende-watertekort",
+        "published": "Tue, 14 Jul 2026 17:02:48 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nederland worstelt met droogte, maar Flevoland houdt het hoofd boven water",
+        "link": "https://www.omroepflevoland.nl/nieuws/516486/nederland-worstelt-met-droogte-maar-flevoland-houdt-het-hoofd-boven-water",
+        "published": "Tue, 14 Jul 2026 17:02:48 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug: 'Levensgevaarlijke actie'",
+        "link": "https://www.omroepflevoland.nl/nieuws/516500/rijkswaterstaat-doet-aangifte-na-losschroeven-slagbomen-ketelbrug:-'levensgevaarlijke-actie'",
+        "published": "Tue, 14 Jul 2026 11:57:13 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Rijkswaterstaat doet aangifte tegen één of meerdere slagboomschroevers",
+        "link": "https://www.omroepflevoland.nl/nieuws/516500/rijkswaterstaat-doet-aangifte-tegen-een-of-meerdere-slagboomschroevers",
+        "published": "Tue, 14 Jul 2026 11:57:13 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Oorzaak nog niet bekend van fatale vliegtuigcrash waarbij Emmeloorder om het leven kwam",
+        "link": "https://www.omroepflevoland.nl/nieuws/516479/oorzaak-nog-niet-bekend-van-fatale-vliegtuigcrash-waarbij-emmeloorder-om-het-leven-kwam",
+        "published": "Tue, 14 Jul 2026 10:32:33 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Urk - Urk heeft minste groen in openbare ruimte van Flevoland",
+        "link": "https://www.omroepflevoland.nl/nieuws/516449/urk-heeft-minste-groen-in-openbare-ruimte-van-flevoland",
+        "published": "Tue, 14 Jul 2026 07:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Tbs opgeheven voor veroordeelde in Lelystadse Jolmoord: 'Ik ben zo gelukkig'",
+        "link": "https://www.omroepflevoland.nl/nieuws/516447/tbs-opgeheven-voor-veroordeelde-in-lelystadse-jolmoord:-'ik-ben-zo-gelukkig'",
+        "published": "Tue, 14 Jul 2026 06:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 13/07 | Verdachten overval supermarkt opgepakt • Onderzoek na geweldsincident Almere",
+        "link": "https://www.omroepflevoland.nl/nieuws/516401/nieuwsoverzicht-1307-or-verdachten-overval-supermarkt-opgepakt-*-onderzoek-na-geweldsincident-almere",
+        "published": "Mon, 13 Jul 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Hamers, pallets en nieuwe vriendschappen: de huttenbouwweek is terug in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/516405/hamers-pallets-en-nieuwe-vriendschappen:-de-huttenbouwweek-is-terug-in-lelystad",
+        "published": "Mon, 13 Jul 2026 16:49:44 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Jolpop buurtbewoners: 'Te lawaaierig? Ben je gek?!'",
+        "link": "https://www.omroepflevoland.nl/nieuws/516324/jolpop-buurtbewoners:-'te-lawaaierig-ben-je-gek!'",
+        "published": "Mon, 13 Jul 2026 07:20:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Jolpop buurtbewoners: 'Te laawaaierig? Ben je gek?!'",
+        "link": "https://www.omroepflevoland.nl/nieuws/516324/jolpop-buurtbewoners:-'te-laawaaierig-ben-je-gek!'",
+        "published": "Mon, 13 Jul 2026 07:20:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Jolpop buurtbewoners: 'Te laawaaiierig? Ben je gek?!'",
+        "link": "https://www.omroepflevoland.nl/nieuws/516324/jolpop-buurtbewoners:-'te-laawaaiierig-ben-je-gek!'",
+        "published": "Mon, 13 Jul 2026 07:20:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Zeewolde - Ruim 100 kilo afval uit Aanloophaven Zeewolde gevist tijdens supactie",
+        "link": "https://www.omroepflevoland.nl/nieuws/516312/ruim-100-kilo-afval-uit-aanloophaven-zeewolde-gevist-tijdens-supactie",
+        "published": "Sun, 12 Jul 2026 19:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Dronten - Voorlopig geen kringloopwinkel van Groene Sluis in Dronten, toch blijven initiatiefnemers hopen",
+        "link": "https://www.omroepflevoland.nl/nieuws/516056/voorlopig-geen-kringloopwinkel-van-groene-sluis-in-dronten-toch-blijven-initiatiefnemers-hopen",
+        "published": "Sun, 12 Jul 2026 17:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Dronten - Tweede kringloopwinkel in Dronten gaat niet open, toch blijven initiatiefnemers hopen",
+        "link": "https://www.omroepflevoland.nl/nieuws/516056/tweede-kringloopwinkel-in-dronten-gaat-niet-open-toch-blijven-initiatiefnemers-hopen",
+        "published": "Sun, 12 Jul 2026 17:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Brand in leegstaand winkelpand in centrum van Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/516298/brand-in-leegstaand-winkelpand-in-centrum-van-lelystad",
+        "published": "Sun, 12 Jul 2026 11:40:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Patricia Smit wil niets anders dan zesde titel 'sterkste vrouw van Nederland': 'Ik ga alles op alles zetten'",
+        "link": "https://www.omroepflevoland.nl/sport/515728/patricia-smit-wil-niets-anders-dan-zesde-titel-'sterkste-vrouw-van-nederland':-'ik-ga-alles-op-alles-zetten'",
+        "published": "Sat, 11 Jul 2026 16:04:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Lelystad wil aan Koningsdag 2027  niet meer geld uitgeven dan voorgangers",
+        "link": "https://www.omroepflevoland.nl/nieuws/516188/lelystad-wil-aan-koningsdag-2027-niet-meer-geld-uitgeven-dan-voorgangers",
+        "published": "Sat, 11 Jul 2026 14:02:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Automobilist schroeft slagbomen van Ketelbrug bij storing, oorzaak van probleem nog onduidelijk",
+        "link": "https://www.omroepflevoland.nl/nieuws/516181/automobilist-schroeft-slagbomen-van-ketelbrug-bij-storing-oorzaak-van-probleem-nog-onduidelijk",
+        "published": "Sat, 11 Jul 2026 11:11:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Automobilist schroeft slagboom van Ketelbrug bij storing, oorzaak van probleem nog onduidelijk",
+        "link": "https://www.omroepflevoland.nl/nieuws/516181/automobilist-schroeft-slagboom-van-ketelbrug-bij-storing-oorzaak-van-probleem-nog-onduidelijk",
+        "published": "Sat, 11 Jul 2026 11:11:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 10/07 | 'Lastig om busbedrijf te helpen' • Zeewolde klaar voor Havendagen",
+        "link": "https://www.omroepflevoland.nl/nieuws/516041/nieuwsoverzicht-1007-or-'lastig-om-busbedrijf-te-helpen'-*-zeewolde-klaar-voor-havendagen",
+        "published": "Fri, 10 Jul 2026 17:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Opbouw in volle gang, gratis buurtfestival Jolpop bestaat 25 jaar",
+        "link": "https://www.omroepflevoland.nl/nieuws/516036/opbouw-in-volle-gang-gratis-buurtfestival-jolpop-bestaat-25-jaar",
+        "published": "Fri, 10 Jul 2026 17:34:49 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - File tussen Lelystad en Emmeloord vanwege haperende slagbomen Ketelbrug, probleem inmiddels opgelost",
+        "link": "https://www.omroepflevoland.nl/nieuws/516091/file-tussen-lelystad-en-emmeloord-vanwege-haperende-slagbomen-ketelbrug-probleem-inmiddels-opgelost",
+        "published": "Fri, 10 Jul 2026 16:08:53 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Urk - Urker Dirk T. komt niet eerder vrij, maar maakte mogelijk nog twee slachtoffers in zedenzaak",
+        "link": "https://www.omroepflevoland.nl/nieuws/516067/urker-dirk-t.-komt-niet-eerder-vrij-maar-maakte-mogelijk-nog-twee-slachtoffers-in-zedenzaak",
+        "published": "Fri, 10 Jul 2026 14:19:35 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Twee auto's uitgebrand op parkeerplaats Atolwijk, oorzaak onbekend",
+        "link": "https://www.omroepflevoland.nl/nieuws/516025/twee-auto's-uitgebrand-op-parkeerplaats-atolwijk-oorzaak-onbekend",
+        "published": "Fri, 10 Jul 2026 07:55:28 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Twee auto's volledig uitgebrand op parkeerplaats Atolwijk, oorzaak onbekend",
+        "link": "https://www.omroepflevoland.nl/nieuws/516025/twee-auto's-volledig-uitgebrand-op-parkeerplaats-atolwijk-oorzaak-onbekend",
+        "published": "Fri, 10 Jul 2026 07:55:28 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Koningsdag 2027: wat kan Lelystad leren van eerdere bezoek aan Dokkum?",
+        "link": "https://www.omroepflevoland.nl/nieuws/515956/koningsdag-2027:-wat-kan-lelystad-leren-van-eerdere-bezoek-aan-dokkum",
+        "published": "Fri, 10 Jul 2026 06:50:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Wat kan Lelystad van Dokkum leren over Koningsdag met de koninklijke familie?",
+        "link": "https://www.omroepflevoland.nl/nieuws/515956/wat-kan-lelystad-van-dokkum-leren-over-koningsdag-met-de-koninklijke-familie",
+        "published": "Fri, 10 Jul 2026 06:50:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Hoogleraar transport: 'Provincies in lastig parket om busbedrijf EBS te helpen'",
+        "link": "https://www.omroepflevoland.nl/nieuws/515976/hoogleraar-transport:-'provincies-in-lastig-parket-om-busbedrijf-ebs-te-helpen'",
+        "published": "Fri, 10 Jul 2026 05:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - 'Provincies in lastig parket om EBS te helpen'",
+        "link": "https://www.omroepflevoland.nl/nieuws/515976/'provincies-in-lastig-parket-om-ebs-te-helpen'",
+        "published": "Fri, 10 Jul 2026 05:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Deze zomer meerdere weken geen treinen op delen van het Flevolandse spoor",
+        "link": "https://www.omroepflevoland.nl/nieuws/515777/deze-zomer-meerdere-weken-geen-treinen-op-delen-van-het-flevolandse-spoor",
+        "published": "Thu, 09 Jul 2026 20:06:31 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 09/07 | Toekomst busvervoer onzeker • Markerwaarddijk dicht vanwege ongeluk",
+        "link": "https://www.omroepflevoland.nl/nieuws/515955/nieuwsoverzicht-0907-or-toekomst-busvervoer-onzeker-*-markerwaarddijk-dicht-vanwege-ongeluk",
+        "published": "Thu, 09 Jul 2026 18:43:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Markerwaarddijk enige tijd afgesloten na kop-staartbotsing tussen auto's",
+        "link": "https://www.omroepflevoland.nl/nieuws/515973/markerwaarddijk-enige-tijd-afgesloten-na-kop-staartbotsing-tussen-auto's",
+        "published": "Thu, 09 Jul 2026 18:24:57 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Markerwaarddijk enige tijd afgesloten na botsing tussen auto's",
+        "link": "https://www.omroepflevoland.nl/nieuws/515973/markerwaarddijk-enige-tijd-afgesloten-na-botsing-tussen-auto's",
+        "published": "Thu, 09 Jul 2026 18:24:57 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Auto's botsen op elkaar op Markerwaarddijk, weg afgesloten",
+        "link": "https://www.omroepflevoland.nl/nieuws/515973/auto's-botsen-op-elkaar-op-markerwaarddijk-weg-afgesloten",
+        "published": "Thu, 09 Jul 2026 18:24:57 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Almeerse olifantjes vliegen de deur uit: 400 van 500 miniaturen verkocht",
+        "link": "https://www.omroepflevoland.nl/nieuws/515829/almeerse-olifantjes-vliegen-de-deur-uit:-400-van-500-miniaturen-verkocht",
+        "published": "Thu, 09 Jul 2026 11:02:25 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Mini-beeldjes Almeerse olifanten bijna uitverkocht:  'Ik neem ze mee naar  Curaçao'",
+        "link": "https://www.omroepflevoland.nl/nieuws/515829/mini-beeldjes-almeerse-olifanten-bijna-uitverkocht:-'ik-neem-ze-mee-naar-curacao'",
+        "published": "Thu, 09 Jul 2026 11:02:25 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Verkeer uren vertraagd na ongeval op Larserweg",
+        "link": "https://www.omroepflevoland.nl/nieuws/515897/verkeer-uren-vertraagd-na-ongeval-op-larserweg",
+        "published": "Thu, 09 Jul 2026 09:16:50 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Tijdelijke verkeershinder na ongeluk op Larserweg,  automobilisten ongedeerd",
+        "link": "https://www.omroepflevoland.nl/nieuws/515897/tijdelijke-verkeershinder-na-ongeluk-op-larserweg-automobilisten-ongedeerd",
+        "published": "Thu, 09 Jul 2026 09:16:50 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - 'Oude' aanbieders jeugd-GGZ beloven behandelingen af te ronden",
+        "link": "https://www.omroepflevoland.nl/nieuws/515815/'oude'-aanbieders-jeugd-ggz-beloven-behandelingen-af-te-ronden",
+        "published": "Thu, 09 Jul 2026 06:43:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Gemeente wil eisen stellen aan huisvesting Lelystadse arbeidsmigranten",
+        "link": "https://www.omroepflevoland.nl/nieuws/515819/gemeente-wil-eisen-stellen-aan-huisvesting-lelystadse-arbeidsmigranten",
+        "published": "Wed, 08 Jul 2026 21:35:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 08/07 | Bussen vernield • Teleurstelling bij kringloopwinkel",
+        "link": "https://www.omroepflevoland.nl/nieuws/515806/nieuwsoverzicht-0807-or-bussen-vernield-*-teleurstelling-bij-kringloopwinkel",
+        "published": "Wed, 08 Jul 2026 19:15:37 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Rechtbank spreekt Lelystedeling vrij van misbruik buurmeisje (4)",
+        "link": "https://www.omroepflevoland.nl/nieuws/515738/rechtbank-spreekt-lelystedeling-vrij-van-misbruik-buurmeisje-(4)",
+        "published": "Wed, 08 Jul 2026 11:03:21 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Waar moet de koning straks naartoe? Lelystedelingen geven tips",
+        "link": "https://www.omroepflevoland.nl/nieuws/515731/waar-moet-de-koning-straks-naartoe-lelystedelingen-geven-tips",
+        "published": "Wed, 08 Jul 2026 08:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Dronten - Teleurstelling voor De Groene Sluis: opening kringloopwinkel in Dronten verder uit zicht",
+        "link": "https://www.omroepflevoland.nl/nieuws/515719/teleurstelling-voor-de-groene-sluis:-opening-kringloopwinkel-in-dronten-verder-uit-zicht",
+        "published": "Wed, 08 Jul 2026 06:50:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Dronten - Komst van kringloopwinkel Groene Sluis naar Dronten steeds onzekerder",
+        "link": "https://www.omroepflevoland.nl/nieuws/515719/komst-van-kringloopwinkel-groene-sluis-naar-dronten-steeds-onzekerder",
+        "published": "Wed, 08 Jul 2026 06:50:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Rechter beslist over lot huurder aan Wittezeestraat: Centrada mag niet ontruimen",
+        "link": "https://www.omroepflevoland.nl/nieuws/515717/rechter-beslist-over-lot-huurder-aan-wittezeestraat:-centrada-mag-niet-ontruimen",
+        "published": "Tue, 07 Jul 2026 20:34:20 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 07/07 | Ens druk met herstel hagelschade • Lepelaars broeden op Marker Wadden",
+        "link": "https://www.omroepflevoland.nl/nieuws/515678/nieuwsoverzicht-0707-or-ens-druk-met-herstel-hagelschade-*-lepelaars-broeden-op-marker-wadden",
+        "published": "Tue, 07 Jul 2026 18:55:00 GMT+0200",
         "summary": ""
       }
     ]

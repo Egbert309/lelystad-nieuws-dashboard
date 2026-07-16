@@ -1,14 +1,7 @@
 {
-  "updated": "2026-07-16T21:19:14.885223+00:00",
+  "updated": "2026-07-16T22:18:02.570361+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
-        "link": "https://nos.nl/l/2623015",
-        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
-        "summary": ""
-      }
-    ],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Verkoop gebouw voormalig Getronics voor woningbouw is afgerond",
@@ -308,6 +301,14 @@
         "title": "TenneT ziet in Lelystad plek voor small modular reactor, kleine kernreactor",
         "link": "https://radiolelystad.nl/tennet-ziet-in-lelystad-mogelijke-plek-voor-kleine-kernreactor-smg",
         "published": "woensdag 24 juni 2026",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
+        "link": "https://nos.nl/l/2623015",
+        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
         "summary": ""
       }
     ],
@@ -914,7 +915,6 @@
         "published": "Thu, 09 Jul 2026 11:02:25 GMT+0200",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

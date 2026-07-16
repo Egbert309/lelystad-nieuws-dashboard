@@ -1,14 +1,6 @@
 {
-  "updated": "2026-07-16T15:29:36.450159+00:00",
+  "updated": "2026-07-16T16:26:06.905044+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
-        "link": "https://nos.nl/l/2623015",
-        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Kleurrijke loop komt binnenkort terug in Lelystad",
@@ -311,6 +303,15 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
+        "link": "https://nos.nl/l/2623015",
+        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Verkoop gebouw voormalig Getronics voor woningbouw is afgerond",
@@ -613,7 +614,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Wisselstoring tussen Weesp en Almere, tot 9.45 uur minder treinen",

@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-16T14:36:40.438500+00:00",
+  "updated": "2026-07-16T15:29:36.450159+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
+        "link": "https://nos.nl/l/2623015",
+        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Kleurrijke loop komt binnenkort terug in Lelystad",
@@ -300,14 +308,6 @@
         "title": "Tienduizenden mensen in Lelystad drinken te veel volgens nieuwe alcoholnorm",
         "link": "https://www.destentor.nl/lelystad/tienduizenden-mensen-in-lelystad-drinken-te-veel-volgens-nieuwe-alcoholnorm~afb9474d/",
         "published": "Thu, 02 Jul 2026 15:31:00 GMT",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
-        "link": "https://nos.nl/l/2623015",
-        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
         "summary": ""
       }
     ],
@@ -613,6 +613,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Wisselstoring tussen Weesp en Almere, tot 9.45 uur minder treinen",
@@ -914,7 +915,6 @@
         "published": "Thu, 09 Jul 2026 09:16:50 GMT+0200",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

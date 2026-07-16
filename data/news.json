@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T19:25:19.964308+00:00",
+  "updated": "2026-07-16T20:15:46.430749+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,7 +303,14 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Vier alternatieven afgewezen voordat Lelystad uitkwam bij omstreden locatie voor 'afvalcentrum'",
+        "link": "https://www.omroepflevoland.nl/nieuws/516763/vier-alternatieven-afgewezen-voordat-lelystad-uitkwam-bij-omstreden-locatie-voor-'afvalcentrum'",
+        "published": "Thu, 16 Jul 2026 21:28:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Wisselstoring tussen Weesp en Almere, tot 9.45 uur minder treinen",
         "link": "https://www.omroepflevoland.nl/nieuws/516742/wisselstoring-tussen-weesp-en-almere-tot-9.45-uur-minder-treinen",
@@ -596,12 +603,6 @@
         "title": "Almere - Mini-beeldjes Almeerse olifanten bijna uitverkocht:  'Ik neem ze mee naar  Curaçao'",
         "link": "https://www.omroepflevoland.nl/nieuws/515829/mini-beeldjes-almeerse-olifanten-bijna-uitverkocht:-'ik-neem-ze-mee-naar-curacao'",
         "published": "Thu, 09 Jul 2026 11:02:25 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Verkeer uren vertraagd na ongeval op Larserweg",
-        "link": "https://www.omroepflevoland.nl/nieuws/515897/verkeer-uren-vertraagd-na-ongeval-op-larserweg",
-        "published": "Thu, 09 Jul 2026 09:16:50 GMT+0200",
         "summary": ""
       }
     ],
@@ -914,7 +915,6 @@
         "published": "woensdag 24 juni 2026",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

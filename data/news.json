@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T22:13:48.017720+00:00",
+  "updated": "2026-07-17T23:14:48.070730+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -300,6 +300,14 @@
         "title": "Haringparty goede doel (Landleven en WensAmbulance) afgelast vanwege hitte",
         "link": "https://radiolelystad.nl/haringparty-serviceclubs-voor-het-goede-afgelast-vanwege-de-hitte",
         "published": "donderdag 25 juni 2026",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
+        "link": "https://nos.nl/l/2623015",
+        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
         "summary": ""
       }
     ],
@@ -605,15 +613,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
-        "link": "https://nos.nl/l/2623015",
-        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Politie pakt man op die in Lelystadse wijk met mes dreigt",
@@ -915,6 +914,7 @@
         "published": "Fri, 10 Jul 2026 07:55:28 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

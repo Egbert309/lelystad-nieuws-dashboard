@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T20:13:06.904763+00:00",
+  "updated": "2026-07-18T21:14:06.090879+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,15 +303,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
-        "link": "https://nos.nl/l/2623015",
-        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Agorahof halverwege augustus twee dagen nationaal speelveld beachvolleybal",
@@ -614,6 +605,15 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Rijkswaterstaat doet aangifte na losschroeven slagbomen Ketelbrug",
+        "link": "https://nos.nl/l/2623015",
+        "published": "Tue, 14 Jul 2026 21:30:20 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Nieuwe plekjes ontdekken tijdens Avondfietsvierdaagse Lelystad",

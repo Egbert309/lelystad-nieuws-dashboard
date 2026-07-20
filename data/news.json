@@ -1,7 +1,13 @@
 {
-  "updated": "2026-07-20T02:58:45.242274+00:00",
+  "updated": "2026-07-20T04:21:30.218746+00:00",
   "sources": {
     "De Stentor": [
+      {
+        "title": "Wenda traint honden waar iedereen bang voor is, maar over twee weken staat juist zij op straat",
+        "link": "https://www.destentor.nl/lelystad/wenda-traint-honden-waar-iedereen-bang-voor-is-maar-over-twee-weken-staat-juist-zij-op-straat~a8932273/",
+        "published": "Mon, 20 Jul 2026 04:00:32 GMT",
+        "summary": ""
+      },
       {
         "title": "Heb jij Milo, Mickey of Momo gezien? Deze vijf huisdieren worden in Lelystad vermist",
         "link": "https://www.destentor.nl/lelystad/heb-jij-milo-mickey-of-momo-gezien-deze-vijf-huisdieren-worden-in-lelystad-vermist~a224fa3a/",
@@ -295,14 +301,9 @@
         "link": "https://www.destentor.nl/lelystad/geen-geld-om-je-huis-te-verduurzamen-deze-gemeente-heeft-het-liggen-maar-het-wil-nog-niet-vlotten~ac502bc2/",
         "published": "Sat, 04 Jul 2026 17:00:06 GMT",
         "summary": ""
-      },
-      {
-        "title": "Proef met gratis parkeren in Lelystad stopt: bezoekers bleven maar twee minuten langer",
-        "link": "https://www.destentor.nl/lelystad/proef-met-gratis-parkeren-in-lelystad-stopt-bezoekers-bleven-maar-twee-minuten-langer~a0da805f/",
-        "published": "Sat, 04 Jul 2026 05:00:52 GMT",
-        "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Agorahof halverwege augustus twee dagen nationaal speelveld beachvolleybal",
@@ -605,8 +606,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Patricia Smit voor zesde keer 'Sterkste Vrouw van Nederland'",
@@ -908,6 +907,7 @@
         "published": "Fri, 10 Jul 2026 17:45:00 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": []
   }
 }

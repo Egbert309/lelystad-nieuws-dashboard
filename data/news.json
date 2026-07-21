@@ -1,6 +1,8 @@
 {
-  "updated": "2026-07-21T20:23:30.729417+00:00",
+  "updated": "2026-07-21T21:23:45.482302+00:00",
   "sources": {
+    "NOS": [],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Voor het tweede jaar op rij meer mensen in Lelystad met een WW-uitkering",
@@ -303,7 +305,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 21/07 | Woningoverval in Almere • Camera's bij villa's moeten weg",
@@ -907,7 +908,6 @@
         "published": "vrijdag 26 juni 2026",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

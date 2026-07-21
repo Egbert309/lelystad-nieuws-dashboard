@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T09:46:30.165710+00:00",
+  "updated": "2026-07-21T10:39:55.418395+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -303,6 +303,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "De Dienst wil dit bord graag weer bij station Zuid zien hangen, waar is het?",
@@ -605,7 +606,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Tekenaar Felix Guérain geeft lezing over zijn werk in Lelystad",
@@ -908,6 +908,6 @@
         "summary": ""
       }
     ],
-    "NOS": []
+    "Nu.nl": []
   }
 }

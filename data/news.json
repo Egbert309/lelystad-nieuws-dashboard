@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-21T06:53:06.471655+00:00",
+  "updated": "2026-07-21T07:45:09.848287+00:00",
   "sources": {
-    "Nu.nl": [],
+    "NOS": [],
     "De Stentor": [
       {
         "title": "Tekenaar Felix Guérain geeft lezing over zijn werk in Lelystad",
@@ -304,6 +304,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "De Dienst wil dit bord graag weer bij station Zuid zien hangen, waar is het?",
@@ -907,7 +908,6 @@
         "published": "Mon, 13 Jul 2026 07:20:00 GMT+0200",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

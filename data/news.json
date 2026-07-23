@@ -1,8 +1,7 @@
 {
-  "updated": "2026-07-23T22:17:53.507428+00:00",
+  "updated": "2026-07-23T23:16:28.502727+00:00",
   "sources": {
     "NOS": [],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Bataviawerf is 11 september startpunt van de Nationale Monumentendag",
@@ -908,6 +907,7 @@
         "published": "Thu, 16 Jul 2026 06:55:00 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

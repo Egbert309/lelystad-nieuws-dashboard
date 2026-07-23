@@ -1,9 +1,9 @@
 {
-  "updated": "2026-07-23T14:42:09.859706+00:00",
+  "updated": "2026-07-23T15:36:00.650629+00:00",
   "sources": {
     "Radio Lelystad": [
       {
-        "title": "Bataviawerf is 11 september startpunt Nationale Monumentendag",
+        "title": "Bataviawerf is 11 september startpunt van de Nationale Monumentendag",
         "link": "https://radiolelystad.nl/de-bataviawerf-is-11-september-het-startpunt-van-de-nationale-monumentendag",
         "published": "donderdag 23 juli 2026",
         "summary": ""
@@ -605,8 +605,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": [],
     "De Stentor": [
       {
         "title": "Zijn tumor is onbehandelbaar, maar Marvin (34) trouwt, krijgt een zoon en werkt fulltime",
@@ -908,6 +906,8 @@
         "published": "Mon, 06 Jul 2026 18:55:00 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [],
+    "Nu.nl": []
   }
 }

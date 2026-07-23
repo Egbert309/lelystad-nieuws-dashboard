@@ -1,6 +1,7 @@
 {
-  "updated": "2026-07-23T06:54:58.561632+00:00",
+  "updated": "2026-07-23T07:46:08.308598+00:00",
   "sources": {
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Dat is 'm dan: de wasbeerhond, met de camera betrapt in de Oostvaardersplassen",
@@ -303,8 +304,13 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Zorg dat je alles zwart op wit hebt, anders komt zelfs de rechter er niet meer uit",
+        "link": "https://www.omroepflevoland.nl/nieuws/517502/zorg-dat-je-alles-zwart-op-wit-hebt-anders-komt-zelfs-de-rechter-er-niet-meer-uit",
+        "published": "Thu, 23 Jul 2026 07:33:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Rechter komt niet uit huurconflict, vraagt kemphanen om met betere bewijzen te komen",
         "link": "https://www.omroepflevoland.nl/nieuws/517502/rechter-komt-niet-uit-huurconflict-vraagt-kemphanen-om-met-betere-bewijzen-te-komen",
@@ -598,15 +604,8 @@
         "link": "https://www.omroepflevoland.nl/nieuws/516640/lelystedeling-(23)-staat-terecht-voor-online-misbruik-twaalf-aanklachten-van-vrouwen-aan-zijn-broek",
         "published": "Wed, 15 Jul 2026 17:19:37 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Dronten - 74-jarige Drontense doorziet oplichtingstruc, nepagent aangehouden door politie",
-        "link": "https://www.omroepflevoland.nl/nieuws/516659/74-jarige-drontense-doorziet-oplichtingstruc-nepagent-aangehouden-door-politie",
-        "published": "Wed, 15 Jul 2026 15:59:57 GMT+0200",
-        "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Zijn tumor is onbehandelbaar, maar Marvin (34) trouwt, krijgt een zoon en werkt fulltime",
@@ -908,6 +907,7 @@
         "published": "Mon, 06 Jul 2026 18:55:00 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T00:17:04.427985+00:00",
+  "updated": "2026-07-23T01:30:49.320354+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -304,6 +304,7 @@
       }
     ],
     "NOS": [],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 22/07 | Woningen opgeleverd zonder elektriciteit • Bijval voor slagboomschroevers",
@@ -907,7 +908,6 @@
         "published": "maandag 29 juni 2026",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

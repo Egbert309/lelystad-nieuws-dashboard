@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T02:57:44.101785+00:00",
+  "updated": "2026-07-24T04:04:30.907960+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,7 +303,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Milieuonderzoek Waterfront Lelystad opnieuw onvoldoende",
@@ -606,7 +605,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Bataviawerf is 11 september startpunt van de Nationale Monumentendag",
@@ -908,6 +906,8 @@
         "published": "dinsdag 30 juni 2026",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [],
+    "Nu.nl": []
   }
 }

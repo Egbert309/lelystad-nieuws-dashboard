@@ -1,6 +1,8 @@
 {
-  "updated": "2026-07-25T19:24:03.223917+00:00",
+  "updated": "2026-07-25T20:16:51.646169+00:00",
   "sources": {
+    "Nu.nl": [],
+    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Colorrun met ruim 100 deelnemers in Lelystad: warm, zweterig en kleurrijk",
@@ -906,8 +908,6 @@
         "published": "woensdag 01 juli 2026",
         "summary": ""
       }
-    ],
-    "Nu.nl": [],
-    "NOS": []
+    ]
   }
 }

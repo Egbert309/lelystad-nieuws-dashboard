@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T08:44:30.720539+00:00",
+  "updated": "2026-07-26T09:37:26.764939+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,6 +303,8 @@
         "summary": ""
       }
     ],
+    "NOS": [],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Mishandelde verkeersregelaar roept dader op: 'Wees een grote kerel en meld je'",
@@ -607,6 +609,18 @@
     ],
     "De Stentor": [
       {
+        "title": "Heb jij Zitoun, Mees of Loki gezien? Deze negen huisdieren worden in Lelystad vermist",
+        "link": "https://www.destentor.nl/lelystad/heb-jij-zitoun-mees-of-loki-gezien-deze-negen-huisdieren-worden-in-lelystad-vermist~aa38b106/",
+        "published": "Sun, 26 Jul 2026 09:11:34 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Beschoten kat Elly is geopereerd dankzij gulle giften: ze moet verder met drie pootjes",
+        "link": "https://www.destentor.nl/lelystad/beschoten-kat-elly-is-geopereerd-dankzij-gulle-giften-ze-moet-verder-met-drie-pootjes~a27b762b/",
+        "published": "Sun, 26 Jul 2026 07:56:00 GMT",
+        "summary": ""
+      },
+      {
         "title": "Pootje van Elly tóch geamputeerd: ‘Was niet meer te redden’",
         "link": "https://www.destentor.nl/lelystad/pootje-van-elly-toch-geamputeerd-was-niet-meer-te-redden~a27b762b/",
         "published": "Sun, 26 Jul 2026 07:56:00 GMT",
@@ -893,21 +907,7 @@
         "link": "https://www.destentor.nl/almere/wekenlang-geen-treinen-rond-almere-centrum-tijdens-de-zomer~ad2a4796/",
         "published": "Wed, 08 Jul 2026 09:26:47 GMT",
         "summary": ""
-      },
-      {
-        "title": "Afgelopen week 41 meldingen van de gemeente over sloop, bomenkap en horeca in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-41-meldingen-van-de-gemeente-over-sloop-bomenkap-en-horeca-in-lelystad~a65b8266/",
-        "published": "Wed, 08 Jul 2026 09:01:40 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Communicatienetwerk voor hulpdiensten werkt niet overal in de terminal van Lelystad Airport",
-        "link": "https://www.destentor.nl/lelystad/communicatienetwerk-voor-hulpdiensten-werkt-niet-overal-in-de-terminal-van-lelystad-airport~aaf75f8da/",
-        "published": "Wed, 08 Jul 2026 05:00:52 GMT",
-        "summary": ""
       }
-    ],
-    "NOS": [],
-    "Nu.nl": []
+    ]
   }
 }

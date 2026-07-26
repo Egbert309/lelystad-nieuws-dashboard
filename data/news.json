@@ -1,7 +1,6 @@
 {
-  "updated": "2026-07-26T04:14:46.331924+00:00",
+  "updated": "2026-07-26T05:59:01.933649+00:00",
   "sources": {
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Schiphol trekt 35 tot 40 miljoen uit voor voorbereidingen komst charters naar Lelystad",
@@ -606,6 +605,8 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
+    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Colorrun met ruim 100 deelnemers in Lelystad: warm, zweterig en kleurrijk",
@@ -907,7 +908,6 @@
         "published": "Sat, 18 Jul 2026 14:39:00 GMT+0200",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

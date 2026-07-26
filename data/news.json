@@ -1,6 +1,8 @@
 {
-  "updated": "2026-07-26T00:17:59.572960+00:00",
+  "updated": "2026-07-26T01:30:37.818505+00:00",
   "sources": {
+    "Nu.nl": [],
+    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Colorrun met ruim 100 deelnemers in Lelystad: warm, zweterig en kleurrijk",
@@ -303,7 +305,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Angelique (44) heeft geen geld voor het buitenland, dus gaat ze met dochter Emma (5) naar een tent op het grasveld in haar stad",
@@ -907,7 +908,6 @@
         "published": "woensdag 01 juli 2026",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

@@ -1,7 +1,6 @@
 {
-  "updated": "2026-07-26T20:18:04.301258+00:00",
+  "updated": "2026-07-26T21:15:31.102686+00:00",
   "sources": {
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Heb jij Zitoun, Mees of Loki gezien? Deze negen huisdieren worden in Lelystad vermist",
@@ -304,6 +303,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Reddingsacties op IJssel- en Markermeer lopen goed af",
@@ -606,6 +606,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Schiphol trekt 35 tot 40 miljoen uit voor voorbereidingen komst charters naar Lelystad",
@@ -907,7 +908,6 @@
         "published": "woensdag 01 juli 2026",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

@@ -1,6 +1,7 @@
 {
-  "updated": "2026-07-27T14:56:04.076706+00:00",
+  "updated": "2026-07-27T15:51:02.664454+00:00",
   "sources": {
+    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - 19-jarige bestuurder aangehouden na mishandeling tijdens verkeersruzie in Lelystad",
@@ -303,8 +304,14 @@
         "summary": ""
       }
     ],
-    "NOS": [],
+    "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Kinderen leren schaken in de bibliotheek in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/kinderen-leren-schaken-in-de-bibliotheek-in-lelystad~ad1189c0/",
+        "published": "Mon, 27 Jul 2026 15:15:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Grootse plannen voor oudste winkelcentrum, maar de spekgladde tegels blijven onvermeld",
         "link": "https://www.destentor.nl/lelystad/grootse-plannen-voor-oudste-winkelcentrum-maar-de-spekgladde-tegels-blijven-onvermeld~a5abd654/",
@@ -598,15 +605,15 @@
         "link": "https://www.destentor.nl/lelystad/bakker-joost-prins-lag-ooit-als-marinier-in-het-water-met-de-kroonprins-nu-wil-hij-hem-iets-in-het-oor-fluisteren~a72bff09/",
         "published": "Fri, 10 Jul 2026 08:00:00 GMT",
         "summary": ""
-      },
-      {
-        "title": "Banengroei in Lelystad op hoogste niveau sinds 2022",
-        "link": "https://www.destentor.nl/lelystad/banengroei-in-lelystad-op-hoogste-niveau-sinds-2022~aa65c95c/",
-        "published": "Thu, 09 Jul 2026 15:30:00 GMT",
-        "summary": ""
       }
     ],
     "Radio Lelystad": [
+      {
+        "title": "Politie zoekt getuigen van mishandeling bij verkeersruzie op Zuigerplasdreef",
+        "link": "https://radiolelystad.nl/politie-zoekt-getuigen-van-mishandeling-bij-verkeersruzie",
+        "published": "maandag 27 juli 2026",
+        "summary": ""
+      },
       {
         "title": "Voorheen de hippiemarkt is nu een boulevardfeest voor iedereen (video)",
         "link": "https://radiolelystad.nl/voorheen-de-hippiemarkt-is-nu-een-boulevardfeest-voor-iedereen-video",
@@ -900,14 +907,7 @@
         "link": "https://radiolelystad.nl/lagere-straf-voor-pakketbezorger-die-fietser-doodreed-op-elandweg",
         "published": "donderdag 02 juli 2026",
         "summary": ""
-      },
-      {
-        "title": "Er gloort hoop voor de school voor gevaarlijke honden, maar zonder ingreep raad",
-        "link": "https://radiolelystad.nl/er-gloort-hoop-voor-de-school-voor-probleemhonden-maar-zonder-juridische-actie",
-        "published": "woensdag 01 juli 2026",
-        "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

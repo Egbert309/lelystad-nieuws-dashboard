@@ -1,6 +1,7 @@
 {
-  "updated": "2026-07-28T06:46:22.535079+00:00",
+  "updated": "2026-07-28T07:48:52.928269+00:00",
   "sources": {
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Kinderen leren schaken in de bibliotheek in Lelystad",
@@ -605,6 +606,14 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
+        "link": "https://nos.nl/l/2624679",
+        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Politie zoekt getuigen van mishandeling bij verkeersruzie op Zuigerplasdreef",
@@ -904,15 +913,6 @@
         "title": "Lagere straf voor pakketbezorger die fietser doodreed op donkere Elandweg",
         "link": "https://radiolelystad.nl/lagere-straf-voor-pakketbezorger-die-fietser-doodreed-op-elandweg",
         "published": "donderdag 02 juli 2026",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
-        "link": "https://nos.nl/l/2624679",
-        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
         "summary": ""
       }
     ]

@@ -1,11 +1,17 @@
 {
-  "updated": "2026-07-28T11:37:41.245887+00:00",
+  "updated": "2026-07-28T12:30:17.367514+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Rechter: minister moet in december besluiten over natuurvergunning Lelystad Airport",
         "link": "https://www.omroepflevoland.nl/nieuws/518107/rechter:-minister-moet-in-december-besluiten-over-natuurvergunning-lelystad-airport",
         "published": "Tue, 28 Jul 2026 13:02:35 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Inspecties zeer kritisch over jeugdgevangenis Lelystad: veiligheid en behandeling al jaren onder druk",
+        "link": "https://www.omroepflevoland.nl/nieuws/518095/inspecties-zeer-kritisch-over-jeugdgevangenis-lelystad:-veiligheid-en-behandeling-al-jaren-onder-druk",
+        "published": "Tue, 28 Jul 2026 12:40:34 GMT+0200",
         "summary": ""
       },
       {
@@ -294,12 +300,6 @@
         "title": "Lelystad - Verhuurder Centrada wil af van overlastgevende huurder, maar geeft hem laatste kans",
         "link": "https://www.omroepflevoland.nl/nieuws/517296/verhuurder-centrada-wil-af-van-overlastgevende-huurder-maar-geeft-hem-laatste-kans",
         "published": "Mon, 20 Jul 2026 20:22:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland -  Nieuwsoverzicht 20/07 | Werkzaamheden: geen treinen • Oud-burgemeester Urk overleden",
-        "link": "https://www.omroepflevoland.nl/nieuws/517270/nieuwsoverzicht-2007-or-werkzaamheden:-geen-treinen-*-oud-burgemeester-urk-overleden",
-        "published": "Mon, 20 Jul 2026 18:50:00 GMT+0200",
         "summary": ""
       }
     ],
@@ -606,6 +606,14 @@
       }
     ],
     "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
+        "link": "https://nos.nl/l/2624679",
+        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Leefbaar Lelystad wil weten hoe goed we in deze stad zijn voorbereid op hitte",
@@ -905,14 +913,6 @@
         "title": "Geen overmatige inteelt gevonden in kuddes grote grazers Oostvaardersplassen",
         "link": "https://radiolelystad.nl/geen-overmatige-inteelt-gevonden-in-kuddes-grote-grazers-oostvaardersplassen",
         "published": "donderdag 02 juli 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
-        "link": "https://nos.nl/l/2624679",
-        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
         "summary": ""
       }
     ]

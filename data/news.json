@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-28T07:48:52.928269+00:00",
+  "updated": "2026-07-28T08:51:18.782794+00:00",
   "sources": {
     "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
+        "link": "https://nos.nl/l/2624679",
+        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Kinderen leren schaken in de bibliotheek in Lelystad",
@@ -603,14 +611,6 @@
         "title": "Lelystad - Poes Elly neergeschoten in Lelystad, inzameling voor operatie gestart",
         "link": "https://www.omroepflevoland.nl/nieuws/517155/poes-elly-neergeschoten-in-lelystad-inzameling-voor-operatie-gestart",
         "published": "Mon, 20 Jul 2026 07:20:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
-        "link": "https://nos.nl/l/2624679",
-        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
         "summary": ""
       }
     ],

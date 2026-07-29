@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T16:26:55.969501+00:00",
+  "updated": "2026-07-29T17:24:55.244672+00:00",
   "sources": {
     "Nu.nl": [
       {
@@ -311,11 +311,305 @@
         "summary": ""
       }
     ],
-    "NOS": [
+    "Omroep Flevoland": [
       {
-        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
-        "link": "https://nos.nl/l/2624679",
-        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
+        "title": "Flevoland - Nieuwsoverzicht 29/07 | Motorrijder gewond bij botsing • Explosief in Almere",
+        "link": "https://www.omroepflevoland.nl/nieuws/518235/nieuwsoverzicht-2907-or-motorrijder-gewond-bij-botsing-*-explosief-in-almere",
+        "published": "Wed, 29 Jul 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad -  Motorrijder naar het ziekenhuis na ongeval op Larserweg",
+        "link": "https://www.omroepflevoland.nl/nieuws/518222/motorrijder-naar-het-ziekenhuis-na-ongeval-op-larserweg",
+        "published": "Wed, 29 Jul 2026 14:39:50 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Liefdesverdriet mondt uit in brandstichting en belaging ex: 'Ik moest hem gewoon zien'",
+        "link": "https://www.omroepflevoland.nl/nieuws/518179/liefdesverdriet-mondt-uit-in-brandstichting-en-belaging-ex:-'ik-moest-hem-gewoon-zien'",
+        "published": "Wed, 29 Jul 2026 12:42:45 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Schiphol Group verwacht op tijd milieuvergunning te krijgen voor Lelystad Airport",
+        "link": "https://www.omroepflevoland.nl/nieuws/518151/schiphol-group-verwacht-op-tijd-milieuvergunning-te-krijgen-voor-lelystad-airport",
+        "published": "Tue, 28 Jul 2026 20:07:20 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 28/07 | Minister moet snel besluiten over vliegveld • Naast fatbike gevonden man overleden",
+        "link": "https://www.omroepflevoland.nl/nieuws/518140/nieuwsoverzicht-2807-or-minister-moet-snel-besluiten-over-vliegveld-*-naast-fatbike-gevonden-man-overleden",
+        "published": "Tue, 28 Jul 2026 18:48:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Rechter: minister moet in december besluiten over natuurvergunning Lelystad Airport",
+        "link": "https://www.omroepflevoland.nl/nieuws/518107/rechter:-minister-moet-in-december-besluiten-over-natuurvergunning-lelystad-airport",
+        "published": "Tue, 28 Jul 2026 13:02:35 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Inspecties zeer kritisch over jeugdgevangenis Lelystad: veiligheid en behandeling al jaren onder druk",
+        "link": "https://www.omroepflevoland.nl/nieuws/518095/inspecties-zeer-kritisch-over-jeugdgevangenis-lelystad:-veiligheid-en-behandeling-al-jaren-onder-druk",
+        "published": "Tue, 28 Jul 2026 12:40:34 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Inspectie zeer kritisch over jeugdgevangenis Lelystad: veiligheid en behandeling al jaren onder druk",
+        "link": "https://www.omroepflevoland.nl/nieuws/518095/inspectie-zeer-kritisch-over-jeugdgevangenis-lelystad:-veiligheid-en-behandeling-al-jaren-onder-druk",
+        "published": "Tue, 28 Jul 2026 12:40:34 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 27/07 | 'Fabriek als oplossing woningnood' • Mysterie rond gecrashte auto",
+        "link": "https://www.omroepflevoland.nl/nieuws/518032/nieuwsoverzicht-2707-or-'fabriek-als-oplossing-woningnood'-*-mysterie-rond-gecrashte-auto",
+        "published": "Mon, 27 Jul 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - 19-jarige bestuurder aangehouden na mishandeling tijdens verkeersruzie in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/518034/19-jarige-bestuurder-aangehouden-na-mishandeling-tijdens-verkeersruzie-in-lelystad",
+        "published": "Mon, 27 Jul 2026 16:41:57 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Cor leent zijn tuingereedschap gratis uit aan wijkgenoten: 'Niet iedereen heeft de centen'",
+        "link": "https://www.omroepflevoland.nl/nieuws/517040/cor-leent-zijn-tuingereedschap-gratis-uit-aan-wijkgenoten:-'niet-iedereen-heeft-de-centen'",
+        "published": "Mon, 27 Jul 2026 13:42:11 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Weekweerbericht: Genoeg zon en ineens tropisch",
+        "link": "https://www.omroepflevoland.nl/nieuws/518004/weekweerbericht:-genoeg-zon-en-ineens-tropisch",
+        "published": "Mon, 27 Jul 2026 11:10:42 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Zondagse reddingsacties op meren lopen goed af, opvarenden en hun hondje warmen zich op bij KNRM Urk",
+        "link": "https://www.omroepflevoland.nl/nieuws/517950/zondagse-reddingsacties-op-meren-lopen-goed-af-opvarenden-en-hun-hondje-warmen-zich-op-bij-knrm-urk",
+        "published": "Sun, 26 Jul 2026 19:48:28 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Reddingsacties op IJssel- en Markermeer lopen goed af",
+        "link": "https://www.omroepflevoland.nl/nieuws/517950/reddingsacties-op-ijssel-en-markermeer-lopen-goed-af",
+        "published": "Sun, 26 Jul 2026 19:48:28 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Na mishandeling kan verkeersregelaar Ton weken niet werken: 'Ik was 5 minuten buiten westen'",
+        "link": "https://www.omroepflevoland.nl/nieuws/517856/na-mishandeling-kan-verkeersregelaar-ton-weken-niet-werken:-'ik-was-5-minuten-buiten-westen'",
+        "published": "Sun, 26 Jul 2026 08:36:09 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Mishandelde verkeersregelaar roept dader op: 'Wees een grote kerel en meld je'",
+        "link": "https://www.omroepflevoland.nl/nieuws/517856/mishandelde-verkeersregelaar-roept-dader-op:-'wees-een-grote-kerel-en-meld-je'",
+        "published": "Sun, 26 Jul 2026 08:36:09 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Colorrun met ruim 100 deelnemers in Lelystad: warm, zweterig en kleurrijk",
+        "link": "https://www.omroepflevoland.nl/nieuws/517850/colorrun-met-ruim-100-deelnemers-in-lelystad:-warm-zweterig-en-kleurrijk",
+        "published": "Sat, 25 Jul 2026 16:58:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Pootje van neergeschoten poes Elly toch geamputeerd",
+        "link": "https://www.omroepflevoland.nl/nieuws/517855/pootje-van-neergeschoten-poes-elly-toch-geamputeerd",
+        "published": "Sat, 25 Jul 2026 14:06:12 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Padeltalent Pieter Hermus uit Lelystad: 'Ik hoop over vijf jaar aan de top te staan'",
+        "link": "https://www.omroepflevoland.nl/sport/517824/padeltalent-pieter-hermus-uit-lelystad:-'ik-hoop-over-vijf-jaar-aan-de-top-te-staan'",
+        "published": "Sat, 25 Jul 2026 12:56:14 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Gaatje boren gaat mis: gasleiding van buren geraakt",
+        "link": "https://www.omroepflevoland.nl/nieuws/517843/gaatje-boren-gaat-mis:-gasleiding-van-buren-geraakt",
+        "published": "Sat, 25 Jul 2026 12:30:42 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Buren boren gasleiding van woning stuk, brandweer moet deur forceren",
+        "link": "https://www.omroepflevoland.nl/nieuws/517843/buren-boren-gasleiding-van-woning-stuk-brandweer-moet-deur-forceren",
+        "published": "Sat, 25 Jul 2026 12:30:42 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Hippiemarkt maakt dit weekend plaats voor chiquer Batavia Boulevard Festival",
+        "link": "https://www.omroepflevoland.nl/nieuws/517795/hippiemarkt-maakt-dit-weekend-plaats-voor-chiquer-batavia-boulevard-festival",
+        "published": "Sat, 25 Jul 2026 12:08:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Bataviahaven dit weekend decor voor eerste Batavia Boulevard Festival",
+        "link": "https://www.omroepflevoland.nl/nieuws/517795/bataviahaven-dit-weekend-decor-voor-eerste-batavia-boulevard-festival",
+        "published": "Sat, 25 Jul 2026 12:08:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Twintigers voor rechter voor oplichting ouderen: 'Ik hoorde dat je zo snel geld kon verdienen'",
+        "link": "https://www.omroepflevoland.nl/nieuws/517827/twintigers-voor-rechter-voor-oplichting-ouderen:-'ik-hoorde-dat-je-zo-snel-geld-kon-verdienen'",
+        "published": "Sat, 25 Jul 2026 10:50:17 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - 'Ik heb spijt': Lelystedeling bekent oplichting van ouderen",
+        "link": "https://www.omroepflevoland.nl/nieuws/517827/'ik-heb-spijt':-lelystedeling-bekent-oplichting-van-ouderen",
+        "published": "Sat, 25 Jul 2026 10:50:17 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 24/07 | Schiphol investeert in Lelystad Airport • Hondentrainers geven aanzet tot onderzoek",
+        "link": "https://www.omroepflevoland.nl/nieuws/517722/nieuwsoverzicht-2407-or-schiphol-investeert-in-lelystad-airport-*-hondentrainers-geven-aanzet-tot-onderzoek",
+        "published": "Fri, 24 Jul 2026 17:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Kamperen met je buren: voorbereidingen in Sidhadorp in volle gang",
+        "link": "https://www.omroepflevoland.nl/nieuws/517758/kamperen-met-je-buren:-voorbereidingen-in-sidhadorp-in-volle-gang",
+        "published": "Fri, 24 Jul 2026 17:25:07 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Dronten - Zaak verdachte  vermissing Marc Jaskulski niet tegelijk behandeld met Brabantse en Deventer zaken",
+        "link": "https://www.omroepflevoland.nl/nieuws/517743/zaak-verdachte-vermissing-marc-jaskulski-niet-tegelijk-behandeld-met-brabantse-en-deventer-zaken",
+        "published": "Fri, 24 Jul 2026 17:24:43 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Schiphol investeert tot 40 miljoen in gereedmaken Lelystad Airport",
+        "link": "https://www.omroepflevoland.nl/nieuws/517698/schiphol-investeert-tot-40-miljoen-in-gereedmaken-lelystad-airport",
+        "published": "Fri, 24 Jul 2026 10:33:35 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Schiphol investeert tot 40 miljoen in gereed maken Lelystad Airport",
+        "link": "https://www.omroepflevoland.nl/nieuws/517698/schiphol-investeert-tot-40-miljoen-in-gereed-maken-lelystad-airport",
+        "published": "Fri, 24 Jul 2026 10:33:35 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Weekendweerbericht: Een zomers warme dag, ook een paar buien",
+        "link": "https://www.omroepflevoland.nl/nieuws/517701/weekendweerbericht:-een-zomers-warme-dag-ook-een-paar-buien",
+        "published": "Fri, 24 Jul 2026 10:33:04 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Weekweerbericht: Een zomers warme dag, ook een paar buien",
+        "link": "https://www.omroepflevoland.nl/nieuws/517701/weekweerbericht:-een-zomers-warme-dag-ook-een-paar-buien",
+        "published": "Fri, 24 Jul 2026 10:33:04 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Provincie plaatst spandoeken: 'Rijd maximaal 80 op provinciale weg'",
+        "link": "https://www.omroepflevoland.nl/nieuws/517630/provincie-plaatst-spandoeken:-'rijd-maximaal-80-op-provinciale-weg'",
+        "published": "Fri, 24 Jul 2026 08:08:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Milieuonderzoek Waterfront Lelystad opnieuw onvoldoende",
+        "link": "https://www.omroepflevoland.nl/nieuws/517608/milieuonderzoek-waterfront-lelystad-opnieuw-onvoldoende",
+        "published": "Thu, 23 Jul 2026 20:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Door snelfietspad kunnen Loek en Karin niet meer bij geliefde vogelkijkhutten komen",
+        "link": "https://www.omroepflevoland.nl/nieuws/517477/door-snelfietspad-kunnen-loek-en-karin-niet-meer-bij-geliefde-vogelkijkhutten-komen",
+        "published": "Thu, 23 Jul 2026 19:50:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 23/07 | Wilde achtervolging politie • Brug op Urk voorlopig dicht",
+        "link": "https://www.omroepflevoland.nl/nieuws/517637/nieuwsoverzicht-2307-or-wilde-achtervolging-politie-*-brug-op-urk-voorlopig-dicht",
+        "published": "Thu, 23 Jul 2026 18:50:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Extra 'tijdelijke' parkeerplekken moeten drukte in Lelystads Stadshart opvangen",
+        "link": "https://www.omroepflevoland.nl/nieuws/517591/extra-'tijdelijke'-parkeerplekken-moeten-drukte-in-lelystads-stadshart-opvangen",
+        "published": "Thu, 23 Jul 2026 17:56:22 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Zorg dat je alles zwart op wit hebt, anders komt zelfs de rechter er niet meer uit",
+        "link": "https://www.omroepflevoland.nl/nieuws/517502/zorg-dat-je-alles-zwart-op-wit-hebt-anders-komt-zelfs-de-rechter-er-niet-meer-uit",
+        "published": "Thu, 23 Jul 2026 07:33:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Rechter komt niet uit huurconflict, vraagt kemphanen om met betere bewijzen te komen",
+        "link": "https://www.omroepflevoland.nl/nieuws/517502/rechter-komt-niet-uit-huurconflict-vraagt-kemphanen-om-met-betere-bewijzen-te-komen",
+        "published": "Thu, 23 Jul 2026 07:33:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 22/07 | Woningen opgeleverd zonder elektriciteit • Bijval voor slagboomschroevers",
+        "link": "https://www.omroepflevoland.nl/nieuws/517517/nieuwsoverzicht-2207-or-woningen-opgeleverd-zonder-elektriciteit-*-bijval-voor-slagboomschroevers",
+        "published": "Wed, 22 Jul 2026 18:50:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Levert de droogte akkerbouwers een nieuw 'gouden jaar' op?",
+        "link": "https://www.omroepflevoland.nl/nieuws/517419/levert-de-droogte-akkerbouwers-een-nieuw-'gouden-jaar'-op",
+        "published": "Wed, 22 Jul 2026 13:52:21 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Laatste kanonnen uit de Batavia gehaald: tijdelijke verhuizing komt dichterbij",
+        "link": "https://www.omroepflevoland.nl/nieuws/517466/laatste-kanonnen-uit-de-batavia-gehaald:-tijdelijke-verhuizing-komt-dichterbij",
+        "published": "Wed, 22 Jul 2026 12:07:11 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Emmeloord - Nieuwbouwwoningen Emmeloord worden opgeleverd zonder elektriciteit en water: 'Dit gaan we vaker zien'",
+        "link": "https://www.omroepflevoland.nl/nieuws/517348/nieuwbouwwoningen-emmeloord-worden-opgeleverd-zonder-elektriciteit-en-water:-'dit-gaan-we-vaker-zien'",
+        "published": "Wed, 22 Jul 2026 07:33:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Noordoostpolder - Werkzaamheden op A6 bij Emmeloord gaan tweede fase in: wisseling van rijstrook, afsluiting N50 blijft van kracht",
+        "link": "https://www.omroepflevoland.nl/nieuws/517256/werkzaamheden-op-a6-bij-emmeloord-gaan-tweede-fase-in:-wisseling-van-rijstrook-afsluiting-n50-blijft-van-kracht",
+        "published": "Wed, 22 Jul 2026 06:25:29 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Weggebruikers prijzen slagboomschroevers Ketelbrug op sociale media: 'Verdienen een lintje'",
+        "link": "https://www.omroepflevoland.nl/nieuws/517283/weggebruikers-prijzen-slagboomschroevers-ketelbrug-op-sociale-media:-'verdienen-een-lintje'",
+        "published": "Wed, 22 Jul 2026 05:55:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Weggebruikers prijzen slagboomschroevers op sociale media: 'Verdienen een lintje'",
+        "link": "https://www.omroepflevoland.nl/nieuws/517283/weggebruikers-prijzen-slagboomschroevers-op-sociale-media:-'verdienen-een-lintje'",
+        "published": "Wed, 22 Jul 2026 05:55:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 21/07 | Woningoverval in Almere • Camera's bij villa's moeten weg",
+        "link": "https://www.omroepflevoland.nl/nieuws/517385/nieuwsoverzicht-2107-or-woningoverval-in-almere-*-camera's-bij-villa's-moeten-weg",
+        "published": "Tue, 21 Jul 2026 18:49:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Massale steun voor neergeschoten poes Elly: geld voor operatie is binnen",
+        "link": "https://www.omroepflevoland.nl/nieuws/517353/massale-steun-voor-neergeschoten-poes-elly:-geld-voor-operatie-is-binnen",
+        "published": "Tue, 21 Jul 2026 13:59:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Geld voor operatie neergeschoten poes Elly ruimschoots binnen, nog onduidelijk of pootje te redden is",
+        "link": "https://www.omroepflevoland.nl/nieuws/517353/geld-voor-operatie-neergeschoten-poes-elly-ruimschoots-binnen-nog-onduidelijk-of-pootje-te-redden-is",
+        "published": "Tue, 21 Jul 2026 13:59:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - 'Hij deed gewoon zijn werk': verkeersregelaar uit Lelystad het ziekenhuis in geslagen",
+        "link": "https://www.omroepflevoland.nl/nieuws/517317/'hij-deed-gewoon-zijn-werk':-verkeersregelaar-uit-lelystad-het-ziekenhuis-in-geslagen",
+        "published": "Tue, 21 Jul 2026 11:39:49 GMT+0200",
         "summary": ""
       }
     ],
@@ -621,305 +915,11 @@
         "summary": ""
       }
     ],
-    "Omroep Flevoland": [
+    "NOS": [
       {
-        "title": "Lelystad -  Motorrijder naar het ziekenhuis na ongeval op Larserweg",
-        "link": "https://www.omroepflevoland.nl/nieuws/518222/motorrijder-naar-het-ziekenhuis-na-ongeval-op-larserweg",
-        "published": "Wed, 29 Jul 2026 14:39:50 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Liefdesverdriet mondt uit in brandstichting en belaging ex: 'Ik moest hem gewoon zien'",
-        "link": "https://www.omroepflevoland.nl/nieuws/518179/liefdesverdriet-mondt-uit-in-brandstichting-en-belaging-ex:-'ik-moest-hem-gewoon-zien'",
-        "published": "Wed, 29 Jul 2026 12:42:45 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Schiphol Group verwacht op tijd milieuvergunning te krijgen voor Lelystad Airport",
-        "link": "https://www.omroepflevoland.nl/nieuws/518151/schiphol-group-verwacht-op-tijd-milieuvergunning-te-krijgen-voor-lelystad-airport",
-        "published": "Tue, 28 Jul 2026 20:07:20 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 28/07 | Minister moet snel besluiten over vliegveld • Naast fatbike gevonden man overleden",
-        "link": "https://www.omroepflevoland.nl/nieuws/518140/nieuwsoverzicht-2807-or-minister-moet-snel-besluiten-over-vliegveld-*-naast-fatbike-gevonden-man-overleden",
-        "published": "Tue, 28 Jul 2026 18:48:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Rechter: minister moet in december besluiten over natuurvergunning Lelystad Airport",
-        "link": "https://www.omroepflevoland.nl/nieuws/518107/rechter:-minister-moet-in-december-besluiten-over-natuurvergunning-lelystad-airport",
-        "published": "Tue, 28 Jul 2026 13:02:35 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Inspecties zeer kritisch over jeugdgevangenis Lelystad: veiligheid en behandeling al jaren onder druk",
-        "link": "https://www.omroepflevoland.nl/nieuws/518095/inspecties-zeer-kritisch-over-jeugdgevangenis-lelystad:-veiligheid-en-behandeling-al-jaren-onder-druk",
-        "published": "Tue, 28 Jul 2026 12:40:34 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Inspectie zeer kritisch over jeugdgevangenis Lelystad: veiligheid en behandeling al jaren onder druk",
-        "link": "https://www.omroepflevoland.nl/nieuws/518095/inspectie-zeer-kritisch-over-jeugdgevangenis-lelystad:-veiligheid-en-behandeling-al-jaren-onder-druk",
-        "published": "Tue, 28 Jul 2026 12:40:34 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 27/07 | 'Fabriek als oplossing woningnood' • Mysterie rond gecrashte auto",
-        "link": "https://www.omroepflevoland.nl/nieuws/518032/nieuwsoverzicht-2707-or-'fabriek-als-oplossing-woningnood'-*-mysterie-rond-gecrashte-auto",
-        "published": "Mon, 27 Jul 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - 19-jarige bestuurder aangehouden na mishandeling tijdens verkeersruzie in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/518034/19-jarige-bestuurder-aangehouden-na-mishandeling-tijdens-verkeersruzie-in-lelystad",
-        "published": "Mon, 27 Jul 2026 16:41:57 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Cor leent zijn tuingereedschap gratis uit aan wijkgenoten: 'Niet iedereen heeft de centen'",
-        "link": "https://www.omroepflevoland.nl/nieuws/517040/cor-leent-zijn-tuingereedschap-gratis-uit-aan-wijkgenoten:-'niet-iedereen-heeft-de-centen'",
-        "published": "Mon, 27 Jul 2026 13:42:11 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Weekweerbericht: Genoeg zon en ineens tropisch",
-        "link": "https://www.omroepflevoland.nl/nieuws/518004/weekweerbericht:-genoeg-zon-en-ineens-tropisch",
-        "published": "Mon, 27 Jul 2026 11:10:42 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Zondagse reddingsacties op meren lopen goed af, opvarenden en hun hondje warmen zich op bij KNRM Urk",
-        "link": "https://www.omroepflevoland.nl/nieuws/517950/zondagse-reddingsacties-op-meren-lopen-goed-af-opvarenden-en-hun-hondje-warmen-zich-op-bij-knrm-urk",
-        "published": "Sun, 26 Jul 2026 19:48:28 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Reddingsacties op IJssel- en Markermeer lopen goed af",
-        "link": "https://www.omroepflevoland.nl/nieuws/517950/reddingsacties-op-ijssel-en-markermeer-lopen-goed-af",
-        "published": "Sun, 26 Jul 2026 19:48:28 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Na mishandeling kan verkeersregelaar Ton weken niet werken: 'Ik was 5 minuten buiten westen'",
-        "link": "https://www.omroepflevoland.nl/nieuws/517856/na-mishandeling-kan-verkeersregelaar-ton-weken-niet-werken:-'ik-was-5-minuten-buiten-westen'",
-        "published": "Sun, 26 Jul 2026 08:36:09 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Mishandelde verkeersregelaar roept dader op: 'Wees een grote kerel en meld je'",
-        "link": "https://www.omroepflevoland.nl/nieuws/517856/mishandelde-verkeersregelaar-roept-dader-op:-'wees-een-grote-kerel-en-meld-je'",
-        "published": "Sun, 26 Jul 2026 08:36:09 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Colorrun met ruim 100 deelnemers in Lelystad: warm, zweterig en kleurrijk",
-        "link": "https://www.omroepflevoland.nl/nieuws/517850/colorrun-met-ruim-100-deelnemers-in-lelystad:-warm-zweterig-en-kleurrijk",
-        "published": "Sat, 25 Jul 2026 16:58:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Pootje van neergeschoten poes Elly toch geamputeerd",
-        "link": "https://www.omroepflevoland.nl/nieuws/517855/pootje-van-neergeschoten-poes-elly-toch-geamputeerd",
-        "published": "Sat, 25 Jul 2026 14:06:12 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Padeltalent Pieter Hermus uit Lelystad: 'Ik hoop over vijf jaar aan de top te staan'",
-        "link": "https://www.omroepflevoland.nl/sport/517824/padeltalent-pieter-hermus-uit-lelystad:-'ik-hoop-over-vijf-jaar-aan-de-top-te-staan'",
-        "published": "Sat, 25 Jul 2026 12:56:14 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Gaatje boren gaat mis: gasleiding van buren geraakt",
-        "link": "https://www.omroepflevoland.nl/nieuws/517843/gaatje-boren-gaat-mis:-gasleiding-van-buren-geraakt",
-        "published": "Sat, 25 Jul 2026 12:30:42 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Buren boren gasleiding van woning stuk, brandweer moet deur forceren",
-        "link": "https://www.omroepflevoland.nl/nieuws/517843/buren-boren-gasleiding-van-woning-stuk-brandweer-moet-deur-forceren",
-        "published": "Sat, 25 Jul 2026 12:30:42 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Hippiemarkt maakt dit weekend plaats voor chiquer Batavia Boulevard Festival",
-        "link": "https://www.omroepflevoland.nl/nieuws/517795/hippiemarkt-maakt-dit-weekend-plaats-voor-chiquer-batavia-boulevard-festival",
-        "published": "Sat, 25 Jul 2026 12:08:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Bataviahaven dit weekend decor voor eerste Batavia Boulevard Festival",
-        "link": "https://www.omroepflevoland.nl/nieuws/517795/bataviahaven-dit-weekend-decor-voor-eerste-batavia-boulevard-festival",
-        "published": "Sat, 25 Jul 2026 12:08:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Twintigers voor rechter voor oplichting ouderen: 'Ik hoorde dat je zo snel geld kon verdienen'",
-        "link": "https://www.omroepflevoland.nl/nieuws/517827/twintigers-voor-rechter-voor-oplichting-ouderen:-'ik-hoorde-dat-je-zo-snel-geld-kon-verdienen'",
-        "published": "Sat, 25 Jul 2026 10:50:17 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - 'Ik heb spijt': Lelystedeling bekent oplichting van ouderen",
-        "link": "https://www.omroepflevoland.nl/nieuws/517827/'ik-heb-spijt':-lelystedeling-bekent-oplichting-van-ouderen",
-        "published": "Sat, 25 Jul 2026 10:50:17 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 24/07 | Schiphol investeert in Lelystad Airport • Hondentrainers geven aanzet tot onderzoek",
-        "link": "https://www.omroepflevoland.nl/nieuws/517722/nieuwsoverzicht-2407-or-schiphol-investeert-in-lelystad-airport-*-hondentrainers-geven-aanzet-tot-onderzoek",
-        "published": "Fri, 24 Jul 2026 17:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Kamperen met je buren: voorbereidingen in Sidhadorp in volle gang",
-        "link": "https://www.omroepflevoland.nl/nieuws/517758/kamperen-met-je-buren:-voorbereidingen-in-sidhadorp-in-volle-gang",
-        "published": "Fri, 24 Jul 2026 17:25:07 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Dronten - Zaak verdachte  vermissing Marc Jaskulski niet tegelijk behandeld met Brabantse en Deventer zaken",
-        "link": "https://www.omroepflevoland.nl/nieuws/517743/zaak-verdachte-vermissing-marc-jaskulski-niet-tegelijk-behandeld-met-brabantse-en-deventer-zaken",
-        "published": "Fri, 24 Jul 2026 17:24:43 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Schiphol investeert tot 40 miljoen in gereedmaken Lelystad Airport",
-        "link": "https://www.omroepflevoland.nl/nieuws/517698/schiphol-investeert-tot-40-miljoen-in-gereedmaken-lelystad-airport",
-        "published": "Fri, 24 Jul 2026 10:33:35 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Schiphol investeert tot 40 miljoen in gereed maken Lelystad Airport",
-        "link": "https://www.omroepflevoland.nl/nieuws/517698/schiphol-investeert-tot-40-miljoen-in-gereed-maken-lelystad-airport",
-        "published": "Fri, 24 Jul 2026 10:33:35 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Weekendweerbericht: Een zomers warme dag, ook een paar buien",
-        "link": "https://www.omroepflevoland.nl/nieuws/517701/weekendweerbericht:-een-zomers-warme-dag-ook-een-paar-buien",
-        "published": "Fri, 24 Jul 2026 10:33:04 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Weekweerbericht: Een zomers warme dag, ook een paar buien",
-        "link": "https://www.omroepflevoland.nl/nieuws/517701/weekweerbericht:-een-zomers-warme-dag-ook-een-paar-buien",
-        "published": "Fri, 24 Jul 2026 10:33:04 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Provincie plaatst spandoeken: 'Rijd maximaal 80 op provinciale weg'",
-        "link": "https://www.omroepflevoland.nl/nieuws/517630/provincie-plaatst-spandoeken:-'rijd-maximaal-80-op-provinciale-weg'",
-        "published": "Fri, 24 Jul 2026 08:08:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Milieuonderzoek Waterfront Lelystad opnieuw onvoldoende",
-        "link": "https://www.omroepflevoland.nl/nieuws/517608/milieuonderzoek-waterfront-lelystad-opnieuw-onvoldoende",
-        "published": "Thu, 23 Jul 2026 20:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Door snelfietspad kunnen Loek en Karin niet meer bij geliefde vogelkijkhutten komen",
-        "link": "https://www.omroepflevoland.nl/nieuws/517477/door-snelfietspad-kunnen-loek-en-karin-niet-meer-bij-geliefde-vogelkijkhutten-komen",
-        "published": "Thu, 23 Jul 2026 19:50:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 23/07 | Wilde achtervolging politie • Brug op Urk voorlopig dicht",
-        "link": "https://www.omroepflevoland.nl/nieuws/517637/nieuwsoverzicht-2307-or-wilde-achtervolging-politie-*-brug-op-urk-voorlopig-dicht",
-        "published": "Thu, 23 Jul 2026 18:50:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Extra 'tijdelijke' parkeerplekken moeten drukte in Lelystads Stadshart opvangen",
-        "link": "https://www.omroepflevoland.nl/nieuws/517591/extra-'tijdelijke'-parkeerplekken-moeten-drukte-in-lelystads-stadshart-opvangen",
-        "published": "Thu, 23 Jul 2026 17:56:22 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Zorg dat je alles zwart op wit hebt, anders komt zelfs de rechter er niet meer uit",
-        "link": "https://www.omroepflevoland.nl/nieuws/517502/zorg-dat-je-alles-zwart-op-wit-hebt-anders-komt-zelfs-de-rechter-er-niet-meer-uit",
-        "published": "Thu, 23 Jul 2026 07:33:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Rechter komt niet uit huurconflict, vraagt kemphanen om met betere bewijzen te komen",
-        "link": "https://www.omroepflevoland.nl/nieuws/517502/rechter-komt-niet-uit-huurconflict-vraagt-kemphanen-om-met-betere-bewijzen-te-komen",
-        "published": "Thu, 23 Jul 2026 07:33:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 22/07 | Woningen opgeleverd zonder elektriciteit • Bijval voor slagboomschroevers",
-        "link": "https://www.omroepflevoland.nl/nieuws/517517/nieuwsoverzicht-2207-or-woningen-opgeleverd-zonder-elektriciteit-*-bijval-voor-slagboomschroevers",
-        "published": "Wed, 22 Jul 2026 18:50:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Levert de droogte akkerbouwers een nieuw 'gouden jaar' op?",
-        "link": "https://www.omroepflevoland.nl/nieuws/517419/levert-de-droogte-akkerbouwers-een-nieuw-'gouden-jaar'-op",
-        "published": "Wed, 22 Jul 2026 13:52:21 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Laatste kanonnen uit de Batavia gehaald: tijdelijke verhuizing komt dichterbij",
-        "link": "https://www.omroepflevoland.nl/nieuws/517466/laatste-kanonnen-uit-de-batavia-gehaald:-tijdelijke-verhuizing-komt-dichterbij",
-        "published": "Wed, 22 Jul 2026 12:07:11 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Emmeloord - Nieuwbouwwoningen Emmeloord worden opgeleverd zonder elektriciteit en water: 'Dit gaan we vaker zien'",
-        "link": "https://www.omroepflevoland.nl/nieuws/517348/nieuwbouwwoningen-emmeloord-worden-opgeleverd-zonder-elektriciteit-en-water:-'dit-gaan-we-vaker-zien'",
-        "published": "Wed, 22 Jul 2026 07:33:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Noordoostpolder - Werkzaamheden op A6 bij Emmeloord gaan tweede fase in: wisseling van rijstrook, afsluiting N50 blijft van kracht",
-        "link": "https://www.omroepflevoland.nl/nieuws/517256/werkzaamheden-op-a6-bij-emmeloord-gaan-tweede-fase-in:-wisseling-van-rijstrook-afsluiting-n50-blijft-van-kracht",
-        "published": "Wed, 22 Jul 2026 06:25:29 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Weggebruikers prijzen slagboomschroevers Ketelbrug op sociale media: 'Verdienen een lintje'",
-        "link": "https://www.omroepflevoland.nl/nieuws/517283/weggebruikers-prijzen-slagboomschroevers-ketelbrug-op-sociale-media:-'verdienen-een-lintje'",
-        "published": "Wed, 22 Jul 2026 05:55:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Weggebruikers prijzen slagboomschroevers op sociale media: 'Verdienen een lintje'",
-        "link": "https://www.omroepflevoland.nl/nieuws/517283/weggebruikers-prijzen-slagboomschroevers-op-sociale-media:-'verdienen-een-lintje'",
-        "published": "Wed, 22 Jul 2026 05:55:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 21/07 | Woningoverval in Almere • Camera's bij villa's moeten weg",
-        "link": "https://www.omroepflevoland.nl/nieuws/517385/nieuwsoverzicht-2107-or-woningoverval-in-almere-*-camera's-bij-villa's-moeten-weg",
-        "published": "Tue, 21 Jul 2026 18:49:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Massale steun voor neergeschoten poes Elly: geld voor operatie is binnen",
-        "link": "https://www.omroepflevoland.nl/nieuws/517353/massale-steun-voor-neergeschoten-poes-elly:-geld-voor-operatie-is-binnen",
-        "published": "Tue, 21 Jul 2026 13:59:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Geld voor operatie neergeschoten poes Elly ruimschoots binnen, nog onduidelijk of pootje te redden is",
-        "link": "https://www.omroepflevoland.nl/nieuws/517353/geld-voor-operatie-neergeschoten-poes-elly-ruimschoots-binnen-nog-onduidelijk-of-pootje-te-redden-is",
-        "published": "Tue, 21 Jul 2026 13:59:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - 'Hij deed gewoon zijn werk': verkeersregelaar uit Lelystad het ziekenhuis in geslagen",
-        "link": "https://www.omroepflevoland.nl/nieuws/517317/'hij-deed-gewoon-zijn-werk':-verkeersregelaar-uit-lelystad-het-ziekenhuis-in-geslagen",
-        "published": "Tue, 21 Jul 2026 11:39:49 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Collega het ziekenhuis in geslagen: diepe verslagenheid bij verkeersregelaars van het Pal Mundo Festival",
-        "link": "https://www.omroepflevoland.nl/nieuws/517317/collega-het-ziekenhuis-in-geslagen:-diepe-verslagenheid-bij-verkeersregelaars-van-het-pal-mundo-festival",
-        "published": "Tue, 21 Jul 2026 11:39:49 GMT+0200",
+        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
+        "link": "https://nos.nl/l/2624679",
+        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
         "summary": ""
       }
     ]

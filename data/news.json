@@ -1,14 +1,6 @@
 {
-  "updated": "2026-07-30T18:25:41.478726+00:00",
+  "updated": "2026-07-30T19:28:19.072171+00:00",
   "sources": {
-    "Nu.nl": [
-      {
-        "title": "Rechter corrigeert minister: voor 2027 besluit over vergunning Lelystad Airport",
-        "link": "https://www.nu.nl/stikstof/6404650/rechter-corrigeert-minister-voor-2027-besluit-over-vergunning-lelystad-airport.html",
-        "published": "Tue, 28 Jul 2026 15:43:39 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Stad van 85.000 inwoners verloor zijn laatste boekwinkel, deze twee Lelystadse ondernemers pikken dat niet",
@@ -621,6 +613,12 @@
         "summary": ""
       },
       {
+        "title": "Lelystad - Explosie in opslagcontainer van batterij-inzamelaar, accu's in dompelbak gedaan om ontbranding te voorkomen",
+        "link": "https://www.omroepflevoland.nl/nieuws/518363/explosie-in-opslagcontainer-van-batterij-inzamelaar-accu's-in-dompelbak-gedaan-om-ontbranding-te-voorkomen",
+        "published": "Thu, 30 Jul 2026 19:29:32 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Lelystad - Explosie in opslagcontainer van accu- en batterij-inzamelaar, containerdeur kapot geblazen",
         "link": "https://www.omroepflevoland.nl/nieuws/518363/explosie-in-opslagcontainer-van-accu-en-batterij-inzamelaar-containerdeur-kapot-geblazen",
         "published": "Thu, 30 Jul 2026 19:29:32 GMT+0200",
@@ -907,11 +905,13 @@
         "link": "https://www.omroepflevoland.nl/nieuws/517502/rechter-komt-niet-uit-huurconflict-vraagt-kemphanen-om-met-betere-bewijzen-te-komen",
         "published": "Thu, 23 Jul 2026 07:33:00 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "Nu.nl": [
       {
-        "title": "Flevoland - Nieuwsoverzicht 22/07 | Woningen opgeleverd zonder elektriciteit • Bijval voor slagboomschroevers",
-        "link": "https://www.omroepflevoland.nl/nieuws/517517/nieuwsoverzicht-2207-or-woningen-opgeleverd-zonder-elektriciteit-*-bijval-voor-slagboomschroevers",
-        "published": "Wed, 22 Jul 2026 18:50:00 GMT+0200",
+        "title": "Rechter corrigeert minister: voor 2027 besluit over vergunning Lelystad Airport",
+        "link": "https://www.nu.nl/stikstof/6404650/rechter-corrigeert-minister-voor-2027-besluit-over-vergunning-lelystad-airport.html",
+        "published": "Tue, 28 Jul 2026 15:43:39 +0200",
         "summary": ""
       }
     ],

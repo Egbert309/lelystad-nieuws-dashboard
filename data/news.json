@@ -1,6 +1,14 @@
 {
-  "updated": "2026-07-30T17:28:15.926570+00:00",
+  "updated": "2026-07-30T18:25:41.478726+00:00",
   "sources": {
+    "Nu.nl": [
+      {
+        "title": "Rechter corrigeert minister: voor 2027 besluit over vergunning Lelystad Airport",
+        "link": "https://www.nu.nl/stikstof/6404650/rechter-corrigeert-minister-voor-2027-besluit-over-vergunning-lelystad-airport.html",
+        "published": "Tue, 28 Jul 2026 15:43:39 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Stad van 85.000 inwoners verloor zijn laatste boekwinkel, deze twee Lelystadse ondernemers pikken dat niet",
@@ -300,22 +308,6 @@
         "title": "Terwijl de familie zich zorgen maakt, slaat K. (24) toe in KPN-winkel: personeel vlucht kantoor in en slaat alarm",
         "link": "https://www.destentor.nl/lelystad/terwijl-de-familie-zich-zorgen-maakt-slaat-k-24-toe-in-kpn-winkel-personeel-vlucht-kantoor-in-en-slaat-alarm~add9c85a/",
         "published": "Mon, 13 Jul 2026 12:30:00 GMT",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Rechter corrigeert minister: voor 2027 besluit over vergunning Lelystad Airport",
-        "link": "https://www.nu.nl/stikstof/6404650/rechter-corrigeert-minister-voor-2027-besluit-over-vergunning-lelystad-airport.html",
-        "published": "Tue, 28 Jul 2026 15:43:39 +0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
-        "link": "https://nos.nl/l/2624679",
-        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
         "summary": ""
       }
     ],
@@ -623,6 +615,18 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Zeewolde - Twee auto's in de kreukels na botsing op kruising Gooiseweg, bestuurders met ambulance weggebracht",
+        "link": "https://www.omroepflevoland.nl/nieuws/518358/twee-auto's-in-de-kreukels-na-botsing-op-kruising-gooiseweg-bestuurders-met-ambulance-weggebracht",
+        "published": "Thu, 30 Jul 2026 20:22:59 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Explosie in opslagcontainer van accu- en batterij-inzamelaar, containerdeur kapot geblazen",
+        "link": "https://www.omroepflevoland.nl/nieuws/518363/explosie-in-opslagcontainer-van-accu-en-batterij-inzamelaar-containerdeur-kapot-geblazen",
+        "published": "Thu, 30 Jul 2026 19:29:32 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Flevoland - Nieuwsoverzicht 30/07: Duizenden scouts in aankomst • Misschien weer met de bus naar Enkhuizen",
         "link": "https://www.omroepflevoland.nl/nieuws/518334/nieuwsoverzicht-3007:-duizenden-scouts-in-aankomst-*-misschien-weer-met-de-bus-naar-enkhuizen",
         "published": "Thu, 30 Jul 2026 18:45:00 GMT+0200",
@@ -909,17 +913,13 @@
         "link": "https://www.omroepflevoland.nl/nieuws/517517/nieuwsoverzicht-2207-or-woningen-opgeleverd-zonder-elektriciteit-*-bijval-voor-slagboomschroevers",
         "published": "Wed, 22 Jul 2026 18:50:00 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Lelystad - Levert de droogte akkerbouwers een nieuw 'gouden jaar' op?",
-        "link": "https://www.omroepflevoland.nl/nieuws/517419/levert-de-droogte-akkerbouwers-een-nieuw-'gouden-jaar'-op",
-        "published": "Wed, 22 Jul 2026 13:52:21 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Laatste kanonnen uit de Batavia gehaald: tijdelijke verhuizing komt dichterbij",
-        "link": "https://www.omroepflevoland.nl/nieuws/517466/laatste-kanonnen-uit-de-batavia-gehaald:-tijdelijke-verhuizing-komt-dichterbij",
-        "published": "Wed, 22 Jul 2026 12:07:11 GMT+0200",
+        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
+        "link": "https://nos.nl/l/2624679",
+        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
         "summary": ""
       }
     ]

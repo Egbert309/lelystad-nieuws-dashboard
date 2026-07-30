@@ -1,6 +1,22 @@
 {
-  "updated": "2026-07-30T05:51:44.283086+00:00",
+  "updated": "2026-07-30T06:46:43.033662+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
+        "link": "https://nos.nl/l/2624679",
+        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Rechter corrigeert minister: voor 2027 besluit over vergunning Lelystad Airport",
+        "link": "https://www.nu.nl/stikstof/6404650/rechter-corrigeert-minister-voor-2027-besluit-over-vergunning-lelystad-airport.html",
+        "published": "Tue, 28 Jul 2026 15:43:39 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Met puntmuts op speuren naar kabouters bij Lelystad",
@@ -605,14 +621,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
-      {
-        "title": "Rechter corrigeert minister: voor 2027 besluit over vergunning Lelystad Airport",
-        "link": "https://www.nu.nl/stikstof/6404650/rechter-corrigeert-minister-voor-2027-besluit-over-vergunning-lelystad-airport.html",
-        "published": "Tue, 28 Jul 2026 15:43:39 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Hinder door vals alarm: Zilverparkgarage houdt buurt 's nachts uit de slaap",
@@ -912,14 +920,6 @@
         "title": "Lelystad - Massale steun voor neergeschoten poes Elly: geld voor operatie is binnen",
         "link": "https://www.omroepflevoland.nl/nieuws/517353/massale-steun-voor-neergeschoten-poes-elly:-geld-voor-operatie-is-binnen",
         "published": "Tue, 21 Jul 2026 13:59:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
-        "link": "https://nos.nl/l/2624679",
-        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
         "summary": ""
       }
     ]

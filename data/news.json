@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T00:16:18.631042+00:00",
+  "updated": "2026-08-01T01:30:58.006725+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -605,14 +605,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
-        "link": "https://nos.nl/l/2624679",
-        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
-        "summary": ""
-      }
-    ],
     "Nu.nl": [
       {
         "title": "Rechter corrigeert minister: voor 2027 besluit over vergunning Lelystad Airport",
@@ -920,6 +912,14 @@
         "title": "Meer mensen verhuisden vorig jaar naar Lelystad dan andersom, vooral veel nieuwkomers uit Almere",
         "link": "https://www.destentor.nl/lelystad/meer-mensen-verhuisden-vorig-jaar-naar-lelystad-dan-andersom-vooral-veel-nieuwkomers-uit-almere~ad98c5c2/",
         "published": "Wed, 15 Jul 2026 15:30:00 GMT",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
+        "link": "https://nos.nl/l/2624679",
+        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
         "summary": ""
       }
     ]

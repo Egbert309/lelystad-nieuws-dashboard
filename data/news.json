@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T12:16:17.457480+00:00",
+  "updated": "2026-08-01T13:27:41.892096+00:00",
   "sources": {
     "NOS": [
       {
@@ -10,6 +10,12 @@
       }
     ],
     "De Stentor": [
+      {
+        "title": "Illegale raveparty in Lelystad, gemeente doet oproep aan feestvierders",
+        "link": "https://www.destentor.nl/lelystad/illegale-raveparty-in-lelystad-gemeente-doet-oproep-aan-feestvierders~a11c9908/",
+        "published": "Sat, 01 Aug 2026 12:30:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Fietser (70) overlijdt na beknelling tussen auto en muur in Lelystad",
         "link": "https://www.destentor.nl/lelystad/fietser-70-overlijdt-na-beknelling-tussen-auto-en-muur-in-lelystad~a726cd14/",
@@ -302,12 +308,6 @@
         "title": "Vrouw (74) uit Dronten krijgt opvallend telefoontje, dankzij buurvrouw wordt oplichter gepakt",
         "link": "https://www.destentor.nl/dronten/vrouw-74-uit-dronten-krijgt-opvallend-telefoontje-dankzij-buurvrouw-wordt-oplichter-gepakt~a2fe16fd/",
         "published": "Wed, 15 Jul 2026 17:52:45 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Meer mensen verhuisden vorig jaar naar Lelystad dan andersom, vooral veel nieuwkomers uit Almere",
-        "link": "https://www.destentor.nl/lelystad/meer-mensen-verhuisden-vorig-jaar-naar-lelystad-dan-andersom-vooral-veel-nieuwkomers-uit-almere~ad98c5c2/",
-        "published": "Wed, 15 Jul 2026 15:30:00 GMT",
         "summary": ""
       }
     ],
@@ -623,6 +623,24 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Lelystad - Politie beëindigt illegaal feest in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/518528/politie-beeindigt-illegaal-feest-in-lelystad",
+        "published": "Sat, 01 Aug 2026 14:29:56 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Dronten - Paardenevenement Outdoor Dronten vertrouwd terrein voor ruiter Conan Wright: 'Echt een thuiswedstrijd'",
+        "link": "https://www.omroepflevoland.nl/sport/518314/paardenevenement-outdoor-dronten-vertrouwd-terrein-voor-ruiter-conan-wright:-'echt-een-thuiswedstrijd'",
+        "published": "Sat, 01 Aug 2026 14:16:21 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Veel animo voor isolatiesubsidie, maar gemeente waarschuwt voor opdringerige verkopers",
+        "link": "https://www.omroepflevoland.nl/nieuws/518440/veel-animo-voor-isolatiesubsidie-maar-gemeente-waarschuwt-voor-opdringerige-verkopers",
+        "published": "Sat, 01 Aug 2026 14:16:05 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Flevoland - 'Ierse klusjesmannen' nu ook gesignaleerd in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/518455/'ierse-klusjesmannen'-nu-ook-gesignaleerd-in-lelystad",
         "published": "Sat, 01 Aug 2026 12:00:00 GMT+0200",
@@ -902,24 +920,6 @@
         "title": "Lelystad - Twintigers voor rechter voor oplichting ouderen: 'Ik hoorde dat je zo snel geld kon verdienen'",
         "link": "https://www.omroepflevoland.nl/nieuws/517827/twintigers-voor-rechter-voor-oplichting-ouderen:-'ik-hoorde-dat-je-zo-snel-geld-kon-verdienen'",
         "published": "Sat, 25 Jul 2026 10:50:17 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - 'Ik heb spijt': Lelystedeling bekent oplichting van ouderen",
-        "link": "https://www.omroepflevoland.nl/nieuws/517827/'ik-heb-spijt':-lelystedeling-bekent-oplichting-van-ouderen",
-        "published": "Sat, 25 Jul 2026 10:50:17 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 24/07 | Schiphol investeert in Lelystad Airport • Hondentrainers geven aanzet tot onderzoek",
-        "link": "https://www.omroepflevoland.nl/nieuws/517722/nieuwsoverzicht-2407-or-schiphol-investeert-in-lelystad-airport-*-hondentrainers-geven-aanzet-tot-onderzoek",
-        "published": "Fri, 24 Jul 2026 17:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Kamperen met je buren: voorbereidingen in Sidhadorp in volle gang",
-        "link": "https://www.omroepflevoland.nl/nieuws/517758/kamperen-met-je-buren:-voorbereidingen-in-sidhadorp-in-volle-gang",
-        "published": "Fri, 24 Jul 2026 17:25:07 GMT+0200",
         "summary": ""
       }
     ]

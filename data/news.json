@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T14:28:22.980471+00:00",
+  "updated": "2026-08-02T15:20:40.011853+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -303,6 +303,8 @@
         "summary": ""
       }
     ],
+    "NOS": [],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Gemeente waarschuwt tegen misleiding door isolatiebedrijven",
@@ -906,8 +908,6 @@
         "published": "Fri, 17 Jul 2026 15:33:00 GMT",
         "summary": ""
       }
-    ],
-    "NOS": [],
-    "Nu.nl": []
+    ]
   }
 }

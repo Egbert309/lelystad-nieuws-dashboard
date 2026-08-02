@@ -1,14 +1,6 @@
 {
-  "updated": "2026-08-02T00:17:30.790480+00:00",
+  "updated": "2026-08-02T01:30:33.653145+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
-        "link": "https://nos.nl/l/2624679",
-        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Arrestatie bij illegale raveparty in Lelystad, gemeente overweegt maatregelen tegen organisatie",
@@ -311,11 +303,11 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
+    "NOS": [
       {
-        "title": "Rechter corrigeert minister: voor 2027 besluit over vergunning Lelystad Airport",
-        "link": "https://www.nu.nl/stikstof/6404650/rechter-corrigeert-minister-voor-2027-besluit-over-vergunning-lelystad-airport.html",
-        "published": "Tue, 28 Jul 2026 15:43:39 +0200",
+        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
+        "link": "https://nos.nl/l/2624679",
+        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
         "summary": ""
       }
     ],
@@ -618,6 +610,14 @@
         "title": "Lelystad - Buren boren gasleiding van woning stuk, brandweer moet deur forceren",
         "link": "https://www.omroepflevoland.nl/nieuws/517843/buren-boren-gasleiding-van-woning-stuk-brandweer-moet-deur-forceren",
         "published": "Sat, 25 Jul 2026 12:30:42 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Rechter corrigeert minister: voor 2027 besluit over vergunning Lelystad Airport",
+        "link": "https://www.nu.nl/stikstof/6404650/rechter-corrigeert-minister-voor-2027-besluit-over-vergunning-lelystad-airport.html",
+        "published": "Tue, 28 Jul 2026 15:43:39 +0200",
         "summary": ""
       }
     ],

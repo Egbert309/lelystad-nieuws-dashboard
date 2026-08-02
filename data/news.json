@@ -1,22 +1,6 @@
 {
-  "updated": "2026-08-02T04:13:02.826204+00:00",
+  "updated": "2026-08-02T05:58:24.324346+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Te weinig onderwijs, 22 uur op cel: 'Jeugdgevangenissen schenden kinderrechten'",
-        "link": "https://nos.nl/l/2624679",
-        "published": "Tue, 28 Jul 2026 07:00:01 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Rechter corrigeert minister: voor 2027 besluit over vergunning Lelystad Airport",
-        "link": "https://www.nu.nl/stikstof/6404650/rechter-corrigeert-minister-voor-2027-besluit-over-vergunning-lelystad-airport.html",
-        "published": "Tue, 28 Jul 2026 15:43:39 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Arrestatie bij illegale raveparty in Lelystad, gemeente overweegt maatregelen tegen organisatie",
@@ -319,6 +303,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Gemeente waarschuwt tegen misleiding door isolatiebedrijven",
@@ -618,6 +603,14 @@
         "title": "De koning viert volgend jaar zijn 60ste verjaardag in Lelystad - dat dan ook 60 wordt",
         "link": "https://radiolelystad.nl/de-koning-viert-zijn-verjaardag-volgend-jaar-in-lelystad-met-zijn-familie",
         "published": "maandag 06 juli 2026",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Rechter corrigeert minister: voor 2027 besluit over vergunning Lelystad Airport",
+        "link": "https://www.nu.nl/stikstof/6404650/rechter-corrigeert-minister-voor-2027-besluit-over-vergunning-lelystad-airport.html",
+        "published": "Tue, 28 Jul 2026 15:43:39 +0200",
         "summary": ""
       }
     ],

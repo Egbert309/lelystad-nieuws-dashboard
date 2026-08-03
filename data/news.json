@@ -1,6 +1,7 @@
 {
-  "updated": "2026-08-03T12:02:32.791530+00:00",
+  "updated": "2026-08-03T13:48:55.750066+00:00",
   "sources": {
+    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Weekweerbericht: Na een paar tropische dagen volgt verkoeling met lokaal een bui",
@@ -605,9 +606,14 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Nu.nl": [],
     "Radio Lelystad": [
+      {
+        "title": "Zorgen bij Jong Lelystad over giftige aronskelk in openbaar groen",
+        "link": "https://radiolelystad.nl/zorgen-bij-jong-lelystad-over-giftige-aronskelk-in-openbaar-groen",
+        "published": "maandag 03 augustus 2026",
+        "summary": ""
+      },
       {
         "title": "Dinsdagavondsalon Radio Lelystad viert jubileum met gedichtenwedstrijd",
         "link": "https://radiolelystad.nl/dinsdagavondsalon-radio-lelystad-viert-jubileum-met-gedichtenwedstrijd",
@@ -899,12 +905,6 @@
       {
         "title": "Hajé probeert via Raad van State alsnog laadpalen en drive-thru langs A6  te krijgen",
         "link": "https://radiolelystad.nl/haje-probeert-via-raad-van-state-alsnog-laadpalen-en-drive-thru-te-krijgen",
-        "published": "dinsdag 07 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Jong Lelystad zou in de zomer graag de vuilniswagen wat vaker langs zien komen",
-        "link": "https://radiolelystad.nl/jong-lelystad-wil-in-de-zomer-de-vuilniswagen-vaker-langs-zien-komen",
         "published": "dinsdag 07 juli 2026",
         "summary": ""
       }

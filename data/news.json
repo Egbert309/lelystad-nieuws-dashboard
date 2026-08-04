@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T17:30:14.266813+00:00",
+  "updated": "2026-08-04T18:28:08.037793+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,7 +303,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Gemeente na kritiek: We grepen in bij raveparty  vanwege zorgen over veiligheid",
@@ -606,8 +605,13 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 04/08 | 'Vrees niet voor giftig plantje' • Slopen? 'Niet doen, het is erfgoed!'",
+        "link": "https://www.omroepflevoland.nl/nieuws/518831/nieuwsoverzicht-0408-or-'vrees-niet-voor-giftig-plantje'-*-slopen-'niet-doen-het-is-erfgoed!'",
+        "published": "Tue, 04 Aug 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Raadsvragen over giftige aronskelk, maar deze boswachter haalt zijn schouders erbij op: 'Groeit hier al jaren'",
         "link": "https://www.omroepflevoland.nl/nieuws/518807/raadsvragen-over-giftige-aronskelk-maar-deze-boswachter-haalt-zijn-schouders-erbij-op:-'groeit-hier-al-jaren'",
@@ -901,13 +905,9 @@
         "link": "https://www.omroepflevoland.nl/nieuws/518032/nieuwsoverzicht-2707-or-'fabriek-als-oplossing-woningnood'-*-mysterie-rond-gecrashte-auto",
         "published": "Mon, 27 Jul 2026 18:45:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - 19-jarige bestuurder aangehouden na mishandeling tijdens verkeersruzie in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/518034/19-jarige-bestuurder-aangehouden-na-mishandeling-tijdens-verkeersruzie-in-lelystad",
-        "published": "Mon, 27 Jul 2026 16:41:57 GMT+0200",
-        "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": [],
+    "NOS": []
   }
 }

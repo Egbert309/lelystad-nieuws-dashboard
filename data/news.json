@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T07:49:07.887754+00:00",
+  "updated": "2026-08-04T08:52:18.841347+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -303,6 +303,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Nu.nl": [],
     "De Stentor": [
       {
@@ -907,7 +908,6 @@
         "published": "dinsdag 07 juli 2026",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

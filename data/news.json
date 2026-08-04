@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T06:48:04.491727+00:00",
+  "updated": "2026-08-04T07:49:07.887754+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -21,7 +21,7 @@
         "summary": ""
       },
       {
-        "title": "Flevoland - 'Diepe treurnis' bij Heemschut over sloopplan Getronics-panden: 'Lelystads erfgoed'",
+        "title": "Lelystad - 'Diepe treurnis' bij Heemschut over sloopplan Getronics-panden: 'Lelystads erfgoed'",
         "link": "https://www.omroepflevoland.nl/nieuws/518716/'diepe-treurnis'-bij-heemschut-over-sloopplan-getronics-panden:-'lelystads-erfgoed'",
         "published": "Tue, 04 Aug 2026 06:03:00 GMT+0200",
         "summary": ""
@@ -606,7 +606,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Zorgen bij Jong Lelystad over giftige Italiaanse aronskelk in openbaar groen",
@@ -908,6 +907,7 @@
         "published": "dinsdag 07 juli 2026",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": []
   }
 }

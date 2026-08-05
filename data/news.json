@@ -1,6 +1,7 @@
 {
-  "updated": "2026-08-05T04:02:45.671373+00:00",
+  "updated": "2026-08-05T05:53:22.754695+00:00",
   "sources": {
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Gemeente na kritiek: We grepen in bij raveparty  vanwege zorgen over veiligheid",
@@ -303,8 +304,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Zaterdagmarkt in Lelystad naar andere locatie vanwege Zomerparade",
@@ -609,6 +608,18 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Lelystad - Bewoners De Stelling willen parkeerbeleid aangepast: 'We betalen, maar hebben vaak geen plek'",
+        "link": "https://www.omroepflevoland.nl/nieuws/518823/bewoners-de-stelling-willen-parkeerbeleid-aangepast:-'we-betalen-maar-hebben-vaak-geen-plek'",
+        "published": "Wed, 05 Aug 2026 07:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Vakantie te duur? Summer's Cool biedt kinderen vakantie dichtbij huis",
+        "link": "https://www.omroepflevoland.nl/nieuws/518710/vakantie-te-duur-summer's-cool-biedt-kinderen-vakantie-dichtbij-huis",
+        "published": "Wed, 05 Aug 2026 06:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Flevoland - 'Kijk bij versterking Ketelmeerdijk meer naar natuur en verkeer'",
         "link": "https://www.omroepflevoland.nl/nieuws/518806/'kijk-bij-versterking-ketelmeerdijk-meer-naar-natuur-en-verkeer'",
         "published": "Tue, 04 Aug 2026 20:46:00 GMT+0200",
@@ -895,19 +906,8 @@
         "link": "https://www.omroepflevoland.nl/nieuws/518107/rechter:-minister-moet-in-december-besluiten-over-natuurvergunning-lelystad-airport",
         "published": "Tue, 28 Jul 2026 13:02:35 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Inspecties zeer kritisch over jeugdgevangenis Lelystad: veiligheid en behandeling al jaren onder druk",
-        "link": "https://www.omroepflevoland.nl/nieuws/518095/inspecties-zeer-kritisch-over-jeugdgevangenis-lelystad:-veiligheid-en-behandeling-al-jaren-onder-druk",
-        "published": "Tue, 28 Jul 2026 12:40:34 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Inspectie zeer kritisch over jeugdgevangenis Lelystad: veiligheid en behandeling al jaren onder druk",
-        "link": "https://www.omroepflevoland.nl/nieuws/518095/inspectie-zeer-kritisch-over-jeugdgevangenis-lelystad:-veiligheid-en-behandeling-al-jaren-onder-druk",
-        "published": "Tue, 28 Jul 2026 12:40:34 GMT+0200",
-        "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

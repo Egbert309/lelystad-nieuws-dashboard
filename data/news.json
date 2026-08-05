@@ -1,7 +1,6 @@
 {
-  "updated": "2026-08-05T20:27:59.804074+00:00",
+  "updated": "2026-08-05T21:23:01.227003+00:00",
   "sources": {
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Deze strijder komt nu pas terug van de bekendste oorlogsmusical van ons land",
@@ -606,7 +605,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Taakstraf na aanslag op restaurant, waarbij dader de benzine mengde met water",
@@ -908,6 +906,8 @@
         "published": "vrijdag 10 juli 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": [],
+    "NOS": []
   }
 }

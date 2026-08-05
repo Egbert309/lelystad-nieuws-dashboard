@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T00:17:40.803548+00:00",
+  "updated": "2026-08-05T01:30:50.642306+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -605,6 +605,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Gemeente na kritiek: We grepen in bij raveparty  vanwege zorgen over veiligheid",
@@ -907,7 +908,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": []
+    "Nu.nl": []
   }
 }

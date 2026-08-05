@@ -1,7 +1,14 @@
 {
-  "updated": "2026-08-05T08:51:36.715478+00:00",
+  "updated": "2026-08-05T09:50:19.241343+00:00",
   "sources": {
+    "NOS": [],
     "Radio Lelystad": [
+      {
+        "title": "Taakstraf na aanslag op restaurant, waarbij dader de benzine mengde met water",
+        "link": "https://radiolelystad.nl/taakstraf-na-aanslag-op-restaurant-waarbij-dader-de-benzine-mengde-met-water",
+        "published": "woensdag 05 augustus 2026",
+        "summary": ""
+      },
       {
         "title": "Gedicht van de week: Erbarme dich (Jeroen van Belville)",
         "link": "https://radiolelystad.nl/gedicht-van-de-week-erbarme-dich-jeroen-van-belville",
@@ -293,12 +300,6 @@
       {
         "title": "Busmaatschappij EBS kan stadsdienst niet volhouden zonder extra geld provincie",
         "link": "https://radiolelystad.nl/busmaatschappij-ebs-kan-stadsdienst-niet-volhouden-zonder-extra-geld-provincie",
-        "published": "donderdag 09 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Hoogste punt Spoordokflats bereikt, begin volgend jaar in de verhuur",
-        "link": "https://radiolelystad.nl/hoogste-punt-spoordokflats-bereikt-begin-volgend-jaar-in-de-verhuur",
         "published": "donderdag 09 juli 2026",
         "summary": ""
       }
@@ -605,8 +606,13 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "De Stentor": [
+      {
+        "title": "Afgelopen week 35 meldingen van de gemeente over sloop en verkeer in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/afgelopen-week-35-meldingen-van-de-gemeente-over-sloop-en-verkeer-in-lelystad~a8caece3/",
+        "published": "Wed, 05 Aug 2026 09:01:38 GMT",
+        "summary": ""
+      },
       {
         "title": "Zaterdagmarkt in Lelystad naar andere locatie vanwege Zomerparade",
         "link": "https://www.destentor.nl/lelystad/zaterdagmarkt-in-lelystad-naar-andere-locatie-vanwege-zomerparade~a8f19e22/",
@@ -899,12 +905,6 @@
         "title": "Heb jij Milo, Mickey of Momo gezien? Deze vijf huisdieren worden in Lelystad vermist",
         "link": "https://www.destentor.nl/lelystad/heb-jij-milo-mickey-of-momo-gezien-deze-vijf-huisdieren-worden-in-lelystad-vermist~a224fa3a/",
         "published": "Sun, 19 Jul 2026 09:11:06 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Meer nieuwkomers vanuit het buitenland dan emigranten in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/meer-nieuwkomers-vanuit-het-buitenland-dan-emigranten-in-lelystad~a13c19b7/",
-        "published": "Sun, 19 Jul 2026 04:01:00 GMT",
         "summary": ""
       }
     ],

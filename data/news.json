@@ -1,7 +1,6 @@
 {
-  "updated": "2026-08-05T07:49:42.017739+00:00",
+  "updated": "2026-08-05T08:51:36.715478+00:00",
   "sources": {
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Gedicht van de week: Erbarme dich (Jeroen van Belville)",
@@ -304,7 +303,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Lelystedeling (18) krijgt taakstraf en celstraf voor explosie bij Amsterdams restaurant",
@@ -607,6 +605,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "De Stentor": [
       {
         "title": "Zaterdagmarkt in Lelystad naar andere locatie vanwege Zomerparade",
@@ -908,6 +907,7 @@
         "published": "Sun, 19 Jul 2026 04:01:00 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

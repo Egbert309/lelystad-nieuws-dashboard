@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-06T07:49:40.526937+00:00",
+  "updated": "2026-08-06T08:52:02.267329+00:00",
   "sources": {
     "Radio Lelystad": [
+      {
+        "title": "Het was druk in het Stadshart - en er was ook iets engs te doen (video)",
+        "link": "https://radiolelystad.nl/het-was-druk-in-het-stadshart-en-er-was-ook-iets-engs-te-doen-video",
+        "published": "donderdag 06 augustus 2026",
+        "summary": ""
+      },
       {
         "title": "Taakstraf na aanslag op restaurant, waarbij dader de benzine mengde met water",
         "link": "https://radiolelystad.nl/taakstraf-na-aanslag-op-restaurant-waarbij-dader-de-benzine-mengde-met-water",
@@ -295,16 +301,8 @@
         "link": "https://radiolelystad.nl/amateurtheater-kan-aan-de-slag-met-verduurzamen-de-tien-mille-van-de-anwb-is-er",
         "published": "vrijdag 10 juli 2026",
         "summary": ""
-      },
-      {
-        "title": "Brand verwoest twee geparkeerde auto's in de  Fjord, derde raakt beschadigd",
-        "link": "https://radiolelystad.nl/brand-verwoest-twee-geparkeerde-autos-in-fjord-derde-beschadigd",
-        "published": "vrijdag 10 juli 2026",
-        "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Historicus Ed Voigt verzamelde veel documenten over Cornelis Lely en nu zichtbaar voor iedereen",
@@ -319,7 +317,7 @@
         "summary": ""
       },
       {
-        "title": "Flevoland - Nieuwsoverzicht 05/08 | Explosieve groei fastfoodzaken •  Roep om actie na brand",
+        "title": "Flevoland - Nieuwsoverzicht 05/08 | Explosieve groei fastfoodzaken • Roep om actie na brand",
         "link": "https://www.omroepflevoland.nl/nieuws/518961/nieuwsoverzicht-0508-or-explosieve-groei-fastfoodzaken-*-roep-om-actie-na-brand",
         "published": "Wed, 05 Aug 2026 18:55:00 GMT+0200",
         "summary": ""
@@ -908,6 +906,8 @@
         "published": "Tue, 21 Jul 2026 15:31:00 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": [],
+    "NOS": []
   }
 }

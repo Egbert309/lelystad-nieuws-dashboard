@@ -1,9 +1,15 @@
 {
-  "updated": "2026-08-06T08:52:02.267329+00:00",
+  "updated": "2026-08-06T09:51:20.972397+00:00",
   "sources": {
     "Radio Lelystad": [
       {
-        "title": "Het was druk in het Stadshart - en er was ook iets engs te doen (video)",
+        "title": "Wie iets vindt over fietsen stallen in het centrum, kan dat zaterdag kwijt",
+        "link": "https://radiolelystad.nl/wie-iets-vindt-over-fietsen-stallen-in-het-centrum-kan-dat-zaterdag-kwijt",
+        "published": "donderdag 06 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Het was druk in het Stadshart - en er was ook iets heel erg engs te doen (video)",
         "link": "https://radiolelystad.nl/het-was-druk-in-het-stadshart-en-er-was-ook-iets-engs-te-doen-video",
         "published": "donderdag 06 augustus 2026",
         "summary": ""
@@ -294,12 +300,6 @@
         "title": "Vijftien partijen starten Flevoland Urban Collectief",
         "link": "https://radiolelystad.nl/vijftien-partijen-starten-flevoland-urban-collectief",
         "published": "maandag 13 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Amateurtheater kan aan de slag met verduurzamen, de tien mille van de ANWB is er",
-        "link": "https://radiolelystad.nl/amateurtheater-kan-aan-de-slag-met-verduurzamen-de-tien-mille-van-de-anwb-is-er",
-        "published": "vrijdag 10 juli 2026",
         "summary": ""
       }
     ],
@@ -907,7 +907,7 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": []
+    "NOS": [],
+    "Nu.nl": []
   }
 }

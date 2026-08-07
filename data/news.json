@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T07:27:04.590377+00:00",
+  "updated": "2026-08-07T08:21:02.131202+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,11 +303,18 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Van onverkoopbaar naar gewild: opgeslagen aardappels leveren weer geld op",
         "link": "https://www.omroepflevoland.nl/nieuws/519070/van-onverkoopbaar-naar-gewild:-opgeslagen-aardappels-leveren-weer-geld-op",
         "published": "Fri, 07 Aug 2026 07:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 06/08 | Verzameling Cornelis Lely openbaar • Geen waarschuwing giftige planten",
+        "link": "https://www.omroepflevoland.nl/nieuws/519055/nieuwsoverzicht-0608-or-verzameling-cornelis-lely-openbaar-*-geen-waarschuwing-giftige-planten",
+        "published": "Thu, 06 Aug 2026 18:55:00 GMT+0200",
         "summary": ""
       },
       {
@@ -597,15 +604,9 @@
         "link": "https://www.omroepflevoland.nl/nieuws/518307/busverbinding-lelystad-enkhuizen-keert-mogelijk-terug",
         "published": "Thu, 30 Jul 2026 13:28:18 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Vliegtuig met rol in Soldaat van Oranje keert terug naar Aviodrome",
-        "link": "https://www.omroepflevoland.nl/nieuws/518303/vliegtuig-met-rol-in-soldaat-van-oranje-keert-terug-naar-aviodrome",
-        "published": "Thu, 30 Jul 2026 11:52:01 GMT+0200",
-        "summary": ""
       }
     ],
-    "NOS": [],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Vermeend lid jeugdbende Lelystad knipt enkelband door en vlucht voor politie",
@@ -907,7 +908,6 @@
         "published": "Wed, 22 Jul 2026 15:31:00 GMT",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T19:19:03.555220+00:00",
+  "updated": "2026-08-07T20:12:27.533496+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,7 +303,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 07/08 | Vinger verloren in Walibi • Jaar na moord op Boushra",
@@ -606,7 +605,7 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Droogte leidt tot onvermijdelijke vissterfte in de Oostvaardersplassen",
@@ -908,6 +907,7 @@
         "published": "maandag 13 juli 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

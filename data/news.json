@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-07T11:14:28.502170+00:00",
+  "updated": "2026-08-07T12:11:59.036057+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Enkelband doorgeknipt: verdachte Kempenaargroep voortvluchtig",
+        "link": "https://www.omroepflevoland.nl/nieuws/519165/enkelband-doorgeknipt:-verdachte-kempenaargroep-voortvluchtig",
+        "published": "Fri, 07 Aug 2026 13:39:09 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Van onverkoopbaar naar gewild: opgeslagen aardappels leveren weer geld op",
         "link": "https://www.omroepflevoland.nl/nieuws/519070/van-onverkoopbaar-naar-gewild:-opgeslagen-aardappels-leveren-weer-geld-op",
@@ -293,12 +299,6 @@
       {
         "title": "Lelystad - De bus tussen Lelystad en Enkhuizen is volgend jaar zomer mogelijk terug van weggeweest",
         "link": "https://www.omroepflevoland.nl/nieuws/518307/de-bus-tussen-lelystad-en-enkhuizen-is-volgend-jaar-zomer-mogelijk-terug-van-weggeweest",
-        "published": "Thu, 30 Jul 2026 13:28:18 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Busverbinding Lelystad - Enkhuizen keert mogelijk terug",
-        "link": "https://www.omroepflevoland.nl/nieuws/518307/busverbinding-lelystad-enkhuizen-keert-mogelijk-terug",
         "published": "Thu, 30 Jul 2026 13:28:18 GMT+0200",
         "summary": ""
       }
@@ -605,7 +605,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Vermeend lid jeugdbende Lelystad knipt enkelband door en vlucht voor politie",
@@ -908,6 +907,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "NOS": []
   }
 }

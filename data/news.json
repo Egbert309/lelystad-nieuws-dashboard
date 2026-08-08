@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-08T13:17:13.898304+00:00",
+  "updated": "2026-08-08T14:09:40.034071+00:00",
   "sources": {
-    "Nu.nl": [],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Droogte leidt tot onvermijdelijke vissterfte in de Oostvaardersplassen",
@@ -606,7 +606,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "De Stentor": [
       {
         "title": "Zomerparade gaat sportief van start in Lelystad met straatvoetbal en basketbal",
@@ -908,6 +907,7 @@
         "published": "Wed, 22 Jul 2026 16:00:00 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

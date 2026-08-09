@@ -1,8 +1,6 @@
 {
-  "updated": "2026-08-09T14:10:14.838182+00:00",
+  "updated": "2026-08-09T15:06:12.976816+00:00",
   "sources": {
-    "Nu.nl": [],
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Varkenshouder, restaurant en autobandenhandelaar: deze 13 bedrijven gingen failliet in juni en juli",
@@ -607,6 +605,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Droogte leidt tot onvermijdelijke vissterfte in de Oostvaardersplassen",
@@ -908,6 +907,7 @@
         "published": "maandag 13 juli 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

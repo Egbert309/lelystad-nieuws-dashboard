@@ -1,6 +1,7 @@
 {
-  "updated": "2026-08-09T00:04:59.693553+00:00",
+  "updated": "2026-08-09T01:28:53.190285+00:00",
   "sources": {
+    "NOS": [],
     "De Stentor": [
       {
         "title": "Zomerparade gaat sportief van start in Lelystad met straatvoetbal en basketbal",
@@ -303,6 +304,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Brandalarm keer op keer misbruikt in Zilverparkgarage: Parkeerservice geeft politie camerabeelden",
@@ -906,8 +908,6 @@
         "published": "maandag 13 juli 2026",
         "summary": ""
       }
-    ],
-    "NOS": [],
-    "Nu.nl": []
+    ]
   }
 }

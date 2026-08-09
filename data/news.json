@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-09T21:06:33.461453+00:00",
+  "updated": "2026-08-09T22:04:54.403894+00:00",
   "sources": {
-    "Nu.nl": [],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Droogte leidt tot onvermijdelijke vissterfte in de Oostvaardersplassen",
@@ -908,6 +908,6 @@
         "summary": ""
       }
     ],
-    "NOS": []
+    "Nu.nl": []
   }
 }

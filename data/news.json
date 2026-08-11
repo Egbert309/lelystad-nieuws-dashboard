@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T00:06:23.204655+00:00",
+  "updated": "2026-08-11T01:28:56.325533+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -605,8 +605,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - In de rij voor de laatste brillen voor de zonsverduistering: 'Heb hier een uur voor gereden'",
@@ -908,6 +906,8 @@
         "published": "Fri, 31 Jul 2026 05:45:00 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [],
+    "Nu.nl": []
   }
 }

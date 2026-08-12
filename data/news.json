@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T19:21:11.399537+00:00",
+  "updated": "2026-08-12T20:11:27.066612+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -12,6 +12,12 @@
         "title": "Lelystad - Palletbedrijf wil graag terugkeren nadat pand in de as is gelegd: 'Lijkt wel ground zero'",
         "link": "https://www.omroepflevoland.nl/nieuws/519788/palletbedrijf-wil-graag-terugkeren-nadat-pand-in-de-as-is-gelegd:-'lijkt-wel-ground-zero'",
         "published": "Wed, 12 Aug 2026 18:22:28 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Duizenden Flevolanders genieten langs het water van de eclips, verkeersdrukte zonder ongelukken",
+        "link": "https://www.omroepflevoland.nl/nieuws/519770/duizenden-flevolanders-genieten-langs-het-water-van-de-eclips-verkeersdrukte-zonder-ongelukken",
+        "published": "Wed, 12 Aug 2026 16:55:03 GMT+0200",
         "summary": ""
       },
       {
@@ -293,12 +299,6 @@
       {
         "title": "Lelystad - Deze vervallen kantoorpanden slopen? 'Niet doen, het is erfgoed'",
         "link": "https://www.omroepflevoland.nl/nieuws/518716/deze-vervallen-kantoorpanden-slopen-'niet-doen-het-is-erfgoed'",
-        "published": "Tue, 04 Aug 2026 06:03:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - 'Diepe treurnis' bij Heemschut over sloopplan Getronics-panden: 'Lelystads erfgoed'",
-        "link": "https://www.omroepflevoland.nl/nieuws/518716/'diepe-treurnis'-bij-heemschut-over-sloopplan-getronics-panden:-'lelystads-erfgoed'",
         "published": "Tue, 04 Aug 2026 06:03:00 GMT+0200",
         "summary": ""
       }
@@ -619,14 +619,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
-      {
-        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
-        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
-        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
       {
         "title": "Zorgen over mogelijke verschraling van Natuurpark en bezoek Oostvaardersplassen",
@@ -926,6 +918,14 @@
         "title": "Blauwalg  in water bij hondenstrandje Bultpark, kan voor honden dodelijk zijn",
         "link": "https://radiolelystad.nl/blauwalg-in-water-bij-hondenstrandje-woldpark-kan-voor-honden-dodelijk-zijn",
         "published": "maandag 20 juli 2026",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
+        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
+        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
         "summary": ""
       }
     ]

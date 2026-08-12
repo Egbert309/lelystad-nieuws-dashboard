@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T23:12:50.388876+00:00",
+  "updated": "2026-08-12T00:10:18.754413+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -300,6 +300,28 @@
         "title": "Dronten - Paardenevenement Outdoor Dronten vertrouwd terrein voor ruiter Conan Wright: 'Echt een thuiswedstrijd'",
         "link": "https://www.omroepflevoland.nl/sport/518314/paardenevenement-outdoor-dronten-vertrouwd-terrein-voor-ruiter-conan-wright:-'echt-een-thuiswedstrijd'",
         "published": "Sat, 01 Aug 2026 14:16:21 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
+        "link": "https://nos.nl/l/2626370",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
+        "link": "https://nos.nl/l/2626360",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
+        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
+        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
         "summary": ""
       }
     ],
@@ -904,28 +926,6 @@
         "title": "Verkoop gebouw voormalig Getronics voor woningbouw is afgerond",
         "link": "https://radiolelystad.nl/verkoop-gebouw-voormalig-getronics-voor-woningbouw-is-afgerond",
         "published": "donderdag 16 juli 2026",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
-        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
-        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
-        "link": "https://nos.nl/l/2626370",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
-        "link": "https://nos.nl/l/2626360",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
         "summary": ""
       }
     ]

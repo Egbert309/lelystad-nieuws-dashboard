@@ -1,20 +1,6 @@
 {
-  "updated": "2026-08-12T16:15:36.144421+00:00",
+  "updated": "2026-08-12T17:17:36.065014+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
-        "link": "https://nos.nl/l/2626370",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
-        "link": "https://nos.nl/l/2626360",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
       {
         "title": "Zorgen over mogelijke verschraling van Natuurpark en bezoek Oostvaardersplassen",
@@ -317,7 +303,41 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [
+      {
+        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
+        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
+        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
+        "link": "https://nos.nl/l/2626370",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
+        "link": "https://nos.nl/l/2626360",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 12/08 | Onrust in Natuurpark Lelystad • Nawaka goed verlopen",
+        "link": "https://www.omroepflevoland.nl/nieuws/519528/nieuwsoverzicht-1208-or-onrust-in-natuurpark-lelystad-*-nawaka-goed-verlopen",
+        "published": "Wed, 12 Aug 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Palletbedrijf wil graag terugkeren nadat pand in de as is gelegd: 'Lijkt wel ground zero'",
+        "link": "https://www.omroepflevoland.nl/nieuws/519788/palletbedrijf-wil-graag-terugkeren-nadat-pand-in-de-as-is-gelegd:-'lijkt-wel-ground-zero'",
+        "published": "Wed, 12 Aug 2026 18:22:28 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Onrust over toekomst Natuurpark Lelystad: dieren weg, camping erbij?",
         "link": "https://www.omroepflevoland.nl/nieuws/519616/onrust-over-toekomst-natuurpark-lelystad:-dieren-weg-camping-erbij",
@@ -604,26 +624,6 @@
         "title": "Lelystad - Gewonde na aanrijding op de Westerdreef in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/518732/gewonde-na-aanrijding-op-de-westerdreef-in-lelystad",
         "published": "Mon, 03 Aug 2026 19:16:10 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Gewonde na aanrijding op de Westerdreef in Lelystad, weg afgesloten",
-        "link": "https://www.omroepflevoland.nl/nieuws/518732/gewonde-na-aanrijding-op-de-westerdreef-in-lelystad-weg-afgesloten",
-        "published": "Mon, 03 Aug 2026 19:16:10 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Weekweerbericht: Na een paar tropische dagen volgt verkoeling met lokaal een bui",
-        "link": "https://www.omroepflevoland.nl/nieuws/518683/weekweerbericht:-na-een-paar-tropische-dagen-volgt-verkoeling-met-lokaal-een-bui",
-        "published": "Mon, 03 Aug 2026 12:44:37 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
-        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
-        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
         "summary": ""
       }
     ],

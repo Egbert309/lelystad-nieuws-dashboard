@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T14:24:07.948161+00:00",
+  "updated": "2026-08-12T15:17:55.537115+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -300,6 +300,20 @@
         "title": "Zagen en timmeren in de vakantie, de huttenbouwweek is terug  (video)",
         "link": "https://radiolelystad.nl/zagen-en-timmeren-in-de-vakantie-de-huttenbouwweek-is-terug-video",
         "published": "maandag 20 juli 2026",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
+        "link": "https://nos.nl/l/2626370",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
+        "link": "https://nos.nl/l/2626360",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
         "summary": ""
       }
     ],
@@ -605,29 +619,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
+    "De Stentor": [
       {
-        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
-        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
-        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
-        "link": "https://nos.nl/l/2626370",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "title": "Zo ziet het er een dag na de verwoestende brand uit in Lelystad: oorzaak niet meer te achterhalen",
+        "link": "https://www.destentor.nl/lelystad/zo-ziet-het-er-een-dag-na-de-verwoestende-brand-uit-in-lelystad-oorzaak-niet-meer-te-achterhalen~ab5ef81a/",
+        "published": "Wed, 12 Aug 2026 13:46:00 GMT",
         "summary": ""
       },
-      {
-        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
-        "link": "https://nos.nl/l/2626360",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
-        "summary": ""
-      }
-    ],
-    "De Stentor": [
       {
         "title": "Van bedrijf in Lelystad is na verwoestende brand niets meer over, de oorzaak is niet meer te achterhalen",
         "link": "https://www.destentor.nl/lelystad/van-bedrijf-in-lelystad-is-na-verwoestende-brand-niets-meer-over-de-oorzaak-is-niet-meer-te-achterhalen~ab5ef81a/",
@@ -921,11 +919,13 @@
         "link": "https://www.destentor.nl/lelystad/angelique-44-heeft-geen-geld-voor-het-buitenland-dus-gaat-ze-met-dochter-emma-5-naar-een-tent-op-het-grasveld-in-haar-stad~aa114f50/",
         "published": "Sat, 25 Jul 2026 15:13:00 GMT",
         "summary": ""
-      },
+      }
+    ],
+    "Nu.nl": [
       {
-        "title": "Geen geld voor het buitenland? In Lelystad gaan buren samen kamperen: ‘Mensen kijken hier echt naar uit’",
-        "link": "https://www.destentor.nl/lelystad/geen-geld-voor-het-buitenland-in-lelystad-gaan-buren-samen-kamperen-mensen-kijken-hier-echt-naar-uit~aa114f50/",
-        "published": "Sat, 25 Jul 2026 15:13:00 GMT",
+        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
+        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
+        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
         "summary": ""
       }
     ]

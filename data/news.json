@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-13T04:32:42.471060+00:00",
+  "updated": "2026-08-13T05:29:21.420513+00:00",
   "sources": {
+    "Nu.nl": [
+      {
+        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
+        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
+        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
+        "link": "https://nos.nl/l/2626370",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
+        "link": "https://nos.nl/l/2626360",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
+      {
+        "title": "Huizenprijzen in Lelystad afgelopen jaar relatief weinig gestegen",
+        "link": "https://www.destentor.nl/lelystad/huizenprijzen-in-lelystad-afgelopen-jaar-relatief-weinig-gestegen~af91a590/",
+        "published": "Thu, 13 Aug 2026 05:00:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Bijna twee keer zo veel sportscholen in Lelystad, maar nog altijd evenveel mensen die genoeg bewegen",
         "link": "https://www.destentor.nl/lelystad/bijna-twee-keer-zo-veel-sportscholen-in-lelystad-maar-nog-altijd-evenveel-mensen-die-genoeg-bewegen~a42db03c/",
@@ -293,12 +321,6 @@
       {
         "title": "Beschoten kat Elly is geopereerd dankzij gulle giften: ze moet verder met drie pootjes",
         "link": "https://www.destentor.nl/lelystad/beschoten-kat-elly-is-geopereerd-dankzij-gulle-giften-ze-moet-verder-met-drie-pootjes~a27b762b/",
-        "published": "Sun, 26 Jul 2026 07:56:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Pootje van Elly tóch geamputeerd: ‘Was niet meer te redden’",
-        "link": "https://www.destentor.nl/lelystad/pootje-van-elly-toch-geamputeerd-was-niet-meer-te-redden~a27b762b/",
         "published": "Sun, 26 Jul 2026 07:56:00 GMT",
         "summary": ""
       }
@@ -605,15 +627,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
-      {
-        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
-        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
-        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Verder onderzoek naar verdachte van brandstichting en belaging na liefdesverdriet",
+        "link": "https://www.omroepflevoland.nl/nieuws/519737/verder-onderzoek-naar-verdachte-van-brandstichting-en-belaging-na-liefdesverdriet",
+        "published": "Thu, 13 Aug 2026 06:44:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 12/08 | Onrust in Natuurpark Lelystad • Nawaka goed verlopen",
         "link": "https://www.omroepflevoland.nl/nieuws/519528/nieuwsoverzicht-1208-or-onrust-in-natuurpark-lelystad-*-nawaka-goed-verlopen",
@@ -906,26 +926,6 @@
         "title": "Lelystad - Geen aanwijzingen voor brandstichting na brand bij partycentrum Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/518765/geen-aanwijzingen-voor-brandstichting-na-brand-bij-partycentrum-lelystad",
         "published": "Tue, 04 Aug 2026 07:09:24 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Deze vervallen kantoorpanden slopen? 'Niet doen, het is erfgoed'",
-        "link": "https://www.omroepflevoland.nl/nieuws/518716/deze-vervallen-kantoorpanden-slopen-'niet-doen-het-is-erfgoed'",
-        "published": "Tue, 04 Aug 2026 06:03:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
-        "link": "https://nos.nl/l/2626370",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
-        "link": "https://nos.nl/l/2626360",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
         "summary": ""
       }
     ]

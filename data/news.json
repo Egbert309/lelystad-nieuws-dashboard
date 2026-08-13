@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T17:17:20.449600+00:00",
+  "updated": "2026-08-13T18:14:50.183166+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -300,26 +300,6 @@
         "title": "Taxichauffeur slaat verkeersregelaar (70+) uit Lelystad ziekenhuis in bij festival Almere",
         "link": "https://radiolelystad.nl/almeerse-taxichauffeur-slaat-verkeersregelaar-70-uit-lelystad-ziekenhuis-in",
         "published": "dinsdag 21 juli 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
-        "link": "https://nos.nl/l/2626696",
-        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
-        "link": "https://nos.nl/l/2626370",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
-        "link": "https://nos.nl/l/2626360",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
         "summary": ""
       }
     ],
@@ -627,6 +607,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Flevoland - Hoe ver is het tot aan de basisschool? Langste afstand in Zeewolde, op Urk 'om de hoek'",
+        "link": "https://www.omroepflevoland.nl/nieuws/519897/hoe-ver-is-het-tot-aan-de-basisschool-langste-afstand-in-zeewolde-op-urk-'om-de-hoek'",
+        "published": "Thu, 13 Aug 2026 19:55:34 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Flevoland - Nieuwsoverzicht 13/08 | Vijf gewonden bij ongeval • Eigenaar graafmachine gezocht",
         "link": "https://www.omroepflevoland.nl/nieuws/519529/nieuwsoverzicht-1308-or-vijf-gewonden-bij-ongeval-*-eigenaar-graafmachine-gezocht",
         "published": "Thu, 13 Aug 2026 18:50:42 GMT+0200",
@@ -919,11 +905,25 @@
         "link": "https://www.omroepflevoland.nl/nieuws/518862/lelystedeling-(18)-krijgt-taakstraf-en-celstraf-voor-explosie-bij-amsterdams-restaurant",
         "published": "Wed, 05 Aug 2026 08:00:00 GMT+0200",
         "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
+        "link": "https://nos.nl/l/2626696",
+        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
+        "summary": ""
       },
       {
-        "title": "Lelystad - Bewoners De Stelling willen parkeerbeleid aangepast: 'We betalen, maar hebben vaak geen plek'",
-        "link": "https://www.omroepflevoland.nl/nieuws/518823/bewoners-de-stelling-willen-parkeerbeleid-aangepast:-'we-betalen-maar-hebben-vaak-geen-plek'",
-        "published": "Wed, 05 Aug 2026 07:00:00 GMT+0200",
+        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
+        "link": "https://nos.nl/l/2626370",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
+        "link": "https://nos.nl/l/2626360",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
         "summary": ""
       }
     ],

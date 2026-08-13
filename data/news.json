@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T06:25:14.255730+00:00",
+  "updated": "2026-08-13T07:28:10.253177+00:00",
   "sources": {
     "NOS": [
       {
@@ -319,6 +319,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Lelystad - Verdachte belaagt ex uit liefdesverdriet maar rechters kunnen nog geen vonnis vellen",
+        "link": "https://www.omroepflevoland.nl/nieuws/519737/verdachte-belaagt-ex-uit-liefdesverdriet-maar-rechters-kunnen-nog-geen-vonnis-vellen",
+        "published": "Thu, 13 Aug 2026 06:44:00 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Lelystad - Verder onderzoek naar verdachte van brandstichting en belaging na liefdesverdriet",
         "link": "https://www.omroepflevoland.nl/nieuws/519737/verder-onderzoek-naar-verdachte-van-brandstichting-en-belaging-na-liefdesverdriet",
         "published": "Thu, 13 Aug 2026 06:44:00 GMT+0200",
@@ -611,11 +617,13 @@
         "link": "https://www.omroepflevoland.nl/nieuws/518765/geen-aanwijzingen-voor-brandstichting-na-brand-bij-parenclub-lelystad",
         "published": "Tue, 04 Aug 2026 07:09:24 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "Nu.nl": [
       {
-        "title": "Lelystad - Geen aanwijzingen voor brandstichting na brand bij partycentrum Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/518765/geen-aanwijzingen-voor-brandstichting-na-brand-bij-partycentrum-lelystad",
-        "published": "Tue, 04 Aug 2026 07:09:24 GMT+0200",
+        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
+        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
+        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
         "summary": ""
       }
     ],
@@ -918,14 +926,6 @@
         "title": "Blauwalg  in water bij hondenstrandje Bultpark, kan voor honden dodelijk zijn",
         "link": "https://radiolelystad.nl/blauwalg-in-water-bij-hondenstrandje-woldpark-kan-voor-honden-dodelijk-zijn",
         "published": "maandag 20 juli 2026",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
-        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
-        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
         "summary": ""
       }
     ]

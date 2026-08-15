@@ -1,6 +1,26 @@
 {
-  "updated": "2026-08-15T02:19:37.369068+00:00",
+  "updated": "2026-08-15T03:12:39.373352+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
+        "link": "https://nos.nl/l/2626696",
+        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
+        "link": "https://nos.nl/l/2626370",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
+        "link": "https://nos.nl/l/2626360",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Roeivereniging nodigt iedereen uit voor open dag in Lelystad",
@@ -300,14 +320,6 @@
         "title": "Vijf stadsdichters dragen werk voor en delen hun inspiratie in Lelystad",
         "link": "https://www.destentor.nl/lelystad/vijf-stadsdichters-dragen-werk-voor-en-delen-hun-inspiratie-in-lelystad~a0d83cf6/",
         "published": "Tue, 28 Jul 2026 13:08:00 GMT",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
-        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
-        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
         "summary": ""
       }
     ],
@@ -613,26 +625,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
-        "link": "https://nos.nl/l/2626696",
-        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
-        "link": "https://nos.nl/l/2626370",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
-        "link": "https://nos.nl/l/2626360",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 14/08 | Brand treft caravanbedrijf • Autocross Kraggenburg bedreigd",
@@ -932,6 +924,14 @@
         "title": "Flevoland - Nieuwsoverzicht 06/08 | Verzameling Cornelis Lely openbaar • Geen waarschuwing giftige planten",
         "link": "https://www.omroepflevoland.nl/nieuws/519055/nieuwsoverzicht-0608-or-verzameling-cornelis-lely-openbaar-*-geen-waarschuwing-giftige-planten",
         "published": "Thu, 06 Aug 2026 18:55:00 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
+        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
+        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
         "summary": ""
       }
     ]

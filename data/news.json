@@ -1,14 +1,6 @@
 {
-  "updated": "2026-08-15T08:02:54.348837+00:00",
+  "updated": "2026-08-15T09:04:30.321953+00:00",
   "sources": {
-    "Nu.nl": [
-      {
-        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
-        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
-        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Roeivereniging nodigt iedereen uit voor open dag in Lelystad",
@@ -613,6 +605,34 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
+        "link": "https://nos.nl/l/2626696",
+        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
+        "link": "https://nos.nl/l/2626370",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
+        "link": "https://nos.nl/l/2626360",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
+        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
+        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Ook de regio IJsselmeer merkt vanaf vandaag de gevolgen van de droogte",
@@ -912,26 +932,6 @@
         "title": "Laatste kanonnen verwijderd voor operatie Batavia aan wal (video)",
         "link": "https://radiolelystad.nl/laatste-kanonnen-verwijderd-voor-operatie-batavia-aan-wal-video",
         "published": "woensdag 22 juli 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
-        "link": "https://nos.nl/l/2626696",
-        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
-        "link": "https://nos.nl/l/2626370",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
-        "link": "https://nos.nl/l/2626360",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
         "summary": ""
       }
     ]

@@ -1,23 +1,11 @@
 {
-  "updated": "2026-08-15T22:01:36.971792+00:00",
+  "updated": "2026-08-15T23:01:55.560780+00:00",
   "sources": {
-    "NOS": [
+    "Nu.nl": [
       {
-        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
-        "link": "https://nos.nl/l/2626696",
-        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
-        "link": "https://nos.nl/l/2626370",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
-        "link": "https://nos.nl/l/2626360",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
+        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
+        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
         "summary": ""
       }
     ],
@@ -323,11 +311,23 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
+    "NOS": [
       {
-        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
-        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
-        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
+        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
+        "link": "https://nos.nl/l/2626696",
+        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
+        "link": "https://nos.nl/l/2626370",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
+        "link": "https://nos.nl/l/2626360",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
         "summary": ""
       }
     ],

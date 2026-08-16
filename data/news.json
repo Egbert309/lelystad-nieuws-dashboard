@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T05:05:44.354550+00:00",
+  "updated": "2026-08-16T06:03:36.751748+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -300,6 +300,26 @@
         "title": "Vijf stadsdichters dragen werk voor en delen hun inspiratie in Lelystad",
         "link": "https://www.destentor.nl/lelystad/vijf-stadsdichters-dragen-werk-voor-en-delen-hun-inspiratie-in-lelystad~a0d83cf6/",
         "published": "Tue, 28 Jul 2026 13:08:00 GMT",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
+        "link": "https://nos.nl/l/2626696",
+        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
+        "link": "https://nos.nl/l/2626370",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
+        "link": "https://nos.nl/l/2626360",
+        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
         "summary": ""
       }
     ],
@@ -605,27 +625,21 @@
         "summary": ""
       }
     ],
-    "NOS": [
+    "Nu.nl": [
       {
-        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
-        "link": "https://nos.nl/l/2626696",
-        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Grote rookwolken bij brand industrieterrein in Lelystad",
-        "link": "https://nos.nl/l/2626370",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Gebouwen niet meer te redden bij brand palletbedrijf Lelystad",
-        "link": "https://nos.nl/l/2626360",
-        "published": "Tue, 11 Aug 2026 09:38:46 +0200",
+        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
+        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
+        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
         "summary": ""
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Almere - Wie krijgt voorrang op de woningmarkt? Almeerders naar rechter voor urgentieverklaring",
+        "link": "https://www.omroepflevoland.nl/nieuws/519992/wie-krijgt-voorrang-op-de-woningmarkt-almeerders-naar-rechter-voor-urgentieverklaring",
+        "published": "Sun, 16 Aug 2026 08:01:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Beveiligingsbedrijf houdt sinds explosie oogje in het zeil bij Lelystadse wooncomplexen",
         "link": "https://www.omroepflevoland.nl/nieuws/520182/beveiligingsbedrijf-houdt-sinds-explosie-oogje-in-het-zeil-bij-lelystadse-wooncomplexen",
@@ -918,20 +932,6 @@
         "title": "Flevoland - Nieuwsoverzicht 07/08 | Vinger verloren in Walibi • Jaar na moord op Boushra",
         "link": "https://www.omroepflevoland.nl/nieuws/519195/nieuwsoverzicht-0708-or-vinger-verloren-in-walibi-*-jaar-na-moord-op-boushra",
         "published": "Fri, 07 Aug 2026 18:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Enkelband doorgeknipt: verdachte Kempenaargroep voortvluchtig",
-        "link": "https://www.omroepflevoland.nl/nieuws/519165/enkelband-doorgeknipt:-verdachte-kempenaargroep-voortvluchtig",
-        "published": "Fri, 07 Aug 2026 13:39:09 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Video | Enorme rookwolken te zien bij grote brand in Lelystad",
-        "link": "https://www.nu.nl/329194/video/enorme-rookwolken-te-zien-bij-grote-brand-in-lelystad.html",
-        "published": "Tue, 11 Aug 2026 10:33:03 +0200",
         "summary": ""
       }
     ]

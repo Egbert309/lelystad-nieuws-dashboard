@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T18:01:26.100745+00:00",
+  "updated": "2026-08-16T19:04:07.115029+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,11 +303,17 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
+    "NOS": [
       {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
-        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
-        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
+        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
+        "link": "https://nos.nl/l/2627106",
+        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
+        "link": "https://nos.nl/l/2626696",
+        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
         "summary": ""
       }
     ],
@@ -915,17 +921,11 @@
         "summary": ""
       }
     ],
-    "NOS": [
+    "Nu.nl": [
       {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
-        "link": "https://nos.nl/l/2627106",
-        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
-        "link": "https://nos.nl/l/2626696",
-        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
+        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
+        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
+        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
         "summary": ""
       }
     ]

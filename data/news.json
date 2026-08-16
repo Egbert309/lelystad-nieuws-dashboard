@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-16T09:04:43.220365+00:00",
+  "updated": "2026-08-16T10:02:50.420049+00:00",
   "sources": {
     "De Stentor": [
+      {
+        "title": "Heb jij Karel, Koopa of Bucky gezien? Deze zes huisdieren worden in Lelystad vermist",
+        "link": "https://www.destentor.nl/lelystad/heb-jij-karel-koopa-of-bucky-gezien-deze-zes-huisdieren-worden-in-lelystad-vermist~abf03184/",
+        "published": "Sun, 16 Aug 2026 09:12:22 GMT",
+        "summary": ""
+      },
       {
         "title": "Roeivereniging nodigt iedereen uit voor open dag in Lelystad",
         "link": "https://www.destentor.nl/lelystad/roeivereniging-nodigt-iedereen-uit-voor-open-dag-in-lelystad~a7ccf3c3/",
@@ -294,12 +300,6 @@
         "title": "Rechter dwingt kabinet tot besluit over Lelystad Airport voor kerst, dwangsom dreigt",
         "link": "https://www.destentor.nl/lelystad/rechter-dwingt-kabinet-tot-besluit-over-lelystad-airport-voor-kerst-dwangsom-dreigt~aadff483/",
         "published": "Tue, 28 Jul 2026 14:36:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Vijf stadsdichters dragen werk voor en delen hun inspiratie in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/vijf-stadsdichters-dragen-werk-voor-en-delen-hun-inspiratie-in-lelystad~a0d83cf6/",
-        "published": "Tue, 28 Jul 2026 13:08:00 GMT",
         "summary": ""
       }
     ],
@@ -613,7 +613,14 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
+        "link": "https://www.omroepflevoland.nl/nieuws/520283/overleden-persoon-gevonden-in-woning-lelystad-politie-houdt-rekening-met-misdrijf",
+        "published": "Sun, 16 Aug 2026 11:53:29 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Droogte bedreigde jonge bomen in Natuurpark, nu staat er een stevig bos",
         "link": "https://www.omroepflevoland.nl/nieuws/520029/droogte-bedreigde-jonge-bomen-in-natuurpark-nu-staat-er-een-stevig-bos",
@@ -907,14 +914,7 @@
         "link": "https://www.omroepflevoland.nl/nieuws/519176/varkenshouder-restaurant-en-autobandenhandelaar:-deze-13-bedrijven-gingen-failliet-in-juni-en-juli",
         "published": "Sun, 09 Aug 2026 08:01:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Brandalarm keer op keer misbruikt in Zilverparkgarage: Parkeerservice geeft politie camerabeelden",
-        "link": "https://www.omroepflevoland.nl/nieuws/519253/brandalarm-keer-op-keer-misbruikt-in-zilverparkgarage:-parkeerservice-geeft-politie-camerabeelden",
-        "published": "Sat, 08 Aug 2026 11:20:11 GMT+0200",
-        "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

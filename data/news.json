@@ -1,20 +1,6 @@
 {
-  "updated": "2026-08-16T20:00:59.044627+00:00",
+  "updated": "2026-08-16T21:01:58.004719+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
-        "link": "https://nos.nl/l/2627106",
-        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
-        "link": "https://nos.nl/l/2626696",
-        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Busjes van tuinaanlegzaak Lelystad gaan in vlammen op",
@@ -926,6 +912,20 @@
         "title": "Milieucommissie nog niet overtuigd van buitendijks bouwen in Markermeer",
         "link": "https://radiolelystad.nl/milieucommissie-nog-niet-overtuigd-van-buitendijks-bouwen-in-markermee",
         "published": "donderdag 23 juli 2026",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
+        "link": "https://nos.nl/l/2627106",
+        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
+        "link": "https://nos.nl/l/2626696",
+        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
         "summary": ""
       }
     ]

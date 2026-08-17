@@ -1,14 +1,6 @@
 {
-  "updated": "2026-08-17T12:03:04.663640+00:00",
+  "updated": "2026-08-17T13:14:18.115173+00:00",
   "sources": {
-    "Nu.nl": [
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
-        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
-        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Nieuw in Lelystad? Dan krijg je een Lelykrat",
@@ -311,21 +303,19 @@
         "summary": ""
       }
     ],
-    "NOS": [
+    "Radio Lelystad": [
       {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
-        "link": "https://nos.nl/l/2627106",
-        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
+        "title": "Bezoekers afgelast Defqon.1 blijven festival trouw en proberen het volgend jaar weer",
+        "link": "https://radiolelystad.nl/bezoekers-afgelast-defqon-1-blijven-festival-trouw-en-proberen-het-volgend-jaar-weer",
+        "published": "maandag 17 augustus 2026",
         "summary": ""
       },
       {
-        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
-        "link": "https://nos.nl/l/2626696",
-        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
+        "title": "Een Lelykrat voor nieuwe inwoners van Lelystad",
+        "link": "https://radiolelystad.nl/een-lelykrat-voor-nieuwe-inwoners-van-lelystad",
+        "published": "maandag 17 augustus 2026",
         "summary": ""
-      }
-    ],
-    "Radio Lelystad": [
+      },
       {
         "title": "Open dag bij Roeivereniging Pontos",
         "link": "https://radiolelystad.nl/open-dag-bij-roeivereniging-pontos",
@@ -613,17 +603,13 @@
         "link": "https://radiolelystad.nl/fileleed-bij-werkzaamheden-gooiseweg-valt-vooralsnog-mee",
         "published": "vrijdag 24 juli 2026",
         "summary": ""
-      },
+      }
+    ],
+    "Nu.nl": [
       {
-        "title": "Raadsfracties verbaasd over over tijdelijk parkeren op voormalig Arcusterrein",
-        "link": "https://radiolelystad.nl/raadsfracties-verbaasd-over-over-tijdelijk-parkeren-op-voormalig-arcusterrein",
-        "published": "vrijdag 24 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Bataviawerf is 11 september startpunt van de Nationale Monumentendag",
-        "link": "https://radiolelystad.nl/de-bataviawerf-is-11-september-het-startpunt-van-de-nationale-monumentendag",
-        "published": "donderdag 23 juli 2026",
+        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
+        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
+        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
         "summary": ""
       }
     ],
@@ -926,6 +912,20 @@
         "title": "Met puntmuts op speuren naar kabouters bij Lelystad",
         "link": "https://www.destentor.nl/lelystad/met-puntmuts-op-speuren-naar-kabouters-bij-lelystad~a73ef89b/",
         "published": "Wed, 29 Jul 2026 15:02:00 GMT",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
+        "link": "https://nos.nl/l/2627106",
+        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
+        "link": "https://nos.nl/l/2626696",
+        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
         "summary": ""
       }
     ]

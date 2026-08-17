@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T16:02:58.275251+00:00",
+  "updated": "2026-08-17T17:05:11.450549+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,15 +303,27 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
+    "NOS": [
       {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
-        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
-        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
+        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
+        "link": "https://nos.nl/l/2627106",
+        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
+        "link": "https://nos.nl/l/2626696",
+        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
         "summary": ""
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 17/08 | Caravanbedrijf krabbelt op na brand •  Vrachtwagen verliest oplegger",
+        "link": "https://www.omroepflevoland.nl/nieuws/520421/nieuwsoverzicht-1708-or-caravanbedrijf-krabbelt-op-na-brand-*-vrachtwagen-verliest-oplegger",
+        "published": "Mon, 17 Aug 2026 18:52:31 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Fietstunnel in Lelystad staat bij elke regenbui blank: 'Voetjes omhoog dan blijven we droog'",
         "link": "https://www.omroepflevoland.nl/nieuws/520398/fietstunnel-in-lelystad-staat-bij-elke-regenbui-blank:-'voetjes-omhoog-dan-blijven-we-droog'",
@@ -605,11 +617,13 @@
         "link": "https://www.omroepflevoland.nl/nieuws/519585/vlammen-worden-kleiner-en-rook-neemt-af-op-bedrijventerrein-oostervaart-in-lelystad",
         "published": "Tue, 11 Aug 2026 09:02:50 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "Nu.nl": [
       {
-        "title": "Lelystad - Zeer grote brand op bedrijventerrein Oostervaart in Lelystad, NL-Alert verstuurd",
-        "link": "https://www.omroepflevoland.nl/nieuws/519585/zeer-grote-brand-op-bedrijventerrein-oostervaart-in-lelystad-nl-alert-verstuurd",
-        "published": "Tue, 11 Aug 2026 09:02:50 GMT+0200",
+        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
+        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
+        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
         "summary": ""
       }
     ],
@@ -912,20 +926,6 @@
         "title": "Bijeenkomst over de leefwereld van kinderen en jongeren in Lelystad",
         "link": "https://www.destentor.nl/lelystad/bijeenkomst-over-de-leefwereld-van-kinderen-en-jongeren-in-lelystad~ad0ca859/",
         "published": "Thu, 30 Jul 2026 15:04:00 GMT",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
-        "link": "https://nos.nl/l/2627106",
-        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
-        "link": "https://nos.nl/l/2626696",
-        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
         "summary": ""
       }
     ]

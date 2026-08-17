@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-17T10:08:19.105187+00:00",
+  "updated": "2026-08-17T11:04:28.254505+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Nieuw in Lelystad? Dan krijg je een Lelykrat",
+        "link": "https://www.omroepflevoland.nl/nieuws/520315/nieuw-in-lelystad-dan-krijg-je-een-lelykrat",
+        "published": "Mon, 17 Aug 2026 12:52:22 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Oplegger schiet van vrachtwagen en boort zich in asfalt op Oostranddreef",
         "link": "https://www.omroepflevoland.nl/nieuws/520389/oplegger-schiet-van-vrachtwagen-en-boort-zich-in-asfalt-op-oostranddreef",
@@ -294,26 +300,6 @@
         "title": "Lelystad - Professionele begeleiding in De Thuiskamer voor pas bevallen ouders die steun in de rug kunnen gebruiken",
         "link": "https://www.omroepflevoland.nl/nieuws/519508/professionele-begeleiding-in-de-thuiskamer-voor-pas-bevallen-ouders-die-steun-in-de-rug-kunnen-gebruiken",
         "published": "Tue, 11 Aug 2026 08:11:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - In de rij voor de laatste brillen voor de zonsverduistering: 'Heb hier een uur voor gereden'",
-        "link": "https://www.omroepflevoland.nl/nieuws/519533/in-de-rij-voor-de-laatste-brillen-voor-de-zonsverduistering:-'heb-hier-een-uur-voor-gereden'",
-        "published": "Mon, 10 Aug 2026 19:33:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
-        "link": "https://nos.nl/l/2627106",
-        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
-        "link": "https://nos.nl/l/2626696",
-        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
         "summary": ""
       }
     ],
@@ -619,6 +605,28 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
+        "link": "https://nos.nl/l/2627106",
+        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
+        "link": "https://nos.nl/l/2626696",
+        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
+        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
+        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "KIJK | Camerabeelden tonen hoe brand bij bedrijfsbusjes Lelystad ontstaat",
@@ -918,14 +926,6 @@
         "title": "Afgelopen week 50 meldingen van de gemeente over sloop, bomenkap en verkeer in Lelystad",
         "link": "https://www.destentor.nl/lelystad/afgelopen-week-50-meldingen-van-de-gemeente-over-sloop-bomenkap-en-verkeer-in-lelystad~a042fd04/",
         "published": "Wed, 29 Jul 2026 11:08:22 GMT",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
-        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
-        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
         "summary": ""
       }
     ]

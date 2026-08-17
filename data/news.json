@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T17:05:11.450549+00:00",
+  "updated": "2026-08-17T18:05:28.244001+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,21 +303,13 @@
         "summary": ""
       }
     ],
-    "NOS": [
+    "Omroep Flevoland": [
       {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
-        "link": "https://nos.nl/l/2627106",
-        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
+        "title": "Zeewolde - Zeewolde start zoektocht naar 'partijloze' wethouder met online vacature",
+        "link": "https://www.omroepflevoland.nl/nieuws/520440/zeewolde-start-zoektocht-naar-'partijloze'-wethouder-met-online-vacature",
+        "published": "Mon, 17 Aug 2026 19:44:00 GMT+0200",
         "summary": ""
       },
-      {
-        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
-        "link": "https://nos.nl/l/2626696",
-        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
-        "summary": ""
-      }
-    ],
-    "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 17/08 | Caravanbedrijf krabbelt op na brand •  Vrachtwagen verliest oplegger",
         "link": "https://www.omroepflevoland.nl/nieuws/520421/nieuwsoverzicht-1708-or-caravanbedrijf-krabbelt-op-na-brand-*-vrachtwagen-verliest-oplegger",
@@ -610,20 +602,6 @@
         "title": "Lelystad - Nablussen begonnen na brand op bedrijventerrein Oostervaart in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/519585/nablussen-begonnen-na-brand-op-bedrijventerrein-oostervaart-in-lelystad",
         "published": "Tue, 11 Aug 2026 09:02:50 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Vlammen worden kleiner en rook neemt af op bedrijventerrein Oostervaart in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/519585/vlammen-worden-kleiner-en-rook-neemt-af-op-bedrijventerrein-oostervaart-in-lelystad",
-        "published": "Tue, 11 Aug 2026 09:02:50 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
-        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
-        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
         "summary": ""
       }
     ],
@@ -926,6 +904,28 @@
         "title": "Bijeenkomst over de leefwereld van kinderen en jongeren in Lelystad",
         "link": "https://www.destentor.nl/lelystad/bijeenkomst-over-de-leefwereld-van-kinderen-en-jongeren-in-lelystad~ad0ca859/",
         "published": "Thu, 30 Jul 2026 15:04:00 GMT",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
+        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
+        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
+        "link": "https://nos.nl/l/2627106",
+        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad zoekt al maanden naar eigenaar van achtergelaten graafmachine",
+        "link": "https://nos.nl/l/2626696",
+        "published": "Thu, 13 Aug 2026 17:05:14 +0200",
         "summary": ""
       }
     ]

@@ -1,14 +1,6 @@
 {
-  "updated": "2026-08-18T18:04:30.753674+00:00",
+  "updated": "2026-08-18T19:09:39.904902+00:00",
   "sources": {
-    "Nu.nl": [
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
-        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
-        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
-        "summary": ""
-      }
-    ],
     "NOS": [
       {
         "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
@@ -17,7 +9,21 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
+        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
+        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Gemeente over probleemtunnel Lelystad: 'Leegzuigen bij zware regenval, permanente oplossing volgt'",
+        "link": "https://www.omroepflevoland.nl/nieuws/520548/gemeente-over-probleemtunnel-lelystad:-'leegzuigen-bij-zware-regenval-permanente-oplossing-volgt'",
+        "published": "Tue, 18 Aug 2026 20:15:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 18/08 | Miljoenenschade caravanbedrijf • Protest tegen horecapaviljoen",
         "link": "https://www.omroepflevoland.nl/nieuws/520534/nieuwsoverzicht-1808-or-miljoenenschade-caravanbedrijf-*-protest-tegen-horecapaviljoen",
@@ -310,12 +316,6 @@
         "title": "Flevoland - Liveblog: Brand Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/519589/liveblog:-brand-lelystad",
         "published": "Tue, 11 Aug 2026 10:13:21 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Nablussen bij palletbedrijf in Lelystad duurt tot woensdagmiddag",
-        "link": "https://www.omroepflevoland.nl/nieuws/519585/nablussen-bij-palletbedrijf-in-lelystad-duurt-tot-woensdagmiddag",
-        "published": "Tue, 11 Aug 2026 09:02:50 GMT+0200",
         "summary": ""
       }
     ],

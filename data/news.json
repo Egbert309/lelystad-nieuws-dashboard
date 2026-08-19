@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T19:06:32.817195+00:00",
+  "updated": "2026-08-19T20:03:06.850903+00:00",
   "sources": {
     "NOS": [
       {
@@ -15,11 +15,607 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
+    "Omroep Flevoland": [
       {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
-        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
-        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
+        "title": "Lelystad - Politie toont foto's van man in verband met dood gevonden vrouw Groene Velden Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/520677/politie-toont-foto's-van-man-in-verband-met-dood-gevonden-vrouw-groene-velden-lelystad",
+        "published": "Wed, 19 Aug 2026 20:36:41 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Vrijspraak voor Lelystedeling in zaak gewelddadige beroving",
+        "link": "https://www.omroepflevoland.nl/nieuws/520629/vrijspraak-voor-lelystedeling-in-zaak-gewelddadige-beroving",
+        "published": "Wed, 19 Aug 2026 20:04:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 19/08 |  Nieuwe zoektocht naar vermiste Drontenaar • Geen nieuwe watermaatregelen",
+        "link": "https://www.omroepflevoland.nl/nieuws/520640/nieuwsoverzicht-1908-or-nieuwe-zoektocht-naar-vermiste-drontenaar-*-geen-nieuwe-watermaatregelen",
+        "published": "Wed, 19 Aug 2026 18:54:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Deskundigen vrezen voor dodelijk incident, maar vriendin wil Harry R. terug in huis",
+        "link": "https://www.omroepflevoland.nl/nieuws/520648/deskundigen-vrezen-voor-dodelijk-incident-maar-vriendin-wil-harry-r.-terug-in-huis",
+        "published": "Wed, 19 Aug 2026 18:34:44 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Groot lek in waterleiding: duizenden liters water stromen Lelystadse straat in",
+        "link": "https://www.omroepflevoland.nl/nieuws/520619/groot-lek-in-waterleiding:-duizenden-liters-water-stromen-lelystadse-straat-in",
+        "published": "Wed, 19 Aug 2026 13:02:08 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - 200 woningen Lelystadse wijk Jol nog hele middag zonder water na groot lek in waterleiding",
+        "link": "https://www.omroepflevoland.nl/nieuws/520619/200-woningen-lelystadse-wijk-jol-nog-hele-middag-zonder-water-na-groot-lek-in-waterleiding",
+        "published": "Wed, 19 Aug 2026 13:02:08 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Deel Lelystadse wijk Jol onder water na lek in hoofdwaterleiding, straat afgesloten",
+        "link": "https://www.omroepflevoland.nl/nieuws/520619/deel-lelystadse-wijk-jol-onder-water-na-lek-in-hoofdwaterleiding-straat-afgesloten",
+        "published": "Wed, 19 Aug 2026 13:02:08 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Invasieve hoornaars worden gezenderd en gevolgd, en 'verraden' zo hun nest",
+        "link": "https://www.omroepflevoland.nl/nieuws/520582/invasieve-hoornaars-worden-gezenderd-en-gevolgd-en-'verraden'-zo-hun-nest",
+        "published": "Wed, 19 Aug 2026 06:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Bewoners Lars en Lily voelen zich onveilig en zitten jaren langer in tijdelijke woning: 'Als ik dit had geweten, had ik het nooit gedaan'",
+        "link": "https://www.omroepflevoland.nl/nieuws/520574/bewoners-lars-en-lily-voelen-zich-onveilig-en-zitten-jaren-langer-in-tijdelijke-woning:-'als-ik-dit-had-geweten-had-ik-het-nooit-gedaan'",
+        "published": "Wed, 19 Aug 2026 06:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Natte voeten in fietstunnel binnenkort voorbij: gemeente Lelystad werkt aan permanente  oplossing",
+        "link": "https://www.omroepflevoland.nl/nieuws/520548/natte-voeten-in-fietstunnel-binnenkort-voorbij:-gemeente-lelystad-werkt-aan-permanente-oplossing",
+        "published": "Tue, 18 Aug 2026 20:15:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Natte voeten in fietstunnel binnenkort voorbij: gemeente Lelystad werkt aan permanent  oplossing",
+        "link": "https://www.omroepflevoland.nl/nieuws/520548/natte-voeten-in-fietstunnel-binnenkort-voorbij:-gemeente-lelystad-werkt-aan-permanent-oplossing",
+        "published": "Tue, 18 Aug 2026 20:15:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Licht aan het eind van de probleemtunnel: de gemeente belooft blijvende oplossingen",
+        "link": "https://www.omroepflevoland.nl/nieuws/520548/licht-aan-het-eind-van-de-probleemtunnel:-de-gemeente-belooft-blijvende-oplossingen",
+        "published": "Tue, 18 Aug 2026 20:15:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Gemeente over probleemtunnel Lelystad: 'Leegzuigen bij zware regenval, permanente oplossing volgt'",
+        "link": "https://www.omroepflevoland.nl/nieuws/520548/gemeente-over-probleemtunnel-lelystad:-'leegzuigen-bij-zware-regenval-permanente-oplossing-volgt'",
+        "published": "Tue, 18 Aug 2026 20:15:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 18/08 | Miljoenenschade caravanbedrijf • Protest tegen horecapaviljoen",
+        "link": "https://www.omroepflevoland.nl/nieuws/520534/nieuwsoverzicht-1808-or-miljoenenschade-caravanbedrijf-*-protest-tegen-horecapaviljoen",
+        "published": "Tue, 18 Aug 2026 18:54:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwe schoolgebouwen geopend in Lelystad en Dronten: 'Een cadeautje'",
+        "link": "https://www.omroepflevoland.nl/nieuws/520488/nieuwe-schoolgebouwen-geopend-in-lelystad-en-dronten:-'een-cadeautje'",
+        "published": "Tue, 18 Aug 2026 12:29:46 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuw schooljaar feestelijk geopend met nieuwe schoolgebouwen",
+        "link": "https://www.omroepflevoland.nl/nieuws/520488/nieuw-schooljaar-feestelijk-geopend-met-nieuwe-schoolgebouwen",
+        "published": "Tue, 18 Aug 2026 12:29:46 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Zeewolde - Zeewolde start zoektocht naar 'partijloze' wethouder met online vacature",
+        "link": "https://www.omroepflevoland.nl/nieuws/520440/zeewolde-start-zoektocht-naar-'partijloze'-wethouder-met-online-vacature",
+        "published": "Mon, 17 Aug 2026 19:44:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 17/08 | Caravanbedrijf krabbelt op na brand • Vrachtwagen verliest oplegger",
+        "link": "https://www.omroepflevoland.nl/nieuws/520421/nieuwsoverzicht-1708-or-caravanbedrijf-krabbelt-op-na-brand-*-vrachtwagen-verliest-oplegger",
+        "published": "Mon, 17 Aug 2026 18:52:31 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Fietstunnel in Lelystad staat bij elke regenbui blank: 'Voetjes omhoog dan blijven we droog'",
+        "link": "https://www.omroepflevoland.nl/nieuws/520398/fietstunnel-in-lelystad-staat-bij-elke-regenbui-blank:-'voetjes-omhoog-dan-blijven-we-droog'",
+        "published": "Mon, 17 Aug 2026 17:44:22 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Nieuw in Lelystad? Dan krijg je een Lelykrat",
+        "link": "https://www.omroepflevoland.nl/nieuws/520315/nieuw-in-lelystad-dan-krijg-je-een-lelykrat",
+        "published": "Mon, 17 Aug 2026 12:52:22 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Oplegger schiet van vrachtwagen en boort zich in asfalt op Oostranddreef",
+        "link": "https://www.omroepflevoland.nl/nieuws/520389/oplegger-schiet-van-vrachtwagen-en-boort-zich-in-asfalt-op-oostranddreef",
+        "published": "Mon, 17 Aug 2026 10:12:35 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Botsing tussen twee auto's op Houtribdreef, geen gewonden",
+        "link": "https://www.omroepflevoland.nl/nieuws/520383/botsing-tussen-twee-auto's-op-houtribdreef-geen-gewonden",
+        "published": "Mon, 17 Aug 2026 06:53:24 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Van Lelydorp tot Lelystad: het vergeten Surinaamse verhaal van Cornelis Lely",
+        "link": "https://www.omroepflevoland.nl/nieuws/519774/van-lelydorp-tot-lelystad:-het-vergeten-surinaamse-verhaal-van-cornelis-lely",
+        "published": "Mon, 17 Aug 2026 06:44:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Busjes van tuinaanlegzaak Lelystad gaan in vlammen op",
+        "link": "https://www.omroepflevoland.nl/nieuws/520300/busjes-van-tuinaanlegzaak-lelystad-gaan-in-vlammen-op",
+        "published": "Sun, 16 Aug 2026 18:32:06 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Overleden persoon in woning Lelystad blijkt bewoner van woonzorglocatie voor dementie",
+        "link": "https://www.omroepflevoland.nl/nieuws/520326/overleden-persoon-in-woning-lelystad-blijkt-bewoner-van-woonzorglocatie-voor-dementie",
+        "published": "Sun, 16 Aug 2026 18:15:33 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
+        "link": "https://www.omroepflevoland.nl/nieuws/520283/overleden-persoon-gevonden-in-woning-lelystad-politie-houdt-rekening-met-misdrijf",
+        "published": "Sun, 16 Aug 2026 11:53:29 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Droogte bedreigde jonge bomen in Natuurpark, nu staat er een stevig bos",
+        "link": "https://www.omroepflevoland.nl/nieuws/520029/droogte-bedreigde-jonge-bomen-in-natuurpark-nu-staat-er-een-stevig-bos",
+        "published": "Sun, 16 Aug 2026 09:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Wie krijgt voorrang op de woningmarkt? Almeerders naar rechter voor urgentieverklaring",
+        "link": "https://www.omroepflevoland.nl/nieuws/519992/wie-krijgt-voorrang-op-de-woningmarkt-almeerders-naar-rechter-voor-urgentieverklaring",
+        "published": "Sun, 16 Aug 2026 08:01:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Beveiligingsbedrijf houdt sinds explosie oogje in het zeil bij Lelystadse wooncomplexen",
+        "link": "https://www.omroepflevoland.nl/nieuws/520182/beveiligingsbedrijf-houdt-sinds-explosie-oogje-in-het-zeil-bij-lelystadse-wooncomplexen",
+        "published": "Sat, 15 Aug 2026 17:39:42 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Identiteit nog niet bekend  van dode man in Amsterdam-Oost met voorwerpen uit Flevoland",
+        "link": "https://www.omroepflevoland.nl/nieuws/520085/identiteit-nog-niet-bekend-van-dode-man-in-amsterdam-oost-met-voorwerpen-uit-flevoland",
+        "published": "Sat, 15 Aug 2026 08:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 14/08 | Brand treft caravanbedrijf • Autocross Kraggenburg bedreigd",
+        "link": "https://www.omroepflevoland.nl/nieuws/519530/nieuwsoverzicht-1408-or-brand-treft-caravanbedrijf-*-autocross-kraggenburg-bedreigd",
+        "published": "Fri, 14 Aug 2026 18:20:50 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - In de Waterkamer van Lelystad bereiden experts zich voor op een zomer met steeds minder water",
+        "link": "https://www.omroepflevoland.nl/nieuws/520044/in-de-waterkamer-van-lelystad-bereiden-experts-zich-voor-op-een-zomer-met-steeds-minder-water",
+        "published": "Fri, 14 Aug 2026 16:16:06 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Programma Zomerparade Lelystad gaat vrijdagmiddag niet door vanwege hitte",
+        "link": "https://www.omroepflevoland.nl/nieuws/520022/programma-zomerparade-lelystad-gaat-vrijdagmiddag-niet-door-vanwege-hitte",
+        "published": "Fri, 14 Aug 2026 13:59:32 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Weekendweerbericht: Na zomersmog en extreme hitte volgt een weekend met aangename temperaturen",
+        "link": "https://www.omroepflevoland.nl/nieuws/520020/weekendweerbericht:-na-zomersmog-en-extreme-hitte-volgt-een-weekend-met-aangename-temperaturen",
+        "published": "Fri, 14 Aug 2026 13:54:51 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Waterschap neemt eerste stap tegen droogte: boeren mogen akkers niet meer onder water zetten",
+        "link": "https://www.omroepflevoland.nl/nieuws/520007/waterschap-neemt-eerste-stap-tegen-droogte:-boeren-mogen-akkers-niet-meer-onder-water-zetten",
+        "published": "Fri, 14 Aug 2026 11:58:58 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Brandweer opnieuw in actie bij palletbedrijf in Lelystad, waar dinsdag grote brand woedde",
+        "link": "https://www.omroepflevoland.nl/nieuws/519979/brandweer-opnieuw-in-actie-bij-palletbedrijf-in-lelystad-waar-dinsdag-grote-brand-woedde",
+        "published": "Fri, 14 Aug 2026 06:48:53 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Waarom sommige bedrijven wel ruimte hebben op het stroomnet en andere niet",
+        "link": "https://www.omroepflevoland.nl/nieuws/519051/waarom-sommige-bedrijven-wel-ruimte-hebben-op-het-stroomnet-en-andere-niet",
+        "published": "Fri, 14 Aug 2026 06:44:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Hoe ver is het tot aan de basisschool? Langste afstand in Zeewolde, op Urk 'om de hoek'",
+        "link": "https://www.omroepflevoland.nl/nieuws/519897/hoe-ver-is-het-tot-aan-de-basisschool-langste-afstand-in-zeewolde-op-urk-'om-de-hoek'",
+        "published": "Thu, 13 Aug 2026 19:55:34 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 13/08 | Vijf gewonden bij ongeval • Eigenaar graafmachine gezocht",
+        "link": "https://www.omroepflevoland.nl/nieuws/519529/nieuwsoverzicht-1308-or-vijf-gewonden-bij-ongeval-*-eigenaar-graafmachine-gezocht",
+        "published": "Thu, 13 Aug 2026 18:50:42 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Moeten 600 adressen straks op één plek de wijk uit in plaats van twee? Als het aan deze actievoerende buurman ligt niet",
+        "link": "https://www.omroepflevoland.nl/nieuws/519732/moeten-600-adressen-straks-op-een-plek-de-wijk-uit-in-plaats-van-twee-als-het-aan-deze-actievoerende-buurman-ligt-niet",
+        "published": "Thu, 13 Aug 2026 18:08:36 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Flinke ravage na verkeersongeval met drie voertuigen en vijf gewonden, Markerwaarddijk weer open",
+        "link": "https://www.omroepflevoland.nl/nieuws/519895/flinke-ravage-na-verkeersongeval-met-drie-voertuigen-en-vijf-gewonden-markerwaarddijk-weer-open",
+        "published": "Thu, 13 Aug 2026 13:17:26 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Flinke ravage na verkeersongeval met drie voertuigen en vijf gewonden, Markerwaarddijk dicht",
+        "link": "https://www.omroepflevoland.nl/nieuws/519895/flinke-ravage-na-verkeersongeval-met-drie-voertuigen-en-vijf-gewonden-markerwaarddijk-dicht",
+        "published": "Thu, 13 Aug 2026 13:17:26 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Verkeersongeval met meerdere voertuigen en gewonden op Markerwaarddijk, weg blijft open",
+        "link": "https://www.omroepflevoland.nl/nieuws/519895/verkeersongeval-met-meerdere-voertuigen-en-gewonden-op-markerwaarddijk-weg-blijft-open",
+        "published": "Thu, 13 Aug 2026 13:17:26 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Wie mist er een graafmachine? Gemeente Lelystad zoekt eigenaar",
+        "link": "https://www.omroepflevoland.nl/nieuws/519884/wie-mist-er-een-graafmachine-gemeente-lelystad-zoekt-eigenaar",
+        "published": "Thu, 13 Aug 2026 13:11:26 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Verdachte belaagt ex uit liefdesverdriet maar rechters kunnen nog geen vonnis vellen",
+        "link": "https://www.omroepflevoland.nl/nieuws/519737/verdachte-belaagt-ex-uit-liefdesverdriet-maar-rechters-kunnen-nog-geen-vonnis-vellen",
+        "published": "Thu, 13 Aug 2026 06:44:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Verder onderzoek naar verdachte van brandstichting en belaging na liefdesverdriet",
+        "link": "https://www.omroepflevoland.nl/nieuws/519737/verder-onderzoek-naar-verdachte-van-brandstichting-en-belaging-na-liefdesverdriet",
+        "published": "Thu, 13 Aug 2026 06:44:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 12/08 | Onrust in Natuurpark Lelystad • Nawaka goed verlopen",
+        "link": "https://www.omroepflevoland.nl/nieuws/519528/nieuwsoverzicht-1208-or-onrust-in-natuurpark-lelystad-*-nawaka-goed-verlopen",
+        "published": "Wed, 12 Aug 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Palletbedrijf wil graag terugkeren nadat pand in de as is gelegd: 'Lijkt wel ground zero'",
+        "link": "https://www.omroepflevoland.nl/nieuws/519788/palletbedrijf-wil-graag-terugkeren-nadat-pand-in-de-as-is-gelegd:-'lijkt-wel-ground-zero'",
+        "published": "Wed, 12 Aug 2026 18:22:28 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Duizenden Flevolanders genieten langs het water van de eclips, verkeersdrukte zonder ongelukken",
+        "link": "https://www.omroepflevoland.nl/nieuws/519770/duizenden-flevolanders-genieten-langs-het-water-van-de-eclips-verkeersdrukte-zonder-ongelukken",
+        "published": "Wed, 12 Aug 2026 16:55:03 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Topdrukte langs de kust met kijkers naar de zonsverduistering, verkeerschaos na de eclips",
+        "link": "https://www.omroepflevoland.nl/nieuws/519770/topdrukte-langs-de-kust-met-kijkers-naar-de-zonsverduistering-verkeerschaos-na-de-eclips",
+        "published": "Wed, 12 Aug 2026 16:55:03 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "Radio Lelystad": [
+      {
+        "title": "Politie op zoek naar man ivm overleden vrouwGroene Velden",
+        "link": "https://radiolelystad.nl/politie-op-zoek-naar-man-ivm-overleden-vrouwgroene-velden",
+        "published": "woensdag 19 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week: Een klein mens (Leandra  Vleeschhouwer)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-een-klein-mens-leandra-vleeschhouwer",
+        "published": "woensdag 19 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Torenvalktunnel wordt gedweild met de kraan open, maar permanente oplossing is in zicht",
+        "link": "https://radiolelystad.nl/torenvalktunnel-wordt-voorlopig-nog-even-gedweild-met-de-kraan-open-maar-permanente-oplossing-is-in-zicht",
+        "published": "woensdag 19 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Lelystedeling met tijdens proefrit gestolen auto wordt klemgereden in  Breda",
+        "link": "https://radiolelystad.nl/lelystedeling-met-tijdens-proefrit-gestolen-auto-wordt-klemgereden-in-breda",
+        "published": "dinsdag 18 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "De eerste Lelystadse Zomerparade is succesvol afgesloten, ruim 9.000 bezoekers",
+        "link": "https://radiolelystad.nl/de-eerste-lelystadse-zomerparade-is-succesvol-afgesloten-en-trok-in-zes-dagen-ruim-9-000-bezoekers",
+        "published": "dinsdag 18 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad twee nieuwe kindcentra rijker, na opening De Kring en Voorhof",
+        "link": "https://radiolelystad.nl/lelystad-twee-nieuwe-kindcentra-rijker-na-opening-de-kring-en-voorhof",
+        "published": "dinsdag 18 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Programmeur Bas Jansen: ‘Lowlands behoort tot de absolute wereldtop’",
+        "link": "https://radiolelystad.nl/in-de-festivalwereld-behoren-wij-tot-de-absolute-wereldtop",
+        "published": "maandag 17 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Bezoekers afgelast Defqon.1 blijven festival trouw en proberen het volgend jaar weer",
+        "link": "https://radiolelystad.nl/bezoekers-afgelast-defqon-1-blijven-festival-trouw-en-proberen-het-volgend-jaar-weer",
+        "published": "maandag 17 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Een warm welkom met de Lelykrat voor nieuwe inwoners van Lelystad",
+        "link": "https://radiolelystad.nl/een-lelykrat-voor-nieuwe-inwoners-van-lelystad",
+        "published": "maandag 17 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Pontos wil jong en oud enthousiasmeren voor het roeien op open dag zaterdag",
+        "link": "https://radiolelystad.nl/open-dag-bij-roeivereniging-pontos",
+        "published": "maandag 17 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Extra toezicht in de weekenden bij wooncomplexen Lars en Lily",
+        "link": "https://radiolelystad.nl/extra-toezicht-in-de-weekenden-bij-wooncomplexen-lars-en-lily",
+        "published": "zondag 16 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Overleden persoon gevonden in Groene Velden, politie denkt aan misdrijf (update)",
+        "link": "https://radiolelystad.nl/overleden-persoon-gevonden-in-woning-groene-velden-politie-denkt-aan-misdrijf",
+        "published": "zondag 16 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Ook de regio IJsselmeer merkt vanaf vandaag de gevolgen van de droogte",
+        "link": "https://radiolelystad.nl/ook-de-regio-ijsselmeer-merkt-vanaf-vandaag-de-gevolgen-van-de-droogte",
+        "published": "vrijdag 14 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente veilt bijzonder gevonden voorwerp: een graafmachine",
+        "link": "https://radiolelystad.nl/gemeente-veilt-bijzonder-gevonden-voorwerp-een-graafmachine",
+        "published": "vrijdag 14 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Vijf gewonden bij aanrijding met drie partijen op rotonde Markerwaarddijk",
+        "link": "https://radiolelystad.nl/vijf-gewonden-bij-aanrijding-op-rotonde-markerwaarddijk",
+        "published": "donderdag 13 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Nu eens genieten van de zon omdat die verduisterd wordt (video)",
+        "link": "https://radiolelystad.nl/nu-eens-genieten-van-de-zon-omdat-die-verduisterd-wordt-video",
+        "published": "donderdag 13 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Oorzaak brand Oostervaart wellicht niet te achterhalen, palletbedrijf wil door",
+        "link": "https://radiolelystad.nl/oorzaak-brand-oostervaart-wellicht-niet-te-achterhalen-palletbedrijf-wil-doo",
+        "published": "donderdag 13 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Zorgen over mogelijke verschraling van Natuurpark en bezoek Oostvaardersplassen",
+        "link": "https://radiolelystad.nl/zorgen-over-mogelijke-verschraling-van-natuurpark-en-bezoek-oostvaardersplassen",
+        "published": "woensdag 12 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Volg de zonsverduistering vanavond live via Radio Lelystad",
+        "link": "https://radiolelystad.nl/volg-de-zonsverduistering-vanavond-via-radio-lelystad",
+        "published": "woensdag 12 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week: De mensentuin (Nikita Moleveld)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-de-mensentuin-nikita-moleveld",
+        "published": "woensdag 12 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad wordt vanaf vandaag ook een beetje een studentenstad, Quadrata is opgeleverd",
+        "link": "https://radiolelystad.nl/lelystad-wordt-vanaf-vandaag-ook-een-beetje-een-studentenstad",
+        "published": "dinsdag 11 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Enorme brand zorgt voor vroege zonsverduistering in Lelystad",
+        "link": "https://radiolelystad.nl/enorme-brand-zorgt-voor-vroege-zonsverduistering-in-lelystad",
+        "published": "dinsdag 11 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Wereldkampioene freestyle voetbal opent Zomerparade met demonstratie",
+        "link": "https://radiolelystad.nl/wereldkampioene-freestyle-voetbal-opent-zomerparade-met-demonstratie",
+        "published": "dinsdag 11 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Vakantiegevoel bij het kampvuur met marshmellows op de buurtcamping (video)",
+        "link": "https://radiolelystad.nl/vakantiegevoel-bij-het-kampvuur-met-marshmellows-op-de-buurtcamping-video",
+        "published": "dinsdag 11 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Groot alarm om brand op Oostervaart, rook te zien tot in Apeldoorn, palletloods in de as",
+        "link": "https://radiolelystad.nl/groot-alarm-om-brand-op-oostervaart-rook-te-zien-tot-in-apeldoorn",
+        "published": "dinsdag 11 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Dikke rooklaag trekt over Lelystad, brand bij palletbedrijf op Oostervaart",
+        "link": "https://radiolelystad.nl/dikke-rooklaag-trekt-over-lelystad-brand-bij-palletbedrijf-op-oostervaart",
+        "published": "dinsdag 11 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Voorwerpen dode man in Amsterdam wijzen op band met Lelystad",
+        "link": "https://radiolelystad.nl/voorwerpen-dode-man-in-amsterdam-wijzen-op-band-met-flevoland",
+        "published": "maandag 10 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Kraamzorg opent 'thuiskamer' in ziekenhuis voor moeder en baby (en partner)",
+        "link": "https://radiolelystad.nl/kraamzorg-opent-thuiskamer-in-ziekenhuis-voor-moeder-en-baby",
+        "published": "maandag 10 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente pakt rondhangende overlastgevers in Zilverparkgarage aan",
+        "link": "https://radiolelystad.nl/gemeente-belooft-overlast-rondhangende-mannen-zilverparkgarage-aan-te-pakken",
+        "published": "maandag 10 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Droogte leidt tot onvermijdelijke vissterfte in de Oostvaardersplassen",
+        "link": "https://radiolelystad.nl/droogte-leidt-tot-onvermijdelijke-vissterfte-in-de-oostvaardersplassen",
+        "published": "vrijdag 07 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Verdachte Kempenaar Groep al een maand zoek na doorknippen enkelband",
+        "link": "https://radiolelystad.nl/verdachte-kempenaar-groep-verdwenen-na-doorknippen-enkelband",
+        "published": "vrijdag 07 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Wie iets vindt over fietsen stallen in het centrum, kan dat zaterdag kwijt",
+        "link": "https://radiolelystad.nl/wie-iets-vindt-over-fietsen-stallen-in-het-centrum-kan-dat-zaterdag-kwijt",
+        "published": "donderdag 06 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Het was druk in het Stadshart - en er was ook iets heel erg engs te doen (video)",
+        "link": "https://radiolelystad.nl/het-was-druk-in-het-stadshart-en-er-was-ook-iets-engs-te-doen-video",
+        "published": "donderdag 06 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Taakstraf na aanslag op restaurant, waarbij dader de benzine mengde met water",
+        "link": "https://radiolelystad.nl/taakstraf-na-aanslag-op-restaurant-waarbij-dader-de-benzine-mengde-met-water",
+        "published": "woensdag 05 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week: Erbarme dich (Jeroen van Belville)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-erbarme-dich-jeroen-van-belville",
+        "published": "woensdag 05 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente na kritiek: We grepen in bij raveparty  vanwege zorgen over veiligheid",
+        "link": "https://radiolelystad.nl/gemeente-we-grepen-in-bij-raveparty-vanwege-zorgen-over-veiligheid",
+        "published": "dinsdag 04 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Bus over de dijk naar Enkhuizen gaat volgend jaar zomer misschien weer rijden",
+        "link": "https://radiolelystad.nl/bus-naar-over-de-dijk-naar-enkhuizen-komt-volgend-jaar-misschien-terug",
+        "published": "dinsdag 04 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Heemschut wil graag dat de torens van de Botter bewaard blijven, 'historische waarde'",
+        "link": "https://radiolelystad.nl/heemschut-wil-graag-dat-de-torens-van-de-botter-bewaard-blijven",
+        "published": "dinsdag 04 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Bewoners De Stelling: 'Wij betalen voor onze parkeerplaatsen, anderen parkeren er'",
+        "link": "https://radiolelystad.nl/bewoners-de-stelling-wij-betalen-voor-onze-parkeerplaatsen-anderen-parkeren-er",
+        "published": "dinsdag 04 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Zorgen bij Jong Lelystad over giftige Italiaanse aronskelk in openbaar groen",
+        "link": "https://radiolelystad.nl/zorgen-bij-jong-lelystad-over-giftige-aronskelk-in-openbaar-groen",
+        "published": "maandag 03 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Dinsdagavondsalon Radio Lelystad viert jubileum met gedichtenwedstrijd",
+        "link": "https://radiolelystad.nl/dinsdagavondsalon-radio-lelystad-viert-jubileum-met-gedichtenwedstrijd",
+        "published": "maandag 03 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente overweegt stappen tegen organisatoren raveparty Flevokust Haven",
+        "link": "https://radiolelystad.nl/gemeente-overweegt-stappen-tegen-organisatoren-illegaal-buitenfeest",
+        "published": "maandag 03 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Vrouw overleden na bizar ongeval in Kempenaar",
+        "link": "https://radiolelystad.nl/vrouw-overleden-na-bizar-ongeval-in-kempenaar",
+        "published": "vrijdag 31 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente waarschuwt tegen misleiding door isolatiebedrijven",
+        "link": "https://radiolelystad.nl/gemeente-waarschuwt-tegen-misleiding-door-isolatiebedrijven",
+        "published": "vrijdag 31 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "VVD wil haast met aanpakken overlast rondhangende mannen in Zilverparkgarage",
+        "link": "https://radiolelystad.nl/vvd-wil-haast-met-aanpakken-overlast-rondhangende-mannen-in-zilverparkgarage",
+        "published": "vrijdag 31 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "De Lelycollectie van Ed Voigt is nu voor iedereen met internet te bekijken",
+        "link": "https://radiolelystad.nl/de-lelycollectie-van-ed-voigt-is-nu-voor-iedereen-met-internet-te-zien",
+        "published": "vrijdag 31 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Stadhuis stelt CDA gerust: de brandkranen in de stad zijn in orde en worden bijgehouden",
+        "link": "https://radiolelystad.nl/stadhuis-stelt-cda-gerust-de-brandkranen-in-de-stad-zijn-in-orde",
+        "published": "donderdag 30 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Update: De Knotwilg heeft alsnog de benodigde nieuwe vrijwilligers",
+        "link": "https://radiolelystad.nl/kinderboerderij-bultpark-nog-altijd-dicht-wegens-tekort-aan-vrijwilligers",
+        "published": "donderdag 30 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Burgemeester blikt terug op roerige periode, met zowel crisis als verkiezingen",
+        "link": "https://radiolelystad.nl/burgemeester-blikt-terug-op-roerige-periode-met-zowel-crisis-als-verkiezingen",
+        "published": "woensdag 29 juli 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week: Joost Baars (geen titel)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-joost-baars-geen-titel",
+        "published": "woensdag 29 juli 2026",
         "summary": ""
       }
     ],
@@ -325,607 +921,11 @@
         "summary": ""
       }
     ],
-    "Radio Lelystad": [
-      {
-        "title": "Gedicht van de week: Een klein mens (Leandra  Vleeschhouwer)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-een-klein-mens-leandra-vleeschhouwer",
-        "published": "woensdag 19 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Torenvalktunnel wordt gedweild met de kraan open, maar permanente oplossing is in zicht",
-        "link": "https://radiolelystad.nl/torenvalktunnel-wordt-voorlopig-nog-even-gedweild-met-de-kraan-open-maar-permanente-oplossing-is-in-zicht",
-        "published": "woensdag 19 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Lelystedeling met tijdens proefrit gestolen auto wordt klemgereden in  Breda",
-        "link": "https://radiolelystad.nl/lelystedeling-met-tijdens-proefrit-gestolen-auto-wordt-klemgereden-in-breda",
-        "published": "dinsdag 18 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "De eerste Lelystadse Zomerparade is succesvol afgesloten, ruim 9.000 bezoekers",
-        "link": "https://radiolelystad.nl/de-eerste-lelystadse-zomerparade-is-succesvol-afgesloten-en-trok-in-zes-dagen-ruim-9-000-bezoekers",
-        "published": "dinsdag 18 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad twee nieuwe kindcentra rijker, na opening De Kring en Voorhof",
-        "link": "https://radiolelystad.nl/lelystad-twee-nieuwe-kindcentra-rijker-na-opening-de-kring-en-voorhof",
-        "published": "dinsdag 18 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Programmeur Bas Jansen: ‘Lowlands behoort tot de absolute wereldtop’",
-        "link": "https://radiolelystad.nl/in-de-festivalwereld-behoren-wij-tot-de-absolute-wereldtop",
-        "published": "maandag 17 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Bezoekers afgelast Defqon.1 blijven festival trouw en proberen het volgend jaar weer",
-        "link": "https://radiolelystad.nl/bezoekers-afgelast-defqon-1-blijven-festival-trouw-en-proberen-het-volgend-jaar-weer",
-        "published": "maandag 17 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Een warm welkom met de Lelykrat voor nieuwe inwoners van Lelystad",
-        "link": "https://radiolelystad.nl/een-lelykrat-voor-nieuwe-inwoners-van-lelystad",
-        "published": "maandag 17 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Pontos wil jong en oud enthousiasmeren voor het roeien op open dag zaterdag",
-        "link": "https://radiolelystad.nl/open-dag-bij-roeivereniging-pontos",
-        "published": "maandag 17 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Extra toezicht in de weekenden bij wooncomplexen Lars en Lily",
-        "link": "https://radiolelystad.nl/extra-toezicht-in-de-weekenden-bij-wooncomplexen-lars-en-lily",
-        "published": "zondag 16 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Overleden persoon gevonden in Groene Velden, politie denkt aan misdrijf (update)",
-        "link": "https://radiolelystad.nl/overleden-persoon-gevonden-in-woning-groene-velden-politie-denkt-aan-misdrijf",
-        "published": "zondag 16 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Ook de regio IJsselmeer merkt vanaf vandaag de gevolgen van de droogte",
-        "link": "https://radiolelystad.nl/ook-de-regio-ijsselmeer-merkt-vanaf-vandaag-de-gevolgen-van-de-droogte",
-        "published": "vrijdag 14 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente veilt bijzonder gevonden voorwerp: een graafmachine",
-        "link": "https://radiolelystad.nl/gemeente-veilt-bijzonder-gevonden-voorwerp-een-graafmachine",
-        "published": "vrijdag 14 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Vijf gewonden bij aanrijding met drie partijen op rotonde Markerwaarddijk",
-        "link": "https://radiolelystad.nl/vijf-gewonden-bij-aanrijding-op-rotonde-markerwaarddijk",
-        "published": "donderdag 13 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Nu eens genieten van de zon omdat die verduisterd wordt (video)",
-        "link": "https://radiolelystad.nl/nu-eens-genieten-van-de-zon-omdat-die-verduisterd-wordt-video",
-        "published": "donderdag 13 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Oorzaak brand Oostervaart wellicht niet te achterhalen, palletbedrijf wil door",
-        "link": "https://radiolelystad.nl/oorzaak-brand-oostervaart-wellicht-niet-te-achterhalen-palletbedrijf-wil-doo",
-        "published": "donderdag 13 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Zorgen over mogelijke verschraling van Natuurpark en bezoek Oostvaardersplassen",
-        "link": "https://radiolelystad.nl/zorgen-over-mogelijke-verschraling-van-natuurpark-en-bezoek-oostvaardersplassen",
-        "published": "woensdag 12 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Volg de zonsverduistering vanavond live via Radio Lelystad",
-        "link": "https://radiolelystad.nl/volg-de-zonsverduistering-vanavond-via-radio-lelystad",
-        "published": "woensdag 12 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: De mensentuin (Nikita Moleveld)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-de-mensentuin-nikita-moleveld",
-        "published": "woensdag 12 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad wordt vanaf vandaag ook een beetje een studentenstad, Quadrata is opgeleverd",
-        "link": "https://radiolelystad.nl/lelystad-wordt-vanaf-vandaag-ook-een-beetje-een-studentenstad",
-        "published": "dinsdag 11 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Enorme brand zorgt voor vroege zonsverduistering in Lelystad",
-        "link": "https://radiolelystad.nl/enorme-brand-zorgt-voor-vroege-zonsverduistering-in-lelystad",
-        "published": "dinsdag 11 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Wereldkampioene freestyle voetbal opent Zomerparade met demonstratie",
-        "link": "https://radiolelystad.nl/wereldkampioene-freestyle-voetbal-opent-zomerparade-met-demonstratie",
-        "published": "dinsdag 11 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Vakantiegevoel bij het kampvuur met marshmellows op de buurtcamping (video)",
-        "link": "https://radiolelystad.nl/vakantiegevoel-bij-het-kampvuur-met-marshmellows-op-de-buurtcamping-video",
-        "published": "dinsdag 11 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Groot alarm om brand op Oostervaart, rook te zien tot in Apeldoorn, palletloods in de as",
-        "link": "https://radiolelystad.nl/groot-alarm-om-brand-op-oostervaart-rook-te-zien-tot-in-apeldoorn",
-        "published": "dinsdag 11 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Dikke rooklaag trekt over Lelystad, brand bij palletbedrijf op Oostervaart",
-        "link": "https://radiolelystad.nl/dikke-rooklaag-trekt-over-lelystad-brand-bij-palletbedrijf-op-oostervaart",
-        "published": "dinsdag 11 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Voorwerpen dode man in Amsterdam wijzen op band met Lelystad",
-        "link": "https://radiolelystad.nl/voorwerpen-dode-man-in-amsterdam-wijzen-op-band-met-flevoland",
-        "published": "maandag 10 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Kraamzorg opent 'thuiskamer' in ziekenhuis voor moeder en baby (en partner)",
-        "link": "https://radiolelystad.nl/kraamzorg-opent-thuiskamer-in-ziekenhuis-voor-moeder-en-baby",
-        "published": "maandag 10 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente pakt rondhangende overlastgevers in Zilverparkgarage aan",
-        "link": "https://radiolelystad.nl/gemeente-belooft-overlast-rondhangende-mannen-zilverparkgarage-aan-te-pakken",
-        "published": "maandag 10 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Droogte leidt tot onvermijdelijke vissterfte in de Oostvaardersplassen",
-        "link": "https://radiolelystad.nl/droogte-leidt-tot-onvermijdelijke-vissterfte-in-de-oostvaardersplassen",
-        "published": "vrijdag 07 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Verdachte Kempenaar Groep al een maand zoek na doorknippen enkelband",
-        "link": "https://radiolelystad.nl/verdachte-kempenaar-groep-verdwenen-na-doorknippen-enkelband",
-        "published": "vrijdag 07 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Wie iets vindt over fietsen stallen in het centrum, kan dat zaterdag kwijt",
-        "link": "https://radiolelystad.nl/wie-iets-vindt-over-fietsen-stallen-in-het-centrum-kan-dat-zaterdag-kwijt",
-        "published": "donderdag 06 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Het was druk in het Stadshart - en er was ook iets heel erg engs te doen (video)",
-        "link": "https://radiolelystad.nl/het-was-druk-in-het-stadshart-en-er-was-ook-iets-engs-te-doen-video",
-        "published": "donderdag 06 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Taakstraf na aanslag op restaurant, waarbij dader de benzine mengde met water",
-        "link": "https://radiolelystad.nl/taakstraf-na-aanslag-op-restaurant-waarbij-dader-de-benzine-mengde-met-water",
-        "published": "woensdag 05 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: Erbarme dich (Jeroen van Belville)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-erbarme-dich-jeroen-van-belville",
-        "published": "woensdag 05 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente na kritiek: We grepen in bij raveparty  vanwege zorgen over veiligheid",
-        "link": "https://radiolelystad.nl/gemeente-we-grepen-in-bij-raveparty-vanwege-zorgen-over-veiligheid",
-        "published": "dinsdag 04 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Bus over de dijk naar Enkhuizen gaat volgend jaar zomer misschien weer rijden",
-        "link": "https://radiolelystad.nl/bus-naar-over-de-dijk-naar-enkhuizen-komt-volgend-jaar-misschien-terug",
-        "published": "dinsdag 04 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Heemschut wil graag dat de torens van de Botter bewaard blijven, 'historische waarde'",
-        "link": "https://radiolelystad.nl/heemschut-wil-graag-dat-de-torens-van-de-botter-bewaard-blijven",
-        "published": "dinsdag 04 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Bewoners De Stelling: 'Wij betalen voor onze parkeerplaatsen, anderen parkeren er'",
-        "link": "https://radiolelystad.nl/bewoners-de-stelling-wij-betalen-voor-onze-parkeerplaatsen-anderen-parkeren-er",
-        "published": "dinsdag 04 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Zorgen bij Jong Lelystad over giftige Italiaanse aronskelk in openbaar groen",
-        "link": "https://radiolelystad.nl/zorgen-bij-jong-lelystad-over-giftige-aronskelk-in-openbaar-groen",
-        "published": "maandag 03 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Dinsdagavondsalon Radio Lelystad viert jubileum met gedichtenwedstrijd",
-        "link": "https://radiolelystad.nl/dinsdagavondsalon-radio-lelystad-viert-jubileum-met-gedichtenwedstrijd",
-        "published": "maandag 03 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente overweegt stappen tegen organisatoren raveparty Flevokust Haven",
-        "link": "https://radiolelystad.nl/gemeente-overweegt-stappen-tegen-organisatoren-illegaal-buitenfeest",
-        "published": "maandag 03 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Vrouw overleden na bizar ongeval in Kempenaar",
-        "link": "https://radiolelystad.nl/vrouw-overleden-na-bizar-ongeval-in-kempenaar",
-        "published": "vrijdag 31 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente waarschuwt tegen misleiding door isolatiebedrijven",
-        "link": "https://radiolelystad.nl/gemeente-waarschuwt-tegen-misleiding-door-isolatiebedrijven",
-        "published": "vrijdag 31 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "VVD wil haast met aanpakken overlast rondhangende mannen in Zilverparkgarage",
-        "link": "https://radiolelystad.nl/vvd-wil-haast-met-aanpakken-overlast-rondhangende-mannen-in-zilverparkgarage",
-        "published": "vrijdag 31 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "De Lelycollectie van Ed Voigt is nu voor iedereen met internet te bekijken",
-        "link": "https://radiolelystad.nl/de-lelycollectie-van-ed-voigt-is-nu-voor-iedereen-met-internet-te-zien",
-        "published": "vrijdag 31 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Stadhuis stelt CDA gerust: de brandkranen in de stad zijn in orde en worden bijgehouden",
-        "link": "https://radiolelystad.nl/stadhuis-stelt-cda-gerust-de-brandkranen-in-de-stad-zijn-in-orde",
-        "published": "donderdag 30 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Update: De Knotwilg heeft alsnog de benodigde nieuwe vrijwilligers",
-        "link": "https://radiolelystad.nl/kinderboerderij-bultpark-nog-altijd-dicht-wegens-tekort-aan-vrijwilligers",
-        "published": "donderdag 30 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Burgemeester blikt terug op roerige periode, met zowel crisis als verkiezingen",
-        "link": "https://radiolelystad.nl/burgemeester-blikt-terug-op-roerige-periode-met-zowel-crisis-als-verkiezingen",
-        "published": "woensdag 29 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: Joost Baars (geen titel)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-joost-baars-geen-titel",
-        "published": "woensdag 29 juli 2026",
-        "summary": ""
-      },
-      {
-        "title": "Minister moet uiterlijk half december natuurvergunning Airport afhandelen",
-        "link": "https://radiolelystad.nl/minister-moet-uiterlijk-half-december-natuurvergunning-airport-afhandelen",
-        "published": "dinsdag 28 juli 2026",
-        "summary": ""
-      }
-    ],
-    "Omroep Flevoland": [
-      {
-        "title": "Lelystad - Politie toont foto's van man in verband met dood gevonden vrouw Groene Velden Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/520677/politie-toont-foto's-van-man-in-verband-met-dood-gevonden-vrouw-groene-velden-lelystad",
-        "published": "Wed, 19 Aug 2026 20:36:41 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Vrijspraak voor Lelystedeling in zaak gewelddadige beroving",
-        "link": "https://www.omroepflevoland.nl/nieuws/520629/vrijspraak-voor-lelystedeling-in-zaak-gewelddadige-beroving",
-        "published": "Wed, 19 Aug 2026 20:04:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 19/08 |  Nieuwe zoektocht naar vermiste Drontenaar • Geen nieuwe watermaatregelen",
-        "link": "https://www.omroepflevoland.nl/nieuws/520640/nieuwsoverzicht-1908-or-nieuwe-zoektocht-naar-vermiste-drontenaar-*-geen-nieuwe-watermaatregelen",
-        "published": "Wed, 19 Aug 2026 18:54:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Deskundigen vrezen voor dodelijk incident, maar vriendin wil Harry R. terug in huis",
-        "link": "https://www.omroepflevoland.nl/nieuws/520648/deskundigen-vrezen-voor-dodelijk-incident-maar-vriendin-wil-harry-r.-terug-in-huis",
-        "published": "Wed, 19 Aug 2026 18:34:44 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Groot lek in waterleiding: duizenden liters water stromen Lelystadse straat in",
-        "link": "https://www.omroepflevoland.nl/nieuws/520619/groot-lek-in-waterleiding:-duizenden-liters-water-stromen-lelystadse-straat-in",
-        "published": "Wed, 19 Aug 2026 13:02:08 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - 200 woningen Lelystadse wijk Jol nog hele middag zonder water na groot lek in waterleiding",
-        "link": "https://www.omroepflevoland.nl/nieuws/520619/200-woningen-lelystadse-wijk-jol-nog-hele-middag-zonder-water-na-groot-lek-in-waterleiding",
-        "published": "Wed, 19 Aug 2026 13:02:08 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Deel Lelystadse wijk Jol onder water na lek in hoofdwaterleiding, straat afgesloten",
-        "link": "https://www.omroepflevoland.nl/nieuws/520619/deel-lelystadse-wijk-jol-onder-water-na-lek-in-hoofdwaterleiding-straat-afgesloten",
-        "published": "Wed, 19 Aug 2026 13:02:08 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Invasieve hoornaars worden gezenderd en gevolgd, en 'verraden' zo hun nest",
-        "link": "https://www.omroepflevoland.nl/nieuws/520582/invasieve-hoornaars-worden-gezenderd-en-gevolgd-en-'verraden'-zo-hun-nest",
-        "published": "Wed, 19 Aug 2026 06:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Bewoners Lars en Lily voelen zich onveilig en zitten jaren langer in tijdelijke woning: 'Als ik dit had geweten, had ik het nooit gedaan'",
-        "link": "https://www.omroepflevoland.nl/nieuws/520574/bewoners-lars-en-lily-voelen-zich-onveilig-en-zitten-jaren-langer-in-tijdelijke-woning:-'als-ik-dit-had-geweten-had-ik-het-nooit-gedaan'",
-        "published": "Wed, 19 Aug 2026 06:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Natte voeten in fietstunnel binnenkort voorbij: gemeente Lelystad werkt aan permanente  oplossing",
-        "link": "https://www.omroepflevoland.nl/nieuws/520548/natte-voeten-in-fietstunnel-binnenkort-voorbij:-gemeente-lelystad-werkt-aan-permanente-oplossing",
-        "published": "Tue, 18 Aug 2026 20:15:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Natte voeten in fietstunnel binnenkort voorbij: gemeente Lelystad werkt aan permanent  oplossing",
-        "link": "https://www.omroepflevoland.nl/nieuws/520548/natte-voeten-in-fietstunnel-binnenkort-voorbij:-gemeente-lelystad-werkt-aan-permanent-oplossing",
-        "published": "Tue, 18 Aug 2026 20:15:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Licht aan het eind van de probleemtunnel: de gemeente belooft blijvende oplossingen",
-        "link": "https://www.omroepflevoland.nl/nieuws/520548/licht-aan-het-eind-van-de-probleemtunnel:-de-gemeente-belooft-blijvende-oplossingen",
-        "published": "Tue, 18 Aug 2026 20:15:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Gemeente over probleemtunnel Lelystad: 'Leegzuigen bij zware regenval, permanente oplossing volgt'",
-        "link": "https://www.omroepflevoland.nl/nieuws/520548/gemeente-over-probleemtunnel-lelystad:-'leegzuigen-bij-zware-regenval-permanente-oplossing-volgt'",
-        "published": "Tue, 18 Aug 2026 20:15:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 18/08 | Miljoenenschade caravanbedrijf • Protest tegen horecapaviljoen",
-        "link": "https://www.omroepflevoland.nl/nieuws/520534/nieuwsoverzicht-1808-or-miljoenenschade-caravanbedrijf-*-protest-tegen-horecapaviljoen",
-        "published": "Tue, 18 Aug 2026 18:54:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwe schoolgebouwen geopend in Lelystad en Dronten: 'Een cadeautje'",
-        "link": "https://www.omroepflevoland.nl/nieuws/520488/nieuwe-schoolgebouwen-geopend-in-lelystad-en-dronten:-'een-cadeautje'",
-        "published": "Tue, 18 Aug 2026 12:29:46 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuw schooljaar feestelijk geopend met nieuwe schoolgebouwen",
-        "link": "https://www.omroepflevoland.nl/nieuws/520488/nieuw-schooljaar-feestelijk-geopend-met-nieuwe-schoolgebouwen",
-        "published": "Tue, 18 Aug 2026 12:29:46 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Zeewolde - Zeewolde start zoektocht naar 'partijloze' wethouder met online vacature",
-        "link": "https://www.omroepflevoland.nl/nieuws/520440/zeewolde-start-zoektocht-naar-'partijloze'-wethouder-met-online-vacature",
-        "published": "Mon, 17 Aug 2026 19:44:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 17/08 | Caravanbedrijf krabbelt op na brand • Vrachtwagen verliest oplegger",
-        "link": "https://www.omroepflevoland.nl/nieuws/520421/nieuwsoverzicht-1708-or-caravanbedrijf-krabbelt-op-na-brand-*-vrachtwagen-verliest-oplegger",
-        "published": "Mon, 17 Aug 2026 18:52:31 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Fietstunnel in Lelystad staat bij elke regenbui blank: 'Voetjes omhoog dan blijven we droog'",
-        "link": "https://www.omroepflevoland.nl/nieuws/520398/fietstunnel-in-lelystad-staat-bij-elke-regenbui-blank:-'voetjes-omhoog-dan-blijven-we-droog'",
-        "published": "Mon, 17 Aug 2026 17:44:22 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Nieuw in Lelystad? Dan krijg je een Lelykrat",
-        "link": "https://www.omroepflevoland.nl/nieuws/520315/nieuw-in-lelystad-dan-krijg-je-een-lelykrat",
-        "published": "Mon, 17 Aug 2026 12:52:22 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Oplegger schiet van vrachtwagen en boort zich in asfalt op Oostranddreef",
-        "link": "https://www.omroepflevoland.nl/nieuws/520389/oplegger-schiet-van-vrachtwagen-en-boort-zich-in-asfalt-op-oostranddreef",
-        "published": "Mon, 17 Aug 2026 10:12:35 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Botsing tussen twee auto's op Houtribdreef, geen gewonden",
-        "link": "https://www.omroepflevoland.nl/nieuws/520383/botsing-tussen-twee-auto's-op-houtribdreef-geen-gewonden",
-        "published": "Mon, 17 Aug 2026 06:53:24 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Van Lelydorp tot Lelystad: het vergeten Surinaamse verhaal van Cornelis Lely",
-        "link": "https://www.omroepflevoland.nl/nieuws/519774/van-lelydorp-tot-lelystad:-het-vergeten-surinaamse-verhaal-van-cornelis-lely",
-        "published": "Mon, 17 Aug 2026 06:44:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Busjes van tuinaanlegzaak Lelystad gaan in vlammen op",
-        "link": "https://www.omroepflevoland.nl/nieuws/520300/busjes-van-tuinaanlegzaak-lelystad-gaan-in-vlammen-op",
-        "published": "Sun, 16 Aug 2026 18:32:06 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Overleden persoon in woning Lelystad blijkt bewoner van woonzorglocatie voor dementie",
-        "link": "https://www.omroepflevoland.nl/nieuws/520326/overleden-persoon-in-woning-lelystad-blijkt-bewoner-van-woonzorglocatie-voor-dementie",
-        "published": "Sun, 16 Aug 2026 18:15:33 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
-        "link": "https://www.omroepflevoland.nl/nieuws/520283/overleden-persoon-gevonden-in-woning-lelystad-politie-houdt-rekening-met-misdrijf",
-        "published": "Sun, 16 Aug 2026 11:53:29 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Droogte bedreigde jonge bomen in Natuurpark, nu staat er een stevig bos",
-        "link": "https://www.omroepflevoland.nl/nieuws/520029/droogte-bedreigde-jonge-bomen-in-natuurpark-nu-staat-er-een-stevig-bos",
-        "published": "Sun, 16 Aug 2026 09:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Wie krijgt voorrang op de woningmarkt? Almeerders naar rechter voor urgentieverklaring",
-        "link": "https://www.omroepflevoland.nl/nieuws/519992/wie-krijgt-voorrang-op-de-woningmarkt-almeerders-naar-rechter-voor-urgentieverklaring",
-        "published": "Sun, 16 Aug 2026 08:01:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Beveiligingsbedrijf houdt sinds explosie oogje in het zeil bij Lelystadse wooncomplexen",
-        "link": "https://www.omroepflevoland.nl/nieuws/520182/beveiligingsbedrijf-houdt-sinds-explosie-oogje-in-het-zeil-bij-lelystadse-wooncomplexen",
-        "published": "Sat, 15 Aug 2026 17:39:42 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Identiteit nog niet bekend  van dode man in Amsterdam-Oost met voorwerpen uit Flevoland",
-        "link": "https://www.omroepflevoland.nl/nieuws/520085/identiteit-nog-niet-bekend-van-dode-man-in-amsterdam-oost-met-voorwerpen-uit-flevoland",
-        "published": "Sat, 15 Aug 2026 08:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 14/08 | Brand treft caravanbedrijf • Autocross Kraggenburg bedreigd",
-        "link": "https://www.omroepflevoland.nl/nieuws/519530/nieuwsoverzicht-1408-or-brand-treft-caravanbedrijf-*-autocross-kraggenburg-bedreigd",
-        "published": "Fri, 14 Aug 2026 18:20:50 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - In de Waterkamer van Lelystad bereiden experts zich voor op een zomer met steeds minder water",
-        "link": "https://www.omroepflevoland.nl/nieuws/520044/in-de-waterkamer-van-lelystad-bereiden-experts-zich-voor-op-een-zomer-met-steeds-minder-water",
-        "published": "Fri, 14 Aug 2026 16:16:06 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Programma Zomerparade Lelystad gaat vrijdagmiddag niet door vanwege hitte",
-        "link": "https://www.omroepflevoland.nl/nieuws/520022/programma-zomerparade-lelystad-gaat-vrijdagmiddag-niet-door-vanwege-hitte",
-        "published": "Fri, 14 Aug 2026 13:59:32 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Weekendweerbericht: Na zomersmog en extreme hitte volgt een weekend met aangename temperaturen",
-        "link": "https://www.omroepflevoland.nl/nieuws/520020/weekendweerbericht:-na-zomersmog-en-extreme-hitte-volgt-een-weekend-met-aangename-temperaturen",
-        "published": "Fri, 14 Aug 2026 13:54:51 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Waterschap neemt eerste stap tegen droogte: boeren mogen akkers niet meer onder water zetten",
-        "link": "https://www.omroepflevoland.nl/nieuws/520007/waterschap-neemt-eerste-stap-tegen-droogte:-boeren-mogen-akkers-niet-meer-onder-water-zetten",
-        "published": "Fri, 14 Aug 2026 11:58:58 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Brandweer opnieuw in actie bij palletbedrijf in Lelystad, waar dinsdag grote brand woedde",
-        "link": "https://www.omroepflevoland.nl/nieuws/519979/brandweer-opnieuw-in-actie-bij-palletbedrijf-in-lelystad-waar-dinsdag-grote-brand-woedde",
-        "published": "Fri, 14 Aug 2026 06:48:53 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Waarom sommige bedrijven wel ruimte hebben op het stroomnet en andere niet",
-        "link": "https://www.omroepflevoland.nl/nieuws/519051/waarom-sommige-bedrijven-wel-ruimte-hebben-op-het-stroomnet-en-andere-niet",
-        "published": "Fri, 14 Aug 2026 06:44:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Hoe ver is het tot aan de basisschool? Langste afstand in Zeewolde, op Urk 'om de hoek'",
-        "link": "https://www.omroepflevoland.nl/nieuws/519897/hoe-ver-is-het-tot-aan-de-basisschool-langste-afstand-in-zeewolde-op-urk-'om-de-hoek'",
-        "published": "Thu, 13 Aug 2026 19:55:34 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 13/08 | Vijf gewonden bij ongeval • Eigenaar graafmachine gezocht",
-        "link": "https://www.omroepflevoland.nl/nieuws/519529/nieuwsoverzicht-1308-or-vijf-gewonden-bij-ongeval-*-eigenaar-graafmachine-gezocht",
-        "published": "Thu, 13 Aug 2026 18:50:42 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Moeten 600 adressen straks op één plek de wijk uit in plaats van twee? Als het aan deze actievoerende buurman ligt niet",
-        "link": "https://www.omroepflevoland.nl/nieuws/519732/moeten-600-adressen-straks-op-een-plek-de-wijk-uit-in-plaats-van-twee-als-het-aan-deze-actievoerende-buurman-ligt-niet",
-        "published": "Thu, 13 Aug 2026 18:08:36 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Flinke ravage na verkeersongeval met drie voertuigen en vijf gewonden, Markerwaarddijk weer open",
-        "link": "https://www.omroepflevoland.nl/nieuws/519895/flinke-ravage-na-verkeersongeval-met-drie-voertuigen-en-vijf-gewonden-markerwaarddijk-weer-open",
-        "published": "Thu, 13 Aug 2026 13:17:26 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Flinke ravage na verkeersongeval met drie voertuigen en vijf gewonden, Markerwaarddijk dicht",
-        "link": "https://www.omroepflevoland.nl/nieuws/519895/flinke-ravage-na-verkeersongeval-met-drie-voertuigen-en-vijf-gewonden-markerwaarddijk-dicht",
-        "published": "Thu, 13 Aug 2026 13:17:26 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Verkeersongeval met meerdere voertuigen en gewonden op Markerwaarddijk, weg blijft open",
-        "link": "https://www.omroepflevoland.nl/nieuws/519895/verkeersongeval-met-meerdere-voertuigen-en-gewonden-op-markerwaarddijk-weg-blijft-open",
-        "published": "Thu, 13 Aug 2026 13:17:26 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Wie mist er een graafmachine? Gemeente Lelystad zoekt eigenaar",
-        "link": "https://www.omroepflevoland.nl/nieuws/519884/wie-mist-er-een-graafmachine-gemeente-lelystad-zoekt-eigenaar",
-        "published": "Thu, 13 Aug 2026 13:11:26 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Verdachte belaagt ex uit liefdesverdriet maar rechters kunnen nog geen vonnis vellen",
-        "link": "https://www.omroepflevoland.nl/nieuws/519737/verdachte-belaagt-ex-uit-liefdesverdriet-maar-rechters-kunnen-nog-geen-vonnis-vellen",
-        "published": "Thu, 13 Aug 2026 06:44:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Verder onderzoek naar verdachte van brandstichting en belaging na liefdesverdriet",
-        "link": "https://www.omroepflevoland.nl/nieuws/519737/verder-onderzoek-naar-verdachte-van-brandstichting-en-belaging-na-liefdesverdriet",
-        "published": "Thu, 13 Aug 2026 06:44:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 12/08 | Onrust in Natuurpark Lelystad • Nawaka goed verlopen",
-        "link": "https://www.omroepflevoland.nl/nieuws/519528/nieuwsoverzicht-1208-or-onrust-in-natuurpark-lelystad-*-nawaka-goed-verlopen",
-        "published": "Wed, 12 Aug 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Palletbedrijf wil graag terugkeren nadat pand in de as is gelegd: 'Lijkt wel ground zero'",
-        "link": "https://www.omroepflevoland.nl/nieuws/519788/palletbedrijf-wil-graag-terugkeren-nadat-pand-in-de-as-is-gelegd:-'lijkt-wel-ground-zero'",
-        "published": "Wed, 12 Aug 2026 18:22:28 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Duizenden Flevolanders genieten langs het water van de eclips, verkeersdrukte zonder ongelukken",
-        "link": "https://www.omroepflevoland.nl/nieuws/519770/duizenden-flevolanders-genieten-langs-het-water-van-de-eclips-verkeersdrukte-zonder-ongelukken",
-        "published": "Wed, 12 Aug 2026 16:55:03 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Topdrukte langs de kust met kijkers naar de zonsverduistering, verkeerschaos na de eclips",
-        "link": "https://www.omroepflevoland.nl/nieuws/519770/topdrukte-langs-de-kust-met-kijkers-naar-de-zonsverduistering-verkeerschaos-na-de-eclips",
-        "published": "Wed, 12 Aug 2026 16:55:03 GMT+0200",
+    "Nu.nl": [
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
+        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
+        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
         "summary": ""
       }
     ]

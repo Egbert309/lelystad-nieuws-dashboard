@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T17:04:47.488750+00:00",
+  "updated": "2026-08-19T18:03:10.828804+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -300,6 +300,28 @@
         "title": "Minister moet uiterlijk half december natuurvergunning Airport afhandelen",
         "link": "https://radiolelystad.nl/minister-moet-uiterlijk-half-december-natuurvergunning-airport-afhandelen",
         "published": "dinsdag 28 juli 2026",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
+        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
+        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
+        "link": "https://nos.nl/l/2627448",
+        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
+        "link": "https://nos.nl/l/2627106",
+        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
         "summary": ""
       }
     ],
@@ -605,20 +627,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
-        "link": "https://nos.nl/l/2627448",
-        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
-        "link": "https://nos.nl/l/2627106",
-        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Op de lijst van gevonden voorwerpen in Lelystad: geen sleutelbos, maar 30.000 kilo staal",
@@ -918,14 +926,6 @@
         "title": "Illegale raveparty in Lelystad, gemeente doet oproep aan feestvierders",
         "link": "https://www.destentor.nl/lelystad/illegale-raveparty-in-lelystad-gemeente-doet-oproep-aan-feestvierders~a11c9908/",
         "published": "Sat, 01 Aug 2026 12:30:00 GMT",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
-        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
-        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
         "summary": ""
       }
     ]

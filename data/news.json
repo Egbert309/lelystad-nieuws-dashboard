@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T01:27:46.918431+00:00",
+  "updated": "2026-08-20T02:22:05.309920+00:00",
   "sources": {
     "Nu.nl": [
       {
@@ -311,32 +311,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Steeds meer startersleningen afgesloten",
-        "link": "https://nos.nl/l/2627548",
-        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
-        "link": "https://nos.nl/l/2627536",
-        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
-        "link": "https://nos.nl/l/2627448",
-        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
-        "link": "https://nos.nl/l/2627106",
-        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Op de lijst van gevonden voorwerpen in Lelystad: geen sleutelbos, maar 30.000 kilo staal",
@@ -636,6 +610,32 @@
         "title": "Illegale raveparty in Lelystad, gemeente doet oproep aan feestvierders",
         "link": "https://www.destentor.nl/lelystad/illegale-raveparty-in-lelystad-gemeente-doet-oproep-aan-feestvierders~a11c9908/",
         "published": "Sat, 01 Aug 2026 12:30:00 GMT",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Steeds meer startersleningen afgesloten",
+        "link": "https://nos.nl/l/2627548",
+        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
+        "link": "https://nos.nl/l/2627536",
+        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
+        "link": "https://nos.nl/l/2627448",
+        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
+        "link": "https://nos.nl/l/2627106",
+        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
         "summary": ""
       }
     ],

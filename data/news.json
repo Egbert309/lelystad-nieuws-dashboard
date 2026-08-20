@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-20T18:04:44.176983+00:00",
+  "updated": "2026-08-20T19:11:27.480441+00:00",
   "sources": {
     "De Stentor": [
+      {
+        "title": "Dit tuincentrum draait op regenwater, maar na weken droogte is het bassin bijna leeg",
+        "link": "https://www.destentor.nl/lelystad/dit-tuincentrum-draait-op-regenwater-maar-na-weken-droogte-is-het-bassin-bijna-leeg~a2923122/",
+        "published": "Thu, 20 Aug 2026 18:30:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Dichters in Lelystad dingen mee naar speciale bokaal van radioprogramma",
         "link": "https://www.destentor.nl/lelystad/dichters-in-lelystad-dingen-mee-naar-speciale-bokaal-van-radioprogramma~a567583d9/",
@@ -295,15 +301,49 @@
         "link": "https://www.destentor.nl/lelystad/gaat-de-bus-tussen-enkhuizen-en-lelystad-weer-rijden-wij-juichen-het-toe~aa82327f/",
         "published": "Tue, 04 Aug 2026 04:00:45 GMT",
         "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Steeds meer startersleningen afgesloten",
+        "link": "https://nos.nl/l/2627548",
+        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
+        "summary": ""
       },
       {
-        "title": "Parenclub in Lelystad brandt af vlak voor sloopdeal: geen aanwijzing voor brandstichting",
-        "link": "https://www.destentor.nl/lelystad/parenclub-in-lelystad-brandt-af-vlak-voor-sloopdeal-geen-aanwijzing-voor-brandstichting~ad46376e/",
-        "published": "Mon, 03 Aug 2026 17:00:57 GMT",
+        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
+        "link": "https://nos.nl/l/2627536",
+        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
+        "link": "https://nos.nl/l/2627448",
+        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
+        "link": "https://nos.nl/l/2627106",
+        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
+        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
+        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
         "summary": ""
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Meevaller voor Lelystad: rijksbijdrage valt na bezwaar miljoenen hoger uit",
+        "link": "https://www.omroepflevoland.nl/nieuws/520770/meevaller-voor-lelystad:-rijksbijdrage-valt-na-bezwaar-miljoenen-hoger-uit",
+        "published": "Thu, 20 Aug 2026 20:30:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 20/08 | Botresten niet van vermiste Drontenaar • Opvallend: geen files bij Lowlands",
         "link": "https://www.omroepflevoland.nl/nieuws/520795/nieuwsoverzicht-2008-or-botresten-niet-van-vermiste-drontenaar-*-opvallend:-geen-files-bij-lowlands",
@@ -596,46 +636,6 @@
         "title": "Lelystad - Brandweer opnieuw in actie bij palletbedrijf in Lelystad, waar dinsdag grote brand woedde",
         "link": "https://www.omroepflevoland.nl/nieuws/519979/brandweer-opnieuw-in-actie-bij-palletbedrijf-in-lelystad-waar-dinsdag-grote-brand-woedde",
         "published": "Fri, 14 Aug 2026 06:48:53 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Waarom sommige bedrijven wel ruimte hebben op het stroomnet en andere niet",
-        "link": "https://www.omroepflevoland.nl/nieuws/519051/waarom-sommige-bedrijven-wel-ruimte-hebben-op-het-stroomnet-en-andere-niet",
-        "published": "Fri, 14 Aug 2026 06:44:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
-        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
-        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Steeds meer startersleningen afgesloten",
-        "link": "https://nos.nl/l/2627548",
-        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
-        "link": "https://nos.nl/l/2627536",
-        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
-        "link": "https://nos.nl/l/2627448",
-        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
-        "link": "https://nos.nl/l/2627106",
-        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
         "summary": ""
       }
     ],

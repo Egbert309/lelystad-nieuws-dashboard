@@ -1,6 +1,40 @@
 {
-  "updated": "2026-08-20T14:11:20.485104+00:00",
+  "updated": "2026-08-20T15:08:28.936987+00:00",
   "sources": {
+    "Nu.nl": [
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
+        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
+        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Steeds meer startersleningen afgesloten",
+        "link": "https://nos.nl/l/2627548",
+        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
+        "link": "https://nos.nl/l/2627536",
+        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
+        "link": "https://nos.nl/l/2627448",
+        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
+        "link": "https://nos.nl/l/2627106",
+        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Miljoenenmeevaller voor onderhoud aan het openbare groen en de openbare ruimte",
@@ -305,6 +339,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Biddinghuizen - Lowlands-files rond Biddinghuizen blijven uit op eerste aankomstdag",
+        "link": "https://www.omroepflevoland.nl/nieuws/520777/lowlands-files-rond-biddinghuizen-blijven-uit-op-eerste-aankomstdag",
+        "published": "Thu, 20 Aug 2026 17:02:27 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Lelystad - Vluchtpoging van drugsverdachte strandt na twee meter",
         "link": "https://www.omroepflevoland.nl/nieuws/520746/vluchtpoging-van-drugsverdachte-strandt-na-twee-meter",
         "published": "Thu, 20 Aug 2026 13:49:07 GMT+0200",
@@ -596,46 +636,6 @@
         "title": "Flevoland - Nieuwsoverzicht 13/08 | Vijf gewonden bij ongeval • Eigenaar graafmachine gezocht",
         "link": "https://www.omroepflevoland.nl/nieuws/519529/nieuwsoverzicht-1308-or-vijf-gewonden-bij-ongeval-*-eigenaar-graafmachine-gezocht",
         "published": "Thu, 13 Aug 2026 18:50:42 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Moeten 600 adressen straks op één plek de wijk uit in plaats van twee? Als het aan deze actievoerende buurman ligt niet",
-        "link": "https://www.omroepflevoland.nl/nieuws/519732/moeten-600-adressen-straks-op-een-plek-de-wijk-uit-in-plaats-van-twee-als-het-aan-deze-actievoerende-buurman-ligt-niet",
-        "published": "Thu, 13 Aug 2026 18:08:36 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Steeds meer startersleningen afgesloten",
-        "link": "https://nos.nl/l/2627548",
-        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
-        "link": "https://nos.nl/l/2627536",
-        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
-        "link": "https://nos.nl/l/2627448",
-        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
-        "link": "https://nos.nl/l/2627106",
-        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
-        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
-        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
         "summary": ""
       }
     ],

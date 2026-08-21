@@ -1,32 +1,6 @@
 {
-  "updated": "2026-08-21T03:18:41.079527+00:00",
+  "updated": "2026-08-21T04:11:35.426608+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Steeds meer startersleningen afgesloten",
-        "link": "https://nos.nl/l/2627548",
-        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
-        "link": "https://nos.nl/l/2627536",
-        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
-        "link": "https://nos.nl/l/2627448",
-        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
-        "link": "https://nos.nl/l/2627106",
-        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
       {
         "title": "Eerder gevonden botresten in Roggebotsebos zijn niet van Marc Jaskulski",
@@ -326,6 +300,32 @@
         "title": "Stadhuis stelt CDA gerust: de brandkranen in de stad zijn in orde en worden bijgehouden",
         "link": "https://radiolelystad.nl/stadhuis-stelt-cda-gerust-de-brandkranen-in-de-stad-zijn-in-orde",
         "published": "donderdag 30 juli 2026",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Steeds meer startersleningen afgesloten",
+        "link": "https://nos.nl/l/2627548",
+        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
+        "link": "https://nos.nl/l/2627536",
+        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
+        "link": "https://nos.nl/l/2627448",
+        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
+        "link": "https://nos.nl/l/2627106",
+        "published": "Sun, 16 Aug 2026 13:28:21 +0200",
         "summary": ""
       }
     ],
@@ -631,14 +631,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
-      {
-        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
-        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
-        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Dit tuincentrum draait op regenwater, maar na weken droogte is het bassin bijna leeg",
@@ -938,6 +930,14 @@
         "title": "Gaat de bus tussen Enkhuizen en Lelystad weer rijden? ‘Wij juichen het toe’",
         "link": "https://www.destentor.nl/lelystad/gaat-de-bus-tussen-enkhuizen-en-lelystad-weer-rijden-wij-juichen-het-toe~aa82327f/",
         "published": "Tue, 04 Aug 2026 04:00:45 GMT",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Overleden persoon gevonden in woning Lelystad, politie vermoedt misdrijf",
+        "link": "https://www.nu.nl/binnenland/6406491/overleden-persoon-gevonden-in-woning-lelystad-politie-vermoedt-misdrijf.html",
+        "published": "Sun, 16 Aug 2026 13:37:30 +0200",
         "summary": ""
       }
     ]

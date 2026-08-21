@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-21T15:07:09.407438+00:00",
+  "updated": "2026-08-21T16:04:54.941700+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 21/08 | Flat ontruimd door brand  • Festival Lowlands van start",
+        "link": "https://www.omroepflevoland.nl/nieuws/520872/nieuwsoverzicht-2108-or-flat-ontruimd-door-brand-*-festival-lowlands-van-start",
+        "published": "Fri, 21 Aug 2026 17:35:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Gemeentesecretaris Lelystad voorlopig niet aan het werk vanwege borstkanker",
         "link": "https://www.omroepflevoland.nl/nieuws/520876/gemeentesecretaris-lelystad-voorlopig-niet-aan-het-werk-vanwege-borstkanker",
@@ -295,50 +301,6 @@
         "link": "https://www.omroepflevoland.nl/nieuws/519992/wie-krijgt-voorrang-op-de-woningmarkt-almeerders-naar-rechter-voor-urgentieverklaring",
         "published": "Sun, 16 Aug 2026 08:01:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Beveiligingsbedrijf houdt sinds explosie oogje in het zeil bij Lelystadse wooncomplexen",
-        "link": "https://www.omroepflevoland.nl/nieuws/520182/beveiligingsbedrijf-houdt-sinds-explosie-oogje-in-het-zeil-bij-lelystadse-wooncomplexen",
-        "published": "Sat, 15 Aug 2026 17:39:42 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
-        "link": "https://nos.nl/l/2627723",
-        "published": "Fri, 21 Aug 2026 12:14:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Historisch Dakota-vliegtuig uit Soldaat van Oranje terug bij museum Aviodrome",
-        "link": "https://nos.nl/l/2627714",
-        "published": "Fri, 21 Aug 2026 10:59:11 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Verdachte van gewelddadige dood vrouw Lelystad dood aangetroffen",
-        "link": "https://nos.nl/l/2627707",
-        "published": "Fri, 21 Aug 2026 10:43:52 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Steeds meer startersleningen afgesloten",
-        "link": "https://nos.nl/l/2627548",
-        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
-        "link": "https://nos.nl/l/2627536",
-        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
-        "link": "https://nos.nl/l/2627448",
-        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
-        "summary": ""
       }
     ],
     "Nu.nl": [
@@ -356,6 +318,12 @@
       }
     ],
     "Radio Lelystad": [
+      {
+        "title": "Regen geeft verlichting, maar droogte nog lang niet voorbij",
+        "link": "https://radiolelystad.nl/regen-geeft-verlichting-maar-droogte-nog-lang-niet-voorbij",
+        "published": "vrijdag 21 augustus 2026",
+        "summary": ""
+      },
       {
         "title": "Man die werd gezocht in verband met overleden vrouw dood aangetroffen in Zeewolde",
         "link": "https://radiolelystad.nl/man-die-werd-gezocht-in-verband-met-overleden-vrouw-dood-aangetroffen-in-zeewolde",
@@ -649,15 +617,15 @@
         "link": "https://radiolelystad.nl/vvd-wil-haast-met-aanpakken-overlast-rondhangende-mannen-in-zilverparkgarage",
         "published": "vrijdag 31 juli 2026",
         "summary": ""
-      },
-      {
-        "title": "De Lelycollectie van Ed Voigt is nu voor iedereen met internet te bekijken",
-        "link": "https://radiolelystad.nl/de-lelycollectie-van-ed-voigt-is-nu-voor-iedereen-met-internet-te-zien",
-        "published": "vrijdag 31 juli 2026",
-        "summary": ""
       }
     ],
     "De Stentor": [
+      {
+        "title": "De lucht wordt schoner waardoor inwoners van Lelystad naar schatting 48 dagen langer leven",
+        "link": "https://www.destentor.nl/lelystad/de-lucht-wordt-schoner-waardoor-inwoners-van-lelystad-naar-schatting-48-dagen-langer-leven~a694f88b1/",
+        "published": "Fri, 21 Aug 2026 15:45:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Omleidingen rond IJsselmeerdijk door start van dijkversterkingsproject",
         "link": "https://www.destentor.nl/lelystad/omleidingen-rond-ijsselmeerdijk-door-start-van-dijkversterkingsproject~a8fb4f0a/",
@@ -951,11 +919,43 @@
         "link": "https://www.destentor.nl/lelystad/zomerparade-gaat-sportief-van-start-in-lelystad-met-straatvoetbal-en-basketbal~a3e7a5bc/",
         "published": "Fri, 07 Aug 2026 15:17:00 GMT",
         "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
+        "link": "https://nos.nl/l/2627723",
+        "published": "Fri, 21 Aug 2026 12:14:46 +0200",
+        "summary": ""
       },
       {
-        "title": "Vermeend lid jeugdbende Lelystad knipt enkelband door en vlucht voor politie",
-        "link": "https://www.destentor.nl/lelystad/vermeend-lid-jeugdbende-lelystad-knipt-enkelband-door-en-vlucht-voor-politie~a71a4e00/",
-        "published": "Thu, 06 Aug 2026 18:16:21 GMT",
+        "title": "Historisch Dakota-vliegtuig uit Soldaat van Oranje terug bij museum Aviodrome",
+        "link": "https://nos.nl/l/2627714",
+        "published": "Fri, 21 Aug 2026 10:59:11 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Verdachte van gewelddadige dood vrouw Lelystad dood aangetroffen",
+        "link": "https://nos.nl/l/2627707",
+        "published": "Fri, 21 Aug 2026 10:43:52 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Steeds meer startersleningen afgesloten",
+        "link": "https://nos.nl/l/2627548",
+        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
+        "link": "https://nos.nl/l/2627536",
+        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
+        "link": "https://nos.nl/l/2627448",
+        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
         "summary": ""
       }
     ]

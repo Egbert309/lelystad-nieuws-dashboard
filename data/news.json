@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T12:04:07.122432+00:00",
+  "updated": "2026-08-21T13:16:30.006674+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -300,44 +300,6 @@
         "title": "Verondersteld kopstuk jeugdbende Lelystad knipt enkelband door en vlucht voor politie",
         "link": "https://www.destentor.nl/lelystad/verondersteld-kopstuk-jeugdbende-lelystad-knipt-enkelband-door-en-vlucht-voor-politie~a71a4e00/",
         "published": "Thu, 06 Aug 2026 18:16:00 GMT",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
-        "link": "https://nos.nl/l/2627723",
-        "published": "Fri, 21 Aug 2026 12:14:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Historisch Dakota-vliegtuig uit Soldaat van Oranje terug bij museum Aviodrome",
-        "link": "https://nos.nl/l/2627714",
-        "published": "Fri, 21 Aug 2026 10:59:11 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Verdachte van gewelddadige dood vrouw Lelystad dood aangetroffen",
-        "link": "https://nos.nl/l/2627707",
-        "published": "Fri, 21 Aug 2026 10:43:52 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Steeds meer startersleningen afgesloten",
-        "link": "https://nos.nl/l/2627548",
-        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
-        "link": "https://nos.nl/l/2627536",
-        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
-        "link": "https://nos.nl/l/2627448",
-        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
         "summary": ""
       }
     ],
@@ -645,6 +607,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Lelystad - Gemeentesecretaris Lelystad voorlopig niet aan het werk vanwege borstkanker",
+        "link": "https://www.omroepflevoland.nl/nieuws/520876/gemeentesecretaris-lelystad-voorlopig-niet-aan-het-werk-vanwege-borstkanker",
+        "published": "Fri, 21 Aug 2026 14:10:04 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Flevoland - Weekendweerbericht: tamelijk koel maar op een enkele bui na droog",
         "link": "https://www.omroepflevoland.nl/nieuws/520853/weekendweerbericht:-tamelijk-koel-maar-op-een-enkele-bui-na-droog",
         "published": "Fri, 21 Aug 2026 10:44:22 GMT+0200",
@@ -937,11 +905,43 @@
         "link": "https://www.omroepflevoland.nl/nieuws/519530/nieuwsoverzicht-1408-or-brand-treft-caravanbedrijf-*-autocross-kraggenburg-bedreigd",
         "published": "Fri, 14 Aug 2026 18:20:50 GMT+0200",
         "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
+        "link": "https://nos.nl/l/2627723",
+        "published": "Fri, 21 Aug 2026 12:14:46 +0200",
+        "summary": ""
       },
       {
-        "title": "Lelystad - In de Waterkamer van Lelystad bereiden experts zich voor op een zomer met steeds minder water",
-        "link": "https://www.omroepflevoland.nl/nieuws/520044/in-de-waterkamer-van-lelystad-bereiden-experts-zich-voor-op-een-zomer-met-steeds-minder-water",
-        "published": "Fri, 14 Aug 2026 16:16:06 GMT+0200",
+        "title": "Historisch Dakota-vliegtuig uit Soldaat van Oranje terug bij museum Aviodrome",
+        "link": "https://nos.nl/l/2627714",
+        "published": "Fri, 21 Aug 2026 10:59:11 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Verdachte van gewelddadige dood vrouw Lelystad dood aangetroffen",
+        "link": "https://nos.nl/l/2627707",
+        "published": "Fri, 21 Aug 2026 10:43:52 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Steeds meer startersleningen afgesloten",
+        "link": "https://nos.nl/l/2627548",
+        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
+        "link": "https://nos.nl/l/2627536",
+        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
+        "link": "https://nos.nl/l/2627448",
+        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
         "summary": ""
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T01:27:34.817887+00:00",
+  "updated": "2026-08-22T02:20:48.370389+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -643,6 +643,20 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [
+      {
+        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
+        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
+        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Vliegtuig uit Soldaat van Oranje na 15 jaar terug naar Aviodrome: 'Hele klus'",
+        "link": "https://www.nu.nl/cultuur-overig/6406834/vliegtuig-uit-soldaat-van-oranje-na-15-jaar-terug-naar-aviodrome-hele-klus.html",
+        "published": "Fri, 21 Aug 2026 09:13:28 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Lowlandsvrijdag trapt af met ideaal weer en een als vanouds paradijselijke sfeer",
@@ -942,20 +956,6 @@
         "title": "Gemeente waarschuwt tegen misleiding door isolatiebedrijven",
         "link": "https://radiolelystad.nl/gemeente-waarschuwt-tegen-misleiding-door-isolatiebedrijven",
         "published": "vrijdag 31 juli 2026",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
-        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
-        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Vliegtuig uit Soldaat van Oranje na 15 jaar terug naar Aviodrome: 'Hele klus'",
-        "link": "https://www.nu.nl/cultuur-overig/6406834/vliegtuig-uit-soldaat-van-oranje-na-15-jaar-terug-naar-aviodrome-hele-klus.html",
-        "published": "Fri, 21 Aug 2026 09:13:28 +0200",
         "summary": ""
       }
     ]

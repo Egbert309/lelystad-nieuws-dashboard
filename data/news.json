@@ -1,44 +1,6 @@
 {
-  "updated": "2026-08-23T11:02:59.464789+00:00",
+  "updated": "2026-08-23T12:01:59.515143+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
-        "link": "https://nos.nl/l/2627723",
-        "published": "Fri, 21 Aug 2026 12:14:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Historisch Dakota-vliegtuig uit Soldaat van Oranje terug bij museum Aviodrome",
-        "link": "https://nos.nl/l/2627714",
-        "published": "Fri, 21 Aug 2026 10:59:11 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Verdachte van gewelddadige dood vrouw Lelystad dood aangetroffen",
-        "link": "https://nos.nl/l/2627707",
-        "published": "Fri, 21 Aug 2026 10:43:52 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Steeds meer startersleningen afgesloten",
-        "link": "https://nos.nl/l/2627548",
-        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
-        "link": "https://nos.nl/l/2627536",
-        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
-        "link": "https://nos.nl/l/2627448",
-        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Nachtelijke explosie maakt bewoners van Lelystadse buurt wakker, politie start onderzoek",
@@ -643,17 +605,41 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
+    "NOS": [
       {
-        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
-        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
-        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
+        "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
+        "link": "https://nos.nl/l/2627723",
+        "published": "Fri, 21 Aug 2026 12:14:46 +0200",
         "summary": ""
       },
       {
-        "title": "Vliegtuig uit Soldaat van Oranje na 15 jaar terug naar Aviodrome: 'Hele klus'",
-        "link": "https://www.nu.nl/cultuur-overig/6406834/vliegtuig-uit-soldaat-van-oranje-na-15-jaar-terug-naar-aviodrome-hele-klus.html",
-        "published": "Fri, 21 Aug 2026 09:13:28 +0200",
+        "title": "Historisch Dakota-vliegtuig uit Soldaat van Oranje terug bij museum Aviodrome",
+        "link": "https://nos.nl/l/2627714",
+        "published": "Fri, 21 Aug 2026 10:59:11 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Verdachte van gewelddadige dood vrouw Lelystad dood aangetroffen",
+        "link": "https://nos.nl/l/2627707",
+        "published": "Fri, 21 Aug 2026 10:43:52 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Steeds meer startersleningen afgesloten",
+        "link": "https://nos.nl/l/2627548",
+        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
+        "link": "https://nos.nl/l/2627536",
+        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
+        "link": "https://nos.nl/l/2627448",
+        "published": "Wed, 19 Aug 2026 07:00:02 +0200",
         "summary": ""
       }
     ],
@@ -956,6 +942,20 @@
         "title": "Zorgen bij Jong Lelystad over giftige Italiaanse aronskelk in openbaar groen",
         "link": "https://radiolelystad.nl/zorgen-bij-jong-lelystad-over-giftige-aronskelk-in-openbaar-groen",
         "published": "maandag 03 augustus 2026",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
+        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
+        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Vliegtuig uit Soldaat van Oranje na 15 jaar terug naar Aviodrome: 'Hele klus'",
+        "link": "https://www.nu.nl/cultuur-overig/6406834/vliegtuig-uit-soldaat-van-oranje-na-15-jaar-terug-naar-aviodrome-hele-klus.html",
+        "published": "Fri, 21 Aug 2026 09:13:28 +0200",
         "summary": ""
       }
     ]

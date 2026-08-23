@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-23T09:04:54.418301+00:00",
+  "updated": "2026-08-23T10:02:39.805496+00:00",
   "sources": {
     "De Stentor": [
+      {
+        "title": "Heb jij Chester, Bibi of Shadi Aminnejad gezien? Deze vijf huisdieren worden in Lelystad vermist",
+        "link": "https://www.destentor.nl/lelystad/heb-jij-chester-bibi-of-shadi-aminnejad-gezien-deze-vijf-huisdieren-worden-in-lelystad-vermist~a2a4a521/",
+        "published": "Sun, 23 Aug 2026 09:11:24 GMT",
+        "summary": ""
+      },
       {
         "title": "De lucht wordt schoner waardoor inwoners van Lelystad naar schatting 48 dagen langer leven",
         "link": "https://www.destentor.nl/lelystad/de-lucht-wordt-schoner-waardoor-inwoners-van-lelystad-naar-schatting-48-dagen-langer-leven~a694f88b1/",
@@ -294,12 +300,6 @@
         "title": "Heb jij Puck, Chili of Djazz gezien? Deze vijf huisdieren worden in Lelystad vermist",
         "link": "https://www.destentor.nl/lelystad/heb-jij-puck-chili-of-djazz-gezien-deze-vijf-huisdieren-worden-in-lelystad-vermist~a188c1f86/",
         "published": "Sun, 09 Aug 2026 09:11:45 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Zomerparade gaat sportief van start in Lelystad met straatvoetbal en basketbal",
-        "link": "https://www.destentor.nl/lelystad/zomerparade-gaat-sportief-van-start-in-lelystad-met-straatvoetbal-en-basketbal~a3e7a5bc/",
-        "published": "Fri, 07 Aug 2026 15:17:00 GMT",
         "summary": ""
       }
     ],
@@ -907,20 +907,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
-      {
-        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
-        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
-        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Vliegtuig uit Soldaat van Oranje na 15 jaar terug naar Aviodrome: 'Hele klus'",
-        "link": "https://www.nu.nl/cultuur-overig/6406834/vliegtuig-uit-soldaat-van-oranje-na-15-jaar-terug-naar-aviodrome-hele-klus.html",
-        "published": "Fri, 21 Aug 2026 09:13:28 +0200",
-        "summary": ""
-      }
-    ],
     "NOS": [
       {
         "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
@@ -956,6 +942,20 @@
         "title": "Genetisch gemodificeerde gewassen straks makkelijker op ons bord",
         "link": "https://nos.nl/l/2627448",
         "published": "Wed, 19 Aug 2026 07:00:02 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
+        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
+        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Vliegtuig uit Soldaat van Oranje na 15 jaar terug naar Aviodrome: 'Hele klus'",
+        "link": "https://www.nu.nl/cultuur-overig/6406834/vliegtuig-uit-soldaat-van-oranje-na-15-jaar-terug-naar-aviodrome-hele-klus.html",
+        "published": "Fri, 21 Aug 2026 09:13:28 +0200",
         "summary": ""
       }
     ]

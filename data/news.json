@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-22T23:02:31.154622+00:00",
+  "updated": "2026-08-23T00:01:56.681104+00:00",
   "sources": {
+    "Nu.nl": [
+      {
+        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
+        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
+        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Vliegtuig uit Soldaat van Oranje na 15 jaar terug naar Aviodrome: 'Hele klus'",
+        "link": "https://www.nu.nl/cultuur-overig/6406834/vliegtuig-uit-soldaat-van-oranje-na-15-jaar-terug-naar-aviodrome-hele-klus.html",
+        "published": "Fri, 21 Aug 2026 09:13:28 +0200",
+        "summary": ""
+      }
+    ],
     "NOS": [
       {
         "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
@@ -942,20 +956,6 @@
         "title": "Gemeente overweegt stappen tegen organisatoren raveparty Flevokust Haven",
         "link": "https://radiolelystad.nl/gemeente-overweegt-stappen-tegen-organisatoren-illegaal-buitenfeest",
         "published": "maandag 03 augustus 2026",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
-        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
-        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Vliegtuig uit Soldaat van Oranje na 15 jaar terug naar Aviodrome: 'Hele klus'",
-        "link": "https://www.nu.nl/cultuur-overig/6406834/vliegtuig-uit-soldaat-van-oranje-na-15-jaar-terug-naar-aviodrome-hele-klus.html",
-        "published": "Fri, 21 Aug 2026 09:13:28 +0200",
         "summary": ""
       }
     ]

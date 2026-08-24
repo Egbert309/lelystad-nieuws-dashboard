@@ -1,38 +1,6 @@
 {
-  "updated": "2026-08-24T06:07:49.986278+00:00",
+  "updated": "2026-08-24T07:20:45.834970+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
-        "link": "https://nos.nl/l/2627723",
-        "published": "Fri, 21 Aug 2026 12:14:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Historisch Dakota-vliegtuig uit Soldaat van Oranje terug bij museum Aviodrome",
-        "link": "https://nos.nl/l/2627714",
-        "published": "Fri, 21 Aug 2026 10:59:11 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Verdachte van gewelddadige dood vrouw Lelystad dood aangetroffen",
-        "link": "https://nos.nl/l/2627707",
-        "published": "Fri, 21 Aug 2026 10:43:52 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Steeds meer startersleningen afgesloten",
-        "link": "https://nos.nl/l/2627548",
-        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
-        "link": "https://nos.nl/l/2627536",
-        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Heb jij Chester, Bibi of Shadi Aminnejad gezien? Deze vijf huisdieren worden in Lelystad vermist",
@@ -648,6 +616,38 @@
         "title": "Lelystad - Overleden persoon gevonden in woning Lelystad, politie houdt rekening met misdrijf",
         "link": "https://www.omroepflevoland.nl/nieuws/520283/overleden-persoon-gevonden-in-woning-lelystad-politie-houdt-rekening-met-misdrijf",
         "published": "Sun, 16 Aug 2026 11:53:29 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
+        "link": "https://nos.nl/l/2627723",
+        "published": "Fri, 21 Aug 2026 12:14:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Historisch Dakota-vliegtuig uit Soldaat van Oranje terug bij museum Aviodrome",
+        "link": "https://nos.nl/l/2627714",
+        "published": "Fri, 21 Aug 2026 10:59:11 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Verdachte van gewelddadige dood vrouw Lelystad dood aangetroffen",
+        "link": "https://nos.nl/l/2627707",
+        "published": "Fri, 21 Aug 2026 10:43:52 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Steeds meer startersleningen afgesloten",
+        "link": "https://nos.nl/l/2627548",
+        "published": "Thu, 20 Aug 2026 00:05:08 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Politie zoekt man na gewelddadige dood vrouw in Lelystad",
+        "link": "https://nos.nl/l/2627536",
+        "published": "Wed, 19 Aug 2026 22:04:46 +0200",
         "summary": ""
       }
     ],

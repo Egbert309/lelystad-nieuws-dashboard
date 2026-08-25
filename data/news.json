@@ -1,6 +1,40 @@
 {
-  "updated": "2026-08-24T23:03:51.205470+00:00",
+  "updated": "2026-08-25T00:03:07.798191+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
+        "link": "https://nos.nl/l/2627723",
+        "published": "Fri, 21 Aug 2026 12:14:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Historisch Dakota-vliegtuig uit Soldaat van Oranje terug bij museum Aviodrome",
+        "link": "https://nos.nl/l/2627714",
+        "published": "Fri, 21 Aug 2026 10:59:11 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Verdachte van gewelddadige dood vrouw Lelystad dood aangetroffen",
+        "link": "https://nos.nl/l/2627707",
+        "published": "Fri, 21 Aug 2026 10:43:52 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
+        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
+        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Vliegtuig uit Soldaat van Oranje na 15 jaar terug naar Aviodrome: 'Hele klus'",
+        "link": "https://www.nu.nl/cultuur-overig/6406834/vliegtuig-uit-soldaat-van-oranje-na-15-jaar-terug-naar-aviodrome-hele-klus.html",
+        "published": "Fri, 21 Aug 2026 09:13:28 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Flevoland viert 40-jarig bestaan met tentoonstelling en theatrale lezing in Lelystad",
@@ -602,40 +636,6 @@
         "title": "Lelystad - Van Lelydorp tot Lelystad: het vergeten Surinaamse verhaal van Cornelis Lely",
         "link": "https://www.omroepflevoland.nl/nieuws/519774/van-lelydorp-tot-lelystad:-het-vergeten-surinaamse-verhaal-van-cornelis-lely",
         "published": "Mon, 17 Aug 2026 06:44:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
-        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
-        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Vliegtuig uit Soldaat van Oranje na 15 jaar terug naar Aviodrome: 'Hele klus'",
-        "link": "https://www.nu.nl/cultuur-overig/6406834/vliegtuig-uit-soldaat-van-oranje-na-15-jaar-terug-naar-aviodrome-hele-klus.html",
-        "published": "Fri, 21 Aug 2026 09:13:28 +0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
-        "link": "https://nos.nl/l/2627723",
-        "published": "Fri, 21 Aug 2026 12:14:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Historisch Dakota-vliegtuig uit Soldaat van Oranje terug bij museum Aviodrome",
-        "link": "https://nos.nl/l/2627714",
-        "published": "Fri, 21 Aug 2026 10:59:11 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Verdachte van gewelddadige dood vrouw Lelystad dood aangetroffen",
-        "link": "https://nos.nl/l/2627707",
-        "published": "Fri, 21 Aug 2026 10:43:52 +0200",
         "summary": ""
       }
     ],

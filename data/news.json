@@ -1,20 +1,6 @@
 {
-  "updated": "2026-08-25T06:04:58.556539+00:00",
+  "updated": "2026-08-25T07:15:34.350334+00:00",
   "sources": {
-    "Nu.nl": [
-      {
-        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
-        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
-        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Vliegtuig uit Soldaat van Oranje na 15 jaar terug naar Aviodrome: 'Hele klus'",
-        "link": "https://www.nu.nl/cultuur-overig/6406834/vliegtuig-uit-soldaat-van-oranje-na-15-jaar-terug-naar-aviodrome-hele-klus.html",
-        "published": "Fri, 21 Aug 2026 09:13:28 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - 'Normaal hebben we geen gezicht bij mensen die we helpen': brandweer blij met bijzonder cadeau na brand",
@@ -616,6 +602,20 @@
         "title": "Heemschut wil graag dat de torens van de Botter bewaard blijven, 'historische waarde'",
         "link": "https://radiolelystad.nl/heemschut-wil-graag-dat-de-torens-van-de-botter-bewaard-blijven",
         "published": "dinsdag 04 augustus 2026",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
+        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
+        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Vliegtuig uit Soldaat van Oranje na 15 jaar terug naar Aviodrome: 'Hele klus'",
+        "link": "https://www.nu.nl/cultuur-overig/6406834/vliegtuig-uit-soldaat-van-oranje-na-15-jaar-terug-naar-aviodrome-hele-klus.html",
+        "published": "Fri, 21 Aug 2026 09:13:28 +0200",
         "summary": ""
       }
     ],

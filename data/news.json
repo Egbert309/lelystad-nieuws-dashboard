@@ -1,14 +1,6 @@
 {
-  "updated": "2026-08-26T09:12:41.540640+00:00",
+  "updated": "2026-08-26T10:09:24.881952+00:00",
   "sources": {
-    "Nu.nl": [
-      {
-        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
-        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
-        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Afgelopen week 45 meldingen van de gemeente over sloop, bomenkap en verkeer in Lelystad",
@@ -313,6 +305,18 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Lelystad - Gemeente Lelystad zet toekomst Leonardo Hotel 'op slot', eigenaar voelt zich overvallen",
+        "link": "https://www.omroepflevoland.nl/nieuws/521352/gemeente-lelystad-zet-toekomst-leonardo-hotel-'op-slot'-eigenaar-voelt-zich-overvallen",
+        "published": "Wed, 26 Aug 2026 10:36:58 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - 'Ik zag dat ze echt vermoeid was': thuiskamer biedt kersverse ouders extra hulp",
+        "link": "https://www.omroepflevoland.nl/nieuws/521327/'ik-zag-dat-ze-echt-vermoeid-was':-thuiskamer-biedt-kersverse-ouders-extra-hulp",
+        "published": "Wed, 26 Aug 2026 06:11:00 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Lelystad - Na bevalling meteen weer naar huis? In de thuiskamer kregen deze ouders de hulp die ze hard nodig hadden",
         "link": "https://www.omroepflevoland.nl/nieuws/521327/na-bevalling-meteen-weer-naar-huis-in-de-thuiskamer-kregen-deze-ouders-de-hulp-die-ze-hard-nodig-hadden",
         "published": "Wed, 26 Aug 2026 06:11:00 GMT+0200",
@@ -599,37 +603,12 @@
         "link": "https://www.omroepflevoland.nl/nieuws/520534/nieuwsoverzicht-1808-or-miljoenenschade-caravanbedrijf-*-protest-tegen-horecapaviljoen",
         "published": "Tue, 18 Aug 2026 18:54:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwe schoolgebouwen geopend in Lelystad en Dronten: 'Een cadeautje'",
-        "link": "https://www.omroepflevoland.nl/nieuws/520488/nieuwe-schoolgebouwen-geopend-in-lelystad-en-dronten:-'een-cadeautje'",
-        "published": "Tue, 18 Aug 2026 12:29:46 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuw schooljaar feestelijk geopend met nieuwe schoolgebouwen",
-        "link": "https://www.omroepflevoland.nl/nieuws/520488/nieuw-schooljaar-feestelijk-geopend-met-nieuwe-schoolgebouwen",
-        "published": "Tue, 18 Aug 2026 12:29:46 GMT+0200",
-        "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
-        "link": "https://nos.nl/l/2628345",
-        "published": "Wed, 26 Aug 2026 10:23:32 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
-        "link": "https://nos.nl/l/2627723",
-        "published": "Fri, 21 Aug 2026 12:14:46 +0200",
-        "summary": ""
-      }
-    ],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
-        "title": "De Batavia komt aan land, na een retourtje Amsterdam",
+        "title": "De Batavia komt aan land, maar doet eerst een retourtje Amsterdam",
         "link": "https://radiolelystad.nl/de-batavia-komt-aan-land-na-een-retourtje-amsterdam",
         "published": "woensdag 26 augustus 2026",
         "summary": ""
@@ -926,6 +905,20 @@
         "title": "Taakstraf na aanslag op restaurant, waarbij dader de benzine mengde met water",
         "link": "https://radiolelystad.nl/taakstraf-na-aanslag-op-restaurant-waarbij-dader-de-benzine-mengde-met-water",
         "published": "woensdag 05 augustus 2026",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
+        "link": "https://nos.nl/l/2628345",
+        "published": "Wed, 26 Aug 2026 10:23:32 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
+        "link": "https://nos.nl/l/2627723",
+        "published": "Fri, 21 Aug 2026 12:14:46 +0200",
         "summary": ""
       }
     ]

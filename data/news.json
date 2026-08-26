@@ -1,15 +1,13 @@
 {
-  "updated": "2026-08-26T13:19:17.859586+00:00",
+  "updated": "2026-08-26T14:12:35.694285+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
-        "link": "https://nos.nl/l/2628345",
-        "published": "Wed, 26 Aug 2026 10:23:32 +0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
+      {
+        "title": "Gemeente wil eerste recht van aankoop bij eventuele verkoop Leonardo Hotel",
+        "link": "https://radiolelystad.nl/gemeente-wil-eerste-recht-van-aankoop-bij-eventuele-verkoop-leonardo-hotel",
+        "published": "woensdag 26 augustus 2026",
+        "summary": ""
+      },
       {
         "title": "De Batavia komt aan land, maar doet eerst een retourtje Amsterdam",
         "link": "https://radiolelystad.nl/de-batavia-komt-aan-land-na-een-retourtje-amsterdam",
@@ -23,7 +21,7 @@
         "summary": ""
       },
       {
-        "title": "Mensen met een hoger gezondheidsrisico kunnen dit najaar een coronaprik halen",
+        "title": "Mensen met hoger gezondheidsrisico kunnen dit najaar een coronaprik halen",
         "link": "https://radiolelystad.nl/mensen-met-een-hoger-gezondheidsrisico-kunnen-dit-najaar-een-coronaprik-halen",
         "published": "woensdag 26 augustus 2026",
         "summary": ""
@@ -35,7 +33,7 @@
         "summary": ""
       },
       {
-        "title": "OBS De Grundel begint schooljaar met High Five programma dat beweging en verkeersveiligheid stimuleert",
+        "title": "Grundel begint schooljaar met programma dat beweging en verkeersveiligheid stimuleert",
         "link": "https://radiolelystad.nl/obs-de-grundel-begint-schooljaar-met-high-five-programma-dat-beweging-en-verkeersveiligheid-stimuleert",
         "published": "dinsdag 25 augustus 2026",
         "summary": ""
@@ -303,11 +301,14 @@
         "link": "https://radiolelystad.nl/het-was-druk-in-het-stadshart-en-er-was-ook-iets-engs-te-doen-video",
         "published": "donderdag 06 augustus 2026",
         "summary": ""
-      },
+      }
+    ],
+    "Nu.nl": [],
+    "NOS": [
       {
-        "title": "Taakstraf na aanslag op restaurant, waarbij dader de benzine mengde met water",
-        "link": "https://radiolelystad.nl/taakstraf-na-aanslag-op-restaurant-waarbij-dader-de-benzine-mengde-met-water",
-        "published": "woensdag 05 augustus 2026",
+        "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
+        "link": "https://nos.nl/l/2628345",
+        "published": "Wed, 26 Aug 2026 10:23:32 +0200",
         "summary": ""
       }
     ],
@@ -613,7 +614,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Meisje laat gaatjes prikken bij juwelier als ineens de deur openvliegt: ‘Schieten! Schiet maar’",

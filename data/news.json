@@ -1,26 +1,6 @@
 {
-  "updated": "2026-08-26T07:15:40.308283+00:00",
+  "updated": "2026-08-26T08:11:14.775156+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
-        "link": "https://nos.nl/l/2627723",
-        "published": "Fri, 21 Aug 2026 12:14:46 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Historisch Dakota-vliegtuig uit Soldaat van Oranje terug bij museum Aviodrome",
-        "link": "https://nos.nl/l/2627714",
-        "published": "Fri, 21 Aug 2026 10:59:11 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Verdachte van gewelddadige dood vrouw Lelystad dood aangetroffen",
-        "link": "https://nos.nl/l/2627707",
-        "published": "Fri, 21 Aug 2026 10:43:52 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Na bevalling meteen weer naar huis? In de thuiskamer kregen deze ouders de hulp die ze hard nodig hadden",
@@ -323,6 +303,34 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Zo werd het historische Dakota-vliegtuig vervoerd en weer deels in elkaar gezet",
+        "link": "https://nos.nl/l/2627723",
+        "published": "Fri, 21 Aug 2026 12:14:46 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Historisch Dakota-vliegtuig uit Soldaat van Oranje terug bij museum Aviodrome",
+        "link": "https://nos.nl/l/2627714",
+        "published": "Fri, 21 Aug 2026 10:59:11 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Verdachte van gewelddadige dood vrouw Lelystad dood aangetroffen",
+        "link": "https://nos.nl/l/2627707",
+        "published": "Fri, 21 Aug 2026 10:43:52 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
+        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
+        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "De Batavia verlaat het water: iconisch VOC-schip wordt aan land gebracht in Lelystad",
@@ -622,14 +630,6 @@
         "title": "Vanuit zijn raam ziet Willem de brand beginnen die zijn pand in Lelystad verwoest",
         "link": "https://www.destentor.nl/lelystad/vanuit-zijn-raam-ziet-willem-de-brand-beginnen-die-zijn-pand-in-lelystad-verwoest~af36e538/",
         "published": "Tue, 11 Aug 2026 14:12:00 GMT",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Verdachte van doden van vrouw in Lelystad nu zelf dood aangetroffen",
-        "link": "https://www.nu.nl/binnenland/6407065/verdachte-van-doden-van-vrouw-in-lelystad-nu-zelf-dood-aangetroffen.html",
-        "published": "Fri, 21 Aug 2026 11:42:00 +0200",
         "summary": ""
       }
     ],

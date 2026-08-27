@@ -1,15 +1,14 @@
 {
-  "updated": "2026-08-27T11:15:23.636844+00:00",
+  "updated": "2026-08-27T15:33:01.340706+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
-        "link": "https://nos.nl/l/2628345",
-        "published": "Wed, 26 Aug 2026 10:23:32 +0200",
-        "summary": ""
-      }
-    ],
+    "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Twaalf sportaanbieders in Lelystad krijgen keurmerk Verantwoord Sporten en Bewegen",
+        "link": "https://www.destentor.nl/lelystad/twaalf-sportaanbieders-in-lelystad-krijgen-keurmerk-verantwoord-sporten-en-bewegen~acc5e4cc/",
+        "published": "Thu, 27 Aug 2026 12:00:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Voetbalclubs Lelystad zoeken erkenning voor problemen die de gemeente niet ziet: ‘Een enorme kloof’",
         "link": "https://www.destentor.nl/lelystad/voetbalclubs-lelystad-zoeken-erkenning-voor-problemen-die-de-gemeente-niet-ziet-een-enorme-kloof~aa66cb60/",
@@ -303,15 +302,29 @@
         "link": "https://www.destentor.nl/lelystad/dungeons-en-dragons-spelen-en-andere-fans-ontmoeten-in-bieb-lelystad~a92c3856b/",
         "published": "Wed, 12 Aug 2026 15:57:00 GMT",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Zo ziet het er een dag na de verwoestende brand uit in Lelystad: oorzaak niet meer te achterhalen",
-        "link": "https://www.destentor.nl/lelystad/zo-ziet-het-er-een-dag-na-de-verwoestende-brand-uit-in-lelystad-oorzaak-niet-meer-te-achterhalen~ab5ef81a/",
-        "published": "Wed, 12 Aug 2026 13:46:00 GMT",
+        "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
+        "link": "https://nos.nl/l/2628345",
+        "published": "Wed, 26 Aug 2026 10:23:32 +0200",
         "summary": ""
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Dijk Lelystad-Enkhuizen grotendeels op slot voor vrachtverkeer",
+        "link": "https://www.omroepflevoland.nl/nieuws/521589/dijk-lelystad-enkhuizen-grotendeels-op-slot-voor-vrachtverkeer",
+        "published": "Thu, 27 Aug 2026 16:18:49 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Verkeersonderzoek: geen reden om locatie omstreden afvalcentrum Lelystad te wijzigen",
+        "link": "https://www.omroepflevoland.nl/nieuws/521505/verkeersonderzoek:-geen-reden-om-locatie-omstreden-afvalcentrum-lelystad-te-wijzigen",
+        "published": "Thu, 27 Aug 2026 14:00:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Almere - Buitenring op de schop: wekenlang omrijden bij Almere Oostvaarders",
         "link": "https://www.omroepflevoland.nl/nieuws/521555/buitenring-op-de-schop:-wekenlang-omrijden-bij-almere-oostvaarders",
@@ -597,18 +610,6 @@
       {
         "title": "Lelystad - Groot lek in waterleiding: duizenden liters water stromen Lelystadse straat in",
         "link": "https://www.omroepflevoland.nl/nieuws/520619/groot-lek-in-waterleiding:-duizenden-liters-water-stromen-lelystadse-straat-in",
-        "published": "Wed, 19 Aug 2026 13:02:08 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - 200 woningen Lelystadse wijk Jol nog hele middag zonder water na groot lek in waterleiding",
-        "link": "https://www.omroepflevoland.nl/nieuws/520619/200-woningen-lelystadse-wijk-jol-nog-hele-middag-zonder-water-na-groot-lek-in-waterleiding",
-        "published": "Wed, 19 Aug 2026 13:02:08 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Deel Lelystadse wijk Jol onder water na lek in hoofdwaterleiding, straat afgesloten",
-        "link": "https://www.omroepflevoland.nl/nieuws/520619/deel-lelystadse-wijk-jol-onder-water-na-lek-in-hoofdwaterleiding-straat-afgesloten",
         "published": "Wed, 19 Aug 2026 13:02:08 GMT+0200",
         "summary": ""
       }
@@ -914,7 +915,6 @@
         "published": "vrijdag 07 augustus 2026",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

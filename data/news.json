@@ -1,6 +1,15 @@
 {
-  "updated": "2026-08-28T05:36:35.660151+00:00",
+  "updated": "2026-08-28T08:58:34.897904+00:00",
   "sources": {
+    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
+        "link": "https://nos.nl/l/2628345",
+        "published": "Wed, 26 Aug 2026 10:23:32 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Zwaar verkeer mag vanaf najaar niet meer over dijk Lelystad-Enkhuizen: dit is waarom",
@@ -300,14 +309,6 @@
         "title": "Van alles te doen voor kinderen tijdens Alles Kids in Lelystad",
         "link": "https://www.destentor.nl/lelystad/van-alles-te-doen-voor-kinderen-tijdens-alles-kids-in-lelystad~afa59e2f/",
         "published": "Thu, 13 Aug 2026 08:00:00 GMT",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
-        "link": "https://nos.nl/l/2628345",
-        "published": "Wed, 26 Aug 2026 10:23:32 +0200",
         "summary": ""
       }
     ],
@@ -621,13 +622,19 @@
         "summary": ""
       },
       {
+        "title": "Lelystad - Waarom staat die 'spookauto' al twee weken in de berm langs de Larserweg?",
+        "link": "https://www.omroepflevoland.nl/nieuws/521573/waarom-staat-die-'spookauto'-al-twee-weken-in-de-berm-langs-de-larserweg",
+        "published": "Thu, 27 Aug 2026 20:31:00 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Lelystad - Waarom staat die 'spookauto' al bijna twee weken in de berm langs de Larserweg?",
         "link": "https://www.omroepflevoland.nl/nieuws/521573/waarom-staat-die-'spookauto'-al-bijna-twee-weken-in-de-berm-langs-de-larserweg",
         "published": "Thu, 27 Aug 2026 20:31:00 GMT+0200",
         "summary": ""
       },
       {
-        "title": "Flevoland - Nieuwsoverzicht 27/08 | Markerwaarddijk dicht voor vrachtwagens  •  Maatregelen na dodelijk ongeluk Nobelhorst",
+        "title": "Flevoland - Nieuwsoverzicht 27/08 | Markerwaarddijk dicht voor vrachtwagens • Maatregelen na dodelijk ongeluk Nobelhorst",
         "link": "https://www.omroepflevoland.nl/nieuws/521599/nieuwsoverzicht-2708-or-markerwaarddijk-dicht-voor-vrachtwagens-*-maatregelen-na-dodelijk-ongeluk-nobelhorst",
         "published": "Thu, 27 Aug 2026 18:50:00 GMT+0200",
         "summary": ""
@@ -907,14 +914,7 @@
         "link": "https://www.omroepflevoland.nl/nieuws/520677/politie-toont-foto's-van-man-in-verband-met-dood-gevonden-vrouw-groene-velden-lelystad",
         "published": "Wed, 19 Aug 2026 20:36:41 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Vrijspraak voor Lelystedeling in zaak gewelddadige beroving",
-        "link": "https://www.omroepflevoland.nl/nieuws/520629/vrijspraak-voor-lelystedeling-in-zaak-gewelddadige-beroving",
-        "published": "Wed, 19 Aug 2026 20:04:00 GMT+0200",
-        "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-29T16:00:37.790348+00:00",
+  "updated": "2026-08-29T17:00:41.208387+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Dijk Lelystad-Enkhuizen dit najaar op slot voor zwaar vrachtverkeer",
+        "link": "https://nos.nl/l/2628624",
+        "published": "Fri, 28 Aug 2026 11:05:35 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
+        "link": "https://nos.nl/l/2628345",
+        "published": "Wed, 26 Aug 2026 10:23:32 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Hulpdiensten rukken uit voor vrouw te water in Lelystad",
@@ -603,20 +617,6 @@
         "title": "Wereldkampioene freestyle voetbal opent Zomerparade met demonstratie",
         "link": "https://radiolelystad.nl/wereldkampioene-freestyle-voetbal-opent-zomerparade-met-demonstratie",
         "published": "dinsdag 11 augustus 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Dijk Lelystad-Enkhuizen dit najaar op slot voor zwaar vrachtverkeer",
-        "link": "https://nos.nl/l/2628624",
-        "published": "Fri, 28 Aug 2026 11:05:35 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
-        "link": "https://nos.nl/l/2628345",
-        "published": "Wed, 26 Aug 2026 10:23:32 +0200",
         "summary": ""
       }
     ],

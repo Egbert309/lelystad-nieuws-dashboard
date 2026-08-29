@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-29T08:00:39.085180+00:00",
+  "updated": "2026-08-29T09:00:34.297868+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Van spookauto tot autowrak: waarom het ene voertuig wel wordt weggesleept en het andere niet",
+        "link": "https://www.omroepflevoland.nl/nieuws/521729/van-spookauto-tot-autowrak:-waarom-het-ene-voertuig-wel-wordt-weggesleept-en-het-andere-niet",
+        "published": "Sat, 29 Aug 2026 10:11:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Aluminium blikken met 'giftige' inhoud gevonden in Lelystads bos",
         "link": "https://www.omroepflevoland.nl/nieuws/521742/aluminium-blikken-met-'giftige'-inhoud-gevonden-in-lelystads-bos",
@@ -295,15 +301,8 @@
         "link": "https://www.omroepflevoland.nl/nieuws/520709/bestuurder-aangehouden-na-frontale-botsing-met-boom-in-lelystad",
         "published": "Thu, 20 Aug 2026 07:08:07 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Lelystad vindt bestrijden van de giftige Italiaanse aronskelk niet nodig",
-        "link": "https://www.omroepflevoland.nl/nieuws/520678/lelystad-vindt-bestrijden-van-de-giftige-italiaanse-aronskelk-niet-nodig",
-        "published": "Thu, 20 Aug 2026 07:00:00 GMT+0200",
-        "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Geen verkeerskundige bezwaren tegen locatie circulair ambachtscentrum aan Vaartweg",
@@ -606,6 +605,21 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Dijk Lelystad-Enkhuizen dit najaar op slot voor zwaar vrachtverkeer",
+        "link": "https://nos.nl/l/2628624",
+        "published": "Fri, 28 Aug 2026 11:05:35 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
+        "link": "https://nos.nl/l/2628345",
+        "published": "Wed, 26 Aug 2026 10:23:32 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Zoveelste zwakke brug dwingt 1.500 trucks tot omrijden: schade loopt op tot 120.000 euro per dag",
@@ -905,20 +919,6 @@
         "title": "Bewoners ervaren overlast bij spoedwooncomplex in Lelystad: verhuurder zet beveiliging in",
         "link": "https://www.destentor.nl/lelystad/bewoners-ervaren-overlast-bij-spoedwooncomplex-in-lelystad-verhuurder-zet-beveiliging-in~aeb6b40f/",
         "published": "Fri, 14 Aug 2026 09:00:26 GMT",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Dijk Lelystad-Enkhuizen dit najaar op slot voor zwaar vrachtverkeer",
-        "link": "https://nos.nl/l/2628624",
-        "published": "Fri, 28 Aug 2026 11:05:35 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
-        "link": "https://nos.nl/l/2628345",
-        "published": "Wed, 26 Aug 2026 10:23:32 +0200",
         "summary": ""
       }
     ]

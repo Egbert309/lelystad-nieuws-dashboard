@@ -1,40 +1,6 @@
 {
-  "updated": "2026-08-30T08:00:33.302778+00:00",
+  "updated": "2026-08-30T09:00:27.594403+00:00",
   "sources": {
-    "Nu.nl": [
-      {
-        "title": "Zeker drie doden door frontale botsing op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-door-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
-        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Drie doden en meerdere gewonden bij ernstig auto-ongeluk op Markerwaarddijk",
-        "link": "https://nos.nl/l/2628882",
-        "published": "Sun, 30 Aug 2026 07:56:35 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden bij botsing tussen twee auto's op dijk Enkhuizen-Lelystad",
-        "link": "https://nos.nl/l/2628868",
-        "published": "Sun, 30 Aug 2026 00:09:59 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Dijk Lelystad-Enkhuizen dit najaar op slot voor zwaar vrachtverkeer",
-        "link": "https://nos.nl/l/2628624",
-        "published": "Fri, 28 Aug 2026 11:05:35 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
-        "link": "https://nos.nl/l/2628345",
-        "published": "Wed, 26 Aug 2026 10:23:32 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Zeker drie doden na ernstig ongeluk op dijk tussen Lelystad en Enkhuizen",
@@ -938,6 +904,40 @@
         "title": "Enorme brand zorgt voor vroege zonsverduistering in Lelystad",
         "link": "https://radiolelystad.nl/enorme-brand-zorgt-voor-vroege-zonsverduistering-in-lelystad",
         "published": "dinsdag 11 augustus 2026",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Drie doden en meerdere gewonden bij ernstig auto-ongeluk op Markerwaarddijk",
+        "link": "https://nos.nl/l/2628882",
+        "published": "Sun, 30 Aug 2026 07:56:35 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Drie doden bij botsing tussen twee auto's op dijk Enkhuizen-Lelystad",
+        "link": "https://nos.nl/l/2628868",
+        "published": "Sun, 30 Aug 2026 00:09:59 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Dijk Lelystad-Enkhuizen dit najaar op slot voor zwaar vrachtverkeer",
+        "link": "https://nos.nl/l/2628624",
+        "published": "Fri, 28 Aug 2026 11:05:35 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
+        "link": "https://nos.nl/l/2628345",
+        "published": "Wed, 26 Aug 2026 10:23:32 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Zeker drie doden door frontale botsing op dijk tussen Lelystad en Enkhuizen",
+        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-door-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
+        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
         "summary": ""
       }
     ]

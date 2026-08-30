@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T06:00:59.551026+00:00",
+  "updated": "2026-08-30T07:00:44.608164+00:00",
   "sources": {
     "NOS": [
       {
@@ -24,6 +24,14 @@
         "title": "Lelystad doet proef met thuiskamer voor extra hulp en rust na bevalling",
         "link": "https://nos.nl/l/2628345",
         "published": "Wed, 26 Aug 2026 10:23:32 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Zeker drie doden door frontale botsing op dijk tussen Lelystad en Enkhuizen",
+        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-door-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
+        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
         "summary": ""
       }
     ],
@@ -930,14 +938,6 @@
         "title": "Flevoland -  Politie ontvangt steeds meer meldingen over verwarde personen, 'Maatschappelijke ontwikkeling'",
         "link": "https://www.omroepflevoland.nl/nieuws/520675/politie-ontvangt-steeds-meer-meldingen-over-verwarde-personen-'maatschappelijke-ontwikkeling'",
         "published": "Thu, 20 Aug 2026 08:00:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Zeker drie doden door frontale botsing op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-door-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
-        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
         "summary": ""
       }
     ]

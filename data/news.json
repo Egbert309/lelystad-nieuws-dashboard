@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T17:00:37.438362+00:00",
+  "updated": "2026-08-31T18:00:45.423711+00:00",
   "sources": {
     "NOS": [
       {
@@ -24,6 +24,38 @@
         "title": "Dijk Lelystad-Enkhuizen dit najaar op slot voor zwaar vrachtverkeer",
         "link": "https://nos.nl/l/2628624",
         "published": "Fri, 28 Aug 2026 11:05:35 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Man (19) en twee jongens (17) omgekomen bij ongeluk op Markerwaarddijk",
+        "link": "https://www.nu.nl/binnenland/6408040/man-19-en-twee-jongens-17-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Twee jongens van 17 en 19-jarige omgekomen bij ongeluk op Markerwaarddijk",
+        "link": "https://www.nu.nl/binnenland/6408040/twee-jongens-van-17-en-19-jarige-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Slachtoffers fatale botsing tussen Lelystad en Enkhuizen waren 17 en 19 jaar",
+        "link": "https://www.nu.nl/binnenland/6408040/slachtoffers-fatale-botsing-tussen-lelystad-en-enkhuizen-waren-17-en-19-jaar.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Zeker drie doden bij frontale botsing op dijk tussen Lelystad en Enkhuizen",
+        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-bij-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
+        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Zeker drie doden door frontale botsing op dijk tussen Lelystad en Enkhuizen",
+        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-door-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
+        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
         "summary": ""
       }
     ],
@@ -329,340 +361,6 @@
         "summary": ""
       }
     ],
-    "Radio Lelystad": [
-      {
-        "title": "Twee weken kans op geluidshinder in Flevoland wegens oefening van Defensie",
-        "link": "https://radiolelystad.nl/kans-op-geluidshinder-in-flevoland-wegens-oefening-van-defensie",
-        "published": "maandag 31 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Samen wandelen voor mensen met kanker, tijdens de Kompassieloop 2026",
-        "link": "https://radiolelystad.nl/samen-wandelen-voor-mensen-met-kanker-tijdens-de-kompassieloop-2026",
-        "published": "maandag 31 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden en vijf gewonden bij zwaar ongeval op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://radiolelystad.nl/drie-doden-bij-zwaar-ongeval-op-dijk-tussen-lelystad-en-enkhuizen",
-        "published": "zondag 30 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Oogstdag 2026, 'doe het lekker zelf!' (video)",
-        "link": "https://radiolelystad.nl/oogstdag-2026-doe-het-lekker-zelf-video",
-        "published": "zaterdag 29 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Uitgast viert jubileum twee dagen met vaste bezoekers en bewoners van Natuurpark",
-        "link": "https://radiolelystad.nl/uitgast-viert-jubileum-met-twee-volle-dagen-en-haar-vaste-bezoekers-en-bewoners-van-natuurpark-lelystad",
-        "published": "zaterdag 29 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Rolstoelvriendelijke wandelroute geopend op het landje van Pelgrim",
-        "link": "https://radiolelystad.nl/rolstoelvriendelijke-wandelroute-geopend-op-het-landje-van-pelgrim",
-        "published": "zaterdag 29 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Verkeersbezwaren tegen locatie circulair ambachtscentrum aan Vaartweg niet nodig",
-        "link": "https://radiolelystad.nl/geen-verkeerskundige-bezwaren-tegen-locatie-circulair-ambachtscentrum-aan-vaartweg",
-        "published": "vrijdag 28 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Houtribdijk gaat in het najaar dicht voor zwaar verkeer wegens schade aan de brug",
-        "link": "https://radiolelystad.nl/houtribdijk-gaat-in-het-najaar-dicht-voor-zwaar-vrachtverkeer",
-        "published": "vrijdag 28 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Eerste droogtemaatregel ingetrokken, maar Flevoland blijft droog",
-        "link": "https://radiolelystad.nl/eerste-droogtemaatregel-ingetrokken-maar-flevoland-blijft-droog",
-        "published": "vrijdag 28 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "WIJ FLEVOLAND brengt verhalen achter onze voedselketen naar het theater",
-        "link": "https://radiolelystad.nl/wij-flevoland-brengt-verhalen-achter-flevolandse-voedselketen-naar-het-theater",
-        "published": "vrijdag 28 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Eerste twaalf verenigingen ontvangen keurmerk ‘Verantwoord Sporten & Bewegen’",
-        "link": "https://radiolelystad.nl/eerste-twaalf-verenigingen-ontvangen-keurmerk-verantwoord-sporten-bewegen",
-        "published": "donderdag 27 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Stichtse brug (A27) richting Flevoland dicht van vrijdagavond tot maandagochtend",
-        "link": "https://radiolelystad.nl/stichtse-brug-a27-richting-flevoland-dicht-van-vrijdagavond-tot-maandagochtend",
-        "published": "donderdag 27 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Partijen willen vrijheid college bij aankopen woningbouwversnelling inperken",
-        "link": "https://radiolelystad.nl/partijen-willen-speelruimte-college-bij-aankopen-voor-woningbouwversnelling-inperken",
-        "published": "woensdag 26 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente wil eerste recht van aankoop bij eventuele verkoop Leonardo Hotel",
-        "link": "https://radiolelystad.nl/gemeente-wil-eerste-recht-van-aankoop-bij-eventuele-verkoop-leonardo-hotel",
-        "published": "woensdag 26 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "De Batavia komt aan land, maar doet eerst een retourtje Amsterdam",
-        "link": "https://radiolelystad.nl/de-batavia-komt-aan-land-na-een-retourtje-amsterdam",
-        "published": "woensdag 26 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: Well of wonder (Marijn Brandsen)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-well-of-wonder-marijn-brandsen",
-        "published": "woensdag 26 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Mensen met hoger gezondheidsrisico kunnen dit najaar een coronaprik halen",
-        "link": "https://radiolelystad.nl/mensen-met-een-hoger-gezondheidsrisico-kunnen-dit-najaar-een-coronaprik-halen",
-        "published": "woensdag 26 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "21e Nationale Stadsdichtersdag start op 5 september met aftrap in het stadhuis",
-        "link": "https://radiolelystad.nl/21e-nationale-stadsdichtersdag-start-op-5-september-met-aftrap-in-het-stadhuis",
-        "published": "dinsdag 25 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Grundel begint schooljaar met 'High Five' dat beweging en verkeersveiligheid stimuleert",
-        "link": "https://radiolelystad.nl/obs-de-grundel-begint-schooljaar-met-high-five-programma-dat-beweging-en-verkeersveiligheid-stimuleert",
-        "published": "dinsdag 25 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente, organisatie en hulpdiensten kijken tevreden terug op Lowlands",
-        "link": "https://radiolelystad.nl/gemeente-organisatie-en-hulpdiensten-kijken-tevreden-terug-op-lowlands",
-        "published": "maandag 24 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Aviodrome heeft Douglas DC-3 Dakota na 16 jaar terug in de collectie",
-        "link": "https://radiolelystad.nl/aviodrome-heeft-douglas-dc-3-dakota-na-16-jaar-terug-in-de-collectie",
-        "published": "zondag 23 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Hospice ’t Hofje breidt zorg uit en zoekt nieuwe naam, Flevolanders mogen meedenken",
-        "link": "https://radiolelystad.nl/hospice-t-hofje-breidt-zorg-uit-en-zoekt-nieuwe-naam-flevolanders-mogen-meedenken",
-        "published": "zondag 23 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeentesecretaris Carla Swart legt werk tijdelijk neer wegens ziekte",
-        "link": "https://radiolelystad.nl/gemeentesecretaris-carla-swart-legt-werk-tijdelijk-neer-wegens-ziekte",
-        "published": "zaterdag 22 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Centrada gaat samen met gemeente Lelystad de strijd aan tegen woonfraude",
-        "link": "https://radiolelystad.nl/centrada-gaat-samen-met-gemeente-lelystad-de-strijd-aan-tegen-woonfraude",
-        "published": "zaterdag 22 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Lowlandsvrijdag trapt af met ideaal weer en een als vanouds paradijselijke sfeer",
-        "link": "https://radiolelystad.nl/lowlandsvrijdag-trapt-af-met-ideaal-weer-en-een-als-vanouds-paradijselijke-sfeer",
-        "published": "vrijdag 21 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Regen geeft verlichting, maar droogte nog lang niet voorbij",
-        "link": "https://radiolelystad.nl/regen-geeft-verlichting-maar-droogte-nog-lang-niet-voorbij",
-        "published": "vrijdag 21 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Man die werd gezocht in verband met overleden vrouw dood aangetroffen in Zeewolde",
-        "link": "https://radiolelystad.nl/man-die-werd-gezocht-in-verband-met-overleden-vrouw-dood-aangetroffen-in-zeewolde",
-        "published": "vrijdag 21 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Eerder gevonden botresten in Roggebotsebos zijn niet van Marc Jaskulski",
-        "link": "https://radiolelystad.nl/eerder-gevonden-botresten-in-roggebotsebos-zijn-niet-van-marc-jaskulski",
-        "published": "donderdag 20 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Miljoenenmeevaller voor onderhoud aan het openbare groen en de openbare ruimte",
-        "link": "https://radiolelystad.nl/miljoenenmeevaller-voor-onderhoud-aan-het-openbare-groen-en-de-openbare-ruimte",
-        "published": "donderdag 20 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Politie zoekt man na vondst dode vrouw in woonzorgcomplex op Groene Velden",
-        "link": "https://radiolelystad.nl/politie-zoekt-man-na-vondst-dode-vrouw-in-woonzorgcomplex-op-groene-velden",
-        "published": "donderdag 20 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: Een klein mens (Leandra  Vleeschhouwer)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-een-klein-mens-leandra-vleeschhouwer",
-        "published": "woensdag 19 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Torenvalktunnel wordt gedweild met de kraan open, maar permanente oplossing is in zicht",
-        "link": "https://radiolelystad.nl/torenvalktunnel-wordt-voorlopig-nog-even-gedweild-met-de-kraan-open-maar-permanente-oplossing-is-in-zicht",
-        "published": "woensdag 19 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Politie op zoek naar man ivm overleden vrouwGroene Velden",
-        "link": "https://radiolelystad.nl/politie-op-zoek-naar-man-ivm-overleden-vrouwgroene-velden",
-        "published": "woensdag 19 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Lelystedeling met tijdens proefrit gestolen auto wordt klemgereden in  Breda",
-        "link": "https://radiolelystad.nl/lelystedeling-met-tijdens-proefrit-gestolen-auto-wordt-klemgereden-in-breda",
-        "published": "dinsdag 18 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "De eerste Lelystadse Zomerparade is succesvol afgesloten, ruim 9.000 bezoekers",
-        "link": "https://radiolelystad.nl/de-eerste-lelystadse-zomerparade-is-succesvol-afgesloten-en-trok-in-zes-dagen-ruim-9-000-bezoekers",
-        "published": "dinsdag 18 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad twee nieuwe kindcentra rijker, na opening De Kring en Voorhof",
-        "link": "https://radiolelystad.nl/lelystad-twee-nieuwe-kindcentra-rijker-na-opening-de-kring-en-voorhof",
-        "published": "dinsdag 18 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Programmeur Bas Jansen: ‘Lowlands behoort tot de absolute wereldtop’",
-        "link": "https://radiolelystad.nl/in-de-festivalwereld-behoren-wij-tot-de-absolute-wereldtop",
-        "published": "maandag 17 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Bezoekers afgelast Defqon.1 blijven festival trouw en proberen het volgend jaar weer",
-        "link": "https://radiolelystad.nl/bezoekers-afgelast-defqon-1-blijven-festival-trouw-en-proberen-het-volgend-jaar-weer",
-        "published": "maandag 17 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Een warm welkom met de Lelykrat voor nieuwe inwoners van Lelystad",
-        "link": "https://radiolelystad.nl/een-lelykrat-voor-nieuwe-inwoners-van-lelystad",
-        "published": "maandag 17 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Pontos wil jong en oud enthousiasmeren voor het roeien op open dag zaterdag",
-        "link": "https://radiolelystad.nl/open-dag-bij-roeivereniging-pontos",
-        "published": "maandag 17 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Extra toezicht in de weekenden bij wooncomplexen Lars en Lily",
-        "link": "https://radiolelystad.nl/extra-toezicht-in-de-weekenden-bij-wooncomplexen-lars-en-lily",
-        "published": "zondag 16 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Overleden persoon gevonden in Groene Velden, politie denkt aan misdrijf (update)",
-        "link": "https://radiolelystad.nl/overleden-persoon-gevonden-in-woning-groene-velden-politie-denkt-aan-misdrijf",
-        "published": "zondag 16 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Ook de regio IJsselmeer merkt vanaf vandaag de gevolgen van de droogte",
-        "link": "https://radiolelystad.nl/ook-de-regio-ijsselmeer-merkt-vanaf-vandaag-de-gevolgen-van-de-droogte",
-        "published": "vrijdag 14 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente veilt bijzonder gevonden voorwerp: een graafmachine",
-        "link": "https://radiolelystad.nl/gemeente-veilt-bijzonder-gevonden-voorwerp-een-graafmachine",
-        "published": "vrijdag 14 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Vijf gewonden bij aanrijding met drie partijen op rotonde Markerwaarddijk",
-        "link": "https://radiolelystad.nl/vijf-gewonden-bij-aanrijding-op-rotonde-markerwaarddijk",
-        "published": "donderdag 13 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Nu eens genieten van de zon omdat die verduisterd wordt (video)",
-        "link": "https://radiolelystad.nl/nu-eens-genieten-van-de-zon-omdat-die-verduisterd-wordt-video",
-        "published": "donderdag 13 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Oorzaak brand Oostervaart wellicht niet te achterhalen, palletbedrijf wil door",
-        "link": "https://radiolelystad.nl/oorzaak-brand-oostervaart-wellicht-niet-te-achterhalen-palletbedrijf-wil-doo",
-        "published": "donderdag 13 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Zorgen over mogelijke verschraling van Natuurpark en bezoek Oostvaardersplassen",
-        "link": "https://radiolelystad.nl/zorgen-over-mogelijke-verschraling-van-natuurpark-en-bezoek-oostvaardersplassen",
-        "published": "woensdag 12 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Volg de zonsverduistering vanavond live via Radio Lelystad",
-        "link": "https://radiolelystad.nl/volg-de-zonsverduistering-vanavond-via-radio-lelystad",
-        "published": "woensdag 12 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: De mensentuin (Nikita Moleveld)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-de-mensentuin-nikita-moleveld",
-        "published": "woensdag 12 augustus 2026",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Man (19) en twee jongens (17) omgekomen bij ongeluk op Markerwaarddijk",
-        "link": "https://www.nu.nl/binnenland/6408040/man-19-en-twee-jongens-17-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Twee jongens van 17 en 19-jarige omgekomen bij ongeluk op Markerwaarddijk",
-        "link": "https://www.nu.nl/binnenland/6408040/twee-jongens-van-17-en-19-jarige-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Slachtoffers fatale botsing tussen Lelystad en Enkhuizen waren 17 en 19 jaar",
-        "link": "https://www.nu.nl/binnenland/6408040/slachtoffers-fatale-botsing-tussen-lelystad-en-enkhuizen-waren-17-en-19-jaar.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Zeker drie doden bij frontale botsing op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-bij-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
-        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Zeker drie doden door frontale botsing op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-door-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
-        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Bij eerste editie cirkelden ooievaars boven podium, 25 jaar later houdt regen bezoekers Uitgast niet weg",
@@ -962,6 +660,308 @@
         "title": "Aantal ongevallen met bestelauto's in Lelystad voor het eerst in drie jaar omlaag",
         "link": "https://www.destentor.nl/lelystad/aantal-ongevallen-met-bestelauto-s-in-lelystad-voor-het-eerst-in-drie-jaar-omlaag~a704e252/",
         "published": "Mon, 17 Aug 2026 15:00:00 GMT",
+        "summary": ""
+      }
+    ],
+    "Radio Lelystad": [
+      {
+        "title": "Twee weken kans op geluidshinder in Flevoland wegens oefening van Defensie",
+        "link": "https://radiolelystad.nl/kans-op-geluidshinder-in-flevoland-wegens-oefening-van-defensie",
+        "published": "maandag 31 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Samen wandelen voor mensen met kanker, tijdens de Kompassieloop 2026",
+        "link": "https://radiolelystad.nl/samen-wandelen-voor-mensen-met-kanker-tijdens-de-kompassieloop-2026",
+        "published": "maandag 31 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Drie doden en vijf gewonden bij zwaar ongeval op dijk tussen Lelystad en Enkhuizen",
+        "link": "https://radiolelystad.nl/drie-doden-bij-zwaar-ongeval-op-dijk-tussen-lelystad-en-enkhuizen",
+        "published": "zondag 30 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Oogstdag 2026, 'doe het lekker zelf!' (video)",
+        "link": "https://radiolelystad.nl/oogstdag-2026-doe-het-lekker-zelf-video",
+        "published": "zaterdag 29 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Uitgast viert jubileum twee dagen met vaste bezoekers en bewoners van Natuurpark",
+        "link": "https://radiolelystad.nl/uitgast-viert-jubileum-met-twee-volle-dagen-en-haar-vaste-bezoekers-en-bewoners-van-natuurpark-lelystad",
+        "published": "zaterdag 29 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Rolstoelvriendelijke wandelroute geopend op het landje van Pelgrim",
+        "link": "https://radiolelystad.nl/rolstoelvriendelijke-wandelroute-geopend-op-het-landje-van-pelgrim",
+        "published": "zaterdag 29 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Verkeersbezwaren tegen locatie circulair ambachtscentrum aan Vaartweg niet nodig",
+        "link": "https://radiolelystad.nl/geen-verkeerskundige-bezwaren-tegen-locatie-circulair-ambachtscentrum-aan-vaartweg",
+        "published": "vrijdag 28 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Houtribdijk gaat in het najaar dicht voor zwaar verkeer wegens schade aan de brug",
+        "link": "https://radiolelystad.nl/houtribdijk-gaat-in-het-najaar-dicht-voor-zwaar-vrachtverkeer",
+        "published": "vrijdag 28 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Eerste droogtemaatregel ingetrokken, maar Flevoland blijft droog",
+        "link": "https://radiolelystad.nl/eerste-droogtemaatregel-ingetrokken-maar-flevoland-blijft-droog",
+        "published": "vrijdag 28 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "WIJ FLEVOLAND brengt verhalen achter onze voedselketen naar het theater",
+        "link": "https://radiolelystad.nl/wij-flevoland-brengt-verhalen-achter-flevolandse-voedselketen-naar-het-theater",
+        "published": "vrijdag 28 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Eerste twaalf verenigingen ontvangen keurmerk ‘Verantwoord Sporten & Bewegen’",
+        "link": "https://radiolelystad.nl/eerste-twaalf-verenigingen-ontvangen-keurmerk-verantwoord-sporten-bewegen",
+        "published": "donderdag 27 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Stichtse brug (A27) richting Flevoland dicht van vrijdagavond tot maandagochtend",
+        "link": "https://radiolelystad.nl/stichtse-brug-a27-richting-flevoland-dicht-van-vrijdagavond-tot-maandagochtend",
+        "published": "donderdag 27 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Partijen willen vrijheid college bij aankopen woningbouwversnelling inperken",
+        "link": "https://radiolelystad.nl/partijen-willen-speelruimte-college-bij-aankopen-voor-woningbouwversnelling-inperken",
+        "published": "woensdag 26 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente wil eerste recht van aankoop bij eventuele verkoop Leonardo Hotel",
+        "link": "https://radiolelystad.nl/gemeente-wil-eerste-recht-van-aankoop-bij-eventuele-verkoop-leonardo-hotel",
+        "published": "woensdag 26 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "De Batavia komt aan land, maar doet eerst een retourtje Amsterdam",
+        "link": "https://radiolelystad.nl/de-batavia-komt-aan-land-na-een-retourtje-amsterdam",
+        "published": "woensdag 26 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week: Well of wonder (Marijn Brandsen)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-well-of-wonder-marijn-brandsen",
+        "published": "woensdag 26 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Mensen met hoger gezondheidsrisico kunnen dit najaar een coronaprik halen",
+        "link": "https://radiolelystad.nl/mensen-met-een-hoger-gezondheidsrisico-kunnen-dit-najaar-een-coronaprik-halen",
+        "published": "woensdag 26 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "21e Nationale Stadsdichtersdag start op 5 september met aftrap in het stadhuis",
+        "link": "https://radiolelystad.nl/21e-nationale-stadsdichtersdag-start-op-5-september-met-aftrap-in-het-stadhuis",
+        "published": "dinsdag 25 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Grundel begint schooljaar met 'High Five' dat beweging en verkeersveiligheid stimuleert",
+        "link": "https://radiolelystad.nl/obs-de-grundel-begint-schooljaar-met-high-five-programma-dat-beweging-en-verkeersveiligheid-stimuleert",
+        "published": "dinsdag 25 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente, organisatie en hulpdiensten kijken tevreden terug op Lowlands",
+        "link": "https://radiolelystad.nl/gemeente-organisatie-en-hulpdiensten-kijken-tevreden-terug-op-lowlands",
+        "published": "maandag 24 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Aviodrome heeft Douglas DC-3 Dakota na 16 jaar terug in de collectie",
+        "link": "https://radiolelystad.nl/aviodrome-heeft-douglas-dc-3-dakota-na-16-jaar-terug-in-de-collectie",
+        "published": "zondag 23 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Hospice ’t Hofje breidt zorg uit en zoekt nieuwe naam, Flevolanders mogen meedenken",
+        "link": "https://radiolelystad.nl/hospice-t-hofje-breidt-zorg-uit-en-zoekt-nieuwe-naam-flevolanders-mogen-meedenken",
+        "published": "zondag 23 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeentesecretaris Carla Swart legt werk tijdelijk neer wegens ziekte",
+        "link": "https://radiolelystad.nl/gemeentesecretaris-carla-swart-legt-werk-tijdelijk-neer-wegens-ziekte",
+        "published": "zaterdag 22 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Centrada gaat samen met gemeente Lelystad de strijd aan tegen woonfraude",
+        "link": "https://radiolelystad.nl/centrada-gaat-samen-met-gemeente-lelystad-de-strijd-aan-tegen-woonfraude",
+        "published": "zaterdag 22 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Lowlandsvrijdag trapt af met ideaal weer en een als vanouds paradijselijke sfeer",
+        "link": "https://radiolelystad.nl/lowlandsvrijdag-trapt-af-met-ideaal-weer-en-een-als-vanouds-paradijselijke-sfeer",
+        "published": "vrijdag 21 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Regen geeft verlichting, maar droogte nog lang niet voorbij",
+        "link": "https://radiolelystad.nl/regen-geeft-verlichting-maar-droogte-nog-lang-niet-voorbij",
+        "published": "vrijdag 21 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Man die werd gezocht in verband met overleden vrouw dood aangetroffen in Zeewolde",
+        "link": "https://radiolelystad.nl/man-die-werd-gezocht-in-verband-met-overleden-vrouw-dood-aangetroffen-in-zeewolde",
+        "published": "vrijdag 21 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Eerder gevonden botresten in Roggebotsebos zijn niet van Marc Jaskulski",
+        "link": "https://radiolelystad.nl/eerder-gevonden-botresten-in-roggebotsebos-zijn-niet-van-marc-jaskulski",
+        "published": "donderdag 20 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Miljoenenmeevaller voor onderhoud aan het openbare groen en de openbare ruimte",
+        "link": "https://radiolelystad.nl/miljoenenmeevaller-voor-onderhoud-aan-het-openbare-groen-en-de-openbare-ruimte",
+        "published": "donderdag 20 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Politie zoekt man na vondst dode vrouw in woonzorgcomplex op Groene Velden",
+        "link": "https://radiolelystad.nl/politie-zoekt-man-na-vondst-dode-vrouw-in-woonzorgcomplex-op-groene-velden",
+        "published": "donderdag 20 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week: Een klein mens (Leandra  Vleeschhouwer)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-een-klein-mens-leandra-vleeschhouwer",
+        "published": "woensdag 19 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Torenvalktunnel wordt gedweild met de kraan open, maar permanente oplossing is in zicht",
+        "link": "https://radiolelystad.nl/torenvalktunnel-wordt-voorlopig-nog-even-gedweild-met-de-kraan-open-maar-permanente-oplossing-is-in-zicht",
+        "published": "woensdag 19 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Politie op zoek naar man ivm overleden vrouwGroene Velden",
+        "link": "https://radiolelystad.nl/politie-op-zoek-naar-man-ivm-overleden-vrouwgroene-velden",
+        "published": "woensdag 19 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Lelystedeling met tijdens proefrit gestolen auto wordt klemgereden in  Breda",
+        "link": "https://radiolelystad.nl/lelystedeling-met-tijdens-proefrit-gestolen-auto-wordt-klemgereden-in-breda",
+        "published": "dinsdag 18 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "De eerste Lelystadse Zomerparade is succesvol afgesloten, ruim 9.000 bezoekers",
+        "link": "https://radiolelystad.nl/de-eerste-lelystadse-zomerparade-is-succesvol-afgesloten-en-trok-in-zes-dagen-ruim-9-000-bezoekers",
+        "published": "dinsdag 18 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad twee nieuwe kindcentra rijker, na opening De Kring en Voorhof",
+        "link": "https://radiolelystad.nl/lelystad-twee-nieuwe-kindcentra-rijker-na-opening-de-kring-en-voorhof",
+        "published": "dinsdag 18 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Programmeur Bas Jansen: ‘Lowlands behoort tot de absolute wereldtop’",
+        "link": "https://radiolelystad.nl/in-de-festivalwereld-behoren-wij-tot-de-absolute-wereldtop",
+        "published": "maandag 17 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Bezoekers afgelast Defqon.1 blijven festival trouw en proberen het volgend jaar weer",
+        "link": "https://radiolelystad.nl/bezoekers-afgelast-defqon-1-blijven-festival-trouw-en-proberen-het-volgend-jaar-weer",
+        "published": "maandag 17 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Een warm welkom met de Lelykrat voor nieuwe inwoners van Lelystad",
+        "link": "https://radiolelystad.nl/een-lelykrat-voor-nieuwe-inwoners-van-lelystad",
+        "published": "maandag 17 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Pontos wil jong en oud enthousiasmeren voor het roeien op open dag zaterdag",
+        "link": "https://radiolelystad.nl/open-dag-bij-roeivereniging-pontos",
+        "published": "maandag 17 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Extra toezicht in de weekenden bij wooncomplexen Lars en Lily",
+        "link": "https://radiolelystad.nl/extra-toezicht-in-de-weekenden-bij-wooncomplexen-lars-en-lily",
+        "published": "zondag 16 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Overleden persoon gevonden in Groene Velden, politie denkt aan misdrijf (update)",
+        "link": "https://radiolelystad.nl/overleden-persoon-gevonden-in-woning-groene-velden-politie-denkt-aan-misdrijf",
+        "published": "zondag 16 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Ook de regio IJsselmeer merkt vanaf vandaag de gevolgen van de droogte",
+        "link": "https://radiolelystad.nl/ook-de-regio-ijsselmeer-merkt-vanaf-vandaag-de-gevolgen-van-de-droogte",
+        "published": "vrijdag 14 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente veilt bijzonder gevonden voorwerp: een graafmachine",
+        "link": "https://radiolelystad.nl/gemeente-veilt-bijzonder-gevonden-voorwerp-een-graafmachine",
+        "published": "vrijdag 14 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Vijf gewonden bij aanrijding met drie partijen op rotonde Markerwaarddijk",
+        "link": "https://radiolelystad.nl/vijf-gewonden-bij-aanrijding-op-rotonde-markerwaarddijk",
+        "published": "donderdag 13 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Nu eens genieten van de zon omdat die verduisterd wordt (video)",
+        "link": "https://radiolelystad.nl/nu-eens-genieten-van-de-zon-omdat-die-verduisterd-wordt-video",
+        "published": "donderdag 13 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Oorzaak brand Oostervaart wellicht niet te achterhalen, palletbedrijf wil door",
+        "link": "https://radiolelystad.nl/oorzaak-brand-oostervaart-wellicht-niet-te-achterhalen-palletbedrijf-wil-doo",
+        "published": "donderdag 13 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Zorgen over mogelijke verschraling van Natuurpark en bezoek Oostvaardersplassen",
+        "link": "https://radiolelystad.nl/zorgen-over-mogelijke-verschraling-van-natuurpark-en-bezoek-oostvaardersplassen",
+        "published": "woensdag 12 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Volg de zonsverduistering vanavond live via Radio Lelystad",
+        "link": "https://radiolelystad.nl/volg-de-zonsverduistering-vanavond-via-radio-lelystad",
+        "published": "woensdag 12 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week: De mensentuin (Nikita Moleveld)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-de-mensentuin-nikita-moleveld",
+        "published": "woensdag 12 augustus 2026",
         "summary": ""
       }
     ]

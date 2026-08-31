@@ -1,38 +1,6 @@
 {
-  "updated": "2026-08-31T09:00:49.187190+00:00",
+  "updated": "2026-08-31T10:00:56.054880+00:00",
   "sources": {
-    "Nu.nl": [
-      {
-        "title": "Man (19) en twee jongens (17) omgekomen bij ongeluk op Markerwaarddijk",
-        "link": "https://www.nu.nl/binnenland/6408040/man-19-en-twee-jongens-17-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Twee jongens van 17 en 19-jarige omgekomen bij ongeluk op Markerwaarddijk",
-        "link": "https://www.nu.nl/binnenland/6408040/twee-jongens-van-17-en-19-jarige-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Slachtoffers fatale botsing tussen Lelystad en Enkhuizen waren 17 en 19 jaar",
-        "link": "https://www.nu.nl/binnenland/6408040/slachtoffers-fatale-botsing-tussen-lelystad-en-enkhuizen-waren-17-en-19-jaar.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Zeker drie doden bij frontale botsing op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-bij-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
-        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Zeker drie doden door frontale botsing op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-door-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
-        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
       {
         "title": "Drie doden en vijf gewonden bij zwaar ongeval op dijk tussen Lelystad en Enkhuizen",
@@ -663,7 +631,45 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [
+      {
+        "title": "Man (19) en twee jongens (17) omgekomen bij ongeluk op Markerwaarddijk",
+        "link": "https://www.nu.nl/binnenland/6408040/man-19-en-twee-jongens-17-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Twee jongens van 17 en 19-jarige omgekomen bij ongeluk op Markerwaarddijk",
+        "link": "https://www.nu.nl/binnenland/6408040/twee-jongens-van-17-en-19-jarige-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Slachtoffers fatale botsing tussen Lelystad en Enkhuizen waren 17 en 19 jaar",
+        "link": "https://www.nu.nl/binnenland/6408040/slachtoffers-fatale-botsing-tussen-lelystad-en-enkhuizen-waren-17-en-19-jaar.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Zeker drie doden bij frontale botsing op dijk tussen Lelystad en Enkhuizen",
+        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-bij-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
+        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Zeker drie doden door frontale botsing op dijk tussen Lelystad en Enkhuizen",
+        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-door-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
+        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Weekweerbericht: Bijna elke dag anders maar temperatuur is prima",
+        "link": "https://www.omroepflevoland.nl/nieuws/522058/weekweerbericht:-bijna-elke-dag-anders-maar-temperatuur-is-prima",
+        "published": "Mon, 31 Aug 2026 11:14:49 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Klassieke muziek in het groen: Uitgast viert 25-jarig jubileum",
         "link": "https://www.omroepflevoland.nl/nieuws/521981/klassieke-muziek-in-het-groen:-uitgast-viert-25-jarig-jubileum",
@@ -956,12 +962,6 @@
         "title": "Lelystad - Meevaller voor Lelystad: rijksbijdrage valt na bezwaar miljoenen hoger uit",
         "link": "https://www.omroepflevoland.nl/nieuws/520770/meevaller-voor-lelystad:-rijksbijdrage-valt-na-bezwaar-miljoenen-hoger-uit",
         "published": "Thu, 20 Aug 2026 20:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 20/08 | Botresten niet van vermiste Drontenaar • Opvallend: geen files bij Lowlands",
-        "link": "https://www.omroepflevoland.nl/nieuws/520795/nieuwsoverzicht-2008-or-botresten-niet-van-vermiste-drontenaar-*-opvallend:-geen-files-bij-lowlands",
-        "published": "Thu, 20 Aug 2026 18:50:00 GMT+0200",
         "summary": ""
       }
     ]

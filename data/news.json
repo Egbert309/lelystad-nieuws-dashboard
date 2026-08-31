@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T16:00:35.999472+00:00",
+  "updated": "2026-08-31T17:00:37.438362+00:00",
   "sources": {
     "NOS": [
       {
@@ -28,6 +28,12 @@
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland -  Nieuwsoverzicht 31/08 | Verkeersveiligheid op dijk onderzocht •  Legervliegtuigen laag over provincie",
+        "link": "https://www.omroepflevoland.nl/nieuws/522115/nieuwsoverzicht-3108-or-verkeersveiligheid-op-dijk-onderzocht-*-legervliegtuigen-laag-over-provincie",
+        "published": "Mon, 31 Aug 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Militaire vliegtuigen trekken laag over Lelystad vanwege oefening",
         "link": "https://www.omroepflevoland.nl/nieuws/522064/militaire-vliegtuigen-trekken-laag-over-lelystad-vanwege-oefening",
@@ -320,12 +326,6 @@
         "title": "Lelystad - Gezochte man dood aangetroffen bij Reigerplas in Zeewolde",
         "link": "https://www.omroepflevoland.nl/nieuws/520850/gezochte-man-dood-aangetroffen-bij-reigerplas-in-zeewolde",
         "published": "Fri, 21 Aug 2026 10:40:23 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Historische Dakota uit musical Soldaat van Oranje terug bij museum Aviodrome",
-        "link": "https://www.omroepflevoland.nl/nieuws/520634/historische-dakota-uit-musical-soldaat-van-oranje-terug-bij-museum-aviodrome",
-        "published": "Fri, 21 Aug 2026 07:20:09 GMT+0200",
         "summary": ""
       }
     ],

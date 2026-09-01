@@ -1,33 +1,13 @@
 {
-  "updated": "2026-09-01T16:22:40.024849+00:00",
+  "updated": "2026-09-01T17:00:45.326929+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Drie jongeren verongelukt op dijk Enkhuizen-Lelystad",
-        "link": "https://nos.nl/l/2628956",
-        "published": "Sun, 30 Aug 2026 16:56:05 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden en meerdere gewonden bij ernstig auto-ongeluk op Markerwaarddijk",
-        "link": "https://nos.nl/l/2628882",
-        "published": "Sun, 30 Aug 2026 07:56:35 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden bij botsing tussen twee auto's op dijk Enkhuizen-Lelystad",
-        "link": "https://nos.nl/l/2628868",
-        "published": "Sun, 30 Aug 2026 00:09:59 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Dijk Lelystad-Enkhuizen dit najaar op slot voor zwaar vrachtverkeer",
-        "link": "https://nos.nl/l/2628624",
-        "published": "Fri, 28 Aug 2026 11:05:35 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 01/09 | Vier tips over gevonden botresten • Botenbeurs begint morgen",
+        "link": "https://www.omroepflevoland.nl/nieuws/522245/nieuwsoverzicht-0109-or-vier-tips-over-gevonden-botresten-*-botenbeurs-begint-morgen",
+        "published": "Tue, 01 Sep 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - 425 boten, 3.000 meter aan steigers: Bataviahaven klaar voor Hiswa te Water",
         "link": "https://www.omroepflevoland.nl/nieuws/522237/425-boten-3.000-meter-aan-steigers:-bataviahaven-klaar-voor-hiswa-te-water",
@@ -321,15 +301,15 @@
         "link": "https://www.omroepflevoland.nl/nieuws/520870/rekenkamer:-flevoland-moet-meer-doen-om-doelen-woningbouw-te-halen",
         "published": "Sat, 22 Aug 2026 09:22:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 21/08 | Flat ontruimd door brand • Festival Lowlands van start",
-        "link": "https://www.omroepflevoland.nl/nieuws/520872/nieuwsoverzicht-2108-or-flat-ontruimd-door-brand-*-festival-lowlands-van-start",
-        "published": "Fri, 21 Aug 2026 17:35:00 GMT+0200",
-        "summary": ""
       }
     ],
     "Radio Lelystad": [
+      {
+        "title": "Enorme batterij in gebruik genomen in buitengebied Dronten voor opslag elektriciteit uit windmolens",
+        "link": "https://radiolelystad.nl/enorme-batterij-in-gebruik-genomen-in-buitengebied-dronten-voor-opslag-elektriciteit-uit-windmolens",
+        "published": "dinsdag 01 september 2026",
+        "summary": ""
+      },
       {
         "title": "300 deelnemers trotseren regen en modder tijdens de BedrijvenMudRun",
         "link": "https://radiolelystad.nl/300-deelnemers-trotseren-regen-en-modder-tijdens-de-bedrijvenmudrun",
@@ -621,12 +601,6 @@
       {
         "title": "Nu eens genieten van de zon omdat die verduisterd wordt (video)",
         "link": "https://radiolelystad.nl/nu-eens-genieten-van-de-zon-omdat-die-verduisterd-wordt-video",
-        "published": "donderdag 13 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Oorzaak brand Oostervaart wellicht niet te achterhalen, palletbedrijf wil door",
-        "link": "https://radiolelystad.nl/oorzaak-brand-oostervaart-wellicht-niet-te-achterhalen-palletbedrijf-wil-doo",
         "published": "donderdag 13 augustus 2026",
         "summary": ""
       }
@@ -962,6 +936,32 @@
         "title": "200 adressen in Lelystad zonder water na gesprongen leiding",
         "link": "https://www.destentor.nl/lelystad/200-adressen-in-lelystad-zonder-water-na-gesprongen-leiding~aa82c88b/",
         "published": "Wed, 19 Aug 2026 12:33:00 GMT",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Drie jongeren verongelukt op dijk Enkhuizen-Lelystad",
+        "link": "https://nos.nl/l/2628956",
+        "published": "Sun, 30 Aug 2026 16:56:05 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Drie doden en meerdere gewonden bij ernstig auto-ongeluk op Markerwaarddijk",
+        "link": "https://nos.nl/l/2628882",
+        "published": "Sun, 30 Aug 2026 07:56:35 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Drie doden bij botsing tussen twee auto's op dijk Enkhuizen-Lelystad",
+        "link": "https://nos.nl/l/2628868",
+        "published": "Sun, 30 Aug 2026 00:09:59 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Dijk Lelystad-Enkhuizen dit najaar op slot voor zwaar vrachtverkeer",
+        "link": "https://nos.nl/l/2628624",
+        "published": "Fri, 28 Aug 2026 11:05:35 +0200",
         "summary": ""
       }
     ]

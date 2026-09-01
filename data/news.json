@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T22:00:54.671728+00:00",
+  "updated": "2026-09-01T23:01:09.379951+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -303,6 +303,32 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Drie jongeren verongelukt op dijk Enkhuizen-Lelystad",
+        "link": "https://nos.nl/l/2628956",
+        "published": "Sun, 30 Aug 2026 16:56:05 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Drie doden en meerdere gewonden bij ernstig auto-ongeluk op Markerwaarddijk",
+        "link": "https://nos.nl/l/2628882",
+        "published": "Sun, 30 Aug 2026 07:56:35 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Drie doden bij botsing tussen twee auto's op dijk Enkhuizen-Lelystad",
+        "link": "https://nos.nl/l/2628868",
+        "published": "Sun, 30 Aug 2026 00:09:59 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Dijk Lelystad-Enkhuizen dit najaar op slot voor zwaar vrachtverkeer",
+        "link": "https://nos.nl/l/2628624",
+        "published": "Fri, 28 Aug 2026 11:05:35 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Enorme batterij in gebruik genomen in buitengebied Dronten voor opslag elektriciteit uit windmolens",
@@ -602,32 +628,6 @@
         "title": "Nu eens genieten van de zon omdat die verduisterd wordt (video)",
         "link": "https://radiolelystad.nl/nu-eens-genieten-van-de-zon-omdat-die-verduisterd-wordt-video",
         "published": "donderdag 13 augustus 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Drie jongeren verongelukt op dijk Enkhuizen-Lelystad",
-        "link": "https://nos.nl/l/2628956",
-        "published": "Sun, 30 Aug 2026 16:56:05 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden en meerdere gewonden bij ernstig auto-ongeluk op Markerwaarddijk",
-        "link": "https://nos.nl/l/2628882",
-        "published": "Sun, 30 Aug 2026 07:56:35 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden bij botsing tussen twee auto's op dijk Enkhuizen-Lelystad",
-        "link": "https://nos.nl/l/2628868",
-        "published": "Sun, 30 Aug 2026 00:09:59 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Dijk Lelystad-Enkhuizen dit najaar op slot voor zwaar vrachtverkeer",
-        "link": "https://nos.nl/l/2628624",
-        "published": "Fri, 28 Aug 2026 11:05:35 +0200",
         "summary": ""
       }
     ],

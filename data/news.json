@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T19:00:42.285039+00:00",
+  "updated": "2026-09-02T20:01:02.882006+00:00",
   "sources": {
     "Nu.nl": [
       {
@@ -335,6 +335,26 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Drie jongeren verongelukt op dijk Enkhuizen-Lelystad",
+        "link": "https://nos.nl/l/2628956",
+        "published": "Sun, 30 Aug 2026 16:56:05 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Drie doden en meerdere gewonden bij ernstig auto-ongeluk op Markerwaarddijk",
+        "link": "https://nos.nl/l/2628882",
+        "published": "Sun, 30 Aug 2026 07:56:35 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Drie doden bij botsing tussen twee auto's op dijk Enkhuizen-Lelystad",
+        "link": "https://nos.nl/l/2628868",
+        "published": "Sun, 30 Aug 2026 00:09:59 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Vier vrouwen onder vuur in Lelystad, verdachte ontkent: ‘Ik ben er nooit geweest’",
@@ -639,6 +659,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Lelystad - Verdachte van schietpartij bij supermarkt wil cel uit: 'Ik heb dat pistool niet in handen gehad'",
+        "link": "https://www.omroepflevoland.nl/nieuws/522359/verdachte-van-schietpartij-bij-supermarkt-wil-cel-uit:-'ik-heb-dat-pistool-niet-in-handen-gehad'",
+        "published": "Wed, 02 Sep 2026 21:11:00 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Flevoland - Nieuwsoverzicht 02/09 | 'Ongeluk onder invloed van cocaïne' • Nieuw onderzoek Burcht van Kuinre",
         "link": "https://www.omroepflevoland.nl/nieuws/522346/nieuwsoverzicht-0209-or-'ongeluk-onder-invloed-van-cocaine'-*-nieuw-onderzoek-burcht-van-kuinre",
         "published": "Wed, 02 Sep 2026 18:45:00 GMT+0200",
@@ -930,32 +956,6 @@
         "title": "Lelystad - Jeugdtbs geëist tegen Lelystedeling (20) die hamer regelde voor overval op juwelier",
         "link": "https://www.omroepflevoland.nl/nieuws/521381/jeugdtbs-geeist-tegen-lelystedeling-(20)-die-hamer-regelde-voor-overval-op-juwelier",
         "published": "Tue, 25 Aug 2026 20:12:27 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 25/08 | Laatste vaart Batavia • Ontruiming na gaslek",
-        "link": "https://www.omroepflevoland.nl/nieuws/521355/nieuwsoverzicht-2508-or-laatste-vaart-batavia-*-ontruiming-na-gaslek",
-        "published": "Tue, 25 Aug 2026 18:50:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Drie jongeren verongelukt op dijk Enkhuizen-Lelystad",
-        "link": "https://nos.nl/l/2628956",
-        "published": "Sun, 30 Aug 2026 16:56:05 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden en meerdere gewonden bij ernstig auto-ongeluk op Markerwaarddijk",
-        "link": "https://nos.nl/l/2628882",
-        "published": "Sun, 30 Aug 2026 07:56:35 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden bij botsing tussen twee auto's op dijk Enkhuizen-Lelystad",
-        "link": "https://nos.nl/l/2628868",
-        "published": "Sun, 30 Aug 2026 00:09:59 +0200",
         "summary": ""
       }
     ]

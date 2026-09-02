@@ -1,26 +1,6 @@
 {
-  "updated": "2026-09-02T13:00:43.813057+00:00",
+  "updated": "2026-09-02T14:00:58.971728+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Drie jongeren verongelukt op dijk Enkhuizen-Lelystad",
-        "link": "https://nos.nl/l/2628956",
-        "published": "Sun, 30 Aug 2026 16:56:05 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden en meerdere gewonden bij ernstig auto-ongeluk op Markerwaarddijk",
-        "link": "https://nos.nl/l/2628882",
-        "published": "Sun, 30 Aug 2026 07:56:35 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden bij botsing tussen twee auto's op dijk Enkhuizen-Lelystad",
-        "link": "https://nos.nl/l/2628868",
-        "published": "Sun, 30 Aug 2026 00:09:59 +0200",
-        "summary": ""
-      }
-    ],
     "Nu.nl": [
       {
         "title": "Man (19) en twee jongens (17) omgekomen bij ongeluk op Markerwaarddijk",
@@ -54,6 +34,12 @@
       }
     ],
     "Radio Lelystad": [
+      {
+        "title": "Sluiting garage De Waag voor aanleggen nieuwe hellingbaan is onontkoombaar",
+        "link": "https://radiolelystad.nl/sluiting-garage-de-waag-voor-aanleggen-nieuwe-hellingbaan-is-onontkoombaar",
+        "published": "woensdag 02 september 2026",
+        "summary": ""
+      },
       {
         "title": "Echtpaar Trudy en Ted Warren zijn 70 jaar getrouwd, onderdeel van een selecte groep",
         "link": "https://radiolelystad.nl/echtpaar-trudy-en-ted-warren-zijn-70-jaar-getrouwd-en-nu-onderdeel-van-een-selecte-groep",
@@ -347,11 +333,25 @@
         "link": "https://radiolelystad.nl/ook-de-regio-ijsselmeer-merkt-vanaf-vandaag-de-gevolgen-van-de-droogte",
         "published": "vrijdag 14 augustus 2026",
         "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Drie jongeren verongelukt op dijk Enkhuizen-Lelystad",
+        "link": "https://nos.nl/l/2628956",
+        "published": "Sun, 30 Aug 2026 16:56:05 +0200",
+        "summary": ""
       },
       {
-        "title": "Gemeente veilt bijzonder gevonden voorwerp: een graafmachine",
-        "link": "https://radiolelystad.nl/gemeente-veilt-bijzonder-gevonden-voorwerp-een-graafmachine",
-        "published": "vrijdag 14 augustus 2026",
+        "title": "Drie doden en meerdere gewonden bij ernstig auto-ongeluk op Markerwaarddijk",
+        "link": "https://nos.nl/l/2628882",
+        "published": "Sun, 30 Aug 2026 07:56:35 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Drie doden bij botsing tussen twee auto's op dijk Enkhuizen-Lelystad",
+        "link": "https://nos.nl/l/2628868",
+        "published": "Sun, 30 Aug 2026 00:09:59 +0200",
         "summary": ""
       }
     ],
@@ -659,6 +659,18 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Lelystad - Zijn vriendin heeft spijt van haar aangifte, maar toch krijgt Harry uit Lelystad tbs voor bedreiging en geweld",
+        "link": "https://www.omroepflevoland.nl/nieuws/522334/zijn-vriendin-heeft-spijt-van-haar-aangifte-maar-toch-krijgt-harry-uit-lelystad-tbs-voor-bedreiging-en-geweld",
+        "published": "Wed, 02 Sep 2026 15:56:27 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Justitie: 'Vrouw reed onder invloed van cocaïne in op file Oostvaardersdijk'",
+        "link": "https://www.omroepflevoland.nl/nieuws/522328/justitie:-'vrouw-reed-onder-invloed-van-cocaine-in-op-file-oostvaardersdijk'",
+        "published": "Wed, 02 Sep 2026 15:28:34 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Lelystad - Automobilist gewond bij botsing op boom in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/522308/automobilist-gewond-bij-botsing-op-boom-in-lelystad",
         "published": "Wed, 02 Sep 2026 12:13:38 GMT+0200",
@@ -944,18 +956,6 @@
         "title": "Lelystad - Batavia maakt op 19 september laatste vaartocht vanuit Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/521340/batavia-maakt-op-19-september-laatste-vaartocht-vanuit-lelystad",
         "published": "Tue, 25 Aug 2026 14:39:18 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Coronaprik vanaf september weer beschikbaar voor risicogroepen",
-        "link": "https://www.omroepflevoland.nl/nieuws/521328/coronaprik-vanaf-september-weer-beschikbaar-voor-risicogroepen",
-        "published": "Tue, 25 Aug 2026 13:40:43 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Vernielingen, diefstal en intimidatie: Centrada wil van 'drugsverslaafde' huurder af",
-        "link": "https://www.omroepflevoland.nl/nieuws/521315/vernielingen-diefstal-en-intimidatie:-centrada-wil-van-'drugsverslaafde'-huurder-af",
-        "published": "Tue, 25 Aug 2026 12:43:48 GMT+0200",
         "summary": ""
       }
     ]

@@ -1,6 +1,38 @@
 {
-  "updated": "2026-09-02T18:00:41.963391+00:00",
+  "updated": "2026-09-02T19:00:42.285039+00:00",
   "sources": {
+    "Nu.nl": [
+      {
+        "title": "Man (19) en twee jongens (17) omgekomen bij ongeluk op Markerwaarddijk",
+        "link": "https://www.nu.nl/binnenland/6408040/man-19-en-twee-jongens-17-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Twee jongens van 17 en 19-jarige omgekomen bij ongeluk op Markerwaarddijk",
+        "link": "https://www.nu.nl/binnenland/6408040/twee-jongens-van-17-en-19-jarige-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Slachtoffers fatale botsing tussen Lelystad en Enkhuizen waren 17 en 19 jaar",
+        "link": "https://www.nu.nl/binnenland/6408040/slachtoffers-fatale-botsing-tussen-lelystad-en-enkhuizen-waren-17-en-19-jaar.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Zeker drie doden bij frontale botsing op dijk tussen Lelystad en Enkhuizen",
+        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-bij-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
+        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Zeker drie doden door frontale botsing op dijk tussen Lelystad en Enkhuizen",
+        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-door-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
+        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Sluiting garage De Waag voor aanleggen nieuwe hellingbaan is onontkoombaar",
@@ -924,38 +956,6 @@
         "title": "Drie doden bij botsing tussen twee auto's op dijk Enkhuizen-Lelystad",
         "link": "https://nos.nl/l/2628868",
         "published": "Sun, 30 Aug 2026 00:09:59 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Man (19) en twee jongens (17) omgekomen bij ongeluk op Markerwaarddijk",
-        "link": "https://www.nu.nl/binnenland/6408040/man-19-en-twee-jongens-17-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Twee jongens van 17 en 19-jarige omgekomen bij ongeluk op Markerwaarddijk",
-        "link": "https://www.nu.nl/binnenland/6408040/twee-jongens-van-17-en-19-jarige-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Slachtoffers fatale botsing tussen Lelystad en Enkhuizen waren 17 en 19 jaar",
-        "link": "https://www.nu.nl/binnenland/6408040/slachtoffers-fatale-botsing-tussen-lelystad-en-enkhuizen-waren-17-en-19-jaar.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Zeker drie doden bij frontale botsing op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-bij-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
-        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Zeker drie doden door frontale botsing op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.nu.nl/binnenland/6407995/zeker-drie-doden-door-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen.html",
-        "published": "Sat, 29 Aug 2026 23:43:05 +0200",
         "summary": ""
       }
     ]

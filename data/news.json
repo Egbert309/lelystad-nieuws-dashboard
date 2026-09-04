@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T01:10:39.505817+00:00",
+  "updated": "2026-09-04T02:00:46.753091+00:00",
   "sources": {
     "Nu.nl": [
       {
@@ -320,6 +320,20 @@
         "title": "Lelystad - Stadskinderen maken kennis met het boerenleven: 'Wat is dat groene?'",
         "link": "https://www.omroepflevoland.nl/nieuws/521466/stadskinderen-maken-kennis-met-het-boerenleven:-'wat-is-dat-groene'",
         "published": "Wed, 26 Aug 2026 17:08:58 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Drie jongeren verongelukt op dijk Enkhuizen-Lelystad",
+        "link": "https://nos.nl/l/2628956",
+        "published": "Sun, 30 Aug 2026 16:56:05 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Drie doden en meerdere gewonden bij ernstig auto-ongeluk op Markerwaarddijk",
+        "link": "https://nos.nl/l/2628882",
+        "published": "Sun, 30 Aug 2026 07:56:35 +0200",
         "summary": ""
       }
     ],
@@ -924,20 +938,6 @@
         "title": "Extra toezicht in de weekenden bij wooncomplexen Lars en Lily",
         "link": "https://radiolelystad.nl/extra-toezicht-in-de-weekenden-bij-wooncomplexen-lars-en-lily",
         "published": "zondag 16 augustus 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Drie jongeren verongelukt op dijk Enkhuizen-Lelystad",
-        "link": "https://nos.nl/l/2628956",
-        "published": "Sun, 30 Aug 2026 16:56:05 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden en meerdere gewonden bij ernstig auto-ongeluk op Markerwaarddijk",
-        "link": "https://nos.nl/l/2628882",
-        "published": "Sun, 30 Aug 2026 07:56:35 +0200",
         "summary": ""
       }
     ]

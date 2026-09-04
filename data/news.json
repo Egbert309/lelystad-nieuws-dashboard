@@ -1,6 +1,26 @@
 {
-  "updated": "2026-09-04T09:00:33.632079+00:00",
+  "updated": "2026-09-04T10:00:48.702169+00:00",
   "sources": {
+    "Nu.nl": [
+      {
+        "title": "Man (19) en twee jongens (17) omgekomen bij ongeluk op Markerwaarddijk",
+        "link": "https://www.nu.nl/binnenland/6408040/man-19-en-twee-jongens-17-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Twee jongens van 17 en 19-jarige omgekomen bij ongeluk op Markerwaarddijk",
+        "link": "https://www.nu.nl/binnenland/6408040/twee-jongens-van-17-en-19-jarige-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Slachtoffers fatale botsing tussen Lelystad en Enkhuizen waren 17 en 19 jaar",
+        "link": "https://www.nu.nl/binnenland/6408040/slachtoffers-fatale-botsing-tussen-lelystad-en-enkhuizen-waren-17-en-19-jaar.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
+        "summary": ""
+      }
+    ],
     "NOS": [
       {
         "title": "Drie jongeren verongelukt op dijk Enkhuizen-Lelystad",
@@ -10,6 +30,12 @@
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Wegens groot succes stopt Lelystad nog eens 10 miljoen in pot startersleningen",
+        "link": "https://www.omroepflevoland.nl/nieuws/522564/wegens-groot-succes-stopt-lelystad-nog-eens-10-miljoen-in-pot-startersleningen",
+        "published": "Fri, 04 Sep 2026 11:03:29 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Almere - Hotel in Almere schrikt van verhoging toeristenbelasting en schrijft brandbrief aan politiek",
         "link": "https://www.omroepflevoland.nl/nieuws/522497/hotel-in-almere-schrikt-van-verhoging-toeristenbelasting-en-schrijft-brandbrief-aan-politiek",
@@ -302,12 +328,6 @@
         "title": "Flevoland - Woningcorporaties in Flevoland betalen een half miljard euro vennootschapsbelasting",
         "link": "https://www.omroepflevoland.nl/nieuws/521500/woningcorporaties-in-flevoland-betalen-een-half-miljard-euro-vennootschapsbelasting",
         "published": "Thu, 27 Aug 2026 06:11:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Is Kwaku Festival straks immaterieel erfgoed, net zoals Sunsation en de Oldtimerdag? Als het aan Almeerder Jörgen Raymann ligt wel",
-        "link": "https://www.omroepflevoland.nl/nieuws/521465/is-kwaku-festival-straks-immaterieel-erfgoed-net-zoals-sunsation-en-de-oldtimerdag-als-het-aan-almeerder-jorgen-raymann-ligt-wel",
-        "published": "Wed, 26 Aug 2026 19:13:16 GMT+0200",
         "summary": ""
       }
     ],
@@ -912,26 +932,6 @@
         "title": "Gezochte man na mogelijk misdrijf met bewoonster zorgcentrum overleden gevonden",
         "link": "https://www.destentor.nl/zeewolde/gezochte-man-na-mogelijk-misdrijf-met-bewoonster-zorgcentrum-overleden-gevonden~a2fa1ff1/",
         "published": "Fri, 21 Aug 2026 07:58:45 GMT",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Man (19) en twee jongens (17) omgekomen bij ongeluk op Markerwaarddijk",
-        "link": "https://www.nu.nl/binnenland/6408040/man-19-en-twee-jongens-17-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Twee jongens van 17 en 19-jarige omgekomen bij ongeluk op Markerwaarddijk",
-        "link": "https://www.nu.nl/binnenland/6408040/twee-jongens-van-17-en-19-jarige-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Slachtoffers fatale botsing tussen Lelystad en Enkhuizen waren 17 en 19 jaar",
-        "link": "https://www.nu.nl/binnenland/6408040/slachtoffers-fatale-botsing-tussen-lelystad-en-enkhuizen-waren-17-en-19-jaar.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
         "summary": ""
       }
     ]

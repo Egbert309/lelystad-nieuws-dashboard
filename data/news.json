@@ -1,9 +1,15 @@
 {
-  "updated": "2026-09-04T05:00:35.511095+00:00",
+  "updated": "2026-09-04T06:00:34.440500+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
-        "title": "Flevoland - Boerderij Saalland  in Lelystad decor voor theatrale viering veertig jaar Flevoland",
+        "title": "Almere - Hotel in Almere schrikt van verhoging toeristenbelasting en schrijft brandbrief aan politiek",
+        "link": "https://www.omroepflevoland.nl/nieuws/522497/hotel-in-almere-schrikt-van-verhoging-toeristenbelasting-en-schrijft-brandbrief-aan-politiek",
+        "published": "Fri, 04 Sep 2026 07:33:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Boerderij Saalland in Lelystad decor voor theatrale viering veertig jaar Flevoland",
         "link": "https://www.omroepflevoland.nl/nieuws/522080/boerderij-saalland-in-lelystad-decor-voor-theatrale-viering-veertig-jaar-flevoland",
         "published": "Fri, 04 Sep 2026 06:44:00 GMT+0200",
         "summary": ""
@@ -294,46 +300,6 @@
         "title": "Almere - Is Kwaku Festival straks immaterieel erfgoed, net zoals Sunsation en de Oldtimerdag? Als het aan Almeerder Jörgen Raymann ligt wel",
         "link": "https://www.omroepflevoland.nl/nieuws/521465/is-kwaku-festival-straks-immaterieel-erfgoed-net-zoals-sunsation-en-de-oldtimerdag-als-het-aan-almeerder-jorgen-raymann-ligt-wel",
         "published": "Wed, 26 Aug 2026 19:13:16 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 26/08 | Weekendafsluiting A27 richting Almere • Thuiskamer voor kersverse ouders",
-        "link": "https://www.omroepflevoland.nl/nieuws/521462/nieuwsoverzicht-2608-or-weekendafsluiting-a27-richting-almere-*-thuiskamer-voor-kersverse-ouders",
-        "published": "Wed, 26 Aug 2026 18:50:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Drie jongeren verongelukt op dijk Enkhuizen-Lelystad",
-        "link": "https://nos.nl/l/2628956",
-        "published": "Sun, 30 Aug 2026 16:56:05 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden en meerdere gewonden bij ernstig auto-ongeluk op Markerwaarddijk",
-        "link": "https://nos.nl/l/2628882",
-        "published": "Sun, 30 Aug 2026 07:56:35 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Man (19) en twee jongens (17) omgekomen bij ongeluk op Markerwaarddijk",
-        "link": "https://www.nu.nl/binnenland/6408040/man-19-en-twee-jongens-17-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Twee jongens van 17 en 19-jarige omgekomen bij ongeluk op Markerwaarddijk",
-        "link": "https://www.nu.nl/binnenland/6408040/twee-jongens-van-17-en-19-jarige-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Slachtoffers fatale botsing tussen Lelystad en Enkhuizen waren 17 en 19 jaar",
-        "link": "https://www.nu.nl/binnenland/6408040/slachtoffers-fatale-botsing-tussen-lelystad-en-enkhuizen-waren-17-en-19-jaar.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
         "summary": ""
       }
     ],
@@ -639,6 +605,14 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Drie jongeren verongelukt op dijk Enkhuizen-Lelystad",
+        "link": "https://nos.nl/l/2628956",
+        "published": "Sun, 30 Aug 2026 16:56:05 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Cultuurfonds investeert € 925.000 in erfgoed en opening Monumentendag bij Bataviawerf",
@@ -938,6 +912,26 @@
         "title": "Extra toezicht in de weekenden bij wooncomplexen Lars en Lily",
         "link": "https://radiolelystad.nl/extra-toezicht-in-de-weekenden-bij-wooncomplexen-lars-en-lily",
         "published": "zondag 16 augustus 2026",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Man (19) en twee jongens (17) omgekomen bij ongeluk op Markerwaarddijk",
+        "link": "https://www.nu.nl/binnenland/6408040/man-19-en-twee-jongens-17-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Twee jongens van 17 en 19-jarige omgekomen bij ongeluk op Markerwaarddijk",
+        "link": "https://www.nu.nl/binnenland/6408040/twee-jongens-van-17-en-19-jarige-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Slachtoffers fatale botsing tussen Lelystad en Enkhuizen waren 17 en 19 jaar",
+        "link": "https://www.nu.nl/binnenland/6408040/slachtoffers-fatale-botsing-tussen-lelystad-en-enkhuizen-waren-17-en-19-jaar.html",
+        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
         "summary": ""
       }
     ]

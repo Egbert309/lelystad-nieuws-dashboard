@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-04T14:00:35.634271+00:00",
+  "updated": "2026-09-04T15:00:41.165675+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Overijsselseweg volgende week dicht voor filmopnames met Renée Soutendijk",
+        "link": "https://www.omroepflevoland.nl/nieuws/522603/overijsselseweg-volgende-week-dicht-voor-filmopnames-met-renee-soutendijk",
+        "published": "Fri, 04 Sep 2026 16:15:44 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Almere - Almeerder vuurde 28 kogels af op flat in Utrecht; OM spreekt van 'een oorlogssituatie'",
         "link": "https://www.omroepflevoland.nl/nieuws/522602/almeerder-vuurde-28-kogels-af-op-flat-in-utrecht-om-spreekt-van-'een-oorlogssituatie'",
@@ -295,42 +301,10 @@
         "link": "https://www.omroepflevoland.nl/nieuws/521589/dijk-lelystad-enkhuizen-grotendeels-op-slot-voor-vrachtverkeer",
         "published": "Thu, 27 Aug 2026 16:18:49 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Verkeersonderzoek: geen reden om locatie omstreden afvalcentrum Lelystad te wijzigen",
-        "link": "https://www.omroepflevoland.nl/nieuws/521505/verkeersonderzoek:-geen-reden-om-locatie-omstreden-afvalcentrum-lelystad-te-wijzigen",
-        "published": "Thu, 27 Aug 2026 14:00:00 GMT+0200",
-        "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Drie jongeren verongelukt op dijk Enkhuizen-Lelystad",
-        "link": "https://nos.nl/l/2628956",
-        "published": "Sun, 30 Aug 2026 16:56:05 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Man (19) en twee jongens (17) omgekomen bij ongeluk op Markerwaarddijk",
-        "link": "https://www.nu.nl/binnenland/6408040/man-19-en-twee-jongens-17-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Twee jongens van 17 en 19-jarige omgekomen bij ongeluk op Markerwaarddijk",
-        "link": "https://www.nu.nl/binnenland/6408040/twee-jongens-van-17-en-19-jarige-omgekomen-bij-ongeluk-op-markerwaarddijk.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Slachtoffers fatale botsing tussen Lelystad en Enkhuizen waren 17 en 19 jaar",
-        "link": "https://www.nu.nl/binnenland/6408040/slachtoffers-fatale-botsing-tussen-lelystad-en-enkhuizen-waren-17-en-19-jaar.html",
-        "published": "Sun, 30 Aug 2026 16:11:19 +0200",
-        "summary": ""
-      }
-    ],
+    "NOS": [],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Welzijn Lelystad opent meidenlokaal midden in het stadshart",

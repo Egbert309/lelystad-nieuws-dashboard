@@ -1,6 +1,8 @@
 {
-  "updated": "2026-09-05T07:00:33.081469+00:00",
+  "updated": "2026-09-05T08:00:58.931177+00:00",
   "sources": {
+    "Nu.nl": [],
+    "NOS": [],
     "De Stentor": [
       {
         "title": "Onderzoeker Ania woelt in de grond en haalt aardappelen boven die de landbouw kunnen omgooien",
@@ -605,9 +607,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Minderjarig duo opgepakt na toename diefstal op station Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/522381/minderjarig-duo-opgepakt-na-toename-diefstal-op-station-lelystad",
+        "published": "Sat, 05 Sep 2026 09:53:58 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Landelijke Open Monumentendag krijgt een 'grandioze opening' in Flevoland: 'trots op onze monumenten'",
         "link": "https://www.omroepflevoland.nl/nieuws/522557/landelijke-open-monumentendag-krijgt-een-'grandioze-opening'-in-flevoland:-'trots-op-onze-monumenten'",
@@ -900,12 +906,6 @@
         "title": "Almere - Almere wil dat Noord-Holland IJmeerverbinding opneemt in toekomstplannen",
         "link": "https://www.omroepflevoland.nl/nieuws/521594/almere-wil-dat-noord-holland-ijmeerverbinding-opneemt-in-toekomstplannen",
         "published": "Fri, 28 Aug 2026 07:13:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Waarom staat die 'spookauto' al twee weken in de berm langs de Larserweg?",
-        "link": "https://www.omroepflevoland.nl/nieuws/521573/waarom-staat-die-'spookauto'-al-twee-weken-in-de-berm-langs-de-larserweg",
-        "published": "Thu, 27 Aug 2026 20:31:00 GMT+0200",
         "summary": ""
       }
     ]

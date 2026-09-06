@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T11:00:30.444954+00:00",
+  "updated": "2026-09-06T12:00:32.965114+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -304,6 +304,7 @@
       }
     ],
     "NOS": [],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Praktische pruimenboom prijst prachtige provincie",
@@ -907,7 +908,6 @@
         "published": "Fri, 21 Aug 2026 08:08:30 GMT",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

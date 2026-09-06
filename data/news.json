@@ -1,8 +1,6 @@
 {
-  "updated": "2026-09-06T00:00:53.814764+00:00",
+  "updated": "2026-09-06T01:16:59.470433+00:00",
   "sources": {
-    "Nu.nl": [],
-    "NOS": [],
     "De Stentor": [
       {
         "title": "Onderzoeker Ania woelt in de grond en haalt aardappelen boven die de landbouw kunnen omgooien",
@@ -305,6 +303,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Theatraal feest op de vruchtbare grond die de oorsprong van Flevoland vertegenwoordigt",
@@ -908,6 +907,7 @@
         "published": "Fri, 28 Aug 2026 12:02:04 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": []
   }
 }

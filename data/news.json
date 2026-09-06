@@ -1,7 +1,6 @@
 {
-  "updated": "2026-09-06T04:00:46.837896+00:00",
+  "updated": "2026-09-06T05:00:39.778338+00:00",
   "sources": {
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Theatraal feest op de vruchtbare grond die de oorsprong van Flevoland vertegenwoordigt",
@@ -304,6 +303,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "De Stentor": [
       {
         "title": "Onderzoeker Ania woelt in de grond en haalt aardappelen boven die de landbouw kunnen omgooien",
@@ -606,6 +606,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Praktische pruimenboom prijst prachtige provincie",
@@ -907,7 +908,6 @@
         "published": "Fri, 28 Aug 2026 12:02:04 GMT+0200",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

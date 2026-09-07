@@ -1,7 +1,13 @@
 {
-  "updated": "2026-09-07T16:00:33.136778+00:00",
+  "updated": "2026-09-07T17:00:59.315822+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht van 07/09 |  'Sloop Kasteel Almere' • A28 bij Nijkerk dicht na inspectie brug",
+        "link": "https://www.omroepflevoland.nl/nieuws/522946/nieuwsoverzicht-van-0709-or-'sloop-kasteel-almere'-*-a28-bij-nijkerk-dicht-na-inspectie-brug",
+        "published": "Mon, 07 Sep 2026 18:50:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Motorrijder per boot op de vlucht na botsing in Lelystad Haven",
         "link": "https://www.omroepflevoland.nl/nieuws/522918/motorrijder-per-boot-op-de-vlucht-na-botsing-in-lelystad-haven",
@@ -295,14 +301,9 @@
         "link": "https://www.omroepflevoland.nl/nieuws/521729/van-spookauto-tot-autowrak:-waarom-het-ene-voertuig-wel-wordt-weggesleept-en-het-andere-niet",
         "published": "Sat, 29 Aug 2026 10:11:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Aluminium blikken met 'giftige' inhoud gevonden in Lelystads bos",
-        "link": "https://www.omroepflevoland.nl/nieuws/521742/aluminium-blikken-met-'giftige'-inhoud-gevonden-in-lelystads-bos",
-        "published": "Fri, 28 Aug 2026 17:42:05 GMT+0200",
-        "summary": ""
       }
     ],
+    "NOS": [],
     "Nu.nl": [],
     "De Stentor": [
       {
@@ -606,7 +607,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "‘Happy Days’ zorgt deze week voor afsluiting en volgend jaar voor herkenning in de bios",

@@ -1,7 +1,6 @@
 {
-  "updated": "2026-09-08T03:00:36.438166+00:00",
+  "updated": "2026-09-08T04:00:36.522111+00:00",
   "sources": {
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Wegafsluitingen wegens Challenge Almere-Amsterdam triathlon",
@@ -304,7 +303,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Maat is nu echt vol: 'drugsverslaafde' huurder van Centrada moet zijn koffers pakken",
@@ -908,6 +906,8 @@
         "published": "Mon, 24 Aug 2026 17:05:00 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [],
+    "Nu.nl": []
   }
 }

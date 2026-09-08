@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T14:00:45.375202+00:00",
+  "updated": "2026-09-08T15:00:42.364024+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -304,8 +304,19 @@
       }
     ],
     "NOS": [],
-    "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Motorrijder crasht in Lelystad, springt op bootje en verdwijnt",
+        "link": "https://www.destentor.nl/lelystad/motorrijder-crasht-in-lelystad-springt-op-bootje-en-verdwijnt~a92b726b0/",
+        "published": "Tue, 08 Sep 2026 14:16:50 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Pot voor startersleningen Lelystad na half jaar leeg, college wil er 10 miljoen euro bij",
+        "link": "https://www.destentor.nl/lelystad/pot-voor-startersleningen-lelystad-na-half-jaar-leeg-college-wil-er-10-miljoen-euro-bij~a05eea7c/",
+        "published": "Tue, 08 Sep 2026 14:08:17 GMT",
+        "summary": ""
+      },
       {
         "title": "Grootschalige stroomstoring in Almere en Lelystad opgelost",
         "link": "https://www.destentor.nl/almere/grootschalige-stroomstoring-in-almere-en-lelystad-opgelost~a4b320d2/",
@@ -592,18 +603,6 @@
         "title": "Waarnemend gemeentesecretaris in Lelystad wegens ziekte Carla Swart",
         "link": "https://www.destentor.nl/lelystad/waarnemend-gemeentesecretaris-in-lelystad-wegens-ziekte-carla-swart~a9b61f28/",
         "published": "Tue, 25 Aug 2026 11:10:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Zijn dna zit zelfs op trekker, maar toch ontkent man dat hij schoot in Lelystad: ‘Ik lijd aan vorm van eczeem’",
-        "link": "https://www.destentor.nl/lelystad/zijn-dna-zit-zelfs-op-trekker-maar-toch-ontkent-man-dat-hij-schoot-in-lelystad-ik-lijd-aan-vorm-van-eczeem~afa9f2bc/",
-        "published": "Tue, 25 Aug 2026 04:00:21 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland viert 40-jarig bestaan met tentoonstelling en theatrale lezing in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/flevoland-viert-40-jarig-bestaan-met-tentoonstelling-en-theatrale-lezing-in-lelystad~af2a550b/",
-        "published": "Mon, 24 Aug 2026 17:05:00 GMT",
         "summary": ""
       }
     ],
@@ -908,6 +907,7 @@
         "published": "Sat, 29 Aug 2026 23:30:21 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

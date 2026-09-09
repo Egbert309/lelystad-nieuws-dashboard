@@ -1,8 +1,13 @@
 {
-  "updated": "2026-09-09T16:00:55.944470+00:00",
+  "updated": "2026-09-09T17:00:45.020771+00:00",
   "sources": {
-    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 09/09 | Openbaar vervoer lag plat • Nautilus College weer open",
+        "link": "https://www.omroepflevoland.nl/nieuws/523182/nieuwsoverzicht-0909-or-openbaar-vervoer-lag-plat-*-nautilus-college-weer-open",
+        "published": "Wed, 09 Sep 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Waterschap brengt beverburchten in kaart met een drone, 'Schade willen we vermijden'",
         "link": "https://www.omroepflevoland.nl/nieuws/523153/waterschap-brengt-beverburchten-in-kaart-met-een-drone-'schade-willen-we-vermijden'",
@@ -295,12 +300,6 @@
         "title": "Lelystad - Provincie onderzoekt verkeersveiligheid Markerwaarddijk: conclusies dit najaar",
         "link": "https://www.omroepflevoland.nl/nieuws/522065/provincie-onderzoekt-verkeersveiligheid-markerwaarddijk:-conclusies-dit-najaar",
         "published": "Mon, 31 Aug 2026 13:15:08 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Weekweerbericht: Bijna elke dag anders maar temperatuur is prima",
-        "link": "https://www.omroepflevoland.nl/nieuws/522058/weekweerbericht:-bijna-elke-dag-anders-maar-temperatuur-is-prima",
-        "published": "Mon, 31 Aug 2026 11:14:49 GMT+0200",
         "summary": ""
       }
     ],
@@ -607,7 +606,21 @@
       }
     ],
     "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
+        "link": "https://nos.nl/l/2630351",
+        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
+      {
+        "title": "Gemeente moet weer aan de slag met (sociale) veiligheid fietspad Gelderse Diep",
+        "link": "https://radiolelystad.nl/gemeente-moet-weer-aan-de-slag-met-sociale-veiligheid-fietspad-gelderse-diep",
+        "published": "woensdag 09 september 2026",
+        "summary": ""
+      },
       {
         "title": "Gemeente investeert in nachtcultuur, bescheiden bedrag als aanjaagsubsidie",
         "link": "https://radiolelystad.nl/gemeente-moet-werk-gaan-maken-van-nachtcultuur-bescheiden-bedrag-als-aanjaagsubsidie",
@@ -899,12 +912,6 @@
       {
         "title": "Eerder gevonden botresten in Roggebotsebos zijn niet van Marc Jaskulski",
         "link": "https://radiolelystad.nl/eerder-gevonden-botresten-in-roggebotsebos-zijn-niet-van-marc-jaskulski",
-        "published": "donderdag 20 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Miljoenenmeevaller voor onderhoud aan het openbare groen en de openbare ruimte",
-        "link": "https://radiolelystad.nl/miljoenenmeevaller-voor-onderhoud-aan-het-openbare-groen-en-de-openbare-ruimte",
         "published": "donderdag 20 augustus 2026",
         "summary": ""
       }

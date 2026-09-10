@@ -1,14 +1,6 @@
 {
-  "updated": "2026-09-10T22:00:36.271394+00:00",
+  "updated": "2026-09-10T23:00:42.361476+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
-        "link": "https://nos.nl/l/2630351",
-        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Tiener uit Lelystad opgepakt nadat hij bankpas gebruikte van slachtoffer nepagent",
@@ -613,7 +605,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "In Lelystad vlieg je honderd jaar terug de tijd in — ver voordat er iets van vliegschaamte bestond",
@@ -915,6 +906,15 @@
         "published": "Thu, 27 Aug 2026 17:07:00 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [
+      {
+        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
+        "link": "https://nos.nl/l/2630351",
+        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": []
   }
 }

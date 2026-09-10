@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T00:00:53.903643+00:00",
+  "updated": "2026-09-10T01:11:54.595421+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -311,6 +311,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - A28 rond middernacht weer open voor het verkeer, herstelwerkzaamheden brug bij Nijkerk sneller klaar dan gedacht",
@@ -914,7 +915,6 @@
         "published": "vrijdag 21 augustus 2026",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

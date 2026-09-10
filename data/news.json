@@ -1,8 +1,14 @@
 {
-  "updated": "2026-09-10T15:00:45.833230+00:00",
+  "updated": "2026-09-10T16:00:56.544196+00:00",
   "sources": {
     "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "De bibliotheek in Lelystad verliest leden",
+        "link": "https://www.destentor.nl/lelystad/de-bibliotheek-in-lelystad-verliest-leden~ad12a454/",
+        "published": "Thu, 10 Sep 2026 15:30:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Nieuwe brug bij Lelystad verbindt stad met natuur, maar moet dat in de winter?",
         "link": "https://www.destentor.nl/lelystad/nieuwe-brug-bij-lelystad-verbindt-stad-met-natuur-maar-moet-dat-in-de-winter~a7f0f7f3/",
@@ -296,15 +302,23 @@
         "link": "https://www.destentor.nl/lelystad/voor-het-tweede-jaar-op-rij-meer-inwoners-van-lelystad-die-geen-zorgpremie-betalen~afaf26e8/",
         "published": "Wed, 26 Aug 2026 15:36:00 GMT",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Hospice ’t Hofje in Lelystad breidt zorg uit en zoekt ideeën voor nieuwe naam",
-        "link": "https://www.destentor.nl/lelystad/hospice-t-hofje-in-lelystad-breidt-zorg-uit-en-zoekt-ideeen-voor-nieuwe-naam~a30b324c/",
-        "published": "Wed, 26 Aug 2026 15:01:00 GMT",
+        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
+        "link": "https://nos.nl/l/2630351",
+        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
         "summary": ""
       }
     ],
     "Radio Lelystad": [
+      {
+        "title": "Nieuwe herdenkingsplek gaat meer kosten, maar kan uit bestaand budget worden betaald",
+        "link": "https://radiolelystad.nl/nieuwe-herdenkingsplek-gaat-meer-kosten-maar-kan-uit-bestaand-budget-worden-betaald",
+        "published": "donderdag 10 september 2026",
+        "summary": ""
+      },
       {
         "title": "Drugs- en alcoholgebruik, intimidatie, herrie: omwonenden Munstraat ervaren overlast",
         "link": "https://radiolelystad.nl/drugs-en-alcoholgebruik-intimidatie-herrie-omwonenden-munstraat-ervaren-overlast",
@@ -596,12 +610,6 @@
       {
         "title": "Lowlandsvrijdag trapt af met ideaal weer en een als vanouds paradijselijke sfeer",
         "link": "https://radiolelystad.nl/lowlandsvrijdag-trapt-af-met-ideaal-weer-en-een-als-vanouds-paradijselijke-sfeer",
-        "published": "vrijdag 21 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Regen geeft verlichting, maar droogte nog lang niet voorbij",
-        "link": "https://radiolelystad.nl/regen-geeft-verlichting-maar-droogte-nog-lang-niet-voorbij",
         "published": "vrijdag 21 augustus 2026",
         "summary": ""
       }
@@ -905,14 +913,6 @@
         "title": "Flevoland - Ode aan 40 jaar Flevoland: acteurs spelen tussen de gewassen",
         "link": "https://www.omroepflevoland.nl/nieuws/522072/ode-aan-40-jaar-flevoland:-acteurs-spelen-tussen-de-gewassen",
         "published": "Wed, 02 Sep 2026 06:44:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
-        "link": "https://nos.nl/l/2630351",
-        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
         "summary": ""
       }
     ]

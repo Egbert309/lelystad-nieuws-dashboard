@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-11T05:00:40.201246+00:00",
+  "updated": "2026-09-11T06:00:40.491112+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
+        "link": "https://nos.nl/l/2630351",
+        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Bouw herdenkingsplek valt bijna 2,5 ton duurder uit",
@@ -300,14 +308,6 @@
         "title": "Lelystad - Automobilist gewond bij botsing op boom in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/522308/automobilist-gewond-bij-botsing-op-boom-in-lelystad",
         "published": "Wed, 02 Sep 2026 12:13:38 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
-        "link": "https://nos.nl/l/2630351",
-        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
         "summary": ""
       }
     ],

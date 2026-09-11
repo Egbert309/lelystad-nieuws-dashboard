@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T02:01:12.332472+00:00",
+  "updated": "2026-09-11T03:00:54.607200+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -303,6 +303,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "NOS": [
       {
         "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
@@ -914,7 +915,6 @@
         "published": "Thu, 27 Aug 2026 17:07:00 GMT",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

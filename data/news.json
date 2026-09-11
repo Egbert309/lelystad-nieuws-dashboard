@@ -1,611 +1,7 @@
 {
-  "updated": "2026-09-11T13:00:42.852434+00:00",
+  "updated": "2026-09-11T14:00:53.514612+00:00",
   "sources": {
-    "Omroep Flevoland": [
-      {
-        "title": "Lelystad - Nichtje tegen oom (40) uit Emmeloord: 'Je hebt me voor de rest van mijn leven beschadigd'",
-        "link": "https://www.omroepflevoland.nl/nieuws/523430/nichtje-tegen-oom-(40)-uit-emmeloord:-'je-hebt-me-voor-de-rest-van-mijn-leven-beschadigd'",
-        "published": "Fri, 11 Sep 2026 13:57:09 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Bouw herdenkingsplek valt bijna 2,5 ton duurder uit",
-        "link": "https://www.omroepflevoland.nl/nieuws/523306/bouw-herdenkingsplek-valt-bijna-25-ton-duurder-uit",
-        "published": "Fri, 11 Sep 2026 06:40:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Tiener uit Lelystad opgepakt nadat hij bankpas gebruikte van slachtoffer nepagent",
-        "link": "https://www.omroepflevoland.nl/nieuws/523344/tiener-uit-lelystad-opgepakt-nadat-hij-bankpas-gebruikte-van-slachtoffer-nepagent",
-        "published": "Thu, 10 Sep 2026 20:02:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 10/09 | Dronten moddert niet aan • Netl-broers blijven strijdbaar",
-        "link": "https://www.omroepflevoland.nl/nieuws/523258/nieuwsoverzicht-1009-or-dronten-moddert-niet-aan-*-netl-broers-blijven-strijdbaar",
-        "published": "Thu, 10 Sep 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Gevlucht lid van Kempenaargroep opgepakt in Spanje, man knipte enkelband door",
-        "link": "https://www.omroepflevoland.nl/nieuws/523320/gevlucht-lid-van-kempenaargroep-opgepakt-in-spanje-man-knipte-enkelband-door",
-        "published": "Thu, 10 Sep 2026 16:48:58 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Geen treinen tussen Almere Centrum en Oostvaarders door aanrijding",
-        "link": "https://www.omroepflevoland.nl/nieuws/523311/geen-treinen-tussen-almere-centrum-en-oostvaarders-door-aanrijding",
-        "published": "Thu, 10 Sep 2026 15:51:38 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Celstraf en beroepsverbod voor masseur (36) die vrouwen aanrandde en verkrachtte",
-        "link": "https://www.omroepflevoland.nl/nieuws/523261/celstraf-en-beroepsverbod-voor-masseur-(36)-die-vrouwen-aanrandde-en-verkrachtte",
-        "published": "Thu, 10 Sep 2026 13:56:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Lelystad Airport krijgt mogelijk mbo-campus pal naast terminal",
-        "link": "https://www.omroepflevoland.nl/nieuws/523176/lelystad-airport-krijgt-mogelijk-mbo-campus-pal-naast-terminal",
-        "published": "Thu, 10 Sep 2026 10:43:30 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad -  Van schoolbank naar vertrekhal: Lelystad Airport wordt leerplek voor mbo'ers",
-        "link": "https://www.omroepflevoland.nl/nieuws/523176/van-schoolbank-naar-vertrekhal:-lelystad-airport-wordt-leerplek-voor-mbo'ers",
-        "published": "Thu, 10 Sep 2026 10:43:30 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Afvalzorg wordt ongeduldig en wil sneller standpunt van Lelystad over uitbreiding vuilstort",
-        "link": "https://www.omroepflevoland.nl/nieuws/523200/afvalzorg-wordt-ongeduldig-en-wil-sneller-standpunt-van-lelystad-over-uitbreiding-vuilstort",
-        "published": "Thu, 10 Sep 2026 09:51:25 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Zeewolde - Vacature wethouder Zeewolde levert 71 reacties op, sollicitatiecommissie verrast en trots",
-        "link": "https://www.omroepflevoland.nl/nieuws/523205/vacature-wethouder-zeewolde-levert-71-reacties-op-sollicitatiecommissie-verrast-en-trots",
-        "published": "Thu, 10 Sep 2026 06:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - A28 weer open voor het verkeer, herstelwerkzaamheden brug bij Nijkerk sneller klaar dan gedacht",
-        "link": "https://www.omroepflevoland.nl/nieuws/523219/a28-weer-open-voor-het-verkeer-herstelwerkzaamheden-brug-bij-nijkerk-sneller-klaar-dan-gedacht",
-        "published": "Wed, 09 Sep 2026 20:49:44 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - A28 rond middernacht weer open voor het verkeer, herstelwerkzaamheden brug bij Nijkerk sneller klaar dan gedacht",
-        "link": "https://www.omroepflevoland.nl/nieuws/523219/a28-rond-middernacht-weer-open-voor-het-verkeer-herstelwerkzaamheden-brug-bij-nijkerk-sneller-klaar-dan-gedacht",
-        "published": "Wed, 09 Sep 2026 20:49:44 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 09/09 | Openbaar vervoer plat • Nautilus College weer open",
-        "link": "https://www.omroepflevoland.nl/nieuws/523182/nieuwsoverzicht-0909-or-openbaar-vervoer-plat-*-nautilus-college-weer-open",
-        "published": "Wed, 09 Sep 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 09/09 | Openbaar vervoer lag plat • Nautilus College weer open",
-        "link": "https://www.omroepflevoland.nl/nieuws/523182/nieuwsoverzicht-0909-or-openbaar-vervoer-lag-plat-*-nautilus-college-weer-open",
-        "published": "Wed, 09 Sep 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Waterschap brengt beverburchten in kaart met een drone, 'Schade willen we vermijden'",
-        "link": "https://www.omroepflevoland.nl/nieuws/523153/waterschap-brengt-beverburchten-in-kaart-met-een-drone-'schade-willen-we-vermijden'",
-        "published": "Wed, 09 Sep 2026 17:22:52 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Fietspad Gelderse Diep moet met voorrang betere verlichting krijgen",
-        "link": "https://www.omroepflevoland.nl/nieuws/523129/fietspad-gelderse-diep-moet-met-voorrang-betere-verlichting-krijgen",
-        "published": "Wed, 09 Sep 2026 14:44:39 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Raad trekt grens bij bouwen in de parken",
-        "link": "https://www.omroepflevoland.nl/nieuws/523086/raad-trekt-grens-bij-bouwen-in-de-parken",
-        "published": "Wed, 09 Sep 2026 14:44:02 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Nachtcultuur Lelystad kan wel oppepper gebruiken, 30.000 euro voor onderzoek",
-        "link": "https://www.omroepflevoland.nl/nieuws/523085/nachtcultuur-lelystad-kan-wel-oppepper-gebruiken-30.000-euro-voor-onderzoek",
-        "published": "Wed, 09 Sep 2026 11:34:29 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Landelijke ov-staking legt vandaag trein- en busverkeer plat, deel EBS-chauffeurs rijdt wel",
-        "link": "https://www.omroepflevoland.nl/nieuws/523087/landelijke-ov-staking-legt-vandaag-trein-en-busverkeer-plat-deel-ebs-chauffeurs-rijdt-wel",
-        "published": "Wed, 09 Sep 2026 06:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 08/09 | A28 donderdagavond weer open • 'Onveilige situatie' op middelbare school",
-        "link": "https://www.omroepflevoland.nl/nieuws/523033/nieuwsoverzicht-0809-or-a28-donderdagavond-weer-open-*-'onveilige-situatie'-op-middelbare-school",
-        "published": "Tue, 08 Sep 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Voetbaltalent Oldenstam uit Lelystad naar Jong PSV",
-        "link": "https://www.omroepflevoland.nl/sport/523000/voetbaltalent-oldenstam-uit-lelystad-naar-jong-psv",
-        "published": "Tue, 08 Sep 2026 10:18:58 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Voetbaltalent Lyfe Oldenstam verruilt Ajax voor PSV",
-        "link": "https://www.omroepflevoland.nl/sport/523000/voetbaltalent-lyfe-oldenstam-verruilt-ajax-voor-psv",
-        "published": "Tue, 08 Sep 2026 10:18:58 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Maat is nu echt vol: 'drugsverslaafde' huurder van Centrada moet zijn koffers pakken",
-        "link": "https://www.omroepflevoland.nl/nieuws/522948/maat-is-nu-echt-vol:-'drugsverslaafde'-huurder-van-centrada-moet-zijn-koffers-pakken",
-        "published": "Mon, 07 Sep 2026 19:44:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht van 07/09 | 'Sloop Kasteel Almere' • A28 bij Nijkerk dicht na inspectie brug",
-        "link": "https://www.omroepflevoland.nl/nieuws/522946/nieuwsoverzicht-van-0709-or-'sloop-kasteel-almere'-*-a28-bij-nijkerk-dicht-na-inspectie-brug",
-        "published": "Mon, 07 Sep 2026 18:50:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Motorrijder per boot op de vlucht na botsing in Lelystad Haven",
-        "link": "https://www.omroepflevoland.nl/nieuws/522918/motorrijder-per-boot-op-de-vlucht-na-botsing-in-lelystad-haven",
-        "published": "Mon, 07 Sep 2026 16:59:18 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Land Art Flevoland wil monumentale status voor Observatorium",
-        "link": "https://www.omroepflevoland.nl/nieuws/522569/land-art-flevoland-wil-monumentale-status-voor-observatorium",
-        "published": "Mon, 07 Sep 2026 06:19:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Flevo Countrydansers eren overleden Dolly Parton tijdens eerste lesavond",
-        "link": "https://www.omroepflevoland.nl/nieuws/522460/flevo-countrydansers-eren-overleden-dolly-parton-tijdens-eerste-lesavond",
-        "published": "Sun, 06 Sep 2026 14:01:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Praktische pruimenboom prijst prachtige provincie",
-        "link": "https://www.omroepflevoland.nl/nieuws/522718/praktische-pruimenboom-prijst-prachtige-provincie",
-        "published": "Sat, 05 Sep 2026 16:20:25 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Minderjarig duo opgepakt na toename diefstal op station Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/522381/minderjarig-duo-opgepakt-na-toename-diefstal-op-station-lelystad",
-        "published": "Sat, 05 Sep 2026 09:53:58 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Landelijke Open Monumentendag krijgt een 'grandioze opening' in Flevoland: 'trots op onze monumenten'",
-        "link": "https://www.omroepflevoland.nl/nieuws/522557/landelijke-open-monumentendag-krijgt-een-'grandioze-opening'-in-flevoland:-'trots-op-onze-monumenten'",
-        "published": "Sat, 05 Sep 2026 08:01:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Noordoostpolder - Derde Flevolandse gemeente komt in actie voor ruimte op het stroomnet",
-        "link": "https://www.omroepflevoland.nl/nieuws/522600/derde-flevolandse-gemeente-komt-in-actie-voor-ruimte-op-het-stroomnet",
-        "published": "Fri, 04 Sep 2026 20:15:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 04/09 | Crowdfunding voor verongelukte tieners • Brandweer doelwit van inbraak",
-        "link": "https://www.omroepflevoland.nl/nieuws/522621/nieuwsoverzicht-0409-or-crowdfunding-voor-verongelukte-tieners-*-brandweer-doelwit-van-inbraak",
-        "published": "Fri, 04 Sep 2026 17:59:55 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Overijsselseweg volgende week dicht voor filmopnames met Renée Soutendijk",
-        "link": "https://www.omroepflevoland.nl/nieuws/522603/overijsselseweg-volgende-week-dicht-voor-filmopnames-met-renee-soutendijk",
-        "published": "Fri, 04 Sep 2026 16:15:44 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Almeerder vuurde 28 kogels af op flat in Utrecht; OM spreekt van 'een oorlogssituatie'",
-        "link": "https://www.omroepflevoland.nl/nieuws/522602/almeerder-vuurde-28-kogels-af-op-flat-in-utrecht-om-spreekt-van-'een-oorlogssituatie'",
-        "published": "Fri, 04 Sep 2026 15:21:20 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - 'Problemen met Houtribbruggen al jaren bekend bij Rijkswaterstaat'",
-        "link": "https://www.omroepflevoland.nl/nieuws/522571/'problemen-met-houtribbruggen-al-jaren-bekend-bij-rijkswaterstaat'",
-        "published": "Fri, 04 Sep 2026 12:51:15 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - 'Rijkswaterstaat weet al jaren van problemen met Houtribbruggen'",
-        "link": "https://www.omroepflevoland.nl/nieuws/522571/'rijkswaterstaat-weet-al-jaren-van-problemen-met-houtribbruggen'",
-        "published": "Fri, 04 Sep 2026 12:51:15 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Wegens groot succes stopt Lelystad nog eens 10 miljoen in pot startersleningen",
-        "link": "https://www.omroepflevoland.nl/nieuws/522564/wegens-groot-succes-stopt-lelystad-nog-eens-10-miljoen-in-pot-startersleningen",
-        "published": "Fri, 04 Sep 2026 11:03:29 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Hotel in Almere schrikt van verhoging toeristenbelasting en schrijft brandbrief aan politiek",
-        "link": "https://www.omroepflevoland.nl/nieuws/522497/hotel-in-almere-schrikt-van-verhoging-toeristenbelasting-en-schrijft-brandbrief-aan-politiek",
-        "published": "Fri, 04 Sep 2026 07:33:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Boerderij Saalland in Lelystad decor voor theatrale viering veertig jaar Flevoland",
-        "link": "https://www.omroepflevoland.nl/nieuws/522080/boerderij-saalland-in-lelystad-decor-voor-theatrale-viering-veertig-jaar-flevoland",
-        "published": "Fri, 04 Sep 2026 06:44:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - 25 jaar Batavia Stad: miljoenen bezoekers, maar weinig winst voor het stadshart",
-        "link": "https://www.omroepflevoland.nl/nieuws/522212/25-jaar-batavia-stad:-miljoenen-bezoekers-maar-weinig-winst-voor-het-stadshart",
-        "published": "Thu, 03 Sep 2026 19:44:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 03/09 | 25 jaar Batavia Stad • Breuk SP Almere",
-        "link": "https://www.omroepflevoland.nl/nieuws/522489/nieuwsoverzicht-0309-or-25-jaar-batavia-stad-*-breuk-sp-almere",
-        "published": "Thu, 03 Sep 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Feestje in Batavia Stad vanwege jubileum: 25 jaar outletwinkels aan de kust",
-        "link": "https://www.omroepflevoland.nl/nieuws/522486/feestje-in-batavia-stad-vanwege-jubileum:-25-jaar-outletwinkels-aan-de-kust",
-        "published": "Thu, 03 Sep 2026 17:55:09 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Oldtimerdag Lelystad staat op de tocht: 'Nieuwe vrijwilligers nodig om evenement te behouden'",
-        "link": "https://www.omroepflevoland.nl/nieuws/522443/oldtimerdag-lelystad-staat-op-de-tocht:-'nieuwe-vrijwilligers-nodig-om-evenement-te-behouden'",
-        "published": "Thu, 03 Sep 2026 16:39:57 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Almeerse SP-fractie breekt met landelijke partij en gaat verder als Hart voor Almere",
-        "link": "https://www.omroepflevoland.nl/nieuws/522469/almeerse-sp-fractie-breekt-met-landelijke-partij-en-gaat-verder-als-hart-voor-almere",
-        "published": "Thu, 03 Sep 2026 16:19:45 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Polderklei, pioniers en piepers: theatergroep Suburbia zoekt de ziel van Flevoland op de akker",
-        "link": "https://www.omroepflevoland.nl/nieuws/522077/polderklei-pioniers-en-piepers:-theatergroep-suburbia-zoekt-de-ziel-van-flevoland-op-de-akker",
-        "published": "Thu, 03 Sep 2026 07:33:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Verdachte van schietpartij bij supermarkt wil cel uit: 'Ik heb dat pistool niet in handen gehad'",
-        "link": "https://www.omroepflevoland.nl/nieuws/522359/verdachte-van-schietpartij-bij-supermarkt-wil-cel-uit:-'ik-heb-dat-pistool-niet-in-handen-gehad'",
-        "published": "Wed, 02 Sep 2026 21:11:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 02/09 | 'Ongeluk onder invloed van cocaïne' • Nieuw onderzoek Burcht van Kuinre",
-        "link": "https://www.omroepflevoland.nl/nieuws/522346/nieuwsoverzicht-0209-or-'ongeluk-onder-invloed-van-cocaine'-*-nieuw-onderzoek-burcht-van-kuinre",
-        "published": "Wed, 02 Sep 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Zijn vriendin heeft spijt van haar aangifte, maar toch krijgt Harry uit Lelystad tbs voor bedreiging en geweld",
-        "link": "https://www.omroepflevoland.nl/nieuws/522334/zijn-vriendin-heeft-spijt-van-haar-aangifte-maar-toch-krijgt-harry-uit-lelystad-tbs-voor-bedreiging-en-geweld",
-        "published": "Wed, 02 Sep 2026 15:56:27 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Justitie: 'Vrouw reed onder invloed van cocaïne in op file Oostvaardersdijk'",
-        "link": "https://www.omroepflevoland.nl/nieuws/522328/justitie:-'vrouw-reed-onder-invloed-van-cocaine-in-op-file-oostvaardersdijk'",
-        "published": "Wed, 02 Sep 2026 15:28:34 GMT+0200",
-        "summary": ""
-      }
-    ],
     "Nu.nl": [],
-    "Radio Lelystad": [
-      {
-        "title": "Jonge Lelystedeling aangehouden voor poging afrekenen met gestolen pas",
-        "link": "https://radiolelystad.nl/jonge-lelystedeling-aangehouden-op-verdenking-van-medeplichtigheid-bij-helpdeskfraude",
-        "published": "vrijdag 11 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad Airport en ROC Amsterdam zetten in op campus naast terminal",
-        "link": "https://radiolelystad.nl/lelystad-airport-en-roc-amsterdam-zien-op-termijn-campus-naast-de-passagiersterminal-verschijnen",
-        "published": "donderdag 10 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Voortvluchtig lid van Kempenaargroep in Spanje aangehouden, Nederland vraagt om uitlevering",
-        "link": "https://radiolelystad.nl/voortvluchtig-lid-van-kempenaargroep-in-spanje-aangehouden-nederland-vraagt-om-uitlevering",
-        "published": "donderdag 10 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Herdenkingsplek gaat meer kosten, maar kan uit bestaand budget worden betaald",
-        "link": "https://radiolelystad.nl/nieuwe-herdenkingsplek-gaat-meer-kosten-maar-kan-uit-bestaand-budget-worden-betaald",
-        "published": "donderdag 10 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Drugs- en alcohol, intimidatie, herrie: bewoners Munstraat ervaren overlast",
-        "link": "https://radiolelystad.nl/drugs-en-alcoholgebruik-intimidatie-herrie-omwonenden-munstraat-ervaren-overlast",
-        "published": "donderdag 10 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeenteraad trapt op rem en wil bouwen in en aan randen van parken niet toestaan",
-        "link": "https://radiolelystad.nl/gemeenteraad-trapt-op-rem-en-wil-bouwen-in-en-aan-randen-van-parken-niet-toestaan",
-        "published": "woensdag 09 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente moet weer aan de slag met (sociale) veiligheid fietspad Gelderse Diep",
-        "link": "https://radiolelystad.nl/gemeente-moet-weer-aan-de-slag-met-sociale-veiligheid-fietspad-gelderse-diep",
-        "published": "woensdag 09 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente investeert in nachtcultuur, bescheiden bedrag als aanjaagsubsidie",
-        "link": "https://radiolelystad.nl/gemeente-moet-werk-gaan-maken-van-nachtcultuur-bescheiden-bedrag-als-aanjaagsubsidie",
-        "published": "woensdag 09 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Fragment van de week: Min of meer een monster (Lily Frank)",
-        "link": "https://radiolelystad.nl/fragment-van-de-week-min-of-meer-een-monster-lily-frank",
-        "published": "woensdag 09 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Politiek wil haast met verbeteringen voor clubs, voetbalvisie verschijnt in november",
-        "link": "https://radiolelystad.nl/politiek-wil-haast-met-verbeteringen-voor-voetbalclubs-voetbalvisie-verschijnt-in-november",
-        "published": "dinsdag 08 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Veel files door afsluiting A28: vertrek ruim op tijd",
-        "link": "https://radiolelystad.nl/veel-files-door-afsluiting-a28-vertrek-ruim-op-tijd",
-        "published": "dinsdag 08 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Wegafsluitingen wegens Challenge Almere-Amsterdam triathlon",
-        "link": "https://radiolelystad.nl/wegafsluitingen-wegens-challenge-almere-amsterdam-triathlon",
-        "published": "maandag 07 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "‘Happy Days’ zorgt deze week voor afsluiting en volgend jaar voor herkenning in de bios",
-        "link": "https://radiolelystad.nl/happy-days-zorgt-deze-week-voor-afsluiting-en-volgend-jaar-voor-herkenning-in-de-bios",
-        "published": "zondag 06 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Geen aparte busverbindingen naar natuurcamping en dorp voor arbeidsmigranten",
-        "link": "https://radiolelystad.nl/geen-aparte-busverbindingen-naar-natuurcamping-en-dorp-voor-arbeidsmigranten",
-        "published": "zondag 06 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Theatraal feest op de vruchtbare grond die de oorsprong van Flevoland vertegenwoordigt",
-        "link": "https://radiolelystad.nl/theatraal-feest-op-de-vruchtbare-grond-die-de-oorsprong-van-flevoland-vertegenwoordigt",
-        "published": "zaterdag 05 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Jonge verdachten op heterdaad betrapt bij station na opvallende stijging diefstallen",
-        "link": "https://radiolelystad.nl/jonge-verdachten-op-heterdaad-betrapt-bij-station-na-opvallende-stijging-diefstallen",
-        "published": "zaterdag 05 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Tijdelijk parkeerterrein op ABC-locatie zit plannen voor ABC-gebouw niet in de weg",
-        "link": "https://radiolelystad.nl/tijdelijk-parkeerterrein-op-abc-locatie-zit-plannen-voor-abc-gebouw-niet-in-de-weg",
-        "published": "zaterdag 05 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Welzijn Lelystad opent meidenlokaal midden in het stadshart",
-        "link": "https://radiolelystad.nl/welzijn-lelystad-opent-meidenlokaal-midden-in-het-stadshart",
-        "published": "vrijdag 04 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "The Wildfires komen naar Poppodium Corneel: waar rock is, is vuur!",
-        "link": "https://radiolelystad.nl/the-wildfires-bij-poppodium-corneel-waar-rock-is-is-vuur",
-        "published": "vrijdag 04 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Cultuurfonds investeert € 925.000 in erfgoed en opening Monumentendag bij Bataviawerf",
-        "link": "https://radiolelystad.nl/cultuurfonds-investeert-925-000-in-erfgoed-en-opening-monumentendag-bij-bataviawerf",
-        "published": "donderdag 03 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Budget lening voor starters is op, politiek gevraagd om extra budget",
-        "link": "https://radiolelystad.nl/potje-voor-de-starterslening-is-leeg-gemeenteraad-gevraagd-om-extra-budget",
-        "published": "donderdag 03 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Sluiting garage De Waag voor aanleggen nieuwe hellingbaan is onontkoombaar",
-        "link": "https://radiolelystad.nl/sluiting-garage-de-waag-voor-aanleggen-nieuwe-hellingbaan-is-onontkoombaar",
-        "published": "woensdag 02 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Echtpaar Trudy en Ted Warren zijn 70 jaar getrouwd, onderdeel van een selecte groep",
-        "link": "https://radiolelystad.nl/echtpaar-trudy-en-ted-warren-zijn-70-jaar-getrouwd-en-nu-onderdeel-van-een-selecte-groep",
-        "published": "woensdag 02 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: Zombie apocalypse (Miss Fly)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-zombie-apocalypse-miss-fly",
-        "published": "woensdag 02 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Batterij in Dronten in gebruik genomen voor opslag elektriciteit uit windmolens",
-        "link": "https://radiolelystad.nl/enorme-batterij-in-gebruik-genomen-in-buitengebied-dronten-voor-opslag-elektriciteit-uit-windmolens",
-        "published": "dinsdag 01 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "300 deelnemers trotseren regen en modder tijdens de BedrijvenMudRun",
-        "link": "https://radiolelystad.nl/300-deelnemers-trotseren-regen-en-modder-tijdens-de-bedrijvenmudrun",
-        "published": "dinsdag 01 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Radio Lelystad icoon Will de Vries overleden",
-        "link": "https://radiolelystad.nl/radio-lelystad-icoon-will-de-vries-overleden",
-        "published": "dinsdag 01 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Politie deelt informatie over gevonden dode man in Roggebotsebos Dronten",
-        "link": "https://radiolelystad.nl/politie-deelt-informatie-over-gevonden-dode-man-in-roggebotsebos-dronten",
-        "published": "dinsdag 01 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Twee weken kans op geluidshinder in Flevoland wegens oefening van Defensie",
-        "link": "https://radiolelystad.nl/kans-op-geluidshinder-in-flevoland-wegens-oefening-van-defensie",
-        "published": "maandag 31 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Samen wandelen voor mensen met kanker, tijdens de Kompassieloop 2026",
-        "link": "https://radiolelystad.nl/samen-wandelen-voor-mensen-met-kanker-tijdens-de-kompassieloop-2026",
-        "published": "maandag 31 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden bij zwaar ongeval op dijk tussen Lelystad en Enkhuizen (update)",
-        "link": "https://radiolelystad.nl/drie-doden-bij-zwaar-ongeval-op-dijk-tussen-lelystad-en-enkhuizen",
-        "published": "zondag 30 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Oogstdag 2026, 'doe het lekker zelf!' (video)",
-        "link": "https://radiolelystad.nl/oogstdag-2026-doe-het-lekker-zelf-video",
-        "published": "zaterdag 29 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Uitgast viert jubileum twee dagen met vaste bezoekers en bewoners van Natuurpark",
-        "link": "https://radiolelystad.nl/uitgast-viert-jubileum-met-twee-volle-dagen-en-haar-vaste-bezoekers-en-bewoners-van-natuurpark-lelystad",
-        "published": "zaterdag 29 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Rolstoelvriendelijke wandelroute geopend op het landje van Pelgrim",
-        "link": "https://radiolelystad.nl/rolstoelvriendelijke-wandelroute-geopend-op-het-landje-van-pelgrim",
-        "published": "zaterdag 29 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Verkeersbezwaren tegen locatie circulair ambachtscentrum aan Vaartweg niet nodig",
-        "link": "https://radiolelystad.nl/geen-verkeerskundige-bezwaren-tegen-locatie-circulair-ambachtscentrum-aan-vaartweg",
-        "published": "vrijdag 28 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Houtribdijk gaat in het najaar dicht voor zwaar verkeer wegens schade aan de brug",
-        "link": "https://radiolelystad.nl/houtribdijk-gaat-in-het-najaar-dicht-voor-zwaar-vrachtverkeer",
-        "published": "vrijdag 28 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Eerste droogtemaatregel ingetrokken, maar Flevoland blijft droog",
-        "link": "https://radiolelystad.nl/eerste-droogtemaatregel-ingetrokken-maar-flevoland-blijft-droog",
-        "published": "vrijdag 28 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "WIJ FLEVOLAND brengt verhalen achter onze voedselketen naar het theater",
-        "link": "https://radiolelystad.nl/wij-flevoland-brengt-verhalen-achter-flevolandse-voedselketen-naar-het-theater",
-        "published": "vrijdag 28 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Eerste twaalf verenigingen ontvangen keurmerk ‘Verantwoord Sporten & Bewegen’",
-        "link": "https://radiolelystad.nl/eerste-twaalf-verenigingen-ontvangen-keurmerk-verantwoord-sporten-bewegen",
-        "published": "donderdag 27 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Stichtse brug (A27) richting Flevoland dicht van vrijdagavond tot maandagochtend",
-        "link": "https://radiolelystad.nl/stichtse-brug-a27-richting-flevoland-dicht-van-vrijdagavond-tot-maandagochtend",
-        "published": "donderdag 27 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Partijen willen vrijheid college bij aankopen woningbouwversnelling inperken",
-        "link": "https://radiolelystad.nl/partijen-willen-speelruimte-college-bij-aankopen-voor-woningbouwversnelling-inperken",
-        "published": "woensdag 26 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente wil eerste recht van aankoop bij eventuele verkoop Leonardo Hotel",
-        "link": "https://radiolelystad.nl/gemeente-wil-eerste-recht-van-aankoop-bij-eventuele-verkoop-leonardo-hotel",
-        "published": "woensdag 26 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "De Batavia komt aan land, maar doet eerst een retourtje Amsterdam",
-        "link": "https://radiolelystad.nl/de-batavia-komt-aan-land-na-een-retourtje-amsterdam",
-        "published": "woensdag 26 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: Well of wonder (Marijn Brandsen)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-well-of-wonder-marijn-brandsen",
-        "published": "woensdag 26 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Mensen met hoger gezondheidsrisico kunnen dit najaar een coronaprik halen",
-        "link": "https://radiolelystad.nl/mensen-met-een-hoger-gezondheidsrisico-kunnen-dit-najaar-een-coronaprik-halen",
-        "published": "woensdag 26 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "21e Nationale Stadsdichtersdag start op 5 september met aftrap in het stadhuis",
-        "link": "https://radiolelystad.nl/21e-nationale-stadsdichtersdag-start-op-5-september-met-aftrap-in-het-stadhuis",
-        "published": "dinsdag 25 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Grundel begint schooljaar met 'High Five' dat beweging en verkeersveiligheid stimuleert",
-        "link": "https://radiolelystad.nl/obs-de-grundel-begint-schooljaar-met-high-five-programma-dat-beweging-en-verkeersveiligheid-stimuleert",
-        "published": "dinsdag 25 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente, organisatie en hulpdiensten kijken tevreden terug op Lowlands",
-        "link": "https://radiolelystad.nl/gemeente-organisatie-en-hulpdiensten-kijken-tevreden-terug-op-lowlands",
-        "published": "maandag 24 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Aviodrome heeft Douglas DC-3 Dakota na 16 jaar terug in de collectie",
-        "link": "https://radiolelystad.nl/aviodrome-heeft-douglas-dc-3-dakota-na-16-jaar-terug-in-de-collectie",
-        "published": "zondag 23 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Hospice ’t Hofje breidt zorg uit en zoekt nieuwe naam, Flevolanders mogen meedenken",
-        "link": "https://radiolelystad.nl/hospice-t-hofje-breidt-zorg-uit-en-zoekt-nieuwe-naam-flevolanders-mogen-meedenken",
-        "published": "zondag 23 augustus 2026",
-        "summary": ""
-      }
-    ],
     "NOS": [
       {
         "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
@@ -913,6 +309,610 @@
         "title": "Zwaar verkeer mag vanaf najaar niet meer over dijk Lelystad-Enkhuizen: dit is waarom",
         "link": "https://www.destentor.nl/lelystad/zwaar-verkeer-mag-vanaf-najaar-niet-meer-over-dijk-lelystad-enkhuizen-dit-is-waarom~ad41e5d9/",
         "published": "Thu, 27 Aug 2026 17:07:00 GMT",
+        "summary": ""
+      }
+    ],
+    "Radio Lelystad": [
+      {
+        "title": "Jonge Lelystedeling aangehouden voor poging afrekenen met gestolen pas",
+        "link": "https://radiolelystad.nl/jonge-lelystedeling-aangehouden-op-verdenking-van-medeplichtigheid-bij-helpdeskfraude",
+        "published": "vrijdag 11 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad Airport en ROC Amsterdam zetten in op campus naast terminal",
+        "link": "https://radiolelystad.nl/lelystad-airport-en-roc-amsterdam-zien-op-termijn-campus-naast-de-passagiersterminal-verschijnen",
+        "published": "donderdag 10 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Voortvluchtig lid van Kempenaargroep in Spanje aangehouden, Nederland vraagt om uitlevering",
+        "link": "https://radiolelystad.nl/voortvluchtig-lid-van-kempenaargroep-in-spanje-aangehouden-nederland-vraagt-om-uitlevering",
+        "published": "donderdag 10 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Herdenkingsplek gaat meer kosten, maar kan uit bestaand budget worden betaald",
+        "link": "https://radiolelystad.nl/nieuwe-herdenkingsplek-gaat-meer-kosten-maar-kan-uit-bestaand-budget-worden-betaald",
+        "published": "donderdag 10 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Drugs- en alcohol, intimidatie, herrie: bewoners Munstraat ervaren overlast",
+        "link": "https://radiolelystad.nl/drugs-en-alcoholgebruik-intimidatie-herrie-omwonenden-munstraat-ervaren-overlast",
+        "published": "donderdag 10 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeenteraad trapt op rem en wil bouwen in en aan randen van parken niet toestaan",
+        "link": "https://radiolelystad.nl/gemeenteraad-trapt-op-rem-en-wil-bouwen-in-en-aan-randen-van-parken-niet-toestaan",
+        "published": "woensdag 09 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente moet weer aan de slag met (sociale) veiligheid fietspad Gelderse Diep",
+        "link": "https://radiolelystad.nl/gemeente-moet-weer-aan-de-slag-met-sociale-veiligheid-fietspad-gelderse-diep",
+        "published": "woensdag 09 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente investeert in nachtcultuur, bescheiden bedrag als aanjaagsubsidie",
+        "link": "https://radiolelystad.nl/gemeente-moet-werk-gaan-maken-van-nachtcultuur-bescheiden-bedrag-als-aanjaagsubsidie",
+        "published": "woensdag 09 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Fragment van de week: Min of meer een monster (Lily Frank)",
+        "link": "https://radiolelystad.nl/fragment-van-de-week-min-of-meer-een-monster-lily-frank",
+        "published": "woensdag 09 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Politiek wil haast met verbeteringen voor clubs, voetbalvisie verschijnt in november",
+        "link": "https://radiolelystad.nl/politiek-wil-haast-met-verbeteringen-voor-voetbalclubs-voetbalvisie-verschijnt-in-november",
+        "published": "dinsdag 08 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Veel files door afsluiting A28: vertrek ruim op tijd",
+        "link": "https://radiolelystad.nl/veel-files-door-afsluiting-a28-vertrek-ruim-op-tijd",
+        "published": "dinsdag 08 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Wegafsluitingen wegens Challenge Almere-Amsterdam triathlon",
+        "link": "https://radiolelystad.nl/wegafsluitingen-wegens-challenge-almere-amsterdam-triathlon",
+        "published": "maandag 07 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "‘Happy Days’ zorgt deze week voor afsluiting en volgend jaar voor herkenning in de bios",
+        "link": "https://radiolelystad.nl/happy-days-zorgt-deze-week-voor-afsluiting-en-volgend-jaar-voor-herkenning-in-de-bios",
+        "published": "zondag 06 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Geen aparte busverbindingen naar natuurcamping en dorp voor arbeidsmigranten",
+        "link": "https://radiolelystad.nl/geen-aparte-busverbindingen-naar-natuurcamping-en-dorp-voor-arbeidsmigranten",
+        "published": "zondag 06 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Theatraal feest op de vruchtbare grond die de oorsprong van Flevoland vertegenwoordigt",
+        "link": "https://radiolelystad.nl/theatraal-feest-op-de-vruchtbare-grond-die-de-oorsprong-van-flevoland-vertegenwoordigt",
+        "published": "zaterdag 05 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Jonge verdachten op heterdaad betrapt bij station na opvallende stijging diefstallen",
+        "link": "https://radiolelystad.nl/jonge-verdachten-op-heterdaad-betrapt-bij-station-na-opvallende-stijging-diefstallen",
+        "published": "zaterdag 05 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Tijdelijk parkeerterrein op ABC-locatie zit plannen voor ABC-gebouw niet in de weg",
+        "link": "https://radiolelystad.nl/tijdelijk-parkeerterrein-op-abc-locatie-zit-plannen-voor-abc-gebouw-niet-in-de-weg",
+        "published": "zaterdag 05 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Welzijn Lelystad opent meidenlokaal midden in het stadshart",
+        "link": "https://radiolelystad.nl/welzijn-lelystad-opent-meidenlokaal-midden-in-het-stadshart",
+        "published": "vrijdag 04 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "The Wildfires komen naar Poppodium Corneel: waar rock is, is vuur!",
+        "link": "https://radiolelystad.nl/the-wildfires-bij-poppodium-corneel-waar-rock-is-is-vuur",
+        "published": "vrijdag 04 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Cultuurfonds investeert € 925.000 in erfgoed en opening Monumentendag bij Bataviawerf",
+        "link": "https://radiolelystad.nl/cultuurfonds-investeert-925-000-in-erfgoed-en-opening-monumentendag-bij-bataviawerf",
+        "published": "donderdag 03 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Budget lening voor starters is op, politiek gevraagd om extra budget",
+        "link": "https://radiolelystad.nl/potje-voor-de-starterslening-is-leeg-gemeenteraad-gevraagd-om-extra-budget",
+        "published": "donderdag 03 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Sluiting garage De Waag voor aanleggen nieuwe hellingbaan is onontkoombaar",
+        "link": "https://radiolelystad.nl/sluiting-garage-de-waag-voor-aanleggen-nieuwe-hellingbaan-is-onontkoombaar",
+        "published": "woensdag 02 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Echtpaar Trudy en Ted Warren zijn 70 jaar getrouwd, onderdeel van een selecte groep",
+        "link": "https://radiolelystad.nl/echtpaar-trudy-en-ted-warren-zijn-70-jaar-getrouwd-en-nu-onderdeel-van-een-selecte-groep",
+        "published": "woensdag 02 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week: Zombie apocalypse (Miss Fly)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-zombie-apocalypse-miss-fly",
+        "published": "woensdag 02 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Batterij in Dronten in gebruik genomen voor opslag elektriciteit uit windmolens",
+        "link": "https://radiolelystad.nl/enorme-batterij-in-gebruik-genomen-in-buitengebied-dronten-voor-opslag-elektriciteit-uit-windmolens",
+        "published": "dinsdag 01 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "300 deelnemers trotseren regen en modder tijdens de BedrijvenMudRun",
+        "link": "https://radiolelystad.nl/300-deelnemers-trotseren-regen-en-modder-tijdens-de-bedrijvenmudrun",
+        "published": "dinsdag 01 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Radio Lelystad icoon Will de Vries overleden",
+        "link": "https://radiolelystad.nl/radio-lelystad-icoon-will-de-vries-overleden",
+        "published": "dinsdag 01 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Politie deelt informatie over gevonden dode man in Roggebotsebos Dronten",
+        "link": "https://radiolelystad.nl/politie-deelt-informatie-over-gevonden-dode-man-in-roggebotsebos-dronten",
+        "published": "dinsdag 01 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Twee weken kans op geluidshinder in Flevoland wegens oefening van Defensie",
+        "link": "https://radiolelystad.nl/kans-op-geluidshinder-in-flevoland-wegens-oefening-van-defensie",
+        "published": "maandag 31 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Samen wandelen voor mensen met kanker, tijdens de Kompassieloop 2026",
+        "link": "https://radiolelystad.nl/samen-wandelen-voor-mensen-met-kanker-tijdens-de-kompassieloop-2026",
+        "published": "maandag 31 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Drie doden bij zwaar ongeval op dijk tussen Lelystad en Enkhuizen (update)",
+        "link": "https://radiolelystad.nl/drie-doden-bij-zwaar-ongeval-op-dijk-tussen-lelystad-en-enkhuizen",
+        "published": "zondag 30 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Oogstdag 2026, 'doe het lekker zelf!' (video)",
+        "link": "https://radiolelystad.nl/oogstdag-2026-doe-het-lekker-zelf-video",
+        "published": "zaterdag 29 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Uitgast viert jubileum twee dagen met vaste bezoekers en bewoners van Natuurpark",
+        "link": "https://radiolelystad.nl/uitgast-viert-jubileum-met-twee-volle-dagen-en-haar-vaste-bezoekers-en-bewoners-van-natuurpark-lelystad",
+        "published": "zaterdag 29 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Rolstoelvriendelijke wandelroute geopend op het landje van Pelgrim",
+        "link": "https://radiolelystad.nl/rolstoelvriendelijke-wandelroute-geopend-op-het-landje-van-pelgrim",
+        "published": "zaterdag 29 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Verkeersbezwaren tegen locatie circulair ambachtscentrum aan Vaartweg niet nodig",
+        "link": "https://radiolelystad.nl/geen-verkeerskundige-bezwaren-tegen-locatie-circulair-ambachtscentrum-aan-vaartweg",
+        "published": "vrijdag 28 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Houtribdijk gaat in het najaar dicht voor zwaar verkeer wegens schade aan de brug",
+        "link": "https://radiolelystad.nl/houtribdijk-gaat-in-het-najaar-dicht-voor-zwaar-vrachtverkeer",
+        "published": "vrijdag 28 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Eerste droogtemaatregel ingetrokken, maar Flevoland blijft droog",
+        "link": "https://radiolelystad.nl/eerste-droogtemaatregel-ingetrokken-maar-flevoland-blijft-droog",
+        "published": "vrijdag 28 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "WIJ FLEVOLAND brengt verhalen achter onze voedselketen naar het theater",
+        "link": "https://radiolelystad.nl/wij-flevoland-brengt-verhalen-achter-flevolandse-voedselketen-naar-het-theater",
+        "published": "vrijdag 28 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Eerste twaalf verenigingen ontvangen keurmerk ‘Verantwoord Sporten & Bewegen’",
+        "link": "https://radiolelystad.nl/eerste-twaalf-verenigingen-ontvangen-keurmerk-verantwoord-sporten-bewegen",
+        "published": "donderdag 27 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Stichtse brug (A27) richting Flevoland dicht van vrijdagavond tot maandagochtend",
+        "link": "https://radiolelystad.nl/stichtse-brug-a27-richting-flevoland-dicht-van-vrijdagavond-tot-maandagochtend",
+        "published": "donderdag 27 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Partijen willen vrijheid college bij aankopen woningbouwversnelling inperken",
+        "link": "https://radiolelystad.nl/partijen-willen-speelruimte-college-bij-aankopen-voor-woningbouwversnelling-inperken",
+        "published": "woensdag 26 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente wil eerste recht van aankoop bij eventuele verkoop Leonardo Hotel",
+        "link": "https://radiolelystad.nl/gemeente-wil-eerste-recht-van-aankoop-bij-eventuele-verkoop-leonardo-hotel",
+        "published": "woensdag 26 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "De Batavia komt aan land, maar doet eerst een retourtje Amsterdam",
+        "link": "https://radiolelystad.nl/de-batavia-komt-aan-land-na-een-retourtje-amsterdam",
+        "published": "woensdag 26 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week: Well of wonder (Marijn Brandsen)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-well-of-wonder-marijn-brandsen",
+        "published": "woensdag 26 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Mensen met hoger gezondheidsrisico kunnen dit najaar een coronaprik halen",
+        "link": "https://radiolelystad.nl/mensen-met-een-hoger-gezondheidsrisico-kunnen-dit-najaar-een-coronaprik-halen",
+        "published": "woensdag 26 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "21e Nationale Stadsdichtersdag start op 5 september met aftrap in het stadhuis",
+        "link": "https://radiolelystad.nl/21e-nationale-stadsdichtersdag-start-op-5-september-met-aftrap-in-het-stadhuis",
+        "published": "dinsdag 25 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Grundel begint schooljaar met 'High Five' dat beweging en verkeersveiligheid stimuleert",
+        "link": "https://radiolelystad.nl/obs-de-grundel-begint-schooljaar-met-high-five-programma-dat-beweging-en-verkeersveiligheid-stimuleert",
+        "published": "dinsdag 25 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente, organisatie en hulpdiensten kijken tevreden terug op Lowlands",
+        "link": "https://radiolelystad.nl/gemeente-organisatie-en-hulpdiensten-kijken-tevreden-terug-op-lowlands",
+        "published": "maandag 24 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Aviodrome heeft Douglas DC-3 Dakota na 16 jaar terug in de collectie",
+        "link": "https://radiolelystad.nl/aviodrome-heeft-douglas-dc-3-dakota-na-16-jaar-terug-in-de-collectie",
+        "published": "zondag 23 augustus 2026",
+        "summary": ""
+      },
+      {
+        "title": "Hospice ’t Hofje breidt zorg uit en zoekt nieuwe naam, Flevolanders mogen meedenken",
+        "link": "https://radiolelystad.nl/hospice-t-hofje-breidt-zorg-uit-en-zoekt-nieuwe-naam-flevolanders-mogen-meedenken",
+        "published": "zondag 23 augustus 2026",
+        "summary": ""
+      }
+    ],
+    "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Nichtje tegen oom (40) uit Emmeloord: 'Je hebt me voor de rest van mijn leven beschadigd'",
+        "link": "https://www.omroepflevoland.nl/nieuws/523430/nichtje-tegen-oom-(40)-uit-emmeloord:-'je-hebt-me-voor-de-rest-van-mijn-leven-beschadigd'",
+        "published": "Fri, 11 Sep 2026 13:57:09 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Bouw herdenkingsplek valt bijna 2,5 ton duurder uit",
+        "link": "https://www.omroepflevoland.nl/nieuws/523306/bouw-herdenkingsplek-valt-bijna-25-ton-duurder-uit",
+        "published": "Fri, 11 Sep 2026 06:40:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Tiener uit Lelystad opgepakt nadat hij bankpas gebruikte van slachtoffer nepagent",
+        "link": "https://www.omroepflevoland.nl/nieuws/523344/tiener-uit-lelystad-opgepakt-nadat-hij-bankpas-gebruikte-van-slachtoffer-nepagent",
+        "published": "Thu, 10 Sep 2026 20:02:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 10/09 | Dronten moddert niet aan • Netl-broers blijven strijdbaar",
+        "link": "https://www.omroepflevoland.nl/nieuws/523258/nieuwsoverzicht-1009-or-dronten-moddert-niet-aan-*-netl-broers-blijven-strijdbaar",
+        "published": "Thu, 10 Sep 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Gevlucht lid van Kempenaargroep opgepakt in Spanje, man knipte enkelband door",
+        "link": "https://www.omroepflevoland.nl/nieuws/523320/gevlucht-lid-van-kempenaargroep-opgepakt-in-spanje-man-knipte-enkelband-door",
+        "published": "Thu, 10 Sep 2026 16:48:58 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Geen treinen tussen Almere Centrum en Oostvaarders door aanrijding",
+        "link": "https://www.omroepflevoland.nl/nieuws/523311/geen-treinen-tussen-almere-centrum-en-oostvaarders-door-aanrijding",
+        "published": "Thu, 10 Sep 2026 15:51:38 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Celstraf en beroepsverbod voor masseur (36) die vrouwen aanrandde en verkrachtte",
+        "link": "https://www.omroepflevoland.nl/nieuws/523261/celstraf-en-beroepsverbod-voor-masseur-(36)-die-vrouwen-aanrandde-en-verkrachtte",
+        "published": "Thu, 10 Sep 2026 13:56:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Lelystad Airport krijgt mogelijk mbo-campus pal naast terminal",
+        "link": "https://www.omroepflevoland.nl/nieuws/523176/lelystad-airport-krijgt-mogelijk-mbo-campus-pal-naast-terminal",
+        "published": "Thu, 10 Sep 2026 10:43:30 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad -  Van schoolbank naar vertrekhal: Lelystad Airport wordt leerplek voor mbo'ers",
+        "link": "https://www.omroepflevoland.nl/nieuws/523176/van-schoolbank-naar-vertrekhal:-lelystad-airport-wordt-leerplek-voor-mbo'ers",
+        "published": "Thu, 10 Sep 2026 10:43:30 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Afvalzorg wordt ongeduldig en wil sneller standpunt van Lelystad over uitbreiding vuilstort",
+        "link": "https://www.omroepflevoland.nl/nieuws/523200/afvalzorg-wordt-ongeduldig-en-wil-sneller-standpunt-van-lelystad-over-uitbreiding-vuilstort",
+        "published": "Thu, 10 Sep 2026 09:51:25 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Zeewolde - Vacature wethouder Zeewolde levert 71 reacties op, sollicitatiecommissie verrast en trots",
+        "link": "https://www.omroepflevoland.nl/nieuws/523205/vacature-wethouder-zeewolde-levert-71-reacties-op-sollicitatiecommissie-verrast-en-trots",
+        "published": "Thu, 10 Sep 2026 06:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - A28 weer open voor het verkeer, herstelwerkzaamheden brug bij Nijkerk sneller klaar dan gedacht",
+        "link": "https://www.omroepflevoland.nl/nieuws/523219/a28-weer-open-voor-het-verkeer-herstelwerkzaamheden-brug-bij-nijkerk-sneller-klaar-dan-gedacht",
+        "published": "Wed, 09 Sep 2026 20:49:44 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - A28 rond middernacht weer open voor het verkeer, herstelwerkzaamheden brug bij Nijkerk sneller klaar dan gedacht",
+        "link": "https://www.omroepflevoland.nl/nieuws/523219/a28-rond-middernacht-weer-open-voor-het-verkeer-herstelwerkzaamheden-brug-bij-nijkerk-sneller-klaar-dan-gedacht",
+        "published": "Wed, 09 Sep 2026 20:49:44 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 09/09 | Openbaar vervoer plat • Nautilus College weer open",
+        "link": "https://www.omroepflevoland.nl/nieuws/523182/nieuwsoverzicht-0909-or-openbaar-vervoer-plat-*-nautilus-college-weer-open",
+        "published": "Wed, 09 Sep 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 09/09 | Openbaar vervoer lag plat • Nautilus College weer open",
+        "link": "https://www.omroepflevoland.nl/nieuws/523182/nieuwsoverzicht-0909-or-openbaar-vervoer-lag-plat-*-nautilus-college-weer-open",
+        "published": "Wed, 09 Sep 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Waterschap brengt beverburchten in kaart met een drone, 'Schade willen we vermijden'",
+        "link": "https://www.omroepflevoland.nl/nieuws/523153/waterschap-brengt-beverburchten-in-kaart-met-een-drone-'schade-willen-we-vermijden'",
+        "published": "Wed, 09 Sep 2026 17:22:52 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Fietspad Gelderse Diep moet met voorrang betere verlichting krijgen",
+        "link": "https://www.omroepflevoland.nl/nieuws/523129/fietspad-gelderse-diep-moet-met-voorrang-betere-verlichting-krijgen",
+        "published": "Wed, 09 Sep 2026 14:44:39 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Raad trekt grens bij bouwen in de parken",
+        "link": "https://www.omroepflevoland.nl/nieuws/523086/raad-trekt-grens-bij-bouwen-in-de-parken",
+        "published": "Wed, 09 Sep 2026 14:44:02 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Nachtcultuur Lelystad kan wel oppepper gebruiken, 30.000 euro voor onderzoek",
+        "link": "https://www.omroepflevoland.nl/nieuws/523085/nachtcultuur-lelystad-kan-wel-oppepper-gebruiken-30.000-euro-voor-onderzoek",
+        "published": "Wed, 09 Sep 2026 11:34:29 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Landelijke ov-staking legt vandaag trein- en busverkeer plat, deel EBS-chauffeurs rijdt wel",
+        "link": "https://www.omroepflevoland.nl/nieuws/523087/landelijke-ov-staking-legt-vandaag-trein-en-busverkeer-plat-deel-ebs-chauffeurs-rijdt-wel",
+        "published": "Wed, 09 Sep 2026 06:00:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 08/09 | A28 donderdagavond weer open • 'Onveilige situatie' op middelbare school",
+        "link": "https://www.omroepflevoland.nl/nieuws/523033/nieuwsoverzicht-0809-or-a28-donderdagavond-weer-open-*-'onveilige-situatie'-op-middelbare-school",
+        "published": "Tue, 08 Sep 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Voetbaltalent Oldenstam uit Lelystad naar Jong PSV",
+        "link": "https://www.omroepflevoland.nl/sport/523000/voetbaltalent-oldenstam-uit-lelystad-naar-jong-psv",
+        "published": "Tue, 08 Sep 2026 10:18:58 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Voetbaltalent Lyfe Oldenstam verruilt Ajax voor PSV",
+        "link": "https://www.omroepflevoland.nl/sport/523000/voetbaltalent-lyfe-oldenstam-verruilt-ajax-voor-psv",
+        "published": "Tue, 08 Sep 2026 10:18:58 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Maat is nu echt vol: 'drugsverslaafde' huurder van Centrada moet zijn koffers pakken",
+        "link": "https://www.omroepflevoland.nl/nieuws/522948/maat-is-nu-echt-vol:-'drugsverslaafde'-huurder-van-centrada-moet-zijn-koffers-pakken",
+        "published": "Mon, 07 Sep 2026 19:44:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht van 07/09 | 'Sloop Kasteel Almere' • A28 bij Nijkerk dicht na inspectie brug",
+        "link": "https://www.omroepflevoland.nl/nieuws/522946/nieuwsoverzicht-van-0709-or-'sloop-kasteel-almere'-*-a28-bij-nijkerk-dicht-na-inspectie-brug",
+        "published": "Mon, 07 Sep 2026 18:50:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Motorrijder per boot op de vlucht na botsing in Lelystad Haven",
+        "link": "https://www.omroepflevoland.nl/nieuws/522918/motorrijder-per-boot-op-de-vlucht-na-botsing-in-lelystad-haven",
+        "published": "Mon, 07 Sep 2026 16:59:18 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Land Art Flevoland wil monumentale status voor Observatorium",
+        "link": "https://www.omroepflevoland.nl/nieuws/522569/land-art-flevoland-wil-monumentale-status-voor-observatorium",
+        "published": "Mon, 07 Sep 2026 06:19:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Flevo Countrydansers eren overleden Dolly Parton tijdens eerste lesavond",
+        "link": "https://www.omroepflevoland.nl/nieuws/522460/flevo-countrydansers-eren-overleden-dolly-parton-tijdens-eerste-lesavond",
+        "published": "Sun, 06 Sep 2026 14:01:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Praktische pruimenboom prijst prachtige provincie",
+        "link": "https://www.omroepflevoland.nl/nieuws/522718/praktische-pruimenboom-prijst-prachtige-provincie",
+        "published": "Sat, 05 Sep 2026 16:20:25 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Minderjarig duo opgepakt na toename diefstal op station Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/522381/minderjarig-duo-opgepakt-na-toename-diefstal-op-station-lelystad",
+        "published": "Sat, 05 Sep 2026 09:53:58 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Landelijke Open Monumentendag krijgt een 'grandioze opening' in Flevoland: 'trots op onze monumenten'",
+        "link": "https://www.omroepflevoland.nl/nieuws/522557/landelijke-open-monumentendag-krijgt-een-'grandioze-opening'-in-flevoland:-'trots-op-onze-monumenten'",
+        "published": "Sat, 05 Sep 2026 08:01:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Noordoostpolder - Derde Flevolandse gemeente komt in actie voor ruimte op het stroomnet",
+        "link": "https://www.omroepflevoland.nl/nieuws/522600/derde-flevolandse-gemeente-komt-in-actie-voor-ruimte-op-het-stroomnet",
+        "published": "Fri, 04 Sep 2026 20:15:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 04/09 | Crowdfunding voor verongelukte tieners • Brandweer doelwit van inbraak",
+        "link": "https://www.omroepflevoland.nl/nieuws/522621/nieuwsoverzicht-0409-or-crowdfunding-voor-verongelukte-tieners-*-brandweer-doelwit-van-inbraak",
+        "published": "Fri, 04 Sep 2026 17:59:55 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Overijsselseweg volgende week dicht voor filmopnames met Renée Soutendijk",
+        "link": "https://www.omroepflevoland.nl/nieuws/522603/overijsselseweg-volgende-week-dicht-voor-filmopnames-met-renee-soutendijk",
+        "published": "Fri, 04 Sep 2026 16:15:44 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Almeerder vuurde 28 kogels af op flat in Utrecht; OM spreekt van 'een oorlogssituatie'",
+        "link": "https://www.omroepflevoland.nl/nieuws/522602/almeerder-vuurde-28-kogels-af-op-flat-in-utrecht-om-spreekt-van-'een-oorlogssituatie'",
+        "published": "Fri, 04 Sep 2026 15:21:20 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - 'Problemen met Houtribbruggen al jaren bekend bij Rijkswaterstaat'",
+        "link": "https://www.omroepflevoland.nl/nieuws/522571/'problemen-met-houtribbruggen-al-jaren-bekend-bij-rijkswaterstaat'",
+        "published": "Fri, 04 Sep 2026 12:51:15 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - 'Rijkswaterstaat weet al jaren van problemen met Houtribbruggen'",
+        "link": "https://www.omroepflevoland.nl/nieuws/522571/'rijkswaterstaat-weet-al-jaren-van-problemen-met-houtribbruggen'",
+        "published": "Fri, 04 Sep 2026 12:51:15 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Wegens groot succes stopt Lelystad nog eens 10 miljoen in pot startersleningen",
+        "link": "https://www.omroepflevoland.nl/nieuws/522564/wegens-groot-succes-stopt-lelystad-nog-eens-10-miljoen-in-pot-startersleningen",
+        "published": "Fri, 04 Sep 2026 11:03:29 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Hotel in Almere schrikt van verhoging toeristenbelasting en schrijft brandbrief aan politiek",
+        "link": "https://www.omroepflevoland.nl/nieuws/522497/hotel-in-almere-schrikt-van-verhoging-toeristenbelasting-en-schrijft-brandbrief-aan-politiek",
+        "published": "Fri, 04 Sep 2026 07:33:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Boerderij Saalland in Lelystad decor voor theatrale viering veertig jaar Flevoland",
+        "link": "https://www.omroepflevoland.nl/nieuws/522080/boerderij-saalland-in-lelystad-decor-voor-theatrale-viering-veertig-jaar-flevoland",
+        "published": "Fri, 04 Sep 2026 06:44:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - 25 jaar Batavia Stad: miljoenen bezoekers, maar weinig winst voor het stadshart",
+        "link": "https://www.omroepflevoland.nl/nieuws/522212/25-jaar-batavia-stad:-miljoenen-bezoekers-maar-weinig-winst-voor-het-stadshart",
+        "published": "Thu, 03 Sep 2026 19:44:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 03/09 | 25 jaar Batavia Stad • Breuk SP Almere",
+        "link": "https://www.omroepflevoland.nl/nieuws/522489/nieuwsoverzicht-0309-or-25-jaar-batavia-stad-*-breuk-sp-almere",
+        "published": "Thu, 03 Sep 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Feestje in Batavia Stad vanwege jubileum: 25 jaar outletwinkels aan de kust",
+        "link": "https://www.omroepflevoland.nl/nieuws/522486/feestje-in-batavia-stad-vanwege-jubileum:-25-jaar-outletwinkels-aan-de-kust",
+        "published": "Thu, 03 Sep 2026 17:55:09 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Oldtimerdag Lelystad staat op de tocht: 'Nieuwe vrijwilligers nodig om evenement te behouden'",
+        "link": "https://www.omroepflevoland.nl/nieuws/522443/oldtimerdag-lelystad-staat-op-de-tocht:-'nieuwe-vrijwilligers-nodig-om-evenement-te-behouden'",
+        "published": "Thu, 03 Sep 2026 16:39:57 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Almeerse SP-fractie breekt met landelijke partij en gaat verder als Hart voor Almere",
+        "link": "https://www.omroepflevoland.nl/nieuws/522469/almeerse-sp-fractie-breekt-met-landelijke-partij-en-gaat-verder-als-hart-voor-almere",
+        "published": "Thu, 03 Sep 2026 16:19:45 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Polderklei, pioniers en piepers: theatergroep Suburbia zoekt de ziel van Flevoland op de akker",
+        "link": "https://www.omroepflevoland.nl/nieuws/522077/polderklei-pioniers-en-piepers:-theatergroep-suburbia-zoekt-de-ziel-van-flevoland-op-de-akker",
+        "published": "Thu, 03 Sep 2026 07:33:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Verdachte van schietpartij bij supermarkt wil cel uit: 'Ik heb dat pistool niet in handen gehad'",
+        "link": "https://www.omroepflevoland.nl/nieuws/522359/verdachte-van-schietpartij-bij-supermarkt-wil-cel-uit:-'ik-heb-dat-pistool-niet-in-handen-gehad'",
+        "published": "Wed, 02 Sep 2026 21:11:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Nieuwsoverzicht 02/09 | 'Ongeluk onder invloed van cocaïne' • Nieuw onderzoek Burcht van Kuinre",
+        "link": "https://www.omroepflevoland.nl/nieuws/522346/nieuwsoverzicht-0209-or-'ongeluk-onder-invloed-van-cocaine'-*-nieuw-onderzoek-burcht-van-kuinre",
+        "published": "Wed, 02 Sep 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Zijn vriendin heeft spijt van haar aangifte, maar toch krijgt Harry uit Lelystad tbs voor bedreiging en geweld",
+        "link": "https://www.omroepflevoland.nl/nieuws/522334/zijn-vriendin-heeft-spijt-van-haar-aangifte-maar-toch-krijgt-harry-uit-lelystad-tbs-voor-bedreiging-en-geweld",
+        "published": "Wed, 02 Sep 2026 15:56:27 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Justitie: 'Vrouw reed onder invloed van cocaïne in op file Oostvaardersdijk'",
+        "link": "https://www.omroepflevoland.nl/nieuws/522328/justitie:-'vrouw-reed-onder-invloed-van-cocaine-in-op-file-oostvaardersdijk'",
+        "published": "Wed, 02 Sep 2026 15:28:34 GMT+0200",
         "summary": ""
       }
     ]

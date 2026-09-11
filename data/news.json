@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T23:00:42.361476+00:00",
+  "updated": "2026-09-11T00:01:04.556397+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -300,6 +300,14 @@
         "title": "Lelystad - Automobilist gewond bij botsing op boom in  Leystad",
         "link": "https://www.omroepflevoland.nl/nieuws/522308/automobilist-gewond-bij-botsing-op-boom-in-leystad",
         "published": "Wed, 02 Sep 2026 12:13:38 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
+        "link": "https://nos.nl/l/2630351",
+        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
         "summary": ""
       }
     ],
@@ -605,6 +613,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "In Lelystad vlieg je honderd jaar terug de tijd in — ver voordat er iets van vliegschaamte bestond",
@@ -906,15 +915,6 @@
         "published": "Thu, 27 Aug 2026 17:07:00 GMT",
         "summary": ""
       }
-    ],
-    "NOS": [
-      {
-        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
-        "link": "https://nos.nl/l/2630351",
-        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

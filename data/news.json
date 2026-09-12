@@ -1,7 +1,322 @@
 {
-  "updated": "2026-09-12T13:00:29.815099+00:00",
+  "updated": "2026-09-12T14:00:50.133362+00:00",
   "sources": {
+    "Nu.nl": [],
+    "De Stentor": [
+      {
+        "title": "Schoolleider ziet zijn net opgeknapte basisschool in Lelystad branden: ‘Niet alweer, dacht ik’",
+        "link": "https://www.destentor.nl/lelystad/schoolleider-ziet-zijn-net-opgeknapte-basisschool-in-lelystad-branden-niet-alweer-dacht-ik~a76bebb6/",
+        "published": "Sat, 12 Sep 2026 12:24:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Schoolleider Ernst ziet via een videogesprek hoe vlammen uit zijn school in Lelystad slaan",
+        "link": "https://www.destentor.nl/lelystad/schoolleider-ernst-ziet-via-een-videogesprek-hoe-vlammen-uit-zijn-school-in-lelystad-slaan~a76bebb6/",
+        "published": "Sat, 12 Sep 2026 12:24:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "In Lelystad vlieg je honderd jaar terug de tijd in — ver voordat er iets van vliegschaamte bestond",
+        "link": "https://www.destentor.nl/lelystad/in-lelystad-vlieg-je-honderd-jaar-terug-de-tijd-in-ver-voordat-er-iets-van-vliegschaamte-bestond~a76cf05e7/",
+        "published": "Thu, 10 Sep 2026 17:00:11 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Vermeende leider Kempenaarbende knipte zijn enkelband door, maar is nu aangehouden in Spanje",
+        "link": "https://www.destentor.nl/lelystad/vermeende-leider-kempenaarbende-knipte-zijn-enkelband-door-maar-is-nu-aangehouden-in-spanje~a7b4bef8/",
+        "published": "Thu, 10 Sep 2026 16:46:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Vermeende bendeleider die zijn enkelband doorknipte zit nu vast in Spanje",
+        "link": "https://www.destentor.nl/lelystad/vermeende-bendeleider-die-zijn-enkelband-doorknipte-zit-nu-vast-in-spanje~a7b4bef8/",
+        "published": "Thu, 10 Sep 2026 16:46:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Minder mensen in Lelystad zijn lid van de bibliotheek dan een paar jaar geleden",
+        "link": "https://www.destentor.nl/lelystad/minder-mensen-in-lelystad-zijn-lid-van-de-bibliotheek-dan-een-paar-jaar-geleden~ad12a454/",
+        "published": "Thu, 10 Sep 2026 15:30:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Steeds meer mensen in Lelystad worden lid van de bibliotheek",
+        "link": "https://www.destentor.nl/lelystad/steeds-meer-mensen-in-lelystad-worden-lid-van-de-bibliotheek~ad12a454/",
+        "published": "Thu, 10 Sep 2026 15:30:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Steeds minder mensen in Lelystad zijn lid van de bibliotheek",
+        "link": "https://www.destentor.nl/lelystad/steeds-minder-mensen-in-lelystad-zijn-lid-van-de-bibliotheek~ad12a454/",
+        "published": "Thu, 10 Sep 2026 15:30:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "De bibliotheek in Lelystad verliest leden",
+        "link": "https://www.destentor.nl/lelystad/de-bibliotheek-in-lelystad-verliest-leden~ad12a454/",
+        "published": "Thu, 10 Sep 2026 15:30:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Nieuwe brug bij Lelystad verbindt stad met natuur, maar moet dat in de winter?",
+        "link": "https://www.destentor.nl/lelystad/nieuwe-brug-bij-lelystad-verbindt-stad-met-natuur-maar-moet-dat-in-de-winter~a7f0f7f3/",
+        "published": "Thu, 10 Sep 2026 10:01:01 GMT",
+        "summary": ""
+      },
+      {
+        "title": "KIJK | Deze provinciale weg transformeerde twee dagen tot filmset",
+        "link": "https://www.destentor.nl/dronten/kijk-deze-provinciale-weg-transformeerde-twee-dagen-tot-filmset~af2ce549/",
+        "published": "Wed, 09 Sep 2026 17:30:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Afgelopen week 35 meldingen van de gemeente over onder meer bouw in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/afgelopen-week-35-meldingen-van-de-gemeente-over-onder-meer-bouw-in-lelystad~a122e503/",
+        "published": "Wed, 09 Sep 2026 09:01:31 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente Lelystad relatief weinig kwijt aan gemiddelde WMO-gebruiker",
+        "link": "https://www.destentor.nl/lelystad/gemeente-lelystad-relatief-weinig-kwijt-aan-gemiddelde-wmo-gebruiker~aa87d5ab/",
+        "published": "Wed, 09 Sep 2026 04:05:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Motorrijder crasht in Lelystad, springt op bootje en verdwijnt",
+        "link": "https://www.destentor.nl/lelystad/motorrijder-crasht-in-lelystad-springt-op-bootje-en-verdwijnt~a92b726b0/",
+        "published": "Tue, 08 Sep 2026 14:16:50 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Na harde crash in Lelystad is motorrijder ineens weg: getuigen zien hem op bootje stappen",
+        "link": "https://www.destentor.nl/lelystad/na-harde-crash-in-lelystad-is-motorrijder-ineens-weg-getuigen-zien-hem-op-bootje-stappen~a92b726b0/",
+        "published": "Tue, 08 Sep 2026 14:16:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Pot voor startersleningen Lelystad na half jaar leeg, college wil er 10 miljoen euro bij",
+        "link": "https://www.destentor.nl/lelystad/pot-voor-startersleningen-lelystad-na-half-jaar-leeg-college-wil-er-10-miljoen-euro-bij~a05eea7c/",
+        "published": "Tue, 08 Sep 2026 14:08:17 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Grootschalige stroomstoring in Almere en Lelystad opgelost",
+        "link": "https://www.destentor.nl/almere/grootschalige-stroomstoring-in-almere-en-lelystad-opgelost~a4b320d2/",
+        "published": "Mon, 07 Sep 2026 23:15:56 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Grote zaak rond uitbuiting Thaise vrouwen: OM noemt Emmeloord en Lelystad",
+        "link": "https://www.destentor.nl/noordoostpolder/grote-zaak-rond-uitbuiting-thaise-vrouwen-om-noemt-emmeloord-en-lelystad~a7428a66/",
+        "published": "Mon, 07 Sep 2026 18:30:17 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Grootschalige stroomstoring in Almere, Lelystad en Zeewolde opgelost",
+        "link": "https://www.destentor.nl/almere/grootschalige-stroomstoring-in-almere-lelystad-en-zeewolde-opgelost~aa2fa1bee/",
+        "published": "Mon, 07 Sep 2026 17:33:28 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Stroomstoring in Almere, Lelystad en Zeewolde aan de gang",
+        "link": "https://www.destentor.nl/almere/stroomstoring-in-almere-lelystad-en-zeewolde-aan-de-gang~aa2fa1bee/",
+        "published": "Mon, 07 Sep 2026 17:33:28 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Stroomstoring in Almere, Lelystad en Zeewolde opgelost",
+        "link": "https://www.destentor.nl/almere/stroomstoring-in-almere-lelystad-en-zeewolde-opgelost~aa2fa1bee/",
+        "published": "Mon, 07 Sep 2026 17:33:28 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Erwin regelt de laatste reis van drie omgekomen jongens: ‘Wakker gelegen van de reacties online’",
+        "link": "https://www.destentor.nl/dronten/erwin-regelt-de-laatste-reis-van-drie-omgekomen-jongens-wakker-gelegen-van-de-reacties-online~a6992dd5/",
+        "published": "Mon, 07 Sep 2026 14:41:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Onderzoeker Ania woelt in de grond en haalt aardappelen boven die de landbouw kunnen omgooien",
+        "link": "https://www.destentor.nl/lelystad/onderzoeker-ania-woelt-in-de-grond-en-haalt-aardappelen-boven-die-de-landbouw-kunnen-omgooien~a0992342/",
+        "published": "Mon, 07 Sep 2026 04:00:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Heb jij Pepper, Diva of Poesje gezien? Deze drie huisdieren worden in Lelystad vermist",
+        "link": "https://www.destentor.nl/lelystad/heb-jij-pepper-diva-of-poesje-gezien-deze-drie-huisdieren-worden-in-lelystad-vermist~ac9aa24e/",
+        "published": "Sun, 06 Sep 2026 09:12:25 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Weg tussen Dronten en Lelystad gaat dicht voor opnames speelfilm ‘Happy Days’",
+        "link": "https://www.destentor.nl/dronten/weg-tussen-dronten-en-lelystad-gaat-dicht-voor-opnames-speelfilm-happy-days~a9baddce/",
+        "published": "Fri, 04 Sep 2026 16:45:07 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Jouw volgende Jysk-stoel komt hier vandaan: kijkje in gloednieuw megamagazijn waar bijna alles automatisch gaat",
+        "link": "https://www.destentor.nl/lelystad/jouw-volgende-jysk-stoel-komt-hier-vandaan-kijkje-in-gloednieuw-megamagazijn-waar-bijna-alles-automatisch-gaat~a50c84e9/",
+        "published": "Fri, 04 Sep 2026 10:00:56 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Tekort aan vmbo'ers? In Lelystad doen juist meer leerlingen praktische opleiding",
+        "link": "https://www.destentor.nl/lelystad/tekort-aan-vmbo-ers-in-lelystad-doen-juist-meer-leerlingen-praktische-opleiding~ac59b036/",
+        "published": "Fri, 04 Sep 2026 04:02:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Harry (40) ging zó tekeer tegen zijn vriendin, dat hij nu tbs krijgt: ‘Ik roep te snel dingen’",
+        "link": "https://www.destentor.nl/lelystad/harry-40-ging-zo-tekeer-tegen-zijn-vriendin-dat-hij-nu-tbs-krijgt-ik-roep-te-snel-dingen~a0dd9fdc/",
+        "published": "Thu, 03 Sep 2026 19:00:21 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Gemiddeld gasverbruik inwoners Lelystad iets gedaald, maar deze woningen verstookten juist méér",
+        "link": "https://www.destentor.nl/lelystad/gemiddeld-gasverbruik-inwoners-lelystad-iets-gedaald-maar-deze-woningen-verstookten-juist-meer~a691980a/",
+        "published": "Thu, 03 Sep 2026 15:32:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Echtpaar Warren in Lelystad viert platina huwelijk",
+        "link": "https://www.destentor.nl/lelystad/echtpaar-warren-in-lelystad-viert-platina-huwelijk~a3dc7ef4/",
+        "published": "Thu, 03 Sep 2026 15:00:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Oud-bestuurder Satudarah werkte als beveiliger op Schiphol, nu wil hij die toestemming terug",
+        "link": "https://www.destentor.nl/binnenland/oud-bestuurder-satudarah-werkte-als-beveiliger-op-schiphol-nu-wil-hij-die-toestemming-terug~af0ed553/",
+        "published": "Thu, 03 Sep 2026 04:00:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Oud-leider Satudarah werkte als beveiliger op Schiphol, nu wil hij die toestemming terug",
+        "link": "https://www.destentor.nl/binnenland/oud-leider-satudarah-werkte-als-beveiliger-op-schiphol-nu-wil-hij-die-toestemming-terug~af0ed553/",
+        "published": "Thu, 03 Sep 2026 04:00:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Vier vrouwen onder vuur in Lelystad, verdachte ontkent: ‘Ik ben er nooit geweest’",
+        "link": "https://www.destentor.nl/lelystad/vier-vrouwen-onder-vuur-in-lelystad-verdachte-ontkent-ik-ben-er-nooit-geweest~a1979de6/",
+        "published": "Wed, 02 Sep 2026 15:58:55 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Afgelopen week 27 meldingen van de gemeente over sloop en bomenkap in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/afgelopen-week-27-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-lelystad~a03d8001/",
+        "published": "Wed, 02 Sep 2026 09:01:38 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Ritje van 300 euro eindigt in explosie, maar chauffeur gaat vrijuit",
+        "link": "https://www.destentor.nl/lelystad/ritje-van-300-euro-eindigt-in-explosie-maar-chauffeur-gaat-vrijuit~a3da9641/",
+        "published": "Wed, 02 Sep 2026 08:53:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Aantal scheidingen daalt hard in Lelystad, zelfs harder dan landelijk",
+        "link": "https://www.destentor.nl/lelystad/aantal-scheidingen-daalt-hard-in-lelystad-zelfs-harder-dan-landelijk~a1b6bdcf/",
+        "published": "Wed, 02 Sep 2026 04:05:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Supermarkt rouwt om vakantiekracht Abel (17) na dodelijk ongeluk in Flevoland: ‘Heel treurig’",
+        "link": "https://www.destentor.nl/lelystad/supermarkt-rouwt-om-vakantiekracht-abel-17-na-dodelijk-ongeluk-in-flevoland-heel-treurig~aa985574/",
+        "published": "Tue, 01 Sep 2026 14:41:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Vakbond kaart situatie jeugdzorg Lelystad aan bij Arbeidsinspectie",
+        "link": "https://www.destentor.nl/lelystad/vakbond-kaart-situatie-jeugdzorg-lelystad-aan-bij-arbeidsinspectie~a89df24f/",
+        "published": "Tue, 01 Sep 2026 04:00:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Stroomstoring in Lelystad opgelost",
+        "link": "https://www.destentor.nl/lelystad/stroomstoring-in-lelystad-opgelost~ad7d49da/",
+        "published": "Mon, 31 Aug 2026 20:21:54 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Stroomstoring in Lelystad op dit moment",
+        "link": "https://www.destentor.nl/lelystad/stroomstoring-in-lelystad-op-dit-moment~ad7d49da/",
+        "published": "Mon, 31 Aug 2026 20:21:54 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Stroomstoring in Lelystad aan de gang",
+        "link": "https://www.destentor.nl/lelystad/stroomstoring-in-lelystad-aan-de-gang~ad7d49da/",
+        "published": "Mon, 31 Aug 2026 20:21:54 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Bij eerste editie cirkelden ooievaars boven podium, 25 jaar later houdt regen bezoekers Uitgast niet weg",
+        "link": "https://www.destentor.nl/lelystad/bij-eerste-editie-cirkelden-ooievaars-boven-podium-25-jaar-later-houdt-regen-bezoekers-uitgast-niet-weg~a317572e/",
+        "published": "Sun, 30 Aug 2026 17:00:34 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Drie tieners overleden bij ernstig ongeluk op de dijk tussen Lelystad en Enkhuizen",
+        "link": "https://www.destentor.nl/lelystad/drie-tieners-overleden-bij-ernstig-ongeluk-op-de-dijk-tussen-lelystad-en-enkhuizen~a4f39d83/",
+        "published": "Sun, 30 Aug 2026 14:08:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Heb jij Lulu, Stitch of Mimi gezien? Deze zeven huisdieren worden in Lelystad vermist",
+        "link": "https://www.destentor.nl/lelystad/heb-jij-lulu-stitch-of-mimi-gezien-deze-zeven-huisdieren-worden-in-lelystad-vermist~ae1c6616/",
+        "published": "Sun, 30 Aug 2026 09:12:41 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Zeker drie doden na ernstig ongeluk op dijk tussen Lelystad en Enkhuizen",
+        "link": "https://www.destentor.nl/lelystad/zeker-drie-doden-na-ernstig-ongeluk-op-dijk-tussen-lelystad-en-enkhuizen~a0d8aa4d/",
+        "published": "Sat, 29 Aug 2026 21:42:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Drie doden en vijf gewonden bij botsing op dijk tussen Lelystad en Enkhuizen",
+        "link": "https://www.destentor.nl/lelystad/drie-doden-en-vijf-gewonden-bij-botsing-op-dijk-tussen-lelystad-en-enkhuizen~a5ecd715/",
+        "published": "Sat, 29 Aug 2026 20:51:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Drie doden en vijf gewonden bij frontale botsing op dijk tussen Lelystad en Enkhuizen",
+        "link": "https://www.destentor.nl/binnenland/drie-doden-en-vijf-gewonden-bij-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen~a5ecd715/",
+        "published": "Sat, 29 Aug 2026 20:51:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Drie doden en vijf gewonden bij ernstig ongeluk op dijk tussen Lelystad en Enkhuizen",
+        "link": "https://www.destentor.nl/binnenland/drie-doden-en-vijf-gewonden-bij-ernstig-ongeluk-op-dijk-tussen-lelystad-en-enkhuizen~a5ecd715/",
+        "published": "Sat, 29 Aug 2026 20:51:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "LIVE | Drie doden en vijf gewonden bij ernstig ongeluk op dijk tussen Lelystad en Enkhuizen",
+        "link": "https://www.destentor.nl/binnenland/live-drie-doden-en-vijf-gewonden-bij-ernstig-ongeluk-op-dijk-tussen-lelystad-en-enkhuizen~a5ecd715/",
+        "published": "Sat, 29 Aug 2026 20:51:00 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Zoveelste zwakke brug dwingt 1.500 trucks tot omrijden: schade loopt op tot 120.000 euro per dag",
+        "link": "https://www.destentor.nl/lelystad/zoveelste-zwakke-brug-dwingt-1-500-trucks-tot-omrijden-schade-loopt-op-tot-120-000-euro-per-dag~afeb6195/",
+        "published": "Fri, 28 Aug 2026 18:30:00 GMT",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Politie zoekt getuigen na brandstichting bij school in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/523542/politie-zoekt-getuigen-na-brandstichting-bij-school-in-lelystad",
+        "published": "Sat, 12 Sep 2026 15:57:13 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Open Monumentendag landelijk geopend op de Bataviawerf in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/523541/open-monumentendag-landelijk-geopend-op-de-bataviawerf-in-lelystad",
+        "published": "Sat, 12 Sep 2026 15:15:27 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Lelystedelingen willen snel maatregelen voor fietsveiligheid, wijzen naar fatbikes",
         "link": "https://www.omroepflevoland.nl/nieuws/523403/lelystedelingen-willen-snel-maatregelen-voor-fietsveiligheid-wijzen-naar-fatbikes",
@@ -288,18 +603,6 @@
         "title": "Lelystad - Feestje in Batavia Stad vanwege jubileum: 25 jaar outletwinkels aan de kust",
         "link": "https://www.omroepflevoland.nl/nieuws/522486/feestje-in-batavia-stad-vanwege-jubileum:-25-jaar-outletwinkels-aan-de-kust",
         "published": "Thu, 03 Sep 2026 17:55:09 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Oldtimerdag Lelystad staat op de tocht: 'Nieuwe vrijwilligers nodig om evenement te behouden'",
-        "link": "https://www.omroepflevoland.nl/nieuws/522443/oldtimerdag-lelystad-staat-op-de-tocht:-'nieuwe-vrijwilligers-nodig-om-evenement-te-behouden'",
-        "published": "Thu, 03 Sep 2026 16:39:57 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Almeerse SP-fractie breekt met landelijke partij en gaat verder als Hart voor Almere",
-        "link": "https://www.omroepflevoland.nl/nieuws/522469/almeerse-sp-fractie-breekt-met-landelijke-partij-en-gaat-verder-als-hart-voor-almere",
-        "published": "Thu, 03 Sep 2026 16:19:45 GMT+0200",
         "summary": ""
       }
     ],
@@ -612,309 +915,6 @@
         "published": "Wed, 9 Sep 2026 18:35:48 +0200",
         "summary": ""
       }
-    ],
-    "De Stentor": [
-      {
-        "title": "Schoolleider Ernst ziet via een videogesprek hoe vlammen uit zijn school in Lelystad slaan",
-        "link": "https://www.destentor.nl/lelystad/schoolleider-ernst-ziet-via-een-videogesprek-hoe-vlammen-uit-zijn-school-in-lelystad-slaan~a76bebb6/",
-        "published": "Sat, 12 Sep 2026 12:24:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "In Lelystad vlieg je honderd jaar terug de tijd in — ver voordat er iets van vliegschaamte bestond",
-        "link": "https://www.destentor.nl/lelystad/in-lelystad-vlieg-je-honderd-jaar-terug-de-tijd-in-ver-voordat-er-iets-van-vliegschaamte-bestond~a76cf05e7/",
-        "published": "Thu, 10 Sep 2026 17:00:11 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Vermeende leider Kempenaarbende knipte zijn enkelband door, maar is nu aangehouden in Spanje",
-        "link": "https://www.destentor.nl/lelystad/vermeende-leider-kempenaarbende-knipte-zijn-enkelband-door-maar-is-nu-aangehouden-in-spanje~a7b4bef8/",
-        "published": "Thu, 10 Sep 2026 16:46:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Vermeende bendeleider die zijn enkelband doorknipte zit nu vast in Spanje",
-        "link": "https://www.destentor.nl/lelystad/vermeende-bendeleider-die-zijn-enkelband-doorknipte-zit-nu-vast-in-spanje~a7b4bef8/",
-        "published": "Thu, 10 Sep 2026 16:46:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Minder mensen in Lelystad zijn lid van de bibliotheek dan een paar jaar geleden",
-        "link": "https://www.destentor.nl/lelystad/minder-mensen-in-lelystad-zijn-lid-van-de-bibliotheek-dan-een-paar-jaar-geleden~ad12a454/",
-        "published": "Thu, 10 Sep 2026 15:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Steeds meer mensen in Lelystad worden lid van de bibliotheek",
-        "link": "https://www.destentor.nl/lelystad/steeds-meer-mensen-in-lelystad-worden-lid-van-de-bibliotheek~ad12a454/",
-        "published": "Thu, 10 Sep 2026 15:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Steeds minder mensen in Lelystad zijn lid van de bibliotheek",
-        "link": "https://www.destentor.nl/lelystad/steeds-minder-mensen-in-lelystad-zijn-lid-van-de-bibliotheek~ad12a454/",
-        "published": "Thu, 10 Sep 2026 15:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "De bibliotheek in Lelystad verliest leden",
-        "link": "https://www.destentor.nl/lelystad/de-bibliotheek-in-lelystad-verliest-leden~ad12a454/",
-        "published": "Thu, 10 Sep 2026 15:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Nieuwe brug bij Lelystad verbindt stad met natuur, maar moet dat in de winter?",
-        "link": "https://www.destentor.nl/lelystad/nieuwe-brug-bij-lelystad-verbindt-stad-met-natuur-maar-moet-dat-in-de-winter~a7f0f7f3/",
-        "published": "Thu, 10 Sep 2026 10:01:01 GMT",
-        "summary": ""
-      },
-      {
-        "title": "KIJK | Deze provinciale weg transformeerde twee dagen tot filmset",
-        "link": "https://www.destentor.nl/dronten/kijk-deze-provinciale-weg-transformeerde-twee-dagen-tot-filmset~af2ce549/",
-        "published": "Wed, 09 Sep 2026 17:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Afgelopen week 35 meldingen van de gemeente over onder meer bouw in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-35-meldingen-van-de-gemeente-over-onder-meer-bouw-in-lelystad~a122e503/",
-        "published": "Wed, 09 Sep 2026 09:01:31 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente Lelystad relatief weinig kwijt aan gemiddelde WMO-gebruiker",
-        "link": "https://www.destentor.nl/lelystad/gemeente-lelystad-relatief-weinig-kwijt-aan-gemiddelde-wmo-gebruiker~aa87d5ab/",
-        "published": "Wed, 09 Sep 2026 04:05:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Motorrijder crasht in Lelystad, springt op bootje en verdwijnt",
-        "link": "https://www.destentor.nl/lelystad/motorrijder-crasht-in-lelystad-springt-op-bootje-en-verdwijnt~a92b726b0/",
-        "published": "Tue, 08 Sep 2026 14:16:50 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Na harde crash in Lelystad is motorrijder ineens weg: getuigen zien hem op bootje stappen",
-        "link": "https://www.destentor.nl/lelystad/na-harde-crash-in-lelystad-is-motorrijder-ineens-weg-getuigen-zien-hem-op-bootje-stappen~a92b726b0/",
-        "published": "Tue, 08 Sep 2026 14:16:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Pot voor startersleningen Lelystad na half jaar leeg, college wil er 10 miljoen euro bij",
-        "link": "https://www.destentor.nl/lelystad/pot-voor-startersleningen-lelystad-na-half-jaar-leeg-college-wil-er-10-miljoen-euro-bij~a05eea7c/",
-        "published": "Tue, 08 Sep 2026 14:08:17 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Grootschalige stroomstoring in Almere en Lelystad opgelost",
-        "link": "https://www.destentor.nl/almere/grootschalige-stroomstoring-in-almere-en-lelystad-opgelost~a4b320d2/",
-        "published": "Mon, 07 Sep 2026 23:15:56 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Grote zaak rond uitbuiting Thaise vrouwen: OM noemt Emmeloord en Lelystad",
-        "link": "https://www.destentor.nl/noordoostpolder/grote-zaak-rond-uitbuiting-thaise-vrouwen-om-noemt-emmeloord-en-lelystad~a7428a66/",
-        "published": "Mon, 07 Sep 2026 18:30:17 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Grootschalige stroomstoring in Almere, Lelystad en Zeewolde opgelost",
-        "link": "https://www.destentor.nl/almere/grootschalige-stroomstoring-in-almere-lelystad-en-zeewolde-opgelost~aa2fa1bee/",
-        "published": "Mon, 07 Sep 2026 17:33:28 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Stroomstoring in Almere, Lelystad en Zeewolde aan de gang",
-        "link": "https://www.destentor.nl/almere/stroomstoring-in-almere-lelystad-en-zeewolde-aan-de-gang~aa2fa1bee/",
-        "published": "Mon, 07 Sep 2026 17:33:28 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Stroomstoring in Almere, Lelystad en Zeewolde opgelost",
-        "link": "https://www.destentor.nl/almere/stroomstoring-in-almere-lelystad-en-zeewolde-opgelost~aa2fa1bee/",
-        "published": "Mon, 07 Sep 2026 17:33:28 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Erwin regelt de laatste reis van drie omgekomen jongens: ‘Wakker gelegen van de reacties online’",
-        "link": "https://www.destentor.nl/dronten/erwin-regelt-de-laatste-reis-van-drie-omgekomen-jongens-wakker-gelegen-van-de-reacties-online~a6992dd5/",
-        "published": "Mon, 07 Sep 2026 14:41:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Onderzoeker Ania woelt in de grond en haalt aardappelen boven die de landbouw kunnen omgooien",
-        "link": "https://www.destentor.nl/lelystad/onderzoeker-ania-woelt-in-de-grond-en-haalt-aardappelen-boven-die-de-landbouw-kunnen-omgooien~a0992342/",
-        "published": "Mon, 07 Sep 2026 04:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Heb jij Pepper, Diva of Poesje gezien? Deze drie huisdieren worden in Lelystad vermist",
-        "link": "https://www.destentor.nl/lelystad/heb-jij-pepper-diva-of-poesje-gezien-deze-drie-huisdieren-worden-in-lelystad-vermist~ac9aa24e/",
-        "published": "Sun, 06 Sep 2026 09:12:25 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Weg tussen Dronten en Lelystad gaat dicht voor opnames speelfilm ‘Happy Days’",
-        "link": "https://www.destentor.nl/dronten/weg-tussen-dronten-en-lelystad-gaat-dicht-voor-opnames-speelfilm-happy-days~a9baddce/",
-        "published": "Fri, 04 Sep 2026 16:45:07 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Jouw volgende Jysk-stoel komt hier vandaan: kijkje in gloednieuw megamagazijn waar bijna alles automatisch gaat",
-        "link": "https://www.destentor.nl/lelystad/jouw-volgende-jysk-stoel-komt-hier-vandaan-kijkje-in-gloednieuw-megamagazijn-waar-bijna-alles-automatisch-gaat~a50c84e9/",
-        "published": "Fri, 04 Sep 2026 10:00:56 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Tekort aan vmbo'ers? In Lelystad doen juist meer leerlingen praktische opleiding",
-        "link": "https://www.destentor.nl/lelystad/tekort-aan-vmbo-ers-in-lelystad-doen-juist-meer-leerlingen-praktische-opleiding~ac59b036/",
-        "published": "Fri, 04 Sep 2026 04:02:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Harry (40) ging zó tekeer tegen zijn vriendin, dat hij nu tbs krijgt: ‘Ik roep te snel dingen’",
-        "link": "https://www.destentor.nl/lelystad/harry-40-ging-zo-tekeer-tegen-zijn-vriendin-dat-hij-nu-tbs-krijgt-ik-roep-te-snel-dingen~a0dd9fdc/",
-        "published": "Thu, 03 Sep 2026 19:00:21 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Gemiddeld gasverbruik inwoners Lelystad iets gedaald, maar deze woningen verstookten juist méér",
-        "link": "https://www.destentor.nl/lelystad/gemiddeld-gasverbruik-inwoners-lelystad-iets-gedaald-maar-deze-woningen-verstookten-juist-meer~a691980a/",
-        "published": "Thu, 03 Sep 2026 15:32:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Echtpaar Warren in Lelystad viert platina huwelijk",
-        "link": "https://www.destentor.nl/lelystad/echtpaar-warren-in-lelystad-viert-platina-huwelijk~a3dc7ef4/",
-        "published": "Thu, 03 Sep 2026 15:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Oud-bestuurder Satudarah werkte als beveiliger op Schiphol, nu wil hij die toestemming terug",
-        "link": "https://www.destentor.nl/binnenland/oud-bestuurder-satudarah-werkte-als-beveiliger-op-schiphol-nu-wil-hij-die-toestemming-terug~af0ed553/",
-        "published": "Thu, 03 Sep 2026 04:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Oud-leider Satudarah werkte als beveiliger op Schiphol, nu wil hij die toestemming terug",
-        "link": "https://www.destentor.nl/binnenland/oud-leider-satudarah-werkte-als-beveiliger-op-schiphol-nu-wil-hij-die-toestemming-terug~af0ed553/",
-        "published": "Thu, 03 Sep 2026 04:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Vier vrouwen onder vuur in Lelystad, verdachte ontkent: ‘Ik ben er nooit geweest’",
-        "link": "https://www.destentor.nl/lelystad/vier-vrouwen-onder-vuur-in-lelystad-verdachte-ontkent-ik-ben-er-nooit-geweest~a1979de6/",
-        "published": "Wed, 02 Sep 2026 15:58:55 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Afgelopen week 27 meldingen van de gemeente over sloop en bomenkap in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-27-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-lelystad~a03d8001/",
-        "published": "Wed, 02 Sep 2026 09:01:38 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Ritje van 300 euro eindigt in explosie, maar chauffeur gaat vrijuit",
-        "link": "https://www.destentor.nl/lelystad/ritje-van-300-euro-eindigt-in-explosie-maar-chauffeur-gaat-vrijuit~a3da9641/",
-        "published": "Wed, 02 Sep 2026 08:53:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Aantal scheidingen daalt hard in Lelystad, zelfs harder dan landelijk",
-        "link": "https://www.destentor.nl/lelystad/aantal-scheidingen-daalt-hard-in-lelystad-zelfs-harder-dan-landelijk~a1b6bdcf/",
-        "published": "Wed, 02 Sep 2026 04:05:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Supermarkt rouwt om vakantiekracht Abel (17) na dodelijk ongeluk in Flevoland: ‘Heel treurig’",
-        "link": "https://www.destentor.nl/lelystad/supermarkt-rouwt-om-vakantiekracht-abel-17-na-dodelijk-ongeluk-in-flevoland-heel-treurig~aa985574/",
-        "published": "Tue, 01 Sep 2026 14:41:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Vakbond kaart situatie jeugdzorg Lelystad aan bij Arbeidsinspectie",
-        "link": "https://www.destentor.nl/lelystad/vakbond-kaart-situatie-jeugdzorg-lelystad-aan-bij-arbeidsinspectie~a89df24f/",
-        "published": "Tue, 01 Sep 2026 04:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Stroomstoring in Lelystad opgelost",
-        "link": "https://www.destentor.nl/lelystad/stroomstoring-in-lelystad-opgelost~ad7d49da/",
-        "published": "Mon, 31 Aug 2026 20:21:54 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Stroomstoring in Lelystad op dit moment",
-        "link": "https://www.destentor.nl/lelystad/stroomstoring-in-lelystad-op-dit-moment~ad7d49da/",
-        "published": "Mon, 31 Aug 2026 20:21:54 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Stroomstoring in Lelystad aan de gang",
-        "link": "https://www.destentor.nl/lelystad/stroomstoring-in-lelystad-aan-de-gang~ad7d49da/",
-        "published": "Mon, 31 Aug 2026 20:21:54 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Bij eerste editie cirkelden ooievaars boven podium, 25 jaar later houdt regen bezoekers Uitgast niet weg",
-        "link": "https://www.destentor.nl/lelystad/bij-eerste-editie-cirkelden-ooievaars-boven-podium-25-jaar-later-houdt-regen-bezoekers-uitgast-niet-weg~a317572e/",
-        "published": "Sun, 30 Aug 2026 17:00:34 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Drie tieners overleden bij ernstig ongeluk op de dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.destentor.nl/lelystad/drie-tieners-overleden-bij-ernstig-ongeluk-op-de-dijk-tussen-lelystad-en-enkhuizen~a4f39d83/",
-        "published": "Sun, 30 Aug 2026 14:08:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Heb jij Lulu, Stitch of Mimi gezien? Deze zeven huisdieren worden in Lelystad vermist",
-        "link": "https://www.destentor.nl/lelystad/heb-jij-lulu-stitch-of-mimi-gezien-deze-zeven-huisdieren-worden-in-lelystad-vermist~ae1c6616/",
-        "published": "Sun, 30 Aug 2026 09:12:41 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Zeker drie doden na ernstig ongeluk op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.destentor.nl/lelystad/zeker-drie-doden-na-ernstig-ongeluk-op-dijk-tussen-lelystad-en-enkhuizen~a0d8aa4d/",
-        "published": "Sat, 29 Aug 2026 21:42:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden en vijf gewonden bij botsing op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.destentor.nl/lelystad/drie-doden-en-vijf-gewonden-bij-botsing-op-dijk-tussen-lelystad-en-enkhuizen~a5ecd715/",
-        "published": "Sat, 29 Aug 2026 20:51:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden en vijf gewonden bij frontale botsing op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.destentor.nl/binnenland/drie-doden-en-vijf-gewonden-bij-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen~a5ecd715/",
-        "published": "Sat, 29 Aug 2026 20:51:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Drie doden en vijf gewonden bij ernstig ongeluk op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.destentor.nl/binnenland/drie-doden-en-vijf-gewonden-bij-ernstig-ongeluk-op-dijk-tussen-lelystad-en-enkhuizen~a5ecd715/",
-        "published": "Sat, 29 Aug 2026 20:51:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "LIVE | Drie doden en vijf gewonden bij ernstig ongeluk op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.destentor.nl/binnenland/live-drie-doden-en-vijf-gewonden-bij-ernstig-ongeluk-op-dijk-tussen-lelystad-en-enkhuizen~a5ecd715/",
-        "published": "Sat, 29 Aug 2026 20:51:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Zoveelste zwakke brug dwingt 1.500 trucks tot omrijden: schade loopt op tot 120.000 euro per dag",
-        "link": "https://www.destentor.nl/lelystad/zoveelste-zwakke-brug-dwingt-1-500-trucks-tot-omrijden-schade-loopt-op-tot-120-000-euro-per-dag~afeb6195/",
-        "published": "Fri, 28 Aug 2026 18:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Pelgrimsroute door Hollandse Hout maakt natuur bij Lelystad voor iedereen toegankelijk",
-        "link": "https://www.destentor.nl/lelystad/pelgrimsroute-door-hollandse-hout-maakt-natuur-bij-lelystad-voor-iedereen-toegankelijk~a2a483f7/",
-        "published": "Fri, 28 Aug 2026 17:00:00 GMT",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

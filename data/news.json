@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T12:00:31.246720+00:00",
+  "updated": "2026-09-12T13:00:29.815099+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -300,15 +300,6 @@
         "title": "Almere - Almeerse SP-fractie breekt met landelijke partij en gaat verder als Hart voor Almere",
         "link": "https://www.omroepflevoland.nl/nieuws/522469/almeerse-sp-fractie-breekt-met-landelijke-partij-en-gaat-verder-als-hart-voor-almere",
         "published": "Thu, 03 Sep 2026 16:19:45 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
-        "link": "https://nos.nl/l/2630351",
-        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
         "summary": ""
       }
     ],
@@ -614,7 +605,21 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
+        "link": "https://nos.nl/l/2630351",
+        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
+      {
+        "title": "Schoolleider Ernst ziet via een videogesprek hoe vlammen uit zijn school in Lelystad slaan",
+        "link": "https://www.destentor.nl/lelystad/schoolleider-ernst-ziet-via-een-videogesprek-hoe-vlammen-uit-zijn-school-in-lelystad-slaan~a76bebb6/",
+        "published": "Sat, 12 Sep 2026 12:24:00 GMT",
+        "summary": ""
+      },
       {
         "title": "In Lelystad vlieg je honderd jaar terug de tijd in — ver voordat er iets van vliegschaamte bestond",
         "link": "https://www.destentor.nl/lelystad/in-lelystad-vlieg-je-honderd-jaar-terug-de-tijd-in-ver-voordat-er-iets-van-vliegschaamte-bestond~a76cf05e7/",
@@ -908,13 +913,8 @@
         "link": "https://www.destentor.nl/lelystad/pelgrimsroute-door-hollandse-hout-maakt-natuur-bij-lelystad-voor-iedereen-toegankelijk~a2a483f7/",
         "published": "Fri, 28 Aug 2026 17:00:00 GMT",
         "summary": ""
-      },
-      {
-        "title": "Verhuizen? 65-plusser in Lelystad met koophuis doet dat minder dan je zou verwachten",
-        "link": "https://www.destentor.nl/lelystad/verhuizen-65-plusser-in-lelystad-met-koophuis-doet-dat-minder-dan-je-zou-verwachten~ae3bc71f/",
-        "published": "Fri, 28 Aug 2026 15:45:00 GMT",
-        "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

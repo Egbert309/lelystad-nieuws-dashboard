@@ -1,6 +1,7 @@
 {
-  "updated": "2026-09-12T00:00:48.617783+00:00",
+  "updated": "2026-09-12T01:10:30.023042+00:00",
   "sources": {
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Jarige Open Monumentendag opent nationaal in jarig Flevoland met theater bij Bataviawerf",
@@ -605,7 +606,14 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
+        "link": "https://nos.nl/l/2630351",
+        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 09/11 | Chinees in Zeewolde vier weken gesloten • Rechtszaak over leeg pand Almere",
@@ -905,14 +913,6 @@
         "title": "Lelystad - Zijn vriendin heeft spijt van haar aangifte, maar toch krijgt Harry uit Lelystad tbs voor bedreiging en geweld",
         "link": "https://www.omroepflevoland.nl/nieuws/522334/zijn-vriendin-heeft-spijt-van-haar-aangifte-maar-toch-krijgt-harry-uit-lelystad-tbs-voor-bedreiging-en-geweld",
         "published": "Wed, 02 Sep 2026 15:56:27 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
-        "link": "https://nos.nl/l/2630351",
-        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
         "summary": ""
       }
     ]

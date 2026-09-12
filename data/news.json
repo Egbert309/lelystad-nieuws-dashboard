@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-12T17:00:30.943596+00:00",
+  "updated": "2026-09-12T18:00:24.660104+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
+        "link": "https://nos.nl/l/2630351",
+        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Jarige Open Monumentendag opent nationaal in jarig Flevoland met theater bij Bataviawerf",
@@ -605,15 +613,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
-        "link": "https://nos.nl/l/2630351",
-        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Politie zoekt getuigen na brandstichting bij school in Lelystad",
@@ -915,6 +914,7 @@
         "published": "Thu, 03 Sep 2026 17:55:09 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

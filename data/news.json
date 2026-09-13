@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T13:00:41.748319+00:00",
+  "updated": "2026-09-13T14:00:38.826832+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -12,6 +12,12 @@
         "title": "Baan kwijt na ‘intimidatie en vernedering’, nu vecht directeur van jeugdzorg haar ontslag aan",
         "link": "https://www.destentor.nl/lelystad/baan-kwijt-na-intimidatie-en-vernedering-nu-vecht-directeur-van-jeugdzorg-haar-ontslag-aan~aa6daa12/",
         "published": "Sat, 12 Sep 2026 15:00:33 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Schoolleider ziet net opgeknapte school in Lelystad branden: ‘Niet alweer, dacht ik’",
+        "link": "https://www.destentor.nl/lelystad/schoolleider-ziet-net-opgeknapte-school-in-lelystad-branden-niet-alweer-dacht-ik~a76bebb6/",
+        "published": "Sat, 12 Sep 2026 12:24:00 GMT",
         "summary": ""
       },
       {
@@ -295,14 +301,17 @@
         "link": "https://www.destentor.nl/binnenland/drie-doden-en-vijf-gewonden-bij-frontale-botsing-op-dijk-tussen-lelystad-en-enkhuizen~a5ecd715/",
         "published": "Sat, 29 Aug 2026 20:51:00 GMT",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Drie doden en vijf gewonden bij ernstig ongeluk op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.destentor.nl/binnenland/drie-doden-en-vijf-gewonden-bij-ernstig-ongeluk-op-dijk-tussen-lelystad-en-enkhuizen~a5ecd715/",
-        "published": "Sat, 29 Aug 2026 20:51:00 GMT",
+        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
+        "link": "https://nos.nl/l/2630351",
+        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Vuur van in brand gestoken scooter slaat over naar school, twee mannen gearresteerd",
@@ -605,16 +614,13 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
-        "link": "https://nos.nl/l/2630351",
-        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Grote golf nieuwe wethouders: 'moeten vertrouwen op ambtelijk apparaat'",
+        "link": "https://www.omroepflevoland.nl/nieuws/523432/grote-golf-nieuwe-wethouders:-'moeten-vertrouwen-op-ambtelijk-apparaat'",
+        "published": "Sun, 13 Sep 2026 15:52:08 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Waarom landt de traumaheli soms bij de A6 in Lelystad? Dit blijkt de reden",
         "link": "https://www.omroepflevoland.nl/nieuws/522562/waarom-landt-de-traumaheli-soms-bij-de-a6-in-lelystad-dit-blijkt-de-reden",
@@ -907,12 +913,6 @@
         "title": "Lelystad - 25 jaar Batavia Stad: miljoenen bezoekers, maar weinig winst voor het stadshart",
         "link": "https://www.omroepflevoland.nl/nieuws/522212/25-jaar-batavia-stad:-miljoenen-bezoekers-maar-weinig-winst-voor-het-stadshart",
         "published": "Thu, 03 Sep 2026 19:44:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 03/09 | 25 jaar Batavia Stad • Breuk SP Almere",
-        "link": "https://www.omroepflevoland.nl/nieuws/522489/nieuwsoverzicht-0309-or-25-jaar-batavia-stad-*-breuk-sp-almere",
-        "published": "Thu, 03 Sep 2026 18:45:00 GMT+0200",
         "summary": ""
       }
     ]

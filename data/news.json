@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T12:00:25.955841+00:00",
+  "updated": "2026-09-13T13:00:41.748319+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -305,6 +305,18 @@
     ],
     "Radio Lelystad": [
       {
+        "title": "Vuur van in brand gestoken scooter slaat over naar school, twee mannen gearresteerd",
+        "link": "https://radiolelystad.nl/vuur-van-in-brand-gestoken-scooter-slaat-over-naar-school-twee-verdachten-aangehouden",
+        "published": "zondag 13 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "LelyStart zet het Stadshart de hele zaterdag op z’n kop",
+        "link": "https://radiolelystad.nl/lelystart-zet-het-stadshart-de-hele-zaterdag-op-z-n-kop",
+        "published": "zondag 13 september 2026",
+        "summary": ""
+      },
+      {
         "title": "Jarige Open Monumentendag opent nationaal in jarig Flevoland met theater bij Bataviawerf",
         "link": "https://radiolelystad.nl/jarige-open-monumentendag-opent-nationaal-in-jarig-flevoland-met-theater-bij-bataviawerf",
         "published": "vrijdag 11 september 2026",
@@ -591,20 +603,17 @@
         "link": "https://radiolelystad.nl/obs-de-grundel-begint-schooljaar-met-high-five-programma-dat-beweging-en-verkeersveiligheid-stimuleert",
         "published": "dinsdag 25 augustus 2026",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Gemeente, organisatie en hulpdiensten kijken tevreden terug op Lowlands",
-        "link": "https://radiolelystad.nl/gemeente-organisatie-en-hulpdiensten-kijken-tevreden-terug-op-lowlands",
-        "published": "maandag 24 augustus 2026",
-        "summary": ""
-      },
-      {
-        "title": "Aviodrome heeft Douglas DC-3 Dakota na 16 jaar terug in de collectie",
-        "link": "https://radiolelystad.nl/aviodrome-heeft-douglas-dc-3-dakota-na-16-jaar-terug-in-de-collectie",
-        "published": "zondag 23 augustus 2026",
+        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
+        "link": "https://nos.nl/l/2630351",
+        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Waarom landt de traumaheli soms bij de A6 in Lelystad? Dit blijkt de reden",
@@ -906,15 +915,6 @@
         "published": "Thu, 03 Sep 2026 18:45:00 GMT+0200",
         "summary": ""
       }
-    ],
-    "NOS": [
-      {
-        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
-        "link": "https://nos.nl/l/2630351",
-        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

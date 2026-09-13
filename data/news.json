@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T18:00:31.729019+00:00",
+  "updated": "2026-09-13T19:00:40.820382+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,7 +303,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Vuur van in brand gestoken scooter slaat over naar school, twee mannen gearresteerd",
@@ -603,14 +602,6 @@
         "title": "Grundel begint schooljaar met 'High Five' dat beweging en verkeersveiligheid stimuleert",
         "link": "https://radiolelystad.nl/obs-de-grundel-begint-schooljaar-met-high-five-programma-dat-beweging-en-verkeersveiligheid-stimuleert",
         "published": "dinsdag 25 augustus 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
-        "link": "https://nos.nl/l/2630351",
-        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
         "summary": ""
       }
     ],
@@ -915,6 +906,15 @@
         "published": "Thu, 03 Sep 2026 19:44:00 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [
+      {
+        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
+        "link": "https://nos.nl/l/2630351",
+        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": []
   }
 }

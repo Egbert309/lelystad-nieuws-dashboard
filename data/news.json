@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T06:00:58.715257+00:00",
+  "updated": "2026-09-13T07:00:41.627557+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -300,15 +300,6 @@
         "title": "Lelystad - Feestje in Batavia Stad vanwege jubileum: 25 jaar outletwinkels aan de kust",
         "link": "https://www.omroepflevoland.nl/nieuws/522486/feestje-in-batavia-stad-vanwege-jubileum:-25-jaar-outletwinkels-aan-de-kust",
         "published": "Thu, 03 Sep 2026 17:55:09 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
-        "link": "https://nos.nl/l/2630351",
-        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
         "summary": ""
       }
     ],
@@ -614,6 +605,14 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Transportbedrijven in de knel door kapotte bruggen: 'Dit is weer een druppel'",
+        "link": "https://nos.nl/l/2630351",
+        "published": "Wed, 9 Sep 2026 18:35:48 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Baan kwijt na ‘intimidatie en vernedering’, nu vecht directeur van jeugdzorg haar ontslag aan",
@@ -915,6 +914,7 @@
         "published": "Sat, 29 Aug 2026 20:51:00 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

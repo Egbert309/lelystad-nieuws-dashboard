@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T21:00:31.919827+00:00",
+  "updated": "2026-09-14T22:00:44.112093+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -606,7 +606,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Wat als de regenbui van de eeuw in Lelystad losbarst? 'Bijna 600 woningen op kwetsbare plek'",
@@ -908,6 +907,7 @@
         "published": "Sat, 29 Aug 2026 21:42:00 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

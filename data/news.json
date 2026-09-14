@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T15:02:23.254961+00:00",
+  "updated": "2026-09-14T16:00:37.576729+00:00",
   "sources": {
     "NOS": [
       {
@@ -10,6 +10,12 @@
       }
     ],
     "Radio Lelystad": [
+      {
+        "title": "Twee minderjarigen beroofd en mishandeld, politie doet onderzoek en zoekt getuigen",
+        "link": "https://radiolelystad.nl/twee-minderjarigen-beroofd-en-mishandeld-politie-doet-onderzoek-en-zoekt-getuigen",
+        "published": "maandag 14 september 2026",
+        "summary": ""
+      },
       {
         "title": "Hondencontroleurs weer op pad voor controle op hondenbelasting",
         "link": "https://radiolelystad.nl/hondencontroleurs-weer-op-pad-voor-controle-op-hondenbelasting",
@@ -303,16 +309,27 @@
         "link": "https://radiolelystad.nl/mensen-met-een-hoger-gezondheidsrisico-kunnen-dit-najaar-een-coronaprik-halen",
         "published": "woensdag 26 augustus 2026",
         "summary": ""
-      },
-      {
-        "title": "21e Nationale Stadsdichtersdag start op 5 september met aftrap in het stadhuis",
-        "link": "https://radiolelystad.nl/21e-nationale-stadsdichtersdag-start-op-5-september-met-aftrap-in-het-stadhuis",
-        "published": "dinsdag 25 augustus 2026",
-        "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Basisschooldirecteur na vierde brand in zes jaar tijd: 'Ik word er woest van'",
+        "link": "https://www.omroepflevoland.nl/nieuws/523757/basisschooldirecteur-na-vierde-brand-in-zes-jaar-tijd:-'ik-word-er-woest-van'",
+        "published": "Mon, 14 Sep 2026 17:51:30 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Almere - Wedstrijd maakt leerlingen milieubewust: '8.000 liter water voor één broek'",
+        "link": "https://www.omroepflevoland.nl/nieuws/523775/wedstrijd-maakt-leerlingen-milieubewust:-'8.000-liter-water-voor-een-broek'",
+        "published": "Mon, 14 Sep 2026 17:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Urk - Koningin Máxima brengt eind september bezoek aan Urk",
+        "link": "https://www.omroepflevoland.nl/nieuws/523783/koningin-maxima-brengt-eind-september-bezoek-aan-urk",
+        "published": "Mon, 14 Sep 2026 17:17:40 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Minderjarige jongens mishandeld en beroofd in de wijk Schouw Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/523768/minderjarige-jongens-mishandeld-en-beroofd-in-de-wijk-schouw-lelystad",
@@ -594,27 +611,15 @@
         "link": "https://www.omroepflevoland.nl/nieuws/522571/'rijkswaterstaat-weet-al-jaren-van-problemen-met-houtribbruggen'",
         "published": "Fri, 04 Sep 2026 12:51:15 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Wegens groot succes stopt Lelystad nog eens 10 miljoen in pot startersleningen",
-        "link": "https://www.omroepflevoland.nl/nieuws/522564/wegens-groot-succes-stopt-lelystad-nog-eens-10-miljoen-in-pot-startersleningen",
-        "published": "Fri, 04 Sep 2026 11:03:29 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Hotel in Almere schrikt van verhoging toeristenbelasting en schrijft brandbrief aan politiek",
-        "link": "https://www.omroepflevoland.nl/nieuws/522497/hotel-in-almere-schrikt-van-verhoging-toeristenbelasting-en-schrijft-brandbrief-aan-politiek",
-        "published": "Fri, 04 Sep 2026 07:33:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Boerderij Saalland in Lelystad decor voor theatrale viering veertig jaar Flevoland",
-        "link": "https://www.omroepflevoland.nl/nieuws/522080/boerderij-saalland-in-lelystad-decor-voor-theatrale-viering-veertig-jaar-flevoland",
-        "published": "Fri, 04 Sep 2026 06:44:00 GMT+0200",
-        "summary": ""
       }
     ],
     "De Stentor": [
+      {
+        "title": "Wat als de regenbui van de eeuw in Lelystad losbarst? 'Bijna 600 woningen op kwetsbare plek'",
+        "link": "https://www.destentor.nl/lelystad/wat-als-de-regenbui-van-de-eeuw-in-lelystad-losbarst-bijna-600-woningen-op-kwetsbare-plek~aabc04a4/",
+        "published": "Mon, 14 Sep 2026 15:33:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Jongen onder spoorbrug bij Lelystad gedwongen te pinnen, verdachten zouden ook zijn vriend hebben geslagen",
         "link": "https://www.destentor.nl/lelystad/jongen-onder-spoorbrug-bij-lelystad-gedwongen-te-pinnen-verdachten-zouden-ook-zijn-vriend-hebben-geslagen~ac11a202/",
@@ -908,13 +913,8 @@
         "link": "https://www.destentor.nl/lelystad/zeker-drie-doden-na-ernstig-ongeluk-op-dijk-tussen-lelystad-en-enkhuizen~a0d8aa4d/",
         "published": "Sat, 29 Aug 2026 21:42:00 GMT",
         "summary": ""
-      },
-      {
-        "title": "Drie doden en vijf gewonden bij botsing op dijk tussen Lelystad en Enkhuizen",
-        "link": "https://www.destentor.nl/lelystad/drie-doden-en-vijf-gewonden-bij-botsing-op-dijk-tussen-lelystad-en-enkhuizen~a5ecd715/",
-        "published": "Sat, 29 Aug 2026 20:51:00 GMT",
-        "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

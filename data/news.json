@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T11:00:55.910730+00:00",
+  "updated": "2026-09-15T12:00:51.871677+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -304,6 +304,7 @@
       }
     ],
     "NOS": [],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Boeren voeren op Prinsjesdag actie vanaf viaducten",
@@ -907,7 +908,6 @@
         "published": "Sun, 30 Aug 2026 09:12:41 GMT",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

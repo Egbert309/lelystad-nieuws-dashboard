@@ -1,6 +1,8 @@
 {
-  "updated": "2026-09-15T03:00:46.445921+00:00",
+  "updated": "2026-09-15T04:00:41.677019+00:00",
   "sources": {
+    "Nu.nl": [],
+    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 14/09 |  Woede over nieuwe brand basisschool Lelystad • Máxima komt naar Urk",
@@ -906,8 +908,6 @@
         "published": "Sat, 29 Aug 2026 21:42:00 GMT",
         "summary": ""
       }
-    ],
-    "Nu.nl": [],
-    "NOS": []
+    ]
   }
 }

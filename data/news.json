@@ -1,9 +1,13 @@
 {
-  "updated": "2026-09-17T19:00:47.000120+00:00",
+  "updated": "2026-09-17T20:00:35.086424+00:00",
   "sources": {
-    "NOS": [],
-    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Auto belandt op zijn dak bij supermarkt in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/524200/auto-belandt-op-zijn-dak-bij-supermarkt-in-lelystad",
+        "published": "Thu, 17 Sep 2026 21:34:33 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 17/09 | Spookauto eindelijk weggehaald • Urker politicus verdacht van aanranding",
         "link": "https://www.omroepflevoland.nl/nieuws/524165/nieuwsoverzicht-1709-or-spookauto-eindelijk-weggehaald-*-urker-politicus-verdacht-van-aanranding",
@@ -297,14 +301,9 @@
         "link": "https://www.omroepflevoland.nl/nieuws/523176/van-schoolbank-naar-vertrekhal:-lelystad-airport-wordt-leerplek-voor-mbo'ers",
         "published": "Thu, 10 Sep 2026 10:43:30 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Afvalzorg wordt ongeduldig en wil sneller standpunt van Lelystad over uitbreiding vuilstort",
-        "link": "https://www.omroepflevoland.nl/nieuws/523200/afvalzorg-wordt-ongeduldig-en-wil-sneller-standpunt-van-lelystad-over-uitbreiding-vuilstort",
-        "published": "Thu, 10 Sep 2026 09:51:25 GMT+0200",
-        "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Deel begraafplaats wordt bestemd als ‘bijzondere begraafplaats’",
@@ -908,6 +907,7 @@
         "published": "Mon, 31 Aug 2026 20:21:54 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": []
   }
 }

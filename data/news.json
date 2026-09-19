@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-19T10:00:47.959965+00:00",
+  "updated": "2026-09-19T11:00:45.034677+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Flevoland kent veel zwakke middelbare scholen, situatie meest nijpend op Montessori Campus",
@@ -605,6 +613,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Iconische Batavia verlaat Lelystad en vaart dwars door Amsterdam naar werf",
@@ -906,8 +915,6 @@
         "published": "Wed, 02 Sep 2026 15:58:55 GMT",
         "summary": ""
       }
-    ],
-    "Nu.nl": [],
-    "NOS": []
+    ]
   }
 }

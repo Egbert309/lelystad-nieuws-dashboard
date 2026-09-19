@@ -1,7 +1,6 @@
 {
-  "updated": "2026-09-19T16:00:31.094587+00:00",
+  "updated": "2026-09-19T17:01:11.426570+00:00",
   "sources": {
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Actie 'Lelystad schoon in 24 uur' haalt honderden kilo's zwerfafval van straat (video)",
@@ -606,14 +605,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
-        "link": "https://nos.nl/l/2631622",
-        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - De allerlaatste reis van de Batavia: VOC-schip verlaat definitief het water",
@@ -915,6 +906,15 @@
         "published": "Sun, 13 Sep 2026 11:09:58 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [
+      {
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": []
   }
 }

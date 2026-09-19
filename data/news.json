@@ -1,9 +1,13 @@
 {
-  "updated": "2026-09-19T08:00:25.505836+00:00",
+  "updated": "2026-09-19T09:00:33.438643+00:00",
   "sources": {
-    "NOS": [],
-    "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Iconische Batavia verlaat Lelystad en vaart dwars door Amsterdam naar werf",
+        "link": "https://www.destentor.nl/lelystad/iconische-batavia-verlaat-lelystad-en-vaart-dwars-door-amsterdam-naar-werf~a1a7f4ff/",
+        "published": "Sat, 19 Sep 2026 08:21:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Ketelbrug deels dicht door aanrijding, omrijden tussen Lelystad-Noord en Urk",
         "link": "https://www.destentor.nl/lelystad/ketelbrug-deels-dicht-door-aanrijding-omrijden-tussen-lelystad-noord-en-urk~a5d419ae/",
@@ -297,15 +301,16 @@
         "link": "https://www.destentor.nl/lelystad/vier-vrouwen-onder-vuur-in-lelystad-verdachte-ontkent-ik-ben-er-nooit-geweest~a1979de6/",
         "published": "Wed, 02 Sep 2026 15:58:55 GMT",
         "summary": ""
-      },
-      {
-        "title": "Afgelopen week 27 meldingen van de gemeente over sloop en bomenkap in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-27-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-lelystad~a03d8001/",
-        "published": "Wed, 02 Sep 2026 09:01:38 GMT",
-        "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Radio Lelystad": [
+      {
+        "title": "VOC-schip De Batavia begonnen aan reis naar nieuwe locatie, op het droge (video)",
+        "link": "https://radiolelystad.nl/voc-schip-de-batavia-begonnen-aan-reis-naar-nieuwe-locatie-op-het-droge-video",
+        "published": "zaterdag 19 september 2026",
+        "summary": ""
+      },
       {
         "title": "St Jansdal ontwikkelt, samen met patiënten, nieuwe website in begrijpelijke taal",
         "link": "https://radiolelystad.nl/st-jansdal-ontwikkelt-samen-met-patienten-website-in-begrijpelijke-taal",
@@ -599,14 +604,9 @@
         "link": "https://radiolelystad.nl/drie-doden-bij-zwaar-ongeval-op-dijk-tussen-lelystad-en-enkhuizen",
         "published": "zondag 30 augustus 2026",
         "summary": ""
-      },
-      {
-        "title": "Oogstdag 2026, 'doe het lekker zelf!' (video)",
-        "link": "https://radiolelystad.nl/oogstdag-2026-doe-het-lekker-zelf-video",
-        "published": "zaterdag 29 augustus 2026",
-        "summary": ""
       }
     ],
+    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Flevoland kent veel zwakke middelbare scholen, situatie meest nijpend op Montessori Campus",

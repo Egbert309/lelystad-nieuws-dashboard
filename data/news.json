@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T10:00:44.670088+00:00",
+  "updated": "2026-09-20T11:00:52.736921+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,6 +303,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Meer vertraging voor komst zwaarbeveiligde rechtbank in Lelystad",
@@ -605,15 +606,19 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
-        "link": "https://nos.nl/l/2631622",
-        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Unicum uit Lelystad begint seizoen met derbywinst bij ASV Dronten",
+        "link": "https://www.omroepflevoland.nl/sport/524419/unicum-uit-lelystad-begint-seizoen-met-derbywinst-bij-asv-dronten",
+        "published": "Sun, 20 Sep 2026 12:29:51 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Opening 'Lely-barak' niet woensdag maar uitgesteld tot januari",
+        "link": "https://www.omroepflevoland.nl/nieuws/524259/opening-'lely-barak'-niet-woensdag-maar-uitgesteld-tot-januari",
+        "published": "Sun, 20 Sep 2026 12:12:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Ministerie bevestigt: nieuwe 'Bunker' Lelystad later klaar",
         "link": "https://www.omroepflevoland.nl/nieuws/524318/ministerie-bevestigt:-nieuwe-'bunker'-lelystad-later-klaar",
@@ -901,20 +906,15 @@
         "link": "https://www.omroepflevoland.nl/nieuws/523775/wedstrijd-maakt-leerlingen-milieubewust:-'8.000-liter-water-voor-een-broek'",
         "published": "Mon, 14 Sep 2026 17:30:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Urk - Koningin Máxima brengt eind september bezoek aan Urk",
-        "link": "https://www.omroepflevoland.nl/nieuws/523783/koningin-maxima-brengt-eind-september-bezoek-aan-urk",
-        "published": "Mon, 14 Sep 2026 17:17:40 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Minderjarige jongens mishandeld en beroofd in de wijk Schouw Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/523768/minderjarige-jongens-mishandeld-en-beroofd-in-de-wijk-schouw-lelystad",
-        "published": "Mon, 14 Sep 2026 15:35:35 GMT+0200",
-        "summary": ""
       }
     ],
-    "Nu.nl": []
+    "NOS": [
+      {
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
+        "summary": ""
+      }
+    ]
   }
 }

@@ -1,6 +1,14 @@
 {
-  "updated": "2026-09-20T12:00:38.323198+00:00",
+  "updated": "2026-09-20T13:00:30.513767+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
+        "summary": ""
+      }
+    ],
     "Nu.nl": [],
     "De Stentor": [
       {
@@ -304,15 +312,13 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
-        "link": "https://nos.nl/l/2631622",
-        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
+      {
+        "title": "Seabottom festival 2026, opnieuw een geslaagd muzikaal feestje",
+        "link": "https://radiolelystad.nl/seabottom-muziefestival-2026-opnieuw-een-geslaagd-muzikaal-feestje",
+        "published": "zondag 20 september 2026",
+        "summary": ""
+      },
       {
         "title": "Provincie stelt opnieuw subsidie (ruim 400.000 euro) beschikbaar voor aanvraag thuisbatterij",
         "link": "https://radiolelystad.nl/provincie-stelt-opnieuw-subsidie-ruim-400-000-euro-beschikbaar-voor-aanvraag-thuisbatterij",
@@ -605,12 +611,6 @@
         "title": "Politie deelt informatie over gevonden dode man in Roggebotsebos Dronten",
         "link": "https://radiolelystad.nl/politie-deelt-informatie-over-gevonden-dode-man-in-roggebotsebos-dronten",
         "published": "dinsdag 01 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Twee weken kans op geluidshinder in Flevoland wegens oefening van Defensie",
-        "link": "https://radiolelystad.nl/kans-op-geluidshinder-in-flevoland-wegens-oefening-van-defensie",
-        "published": "maandag 31 augustus 2026",
         "summary": ""
       }
     ],

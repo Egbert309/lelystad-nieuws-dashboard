@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T01:17:49.846629+00:00",
+  "updated": "2026-09-20T02:00:51.484246+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -907,7 +907,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "NOS": [
       {
         "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
@@ -915,6 +914,7 @@
         "published": "Sat, 19 Sep 2026 12:36:33 +0200",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

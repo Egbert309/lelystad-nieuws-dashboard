@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T15:00:39.619662+00:00",
+  "updated": "2026-09-20T16:00:46.077914+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,14 +303,7 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
-        "link": "https://nos.nl/l/2631622",
-        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
-        "summary": ""
-      }
-    ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Duizenden vieren hier al veertig jaar de langste dag, nu wil de stichting bescherming van de plek",
@@ -613,7 +606,14 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Jeugdvrienden na meer dan zestig jaar herenigd: 'Ik zie zijn gezicht nog zo voor me'",

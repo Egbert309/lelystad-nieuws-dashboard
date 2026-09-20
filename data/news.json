@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T14:00:31.467016+00:00",
+  "updated": "2026-09-20T15:00:39.619662+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,8 +303,21 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
+      {
+        "title": "Duizenden vieren hier al veertig jaar de langste dag, nu wil de stichting bescherming van de plek",
+        "link": "https://www.destentor.nl/lelystad/duizenden-vieren-hier-al-veertig-jaar-de-langste-dag-nu-wil-de-stichting-bescherming-van-de-plek~ab739b00/",
+        "published": "Sun, 20 Sep 2026 14:30:37 GMT",
+        "summary": ""
+      },
       {
         "title": "Meer vertraging voor komst zwaarbeveiligde rechtbank in Lelystad",
         "link": "https://www.destentor.nl/lelystad/meer-vertraging-voor-komst-zwaarbeveiligde-rechtbank-in-lelystad~a19314f5/",
@@ -598,15 +611,16 @@
         "link": "https://www.destentor.nl/lelystad/echtpaar-warren-in-lelystad-viert-platina-huwelijk~a3dc7ef4/",
         "published": "Thu, 03 Sep 2026 15:00:00 GMT",
         "summary": ""
-      },
-      {
-        "title": "Oud-bestuurder Satudarah werkte als beveiliger op Schiphol, nu wil hij die toestemming terug",
-        "link": "https://www.destentor.nl/binnenland/oud-bestuurder-satudarah-werkte-als-beveiliger-op-schiphol-nu-wil-hij-die-toestemming-terug~af0ed553/",
-        "published": "Thu, 03 Sep 2026 04:00:00 GMT",
-        "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Jeugdvrienden na meer dan zestig jaar herenigd: 'Ik zie zijn gezicht nog zo voor me'",
+        "link": "https://www.omroepflevoland.nl/nieuws/524484/jeugdvrienden-na-meer-dan-zestig-jaar-herenigd:-'ik-zie-zijn-gezicht-nog-zo-voor-me'",
+        "published": "Sun, 20 Sep 2026 16:29:58 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Unicum uit Lelystad begint seizoen met derbywinst bij ASV Dronten",
         "link": "https://www.omroepflevoland.nl/sport/524419/unicum-uit-lelystad-begint-seizoen-met-derbywinst-bij-asv-dronten",
@@ -899,20 +913,6 @@
         "title": "Lelystad - Basisschooldirecteur na vierde brand in zes jaar tijd: 'Ik word er woest van'",
         "link": "https://www.omroepflevoland.nl/nieuws/523757/basisschooldirecteur-na-vierde-brand-in-zes-jaar-tijd:-'ik-word-er-woest-van'",
         "published": "Mon, 14 Sep 2026 17:51:30 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Almere - Wedstrijd maakt leerlingen milieubewust: '8.000 liter water voor één broek'",
-        "link": "https://www.omroepflevoland.nl/nieuws/523775/wedstrijd-maakt-leerlingen-milieubewust:-'8.000-liter-water-voor-een-broek'",
-        "published": "Mon, 14 Sep 2026 17:30:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
-        "link": "https://nos.nl/l/2631622",
-        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
         "summary": ""
       }
     ]

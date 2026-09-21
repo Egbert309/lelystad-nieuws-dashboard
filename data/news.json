@@ -1,14 +1,6 @@
 {
-  "updated": "2026-09-21T20:00:41.731027+00:00",
+  "updated": "2026-09-21T21:00:51.773198+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
-        "link": "https://nos.nl/l/2631622",
-        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Gemiddelde inwoner van Lelystad heeft ruim één vierkante meter minder in huis dan tien jaar geleden",
@@ -308,6 +300,14 @@
         "title": "Jouw volgende Jysk-stoel komt hier vandaan: kijkje in gloednieuw megamagazijn waar bijna alles automatisch gaat",
         "link": "https://www.destentor.nl/lelystad/jouw-volgende-jysk-stoel-komt-hier-vandaan-kijkje-in-gloednieuw-megamagazijn-waar-bijna-alles-automatisch-gaat~a50c84e9/",
         "published": "Fri, 04 Sep 2026 10:00:56 GMT",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
         "summary": ""
       }
     ],

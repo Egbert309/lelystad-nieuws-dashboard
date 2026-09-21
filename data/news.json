@@ -1,23 +1,13 @@
 {
-  "updated": "2026-09-21T17:00:30.373023+00:00",
+  "updated": "2026-09-21T18:01:06.238046+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
-        "link": "https://nos.nl/l/2631622",
-        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
-        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
-        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Flevolanders wonen als enige Nederlanders kleiner: 'Wat kan ik nog betalen?'",
+        "link": "https://www.omroepflevoland.nl/nieuws/524640/flevolanders-wonen-als-enige-nederlanders-kleiner:-'wat-kan-ik-nog-betalen'",
+        "published": "Mon, 21 Sep 2026 19:44:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 21/09 | Jongen mishandeld door groep • Afvaldumpingen groot probleem",
         "link": "https://www.omroepflevoland.nl/nieuws/524622/nieuwsoverzicht-2109-or-jongen-mishandeld-door-groep-*-afvaldumpingen-groot-probleem",
@@ -311,11 +301,13 @@
         "link": "https://www.omroepflevoland.nl/nieuws/523941/spetterbad-zou-aanwinst-voor-de-stad-zijn-maar-raad-vindt-de-kosten-wel-hoog",
         "published": "Wed, 16 Sep 2026 07:12:00 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Lelystad - KNRM Lelystad rukt voor 50e keer uit en redt samen met passanten hond op Markermeer",
-        "link": "https://www.omroepflevoland.nl/nieuws/523935/knrm-lelystad-rukt-voor-50e-keer-uit-en-redt-samen-met-passanten-hond-op-markermeer",
-        "published": "Tue, 15 Sep 2026 21:40:24 GMT+0200",
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
         "summary": ""
       }
     ],
@@ -618,6 +610,14 @@
         "title": "Gedicht van de week: Zombie apocalypse (Miss Fly)",
         "link": "https://radiolelystad.nl/gedicht-van-de-week-zombie-apocalypse-miss-fly",
         "published": "woensdag 02 september 2026",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
+        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
+        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
         "summary": ""
       }
     ],

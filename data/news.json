@@ -1,14 +1,7 @@
 {
-  "updated": "2026-09-21T06:01:07.415073+00:00",
+  "updated": "2026-09-21T07:11:56.848084+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
-        "link": "https://nos.nl/l/2631622",
-        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
-        "summary": ""
-      }
-    ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Duizenden vieren hier al veertig jaar de langste dag, nu wil de stichting bescherming van de plek",
@@ -613,7 +606,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Unicum wint eerste wedstrijd van het seizoen, de streekderby tegen Asv Dronten",
@@ -913,6 +905,14 @@
         "title": "Radio Lelystad icoon Will de Vries overleden",
         "link": "https://radiolelystad.nl/radio-lelystad-icoon-will-de-vries-overleden",
         "published": "dinsdag 01 september 2026",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
         "summary": ""
       }
     ]

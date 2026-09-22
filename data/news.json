@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-22T15:00:35.167743+00:00",
+  "updated": "2026-09-22T16:00:41.596808+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
+        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
+        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
+      {
+        "title": "Greenpeace waarschuwt voor PFAS in kraanwater in Lelystad: 'Code 'oranje' voor de hele gemeente'",
+        "link": "https://www.destentor.nl/lelystad/greenpeace-waarschuwt-voor-pfas-in-kraanwater-in-lelystad-code-oranje-voor-de-hele-gemeente~af1f2c80c/",
+        "published": "Tue, 22 Sep 2026 15:36:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Man (18) uit Lelystad opgepakt na schietincident in Rotterdam",
         "link": "https://www.destentor.nl/lelystad/man-18-uit-lelystad-opgepakt-na-schietincident-in-rotterdam~af69ef2d/",
@@ -295,12 +317,6 @@
         "link": "https://www.destentor.nl/lelystad/heb-jij-pepper-diva-of-poesje-gezien-deze-drie-huisdieren-worden-in-lelystad-vermist~ac9aa24e/",
         "published": "Sun, 06 Sep 2026 09:12:25 GMT",
         "summary": ""
-      },
-      {
-        "title": "Weg tussen Dronten en Lelystad gaat dicht voor opnames speelfilm ‘Happy Days’",
-        "link": "https://www.destentor.nl/dronten/weg-tussen-dronten-en-lelystad-gaat-dicht-voor-opnames-speelfilm-happy-days~a9baddce/",
-        "published": "Fri, 04 Sep 2026 16:45:07 GMT",
-        "summary": ""
       }
     ],
     "Omroep Flevoland": [
@@ -314,6 +330,12 @@
         "title": "Lelystad - Sluiting bezoekerscentra Staatsbosbeheer uitgesteld, ook gebouw Lelystad blijft voorlopig open",
         "link": "https://www.omroepflevoland.nl/nieuws/524742/sluiting-bezoekerscentra-staatsbosbeheer-uitgesteld-ook-gebouw-lelystad-blijft-voorlopig-open",
         "published": "Tue, 22 Sep 2026 14:37:26 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Bange buurtbewoners over drugspand Punter Lelystad; 'Daar stopten vaak auto's voor de deur'",
+        "link": "https://www.omroepflevoland.nl/nieuws/524736/bange-buurtbewoners-over-drugspand-punter-lelystad-'daar-stopten-vaak-auto's-voor-de-deur'",
+        "published": "Tue, 22 Sep 2026 14:19:04 GMT+0200",
         "summary": ""
       },
       {
@@ -597,20 +619,6 @@
         "link": "https://www.omroepflevoland.nl/nieuws/524076/flevoland-ziet-grootste-daling-bibliotheekleden-bieb-doet-er-alles-aan-om-bezoekers-te-trekken",
         "published": "Thu, 17 Sep 2026 06:33:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Flevoland - Gedeputeerde zwijgt: omvang financiële problemen bij EBS blijft onduidelijk",
-        "link": "https://www.omroepflevoland.nl/nieuws/524028/gedeputeerde-zwijgt:-omvang-financiele-problemen-bij-ebs-blijft-onduidelijk",
-        "published": "Wed, 16 Sep 2026 20:20:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
-        "link": "https://nos.nl/l/2631622",
-        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
-        "summary": ""
       }
     ],
     "Radio Lelystad": [
@@ -627,7 +635,7 @@
         "summary": ""
       },
       {
-        "title": "PVV maakt melding van ernstige bedreiging en mishandeling in Bultpark en wil actie van de gemeente",
+        "title": "PVV maakt melding van ernstige mishandeling in Bultpark en wil actie van de gemeente",
         "link": "https://radiolelystad.nl/pvv-maakt-melding-van-ernstige-bedreiging-en-mishandeling-in-bultpark-en-wil-actie-van-de-gemeente",
         "published": "maandag 21 september 2026",
         "summary": ""
@@ -912,14 +920,6 @@
         "title": "Sluiting garage De Waag voor aanleggen nieuwe hellingbaan is onontkoombaar",
         "link": "https://radiolelystad.nl/sluiting-garage-de-waag-voor-aanleggen-nieuwe-hellingbaan-is-onontkoombaar",
         "published": "woensdag 02 september 2026",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
-        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
-        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
         "summary": ""
       }
     ]

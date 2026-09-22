@@ -1,6 +1,22 @@
 {
-  "updated": "2026-09-22T05:00:48.683578+00:00",
+  "updated": "2026-09-22T06:00:49.144901+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
+        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
+        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Man (18) uit Lelystad opgepakt na schietincident in Rotterdam",
@@ -904,22 +920,6 @@
         "title": "Lelystad - Sebastiaan (20) levert hamer voor overval op juwelier: voorwaardelijke jeugd-tbs",
         "link": "https://www.omroepflevoland.nl/nieuws/523934/sebastiaan-(20)-levert-hamer-voor-overval-op-juwelier:-voorwaardelijke-jeugd-tbs",
         "published": "Wed, 16 Sep 2026 09:33:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
-        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
-        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
-        "link": "https://nos.nl/l/2631622",
-        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
         "summary": ""
       }
     ]

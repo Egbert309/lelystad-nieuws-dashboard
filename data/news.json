@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T03:00:47.228233+00:00",
+  "updated": "2026-09-22T04:00:43.744390+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -613,14 +613,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
-        "link": "https://nos.nl/l/2631622",
-        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Lelystedeling (18) en vier andere verdachten gepakt door Rotterdamse politie na vuurwapenmelding",
@@ -920,6 +912,14 @@
         "title": "Lelystad - Sebastiaan (20) levert hamer voor overval op juwelier: voorwaardelijke jeugd-tbs",
         "link": "https://www.omroepflevoland.nl/nieuws/523934/sebastiaan-(20)-levert-hamer-voor-overval-op-juwelier:-voorwaardelijke-jeugd-tbs",
         "published": "Wed, 16 Sep 2026 09:33:00 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
         "summary": ""
       }
     ]

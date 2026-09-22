@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T07:02:54.733484+00:00",
+  "updated": "2026-09-22T08:00:44.361933+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -613,14 +613,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
-        "link": "https://nos.nl/l/2631622",
-        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Lelystedeling (18) en vier andere verdachten gepakt door Rotterdamse politie na vuurwapenmelding",
@@ -920,6 +912,14 @@
         "title": "Urk - Hulpdiensten voorkomen op het nippertje dat binnenvaartschip geladen met zand op het IJsselmeer ten onder gaat",
         "link": "https://www.omroepflevoland.nl/nieuws/523990/hulpdiensten-voorkomen-op-het-nippertje-dat-binnenvaartschip-geladen-met-zand-op-het-ijsselmeer-ten-onder-gaat",
         "published": "Wed, 16 Sep 2026 11:26:08 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
         "summary": ""
       }
     ]

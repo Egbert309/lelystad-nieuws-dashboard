@@ -1,14 +1,6 @@
 {
-  "updated": "2026-09-22T10:00:45.168206+00:00",
+  "updated": "2026-09-22T11:00:46.236940+00:00",
   "sources": {
-    "Nu.nl": [
-      {
-        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
-        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
-        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Waterleiding knapt in kooklokaal Porteum en zet meerdere verdiepingen blank, leerlingen naar huis gestuurd",
@@ -68,6 +60,12 @@
         "title": "Lelystad - Tbs opnieuw verlengd van Patrick (43) die vrouw verkrachtte tijdens verlof: hij wacht op plaatsing in longstay",
         "link": "https://www.omroepflevoland.nl/nieuws/524625/tbs-opnieuw-verlengd-van-patrick-(43)-die-vrouw-verkrachtte-tijdens-verlof:-hij-wacht-op-plaatsing-in-longstay",
         "published": "Mon, 21 Sep 2026 15:13:54 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Politie vindt grote hoeveelheid drugs in woning Punter Lelystad na explosie en brand",
+        "link": "https://www.omroepflevoland.nl/nieuws/524600/politie-vindt-grote-hoeveelheid-drugs-in-woning-punter-lelystad-na-explosie-en-brand",
+        "published": "Mon, 21 Sep 2026 13:17:44 GMT+0200",
         "summary": ""
       },
       {
@@ -303,15 +301,23 @@
         "link": "https://www.omroepflevoland.nl/nieuws/524030/van-d-day-tot-regeringsvliegtuig:-dakota-ph-pba-krijgt-definitieve-plek-in-aviodrome",
         "published": "Wed, 16 Sep 2026 17:58:28 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "Nu.nl": [
       {
-        "title": "Almere - Maximale taakstraf voor vrouw die kettingbotsing op Oostvaardersdijk veroorzaakte",
-        "link": "https://www.omroepflevoland.nl/nieuws/524016/maximale-taakstraf-voor-vrouw-die-kettingbotsing-op-oostvaardersdijk-veroorzaakte",
-        "published": "Wed, 16 Sep 2026 15:55:50 GMT+0200",
+        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
+        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
+        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
         "summary": ""
       }
     ],
     "Radio Lelystad": [
+      {
+        "title": "Bouw van nieuwe distributiecentrum voor online platform bol van start",
+        "link": "https://radiolelystad.nl/bouw-van-nieuwe-distributiecentrum-voor-online-platform-bol-van-start",
+        "published": "dinsdag 22 september 2026",
+        "summary": ""
+      },
       {
         "title": "Seabottom Muziekfestival 2026 sfeerverslag (video)",
         "link": "https://radiolelystad.nl/seabottom-muziekfestival-2026-sfeerverslag-video",
@@ -603,12 +609,6 @@
       {
         "title": "Sluiting garage De Waag voor aanleggen nieuwe hellingbaan is onontkoombaar",
         "link": "https://radiolelystad.nl/sluiting-garage-de-waag-voor-aanleggen-nieuwe-hellingbaan-is-onontkoombaar",
-        "published": "woensdag 02 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Echtpaar Trudy en Ted Warren zijn 70 jaar getrouwd, onderdeel van een selecte groep",
-        "link": "https://radiolelystad.nl/echtpaar-trudy-en-ted-warren-zijn-70-jaar-getrouwd-en-nu-onderdeel-van-een-selecte-groep",
         "published": "woensdag 02 september 2026",
         "summary": ""
       }

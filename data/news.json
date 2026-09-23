@@ -1,7 +1,21 @@
 {
-  "updated": "2026-09-23T10:00:34.767205+00:00",
+  "updated": "2026-09-23T11:00:34.364696+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
+      {
+        "title": "Budget van vier miljoen euro voor gezamenlijke verjaardagsfeest stad en koning",
+        "link": "https://radiolelystad.nl/budget-van-vier-miljoen-euro-voor-gezamenlijke-verjaardagsfeest-stad-en-koning",
+        "published": "woensdag 23 september 2026",
+        "summary": ""
+      },
       {
         "title": "Extra Beveiligde Zittingzaal blijkt lastig in te passen bij gevangenis vanwege veiligheidszone",
         "link": "https://radiolelystad.nl/extra-beveiligde-zittingzaal-blijkt-lastig-in-te-passen-bij-gevangenis-vanwege-veiligheidszone",
@@ -295,15 +309,15 @@
         "link": "https://radiolelystad.nl/wegafsluitingen-wegens-challenge-almere-amsterdam-triathlon",
         "published": "maandag 07 september 2026",
         "summary": ""
-      },
-      {
-        "title": "‘Happy Days’ zorgt deze week voor afsluiting en volgend jaar voor herkenning in de bios",
-        "link": "https://radiolelystad.nl/happy-days-zorgt-deze-week-voor-afsluiting-en-volgend-jaar-voor-herkenning-in-de-bios",
-        "published": "zondag 06 september 2026",
-        "summary": ""
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - College wil af van hoofdpijndossier werkeiland, zonder appartementen",
+        "link": "https://www.omroepflevoland.nl/nieuws/524804/college-wil-af-van-hoofdpijndossier-werkeiland-zonder-appartementen",
+        "published": "Wed, 23 Sep 2026 12:11:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Gemeente biedt bewoners van zes bootwrakken plek aan voor de winter",
         "link": "https://www.omroepflevoland.nl/nieuws/524801/gemeente-biedt-bewoners-van-zes-bootwrakken-plek-aan-voor-de-winter",
@@ -597,11 +611,13 @@
         "link": "https://www.omroepflevoland.nl/nieuws/524200/auto-belandt-op-zijn-dak-bij-supermarkt-in-lelystad",
         "published": "Thu, 17 Sep 2026 21:34:33 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "Nu.nl": [
       {
-        "title": "Flevoland - Nieuwsoverzicht 17/09 | Spookauto eindelijk weggehaald • Urker politicus verdacht van aanranding",
-        "link": "https://www.omroepflevoland.nl/nieuws/524165/nieuwsoverzicht-1709-or-spookauto-eindelijk-weggehaald-*-urker-politicus-verdacht-van-aanranding",
-        "published": "Thu, 17 Sep 2026 18:45:00 GMT+0200",
+        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
+        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
+        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
         "summary": ""
       }
     ],
@@ -904,22 +920,6 @@
         "title": "Onderzoeker Ania woelt in de grond en haalt aardappelen boven die de landbouw kunnen omgooien",
         "link": "https://www.destentor.nl/lelystad/onderzoeker-ania-woelt-in-de-grond-en-haalt-aardappelen-boven-die-de-landbouw-kunnen-omgooien~a0992342/",
         "published": "Mon, 07 Sep 2026 04:00:00 GMT",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
-        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
-        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
-        "link": "https://nos.nl/l/2631622",
-        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
         "summary": ""
       }
     ]

@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-23T06:00:45.574782+00:00",
+  "updated": "2026-09-23T07:03:08.398934+00:00",
   "sources": {
-    "Nu.nl": [
-      {
-        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
-        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
-        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
-        "summary": ""
-      }
-    ],
     "NOS": [
       {
         "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
         "link": "https://nos.nl/l/2631622",
         "published": "Sat, 19 Sep 2026 12:36:33 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
+        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
+        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
         "summary": ""
       }
     ],
@@ -321,6 +321,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Lelystad - Omwonenden Bultpark verdeeld over veiligheid: van 'mijn kinderen mogen hier 's avonds niet lopen' tot 'geweldige buurt'",
+        "link": "https://www.omroepflevoland.nl/nieuws/524792/omwonenden-bultpark-verdeeld-over-veiligheid:-van-'mijn-kinderen-mogen-hier-'s-avonds-niet-lopen'-tot-'geweldige-buurt'",
+        "published": "Wed, 23 Sep 2026 08:47:59 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Noordoostpolder - Verouderd asfalt A6 tussen Ketelbrug en Urk wordt eerder aangepakt dan gepland",
         "link": "https://www.omroepflevoland.nl/nieuws/524743/verouderd-asfalt-a6-tussen-ketelbrug-en-urk-wordt-eerder-aangepakt-dan-gepland",
         "published": "Tue, 22 Sep 2026 20:18:00 GMT+0200",
@@ -612,12 +618,6 @@
         "title": "Urk - Urker (58) hoort celstraf tegen zich eisen wegens aanranding van jongen (18), 'politieke carrière staat op het spel'",
         "link": "https://www.omroepflevoland.nl/nieuws/524133/urker-(58)-hoort-celstraf-tegen-zich-eisen-wegens-aanranding-van-jongen-(18)-'politieke-carriere-staat-op-het-spel'",
         "published": "Thu, 17 Sep 2026 12:20:42 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Provincie moet grotere rol spelen bij bewustwording en voorkomen van femicide",
-        "link": "https://www.omroepflevoland.nl/nieuws/524125/provincie-moet-grotere-rol-spelen-bij-bewustwording-en-voorkomen-van-femicide",
-        "published": "Thu, 17 Sep 2026 12:03:25 GMT+0200",
         "summary": ""
       }
     ],

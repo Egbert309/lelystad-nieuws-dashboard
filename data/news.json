@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T21:00:59.417586+00:00",
+  "updated": "2026-09-23T22:00:35.163573+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -300,6 +300,22 @@
         "title": "Stroomstoring in Almere, Lelystad en Zeewolde opgelost",
         "link": "https://www.destentor.nl/almere/stroomstoring-in-almere-lelystad-en-zeewolde-opgelost~aa2fa1bee/",
         "published": "Mon, 07 Sep 2026 17:33:28 GMT",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
+        "link": "https://nos.nl/l/2631622",
+        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
+        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
+        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
         "summary": ""
       }
     ],
@@ -605,14 +621,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Voor het laatst kiest de Batavia vanuit Lelystad het ruime sop",
-        "link": "https://nos.nl/l/2631622",
-        "published": "Sat, 19 Sep 2026 12:36:33 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Almere - Almeerder scheurt met 154 kilometer per uur door de stad en bedreigt agenten",
@@ -912,14 +920,6 @@
         "title": "Flevoland - Motorrijder zwaargewond door ongeluk op Ketelbrug, A6  dicht voor sporenonderzoek",
         "link": "https://www.omroepflevoland.nl/nieuws/524326/motorrijder-zwaargewond-door-ongeluk-op-ketelbrug-a6-dicht-voor-sporenonderzoek",
         "published": "Fri, 18 Sep 2026 19:47:20 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
-        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
-        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
         "summary": ""
       }
     ]

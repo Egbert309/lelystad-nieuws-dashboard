@@ -1,20 +1,17 @@
 {
-  "updated": "2026-09-25T08:00:42.040924+00:00",
+  "updated": "2026-09-25T09:00:35.372913+00:00",
   "sources": {
-    "NOS": [],
-    "Nu.nl": [
-      {
-        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
-        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
-        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Bezoekerscentrum voor landschapskunst opent op station Lelystad Centrum",
         "link": "https://www.omroepflevoland.nl/nieuws/523273/bezoekerscentrum-voor-landschapskunst-opent-op-station-lelystad-centrum",
         "published": "Fri, 25 Sep 2026 08:55:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Overheid wil graag dat mensen hun vuurwerk inleveren, maar dat kan hier maar op twee plekken",
+        "link": "https://www.omroepflevoland.nl/nieuws/525051/overheid-wil-graag-dat-mensen-hun-vuurwerk-inleveren-maar-dat-kan-hier-maar-op-twee-plekken",
+        "published": "Fri, 25 Sep 2026 07:07:00 GMT+0200",
         "summary": ""
       },
       {
@@ -303,12 +300,6 @@
         "title": "Lelystad - Jongen in elkaar geslagen in Bultpark na aanspreken op scheldwoord",
         "link": "https://www.omroepflevoland.nl/nieuws/524593/jongen-in-elkaar-geslagen-in-bultpark-na-aanspreken-op-scheldwoord",
         "published": "Mon, 21 Sep 2026 11:44:15 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Net gekochte boot na een uur al lek: vader en dochter gered door KNRM bij Lelystad Haven",
-        "link": "https://www.omroepflevoland.nl/nieuws/524518/net-gekochte-boot-na-een-uur-al-lek:-vader-en-dochter-gered-door-knrm-bij-lelystad-haven",
-        "published": "Sun, 20 Sep 2026 18:01:23 GMT+0200",
         "summary": ""
       }
     ],
@@ -915,6 +906,15 @@
         "published": "woensdag 09 september 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": [
+      {
+        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
+        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
+        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
+        "summary": ""
+      }
+    ],
+    "NOS": []
   }
 }

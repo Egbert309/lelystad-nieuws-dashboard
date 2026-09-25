@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-25T09:00:35.372913+00:00",
+  "updated": "2026-09-25T10:00:36.840381+00:00",
   "sources": {
+    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Explosiepand Breehorn met onmiddellijke ingang gesloten door burgemeester Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/525136/explosiepand-breehorn-met-onmiddellijke-ingang-gesloten-door-burgemeester-lelystad",
+        "published": "Fri, 25 Sep 2026 11:42:53 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Bezoekerscentrum voor landschapskunst opent op station Lelystad Centrum",
         "link": "https://www.omroepflevoland.nl/nieuws/523273/bezoekerscentrum-voor-landschapskunst-opent-op-station-lelystad-centrum",
@@ -293,12 +300,6 @@
       {
         "title": "Lelystad - Jongen door groep in elkaar geslagen in Bultpark Lelystad na aanspreken op scheldwoord",
         "link": "https://www.omroepflevoland.nl/nieuws/524593/jongen-door-groep-in-elkaar-geslagen-in-bultpark-lelystad-na-aanspreken-op-scheldwoord",
-        "published": "Mon, 21 Sep 2026 11:44:15 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Jongen in elkaar geslagen in Bultpark na aanspreken op scheldwoord",
-        "link": "https://www.omroepflevoland.nl/nieuws/524593/jongen-in-elkaar-geslagen-in-bultpark-na-aanspreken-op-scheldwoord",
         "published": "Mon, 21 Sep 2026 11:44:15 GMT+0200",
         "summary": ""
       }
@@ -605,6 +606,14 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [
+      {
+        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
+        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
+        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Nieuw plan voor nieuwbouw kerk Het Anker en appartementen in het Karveel",
@@ -906,15 +915,6 @@
         "published": "woensdag 09 september 2026",
         "summary": ""
       }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
-        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
-        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
-        "summary": ""
-      }
-    ],
-    "NOS": []
+    ]
   }
 }

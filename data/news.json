@@ -1,7 +1,14 @@
 {
-  "updated": "2026-09-24T23:00:30.816469+00:00",
+  "updated": "2026-09-25T00:00:57.730441+00:00",
   "sources": {
-    "NOS": [],
+    "Nu.nl": [
+      {
+        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
+        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
+        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Nieuw plan voor nieuwbouw kerk Het Anker en appartementen in het Karveel",
@@ -606,14 +613,7 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [
-      {
-        "title": "Jongen in park mishandeld door groep die hij aansprak op schelden met 'kanker'",
-        "link": "https://www.nu.nl/binnenland/6410478/jongen-in-park-mishandeld-door-groep-die-hij-aansprak-op-schelden-met-kanker.html",
-        "published": "Mon, 21 Sep 2026 14:39:48 +0200",
-        "summary": ""
-      }
-    ],
+    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Almere doet weer mee met plannen voor tweede fase Lelystad Airport Businesspark",

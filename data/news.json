@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T06:00:43.167080+00:00",
+  "updated": "2026-09-25T07:04:21.395336+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -311,8 +311,13 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Bezoekerscentrum voor landschapskunst opent op station Lelystad Centrum",
+        "link": "https://www.omroepflevoland.nl/nieuws/523273/bezoekerscentrum-voor-landschapskunst-opent-op-station-lelystad-centrum",
+        "published": "Fri, 25 Sep 2026 08:55:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Overheid wil graag dat mensen hun vuurwerk inleveren, maar dat kan in Flevoland maar op twee plekken",
         "link": "https://www.omroepflevoland.nl/nieuws/525051/overheid-wil-graag-dat-mensen-hun-vuurwerk-inleveren-maar-dat-kan-in-flevoland-maar-op-twee-plekken",
@@ -606,14 +611,9 @@
         "link": "https://www.omroepflevoland.nl/nieuws/524518/net-gekochte-boot-na-een-uur-al-lek:-vader-en-dochter-gered-door-knrm-bij-lelystad-haven",
         "published": "Sun, 20 Sep 2026 18:01:23 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Flevoland - Jeugdvrienden na meer dan zestig jaar herenigd: 'Ik zie zijn gezicht nog zo voor me'",
-        "link": "https://www.omroepflevoland.nl/nieuws/524484/jeugdvrienden-na-meer-dan-zestig-jaar-herenigd:-'ik-zie-zijn-gezicht-nog-zo-voor-me'",
-        "published": "Sun, 20 Sep 2026 16:29:58 GMT+0200",
-        "summary": ""
       }
     ],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Nieuw plan voor nieuwbouw kerk Het Anker en appartementen in het Karveel",

@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-29T10:00:38.443152+00:00",
+  "updated": "2026-09-29T11:00:35.455895+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Houtribdijk vanaf 21 oktober mogelijk jaren dicht voor zware vrachtwagens",
+        "link": "https://nos.nl/l/2632982",
+        "published": "Tue, 29 Sep 2026 11:56:57 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Jeugdgevangenissen steeds verder onder druk, inspecties manen kabinet tot actie",
+        "link": "https://nos.nl/l/2632874",
+        "published": "Mon, 28 Sep 2026 13:14:26 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Lola Love keert terug naar Lelystad voor presentatie in KRUL",
@@ -918,20 +932,6 @@
         "title": "Lelystad Airport en ROC Amsterdam zetten in op campus naast terminal",
         "link": "https://radiolelystad.nl/lelystad-airport-en-roc-amsterdam-zien-op-termijn-campus-naast-de-passagiersterminal-verschijnen",
         "published": "donderdag 10 september 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Houtribdijk vanaf 21 oktober mogelijk jaren dicht voor zware vrachtwagens",
-        "link": "https://nos.nl/l/2632982",
-        "published": "Tue, 29 Sep 2026 11:56:57 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Jeugdgevangenissen steeds verder onder druk, inspecties manen kabinet tot actie",
-        "link": "https://nos.nl/l/2632874",
-        "published": "Mon, 28 Sep 2026 13:14:26 +0200",
         "summary": ""
       }
     ]

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T11:00:45.454492+00:00",
+  "updated": "2026-09-30T12:00:57.334216+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,6 +303,20 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Houtribdijk vanaf 21 oktober mogelijk jaren dicht voor zware vrachtwagens",
+        "link": "https://nos.nl/l/2632982",
+        "published": "Tue, 29 Sep 2026 11:56:57 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Jeugdgevangenissen steeds verder onder druk, inspecties manen kabinet tot actie",
+        "link": "https://nos.nl/l/2632874",
+        "published": "Mon, 28 Sep 2026 13:14:26 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Verhaal van de week: Dokter Balten en broeder Rebel (Egbert Voerman)",
@@ -602,20 +616,6 @@
         "title": "LelyStart zet het Stadshart de hele zaterdag op z’n kop (met video)",
         "link": "https://radiolelystad.nl/lelystart-zet-het-stadshart-de-hele-zaterdag-op-z-n-kop",
         "published": "zondag 13 september 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Houtribdijk vanaf 21 oktober mogelijk jaren dicht voor zware vrachtwagens",
-        "link": "https://nos.nl/l/2632982",
-        "published": "Tue, 29 Sep 2026 11:56:57 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Jeugdgevangenissen steeds verder onder druk, inspecties manen kabinet tot actie",
-        "link": "https://nos.nl/l/2632874",
-        "published": "Mon, 28 Sep 2026 13:14:26 +0200",
         "summary": ""
       }
     ],

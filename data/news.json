@@ -1,20 +1,6 @@
 {
-  "updated": "2026-09-30T16:00:35.904033+00:00",
+  "updated": "2026-09-30T17:00:37.453552+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Houtribdijk vanaf 21 oktober mogelijk jaren dicht voor zware vrachtwagens",
-        "link": "https://nos.nl/l/2632982",
-        "published": "Tue, 29 Sep 2026 11:56:57 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Jeugdgevangenissen steeds verder onder druk, inspecties manen kabinet tot actie",
-        "link": "https://nos.nl/l/2632874",
-        "published": "Mon, 28 Sep 2026 13:14:26 +0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
       {
         "title": "Investeringen in nieuwe en bestaande sportvoorzieningen, mogelijk gemaakt door woningbouw",
@@ -621,6 +607,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Flevoland - Nieuwsoverzicht 30/09 | Máxima toegejuicht op Urk • Coffeeshop gaat open",
+        "link": "https://www.omroepflevoland.nl/nieuws/525745/nieuwsoverzicht-3009-or-maxima-toegejuicht-op-urk-*-coffeeshop-gaat-open",
+        "published": "Wed, 30 Sep 2026 18:49:00 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Lelystad - Lelystadse vrouw wil huis na beschietingen niet verlaten: 'Ik word neergezet als dader'",
         "link": "https://www.omroepflevoland.nl/nieuws/525757/lelystadse-vrouw-wil-huis-na-beschietingen-niet-verlaten:-'ik-word-neergezet-als-dader'",
         "published": "Wed, 30 Sep 2026 16:59:42 GMT+0200",
@@ -913,11 +905,19 @@
         "link": "https://www.omroepflevoland.nl/nieuws/524951/uitgebrande-woning-in-lelystad-bewaakt-door-politieagenten-forensisch-onderzoek-naar-oorzaak",
         "published": "Thu, 24 Sep 2026 08:10:36 GMT+0200",
         "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Houtribdijk vanaf 21 oktober mogelijk jaren dicht voor zware vrachtwagens",
+        "link": "https://nos.nl/l/2632982",
+        "published": "Tue, 29 Sep 2026 11:56:57 +0200",
+        "summary": ""
       },
       {
-        "title": "Lelystad - Woning in Lelystad deels uitgebrand na explosie, geen gewonden",
-        "link": "https://www.omroepflevoland.nl/nieuws/524951/woning-in-lelystad-deels-uitgebrand-na-explosie-geen-gewonden",
-        "published": "Thu, 24 Sep 2026 08:10:36 GMT+0200",
+        "title": "Jeugdgevangenissen steeds verder onder druk, inspecties manen kabinet tot actie",
+        "link": "https://nos.nl/l/2632874",
+        "published": "Mon, 28 Sep 2026 13:14:26 +0200",
         "summary": ""
       }
     ],

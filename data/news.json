@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T08:35:05.910877+00:00",
+  "updated": "2026-10-03T13:59:26.368918+00:00",
   "sources": {
     "Nu.nl": [
       {
@@ -16,6 +16,18 @@
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - 20-jarige vrouw uit Lelystad aangehouden voor drugshandel, halve kilo cocaïne gevonden",
+        "link": "https://www.omroepflevoland.nl/nieuws/526121/20-jarige-vrouw-uit-lelystad-aangehouden-voor-drugshandel-halve-kilo-cocaine-gevonden",
+        "published": "Sat, 03 Oct 2026 13:58:05 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Dienstregeling EBS: dit verandert er vanaf 13 december met de bussen",
+        "link": "https://www.omroepflevoland.nl/nieuws/526012/dienstregeling-ebs:-dit-verandert-er-vanaf-13-december-met-de-bussen",
+        "published": "Sat, 03 Oct 2026 12:28:48 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 02/10 | Flink omrijden door wegafsluitingen • Batavia aan land gebracht",
         "link": "https://www.omroepflevoland.nl/nieuws/526010/nieuwsoverzicht-0210-or-flink-omrijden-door-wegafsluitingen-*-batavia-aan-land-gebracht",
@@ -303,21 +315,47 @@
         "link": "https://www.omroepflevoland.nl/nieuws/525439/motorrijder-zwaargewond-geraakt-bij-ongeluk-op-dijk-bij-ingang-naar-maxima-centrale",
         "published": "Sun, 27 Sep 2026 21:38:26 GMT+0200",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Lelystad - Motorrijder zwaargewond bij Maxima Centrale",
-        "link": "https://www.omroepflevoland.nl/nieuws/525439/motorrijder-zwaargewond-bij-maxima-centrale",
-        "published": "Sun, 27 Sep 2026 21:38:26 GMT+0200",
+        "title": "Na bezoek aan Amsterdam wordt het schip de Batavia voorgoed op het droge gezet",
+        "link": "https://nos.nl/l/2633297",
+        "published": "Thu, 1 Oct 2026 18:39:00 +0200",
         "summary": ""
       },
       {
-        "title": "Lelystad - Boulevard in Zuiderzeewijk in Lelystad brengt buurtbewoners samen",
-        "link": "https://www.omroepflevoland.nl/nieuws/525407/boulevard-in-zuiderzeewijk-in-lelystad-brengt-buurtbewoners-samen",
-        "published": "Sun, 27 Sep 2026 20:59:41 GMT+0200",
+        "title": "Batavia is terug in Lelystad: 'Fijn dat hij er weer is'",
+        "link": "https://nos.nl/l/2633288",
+        "published": "Thu, 1 Oct 2026 18:14:38 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Houtribdijk vanaf 21 oktober mogelijk jaren dicht voor zware vrachtwagens",
+        "link": "https://nos.nl/l/2632982",
+        "published": "Tue, 29 Sep 2026 11:56:57 +0200",
         "summary": ""
       }
     ],
     "Radio Lelystad": [
+      {
+        "title": "Politie vermoedt band met Lelystad bij brandstichtingen in Kampen, beelden dader gedeeld",
+        "link": "https://radiolelystad.nl/politie-vermoedt-band-met-lelystad-bij-brandstichtingen-in-kampen-beelden-dader-gedeeld",
+        "published": "zaterdag 03 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Lelystedelinge aangehouden in Purmerend als verdachte van drugshandel",
+        "link": "https://radiolelystad.nl/lelystedelinge-aangehouden-in-purmerend-als-verdachte-van-drugshandel",
+        "published": "zaterdag 03 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Zoektocht naar nesten geelpoothoornaar in Flevoland gaat door",
+        "link": "https://radiolelystad.nl/zoektocht-naar-nesten-geelpoothoornaar-in-flevoland-gaat-door",
+        "published": "zaterdag 03 oktober 2026",
+        "summary": ""
+      },
       {
         "title": "De Batavia is weer thuis, verhuizing over de dijk probleemloos verlopen",
         "link": "https://radiolelystad.nl/de-batavia-is-weer-thuis-verhuizing-over-de-dijk-probleemloos-verlopen",
@@ -599,50 +637,6 @@
         "link": "https://radiolelystad.nl/sloop-de-trommel-voorzien-voor-mei-om-plaats-te-maken-voor-nieuwe-ontwikkeling-in-stadshart",
         "published": "woensdag 16 september 2026",
         "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: PIER + HORIZON (Derya Uzun)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-pier-horizon-derya-uzun",
-        "published": "woensdag 16 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeenteraad vindt initiatief spetterbaden sympathiek, maar wil eerst weten wat het kost",
-        "link": "https://radiolelystad.nl/gemeenteraad-vindt-initiatief-spetterbaden-sympathiek-maar-wil-eerst-weten-wat-het-kost",
-        "published": "dinsdag 15 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Wethouder Bakelaar trapt lessen 'Sterk & Fit' af bij beweegbank Hanzeborg",
-        "link": "https://radiolelystad.nl/wethouder-bakelaar-trapt-lessen-sterk-fit-af-bij-beweegbank-hanzeborg",
-        "published": "dinsdag 15 september 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Na bezoek aan Amsterdam wordt het schip de Batavia voorgoed op het droge gezet",
-        "link": "https://nos.nl/l/2633297",
-        "published": "Thu, 1 Oct 2026 18:39:00 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Batavia is terug in Lelystad: 'Fijn dat hij er weer is'",
-        "link": "https://nos.nl/l/2633288",
-        "published": "Thu, 1 Oct 2026 18:14:38 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Houtribdijk vanaf 21 oktober mogelijk jaren dicht voor zware vrachtwagens",
-        "link": "https://nos.nl/l/2632982",
-        "published": "Tue, 29 Sep 2026 11:56:57 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Jeugdgevangenissen steeds verder onder druk, inspecties manen kabinet tot actie",
-        "link": "https://nos.nl/l/2632874",
-        "published": "Mon, 28 Sep 2026 13:14:26 +0200",
-        "summary": ""
       }
     ],
     "De Stentor": [
@@ -650,6 +644,12 @@
         "title": "Voetbalclub mag geen muziek meer draaien of spelersnamen omroepen na klachten: ‘Het is absurd’",
         "link": "https://www.destentor.nl/lelystad/voetbalclub-mag-geen-muziek-meer-draaien-of-spelersnamen-omroepen-na-klachten-het-is-absurd~a58a3f0c/",
         "published": "Sat, 03 Oct 2026 08:30:35 GMT",
+        "summary": ""
+      },
+      {
+        "title": "Geen muziek of spelersnamen meer omroepen: voetbalclub krijgt brief op de mat na klachten",
+        "link": "https://www.destentor.nl/lelystad/geen-muziek-of-spelersnamen-meer-omroepen-voetbalclub-krijgt-brief-op-de-mat-na-klachten~a58a3f0c/",
+        "published": "Sat, 03 Oct 2026 08:30:00 GMT",
         "summary": ""
       },
       {
@@ -938,12 +938,6 @@
         "title": "Wethouder geeft startsein voor gratis sport- en beweegprogramma in Lelystad",
         "link": "https://www.destentor.nl/lelystad/wethouder-geeft-startsein-voor-gratis-sport-en-beweegprogramma-in-lelystad~a5c7eb60/",
         "published": "Wed, 16 Sep 2026 11:12:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Afgelopen week 32 meldingen van de gemeente over sloop en bomenkap in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-32-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-lelystad~a5fc81296/",
-        "published": "Wed, 16 Sep 2026 09:01:43 GMT",
         "summary": ""
       }
     ]

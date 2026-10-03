@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-02T23:19:18.541326+00:00",
+  "updated": "2026-10-03T02:25:34.678019+00:00",
   "sources": {
+    "Nu.nl": [
+      {
+        "title": "Houtribdijk mogelijk jaren dicht voor zwaar verkeer",
+        "link": "https://www.nu.nl/binnenland/6411347/houtribdijk-mogelijk-jaren-dicht-voor-zwaar-verkeer.html",
+        "published": "Tue, 29 Sep 2026 10:57:05 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Markerwaarddijk mogelijk jaren dicht voor zwaar verkeer",
+        "link": "https://www.nu.nl/binnenland/6411347/markerwaarddijk-mogelijk-jaren-dicht-voor-zwaar-verkeer.html",
+        "published": "Tue, 29 Sep 2026 10:57:05 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Open Huizen Dag in Lelystad: 41 huizen tussen 279.000 en 1.150.000 euro te bezichtigen",
@@ -300,46 +314,6 @@
         "title": "Net van zijn enkelband af helpt man (20) uit Lelystad bij overval op juwelier in Batavia Stad",
         "link": "https://www.destentor.nl/lelystad/net-van-zijn-enkelband-af-helpt-man-20-uit-lelystad-bij-overval-op-juwelier-in-batavia-stad~a58f5350/",
         "published": "Tue, 15 Sep 2026 19:00:00 GMT",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Houtribdijk mogelijk jaren dicht voor zwaar verkeer",
-        "link": "https://www.nu.nl/binnenland/6411347/houtribdijk-mogelijk-jaren-dicht-voor-zwaar-verkeer.html",
-        "published": "Tue, 29 Sep 2026 10:57:05 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Markerwaarddijk mogelijk jaren dicht voor zwaar verkeer",
-        "link": "https://www.nu.nl/binnenland/6411347/markerwaarddijk-mogelijk-jaren-dicht-voor-zwaar-verkeer.html",
-        "published": "Tue, 29 Sep 2026 10:57:05 +0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Na bezoek aan Amsterdam wordt het schip de Batavia voorgoed op het droge gezet",
-        "link": "https://nos.nl/l/2633297",
-        "published": "Thu, 1 Oct 2026 18:39:00 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Batavia is terug in Lelystad: 'Fijn dat hij er weer is'",
-        "link": "https://nos.nl/l/2633288",
-        "published": "Thu, 1 Oct 2026 18:14:38 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Houtribdijk vanaf 21 oktober mogelijk jaren dicht voor zware vrachtwagens",
-        "link": "https://nos.nl/l/2632982",
-        "published": "Tue, 29 Sep 2026 11:56:57 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Jeugdgevangenissen steeds verder onder druk, inspecties manen kabinet tot actie",
-        "link": "https://nos.nl/l/2632874",
-        "published": "Mon, 28 Sep 2026 13:14:26 +0200",
         "summary": ""
       }
     ],
@@ -944,6 +918,32 @@
         "title": "Lelystad - Boulevard in Zuiderzeewijk in Lelystad brengt buurtbewoners samen",
         "link": "https://www.omroepflevoland.nl/nieuws/525407/boulevard-in-zuiderzeewijk-in-lelystad-brengt-buurtbewoners-samen",
         "published": "Sun, 27 Sep 2026 20:59:41 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Na bezoek aan Amsterdam wordt het schip de Batavia voorgoed op het droge gezet",
+        "link": "https://nos.nl/l/2633297",
+        "published": "Thu, 1 Oct 2026 18:39:00 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Batavia is terug in Lelystad: 'Fijn dat hij er weer is'",
+        "link": "https://nos.nl/l/2633288",
+        "published": "Thu, 1 Oct 2026 18:14:38 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Houtribdijk vanaf 21 oktober mogelijk jaren dicht voor zware vrachtwagens",
+        "link": "https://nos.nl/l/2632982",
+        "published": "Tue, 29 Sep 2026 11:56:57 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Jeugdgevangenissen steeds verder onder druk, inspecties manen kabinet tot actie",
+        "link": "https://nos.nl/l/2632874",
+        "published": "Mon, 28 Sep 2026 13:14:26 +0200",
         "summary": ""
       }
     ]

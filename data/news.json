@@ -1,309 +1,6 @@
 {
-  "updated": "2026-10-04T18:25:15.669788+00:00",
+  "updated": "2026-10-04T22:00:45.997356+00:00",
   "sources": {
-    "Radio Lelystad": [
-      {
-        "title": "Unicum verliest op eigen veld van SV Losser, blijft vijfde op de ranglijst",
-        "link": "https://radiolelystad.nl/unicum-verliest-op-eigen-veld-van-sv-losser-blijft-vijfde-op-de-ranglijst",
-        "published": "zondag 04 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Twee locaties in beeld voor uitbreiding standplaatsen voor woonwagens",
-        "link": "https://radiolelystad.nl/twee-locaties-in-beeld-voor-uitbreiding-standplaatsen-voor-woonwagens",
-        "published": "zondag 04 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Kompassieloop wederom groot succes, ondanks iets minder deelnemers dan vorig jaar",
-        "link": "https://radiolelystad.nl/kompassieloop-wederom-groot-succes-ondanks-iets-minder-deelnemers-dan-vorig-jaar",
-        "published": "zaterdag 03 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Politie vermoedt band met Lelystad bij brandstichtingen in Kampen, beelden dader gedeeld",
-        "link": "https://radiolelystad.nl/politie-vermoedt-band-met-lelystad-bij-brandstichtingen-in-kampen-beelden-dader-gedeeld",
-        "published": "zaterdag 03 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Lelystedelinge aangehouden in Purmerend als verdachte van drugshandel",
-        "link": "https://radiolelystad.nl/lelystedelinge-aangehouden-in-purmerend-als-verdachte-van-drugshandel",
-        "published": "zaterdag 03 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Zoektocht naar nesten geelpoothoornaar in Flevoland gaat door",
-        "link": "https://radiolelystad.nl/zoektocht-naar-nesten-geelpoothoornaar-in-flevoland-gaat-door",
-        "published": "zaterdag 03 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "De Batavia is weer thuis, verhuizing over de dijk probleemloos verlopen",
-        "link": "https://radiolelystad.nl/de-batavia-is-weer-thuis-verhuizing-over-de-dijk-probleemloos-verlopen",
-        "published": "vrijdag 02 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Plan voor Waterfront aangepast na MER en opnieuw naar de gemeenteraad",
-        "link": "https://radiolelystad.nl/plan-voor-waterfront-aangepast-na-mer-en-opnieuw-naar-de-gemeenteraad",
-        "published": "vrijdag 02 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Huishoudboekje gemeente voor 2027 op orde, echte financiële keuzes volgen begin volgend jaar",
-        "link": "https://radiolelystad.nl/huishoudboekje-gemeente-voor-2027-op-orde-echte-financiele-keuzes-volgen-begin-volgend-jaar",
-        "published": "donderdag 01 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Nieuwe gebiedsvisie voor Natuurpark, wilde zwijnen, otters en przewalskipaarden verdwijnen",
-        "link": "https://radiolelystad.nl/nieuwe-gebiedsvisie-voor-natuurpark-lelystad-wilde-zwijnen-otters-en-przewalskipaarden-verdwijnen",
-        "published": "woensdag 30 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Investeringen in nieuwe en bestaande sportvoorzieningen, mogelijk gemaakt door woningbouw",
-        "link": "https://radiolelystad.nl/investeringen-in-nieuwe-en-bestaande-sportvoorzieningen-mogelijk-gemaakt-door-woningbouw",
-        "published": "woensdag 30 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Verhaal van de week: Dokter Balten en broeder Rebel (Egbert Voerman)",
-        "link": "https://radiolelystad.nl/verhaal-van-de-week-dokter-balten-en-broeder-rebel-egbert-voerman",
-        "published": "woensdag 30 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Net geen 100 kilo vuurwerk ingeleverd in Lelystad tijdens nationale vuurwerkinleveractie",
-        "link": "https://radiolelystad.nl/net-geen-100-kilo-vuurwerk-ingeleverd-in-lelystad-tijdens-nationale-vuurwerkinleveractie",
-        "published": "dinsdag 29 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Markerwaarddijk volgende maand voorlopig dicht voor zwaar verkeer",
-        "link": "https://radiolelystad.nl/markerwaarddijk-volgende-maand-voorlopig-dicht-voor-zwaar-verkeer",
-        "published": "dinsdag 29 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Batavia komt op 1 oktober terug naar Lelystad, 2 oktober op het droge",
-        "link": "https://radiolelystad.nl/batavia-komt-op-1-oktober-terug-naar-lelystad-2-oktober-op-het-droge",
-        "published": "dinsdag 29 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Sportbedrijf Lelystad zet beweegmakelaar in om ideale sport te vinden",
-        "link": "https://radiolelystad.nl/sportbedrijf-lelystad-zet-beweegmakelaar-in-om-ideale-sport-te-vinden",
-        "published": "maandag 28 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Unicum speelt tweede wedstrijd in competitie gelijk en staat vijfde op de ranglijst",
-        "link": "https://radiolelystad.nl/unicum-speelt-tweede-wedstrijd-in-competitie-gelijk-en-staat-vijfde-op-de-ranglijst",
-        "published": "zondag 27 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "1500 leerlingen beleven techniek op Bataviawerf tijdens Techniek Tastbaar Lelystad",
-        "link": "https://radiolelystad.nl/1500-leerlingen-beleven-techniek-op-bataviawerf-tijdens-techniek-tastbaar-lelystad",
-        "published": "zaterdag 26 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Ook woning aan de Breehorn op last van de burgemeester gesloten na explosie",
-        "link": "https://radiolelystad.nl/ook-woning-aan-de-breehorn-op-last-van-de-burgemeester-gesloten-na-explosie",
-        "published": "vrijdag 25 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Lelystadse animator Juan de Graaf brengt geschiedenis Zuiderzee tot leven in nieuwe film",
-        "link": "https://radiolelystad.nl/lelystadse-animator-juan-de-graaf-brengt-geschiedenis-zuiderzee-tot-leven-in-nieuwe-film",
-        "published": "vrijdag 25 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Nieuw plan voor nieuwbouw kerk Het Anker en appartementen in het Karveel",
-        "link": "https://radiolelystad.nl/nieuw-plan-voor-nieuwbouw-kerk-het-anker-en-appartementen-in-het-karveel",
-        "published": "donderdag 24 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "De Borg in de Landerijen van het gas af en aangesloten op warmtenet",
-        "link": "https://radiolelystad.nl/de-borg-in-de-landerijen-van-het-gas-af-en-aangesloten-op-warmtenet",
-        "published": "donderdag 24 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Enorme explosie verwoest achterkant van woning in de Breehorn",
-        "link": "https://radiolelystad.nl/enorme-explosie-verwoest-achterkant-van-woning-in-de-breehorn",
-        "published": "donderdag 24 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Sportfestival Lelystad 2026 (video)",
-        "link": "https://radiolelystad.nl/sportfestival-lelystad-2026-video",
-        "published": "donderdag 24 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Burgemeester besluit naast sluiten woning ook tot cameratoezicht in Punter 20",
-        "link": "https://radiolelystad.nl/burgemeester-besluit-naast-sluiten-woning-ook-tot-cameratoezicht-in-punter-20",
-        "published": "woensdag 23 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Budget van vier miljoen euro voor gezamenlijk verjaardagsfeest stad en koning",
-        "link": "https://radiolelystad.nl/budget-van-vier-miljoen-euro-voor-gezamenlijke-verjaardagsfeest-stad-en-koning",
-        "published": "woensdag 23 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Extra Beveiligde Zittingzaal blijkt lastig in te passen bij gevangenis vanwege veiligheidszone",
-        "link": "https://radiolelystad.nl/extra-beveiligde-zittingzaal-blijkt-lastig-in-te-passen-bij-gevangenis-vanwege-veiligheidszone",
-        "published": "woensdag 23 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Plannen voor grootschalige huisvesting arbeidsmigranten staan eventjes in de ijskast",
-        "link": "https://radiolelystad.nl/plannen-voor-grootschalige-huisvesting-arbeidsmigranten-staan-eventjes-in-de-ijskast",
-        "published": "woensdag 23 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Aanleg brug over Lage Dwarsvaart start begin volgend jaar en trekt veel belangstelling",
-        "link": "https://radiolelystad.nl/aanleg-brug-over-lage-dwarsvaart-start-begin-volgend-jaar-en-trekt-veel-belangstelling",
-        "published": "woensdag 23 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: Betty's diner (Joy Schouten)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-bettys-diner-joy-schouten",
-        "published": "woensdag 23 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Op dit moment nog 70 boten in Lelystadse wateren, voor zes bewoners wordt hulp gezocht",
-        "link": "https://radiolelystad.nl/op-dit-moment-nog-70-boten-in-lelystadse-wateren-voor-zes-bewoners-wordt-hulp-gezocht",
-        "published": "dinsdag 22 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Hoofdpijndossier werkeiland nadert ontknoping, maar het zal de gemeente (veel) geld gaan kosten",
-        "link": "https://radiolelystad.nl/hoofdpijndossier-werkeiland-nadert-ontknoping-maar-het-zal-de-gemeente-veel-geld-gaan-kosten",
-        "published": "dinsdag 22 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Sluiting buitencentra Staatsbosbeheer voorlopig uitgesteld vanwege de vele reacties",
-        "link": "https://radiolelystad.nl/sluiting-buitencentra-staatsbosbeheer-voorlopig-uitgesteld-vanwege-de-vele-reacties",
-        "published": "dinsdag 22 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Lelystedeling aangehouden na vuurwapenmelding in Rotterdam",
-        "link": "https://radiolelystad.nl/lelystedeling-aangehouden-na-vuurwapenmelding-in-rotterdam",
-        "published": "dinsdag 22 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Groot onderhoud aan de A6 wordt uitgebreid met traject Ketelbrug-Urk",
-        "link": "https://radiolelystad.nl/groot-onderhoud-aan-de-a6-wordt-uitgebreid-met-traject-ketelbrug-urk",
-        "published": "dinsdag 22 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Bouw van nieuwe distributiecentrum voor online platform bol van start",
-        "link": "https://radiolelystad.nl/bouw-van-nieuwe-distributiecentrum-voor-online-platform-bol-van-start",
-        "published": "dinsdag 22 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Seabottom Muziekfestival 2026 sfeerverslag (video)",
-        "link": "https://radiolelystad.nl/seabottom-muziekfestival-2026-sfeerverslag-video",
-        "published": "maandag 21 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "PVV maakt melding van ernstige mishandeling in Bultpark en wil actie van de gemeente",
-        "link": "https://radiolelystad.nl/pvv-maakt-melding-van-ernstige-bedreiging-en-mishandeling-in-bultpark-en-wil-actie-van-de-gemeente",
-        "published": "maandag 21 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Grote partij drugs aangetroffen na brandstichting in woning Punter 20",
-        "link": "https://radiolelystad.nl/grote-partij-drugs-aangetroffen-na-brandstichting-in-woning-punter-20",
-        "published": "maandag 21 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Opening barak met Lely-collectie van Ed Voigt verplaatst naar januari 2027",
-        "link": "https://radiolelystad.nl/opening-barak-met-lely-collectie-van-ed-voigt-verplaatst-naar-januari-2027",
-        "published": "maandag 21 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Unicum wint eerste wedstrijd van het seizoen, de streekderby tegen Asv Dronten",
-        "link": "https://radiolelystad.nl/unicum-wint-eerste-wedstrijd-van-het-seizoen-de-streekderby-tegen-asv-dronten",
-        "published": "zondag 20 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Seabottom festival 2026, opnieuw een geslaagd muzikaal feestje",
-        "link": "https://radiolelystad.nl/seabottom-muziefestival-2026-opnieuw-een-geslaagd-muzikaal-feestje",
-        "published": "zondag 20 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Provincie stelt opnieuw subsidie (ruim 400.000 euro) beschikbaar voor aanvraag thuisbatterij",
-        "link": "https://radiolelystad.nl/provincie-stelt-opnieuw-subsidie-ruim-400-000-euro-beschikbaar-voor-aanvraag-thuisbatterij",
-        "published": "zondag 20 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Actie 'Lelystad schoon in 24 uur' haalt honderden kilo's zwerfafval van straat (video)",
-        "link": "https://radiolelystad.nl/actie-lelystad-schoon-in-24-uur-haalt-honderden-kilos-zwerfafval-van-straat-video",
-        "published": "zaterdag 19 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "VOC-schip De Batavia begonnen aan reis naar nieuwe locatie, op het droge (video)",
-        "link": "https://radiolelystad.nl/voc-schip-de-batavia-begonnen-aan-reis-naar-nieuwe-locatie-op-het-droge-video",
-        "published": "zaterdag 19 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "St Jansdal ontwikkelt, samen met patiënten, nieuwe website in begrijpelijke taal",
-        "link": "https://radiolelystad.nl/st-jansdal-ontwikkelt-samen-met-patienten-website-in-begrijpelijke-taal",
-        "published": "vrijdag 18 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Sloop oude Postkantoor en Getronicsgebouw in de Botter staan voor volgend jaar op de agenda",
-        "link": "https://radiolelystad.nl/sloop-oude-postkantoor-en-getronicsgebouw-in-de-botter-staan-voor-volgend-jaar-op-de-agenda",
-        "published": "vrijdag 18 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Deel begraafplaats wordt bestemd als ‘bijzondere begraafplaats’",
-        "link": "https://radiolelystad.nl/deel-begraafplaats-wordt-bestemd-als-bijzondere-begraafplaats-voor-kerkelijke-genootschappen",
-        "published": "donderdag 17 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Aviodrome opent nieuwe presentatie van iconische Dakota PH-PBA",
-        "link": "https://radiolelystad.nl/aviodrome-opent-nieuwe-presentatie-van-iconische-dakota-ph-pba",
-        "published": "donderdag 17 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Krapte op de arbeidsmarkt blijft voelbaar in Lelystad en omgeving",
-        "link": "https://radiolelystad.nl/krapte-op-de-arbeidsmarkt-blijft-voelbaar-in-lelystad-en-omgeving",
-        "published": "donderdag 17 september 2026",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
     "NOS": [
       {
         "title": "Na bezoek aan Amsterdam wordt het schip de Batavia voorgoed op het droge gezet",
@@ -318,6 +15,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Westerdreef in Lelystad vanaf maandag drie maanden in onderhoud",
@@ -617,6 +315,308 @@
         "title": "Lelystad - Werkzaamheden aan natte-voeten-tunnel onder Larserdreef in Lelystad begonnen",
         "link": "https://www.omroepflevoland.nl/nieuws/525500/werkzaamheden-aan-natte-voeten-tunnel-onder-larserdreef-in-lelystad-begonnen",
         "published": "Mon, 28 Sep 2026 13:15:00 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "Radio Lelystad": [
+      {
+        "title": "Unicum verliest op eigen veld van SV Losser, blijft vijfde op de ranglijst",
+        "link": "https://radiolelystad.nl/unicum-verliest-op-eigen-veld-van-sv-losser-blijft-vijfde-op-de-ranglijst",
+        "published": "zondag 04 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Twee locaties in beeld voor uitbreiding standplaatsen voor woonwagens",
+        "link": "https://radiolelystad.nl/twee-locaties-in-beeld-voor-uitbreiding-standplaatsen-voor-woonwagens",
+        "published": "zondag 04 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Kompassieloop wederom groot succes, ondanks iets minder deelnemers dan vorig jaar",
+        "link": "https://radiolelystad.nl/kompassieloop-wederom-groot-succes-ondanks-iets-minder-deelnemers-dan-vorig-jaar",
+        "published": "zaterdag 03 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Politie vermoedt band met Lelystad bij brandstichtingen in Kampen, beelden dader gedeeld",
+        "link": "https://radiolelystad.nl/politie-vermoedt-band-met-lelystad-bij-brandstichtingen-in-kampen-beelden-dader-gedeeld",
+        "published": "zaterdag 03 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Lelystedelinge aangehouden in Purmerend als verdachte van drugshandel",
+        "link": "https://radiolelystad.nl/lelystedelinge-aangehouden-in-purmerend-als-verdachte-van-drugshandel",
+        "published": "zaterdag 03 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Zoektocht naar nesten geelpoothoornaar in Flevoland gaat door",
+        "link": "https://radiolelystad.nl/zoektocht-naar-nesten-geelpoothoornaar-in-flevoland-gaat-door",
+        "published": "zaterdag 03 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "De Batavia is weer thuis, verhuizing over de dijk probleemloos verlopen",
+        "link": "https://radiolelystad.nl/de-batavia-is-weer-thuis-verhuizing-over-de-dijk-probleemloos-verlopen",
+        "published": "vrijdag 02 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Plan voor Waterfront aangepast na MER en opnieuw naar de gemeenteraad",
+        "link": "https://radiolelystad.nl/plan-voor-waterfront-aangepast-na-mer-en-opnieuw-naar-de-gemeenteraad",
+        "published": "vrijdag 02 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Huishoudboekje gemeente voor 2027 op orde, echte financiële keuzes volgen begin volgend jaar",
+        "link": "https://radiolelystad.nl/huishoudboekje-gemeente-voor-2027-op-orde-echte-financiele-keuzes-volgen-begin-volgend-jaar",
+        "published": "donderdag 01 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Nieuwe gebiedsvisie voor Natuurpark, wilde zwijnen, otters en przewalskipaarden verdwijnen",
+        "link": "https://radiolelystad.nl/nieuwe-gebiedsvisie-voor-natuurpark-lelystad-wilde-zwijnen-otters-en-przewalskipaarden-verdwijnen",
+        "published": "woensdag 30 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Investeringen in nieuwe en bestaande sportvoorzieningen, mogelijk gemaakt door woningbouw",
+        "link": "https://radiolelystad.nl/investeringen-in-nieuwe-en-bestaande-sportvoorzieningen-mogelijk-gemaakt-door-woningbouw",
+        "published": "woensdag 30 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Verhaal van de week: Dokter Balten en broeder Rebel (Egbert Voerman)",
+        "link": "https://radiolelystad.nl/verhaal-van-de-week-dokter-balten-en-broeder-rebel-egbert-voerman",
+        "published": "woensdag 30 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Net geen 100 kilo vuurwerk ingeleverd in Lelystad tijdens nationale vuurwerkinleveractie",
+        "link": "https://radiolelystad.nl/net-geen-100-kilo-vuurwerk-ingeleverd-in-lelystad-tijdens-nationale-vuurwerkinleveractie",
+        "published": "dinsdag 29 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Markerwaarddijk volgende maand voorlopig dicht voor zwaar verkeer",
+        "link": "https://radiolelystad.nl/markerwaarddijk-volgende-maand-voorlopig-dicht-voor-zwaar-verkeer",
+        "published": "dinsdag 29 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Batavia komt op 1 oktober terug naar Lelystad, 2 oktober op het droge",
+        "link": "https://radiolelystad.nl/batavia-komt-op-1-oktober-terug-naar-lelystad-2-oktober-op-het-droge",
+        "published": "dinsdag 29 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Sportbedrijf Lelystad zet beweegmakelaar in om ideale sport te vinden",
+        "link": "https://radiolelystad.nl/sportbedrijf-lelystad-zet-beweegmakelaar-in-om-ideale-sport-te-vinden",
+        "published": "maandag 28 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Unicum speelt tweede wedstrijd in competitie gelijk en staat vijfde op de ranglijst",
+        "link": "https://radiolelystad.nl/unicum-speelt-tweede-wedstrijd-in-competitie-gelijk-en-staat-vijfde-op-de-ranglijst",
+        "published": "zondag 27 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "1500 leerlingen beleven techniek op Bataviawerf tijdens Techniek Tastbaar Lelystad",
+        "link": "https://radiolelystad.nl/1500-leerlingen-beleven-techniek-op-bataviawerf-tijdens-techniek-tastbaar-lelystad",
+        "published": "zaterdag 26 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Ook woning aan de Breehorn op last van de burgemeester gesloten na explosie",
+        "link": "https://radiolelystad.nl/ook-woning-aan-de-breehorn-op-last-van-de-burgemeester-gesloten-na-explosie",
+        "published": "vrijdag 25 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Lelystadse animator Juan de Graaf brengt geschiedenis Zuiderzee tot leven in nieuwe film",
+        "link": "https://radiolelystad.nl/lelystadse-animator-juan-de-graaf-brengt-geschiedenis-zuiderzee-tot-leven-in-nieuwe-film",
+        "published": "vrijdag 25 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Nieuw plan voor nieuwbouw kerk Het Anker en appartementen in het Karveel",
+        "link": "https://radiolelystad.nl/nieuw-plan-voor-nieuwbouw-kerk-het-anker-en-appartementen-in-het-karveel",
+        "published": "donderdag 24 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "De Borg in de Landerijen van het gas af en aangesloten op warmtenet",
+        "link": "https://radiolelystad.nl/de-borg-in-de-landerijen-van-het-gas-af-en-aangesloten-op-warmtenet",
+        "published": "donderdag 24 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Enorme explosie verwoest achterkant van woning in de Breehorn",
+        "link": "https://radiolelystad.nl/enorme-explosie-verwoest-achterkant-van-woning-in-de-breehorn",
+        "published": "donderdag 24 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Sportfestival Lelystad 2026 (video)",
+        "link": "https://radiolelystad.nl/sportfestival-lelystad-2026-video",
+        "published": "donderdag 24 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Burgemeester besluit naast sluiten woning ook tot cameratoezicht in Punter 20",
+        "link": "https://radiolelystad.nl/burgemeester-besluit-naast-sluiten-woning-ook-tot-cameratoezicht-in-punter-20",
+        "published": "woensdag 23 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Budget van vier miljoen euro voor gezamenlijk verjaardagsfeest stad en koning",
+        "link": "https://radiolelystad.nl/budget-van-vier-miljoen-euro-voor-gezamenlijke-verjaardagsfeest-stad-en-koning",
+        "published": "woensdag 23 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Extra Beveiligde Zittingzaal blijkt lastig in te passen bij gevangenis vanwege veiligheidszone",
+        "link": "https://radiolelystad.nl/extra-beveiligde-zittingzaal-blijkt-lastig-in-te-passen-bij-gevangenis-vanwege-veiligheidszone",
+        "published": "woensdag 23 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Plannen voor grootschalige huisvesting arbeidsmigranten staan eventjes in de ijskast",
+        "link": "https://radiolelystad.nl/plannen-voor-grootschalige-huisvesting-arbeidsmigranten-staan-eventjes-in-de-ijskast",
+        "published": "woensdag 23 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Aanleg brug over Lage Dwarsvaart start begin volgend jaar en trekt veel belangstelling",
+        "link": "https://radiolelystad.nl/aanleg-brug-over-lage-dwarsvaart-start-begin-volgend-jaar-en-trekt-veel-belangstelling",
+        "published": "woensdag 23 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week: Betty's diner (Joy Schouten)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-bettys-diner-joy-schouten",
+        "published": "woensdag 23 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Op dit moment nog 70 boten in Lelystadse wateren, voor zes bewoners wordt hulp gezocht",
+        "link": "https://radiolelystad.nl/op-dit-moment-nog-70-boten-in-lelystadse-wateren-voor-zes-bewoners-wordt-hulp-gezocht",
+        "published": "dinsdag 22 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Hoofdpijndossier werkeiland nadert ontknoping, maar het zal de gemeente (veel) geld gaan kosten",
+        "link": "https://radiolelystad.nl/hoofdpijndossier-werkeiland-nadert-ontknoping-maar-het-zal-de-gemeente-veel-geld-gaan-kosten",
+        "published": "dinsdag 22 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Sluiting buitencentra Staatsbosbeheer voorlopig uitgesteld vanwege de vele reacties",
+        "link": "https://radiolelystad.nl/sluiting-buitencentra-staatsbosbeheer-voorlopig-uitgesteld-vanwege-de-vele-reacties",
+        "published": "dinsdag 22 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Lelystedeling aangehouden na vuurwapenmelding in Rotterdam",
+        "link": "https://radiolelystad.nl/lelystedeling-aangehouden-na-vuurwapenmelding-in-rotterdam",
+        "published": "dinsdag 22 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Groot onderhoud aan de A6 wordt uitgebreid met traject Ketelbrug-Urk",
+        "link": "https://radiolelystad.nl/groot-onderhoud-aan-de-a6-wordt-uitgebreid-met-traject-ketelbrug-urk",
+        "published": "dinsdag 22 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Bouw van nieuwe distributiecentrum voor online platform bol van start",
+        "link": "https://radiolelystad.nl/bouw-van-nieuwe-distributiecentrum-voor-online-platform-bol-van-start",
+        "published": "dinsdag 22 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Seabottom Muziekfestival 2026 sfeerverslag (video)",
+        "link": "https://radiolelystad.nl/seabottom-muziekfestival-2026-sfeerverslag-video",
+        "published": "maandag 21 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "PVV maakt melding van ernstige mishandeling in Bultpark en wil actie van de gemeente",
+        "link": "https://radiolelystad.nl/pvv-maakt-melding-van-ernstige-bedreiging-en-mishandeling-in-bultpark-en-wil-actie-van-de-gemeente",
+        "published": "maandag 21 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Grote partij drugs aangetroffen na brandstichting in woning Punter 20",
+        "link": "https://radiolelystad.nl/grote-partij-drugs-aangetroffen-na-brandstichting-in-woning-punter-20",
+        "published": "maandag 21 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Opening barak met Lely-collectie van Ed Voigt verplaatst naar januari 2027",
+        "link": "https://radiolelystad.nl/opening-barak-met-lely-collectie-van-ed-voigt-verplaatst-naar-januari-2027",
+        "published": "maandag 21 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Unicum wint eerste wedstrijd van het seizoen, de streekderby tegen Asv Dronten",
+        "link": "https://radiolelystad.nl/unicum-wint-eerste-wedstrijd-van-het-seizoen-de-streekderby-tegen-asv-dronten",
+        "published": "zondag 20 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Seabottom festival 2026, opnieuw een geslaagd muzikaal feestje",
+        "link": "https://radiolelystad.nl/seabottom-muziefestival-2026-opnieuw-een-geslaagd-muzikaal-feestje",
+        "published": "zondag 20 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Provincie stelt opnieuw subsidie (ruim 400.000 euro) beschikbaar voor aanvraag thuisbatterij",
+        "link": "https://radiolelystad.nl/provincie-stelt-opnieuw-subsidie-ruim-400-000-euro-beschikbaar-voor-aanvraag-thuisbatterij",
+        "published": "zondag 20 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Actie 'Lelystad schoon in 24 uur' haalt honderden kilo's zwerfafval van straat (video)",
+        "link": "https://radiolelystad.nl/actie-lelystad-schoon-in-24-uur-haalt-honderden-kilos-zwerfafval-van-straat-video",
+        "published": "zaterdag 19 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "VOC-schip De Batavia begonnen aan reis naar nieuwe locatie, op het droge (video)",
+        "link": "https://radiolelystad.nl/voc-schip-de-batavia-begonnen-aan-reis-naar-nieuwe-locatie-op-het-droge-video",
+        "published": "zaterdag 19 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "St Jansdal ontwikkelt, samen met patiënten, nieuwe website in begrijpelijke taal",
+        "link": "https://radiolelystad.nl/st-jansdal-ontwikkelt-samen-met-patienten-website-in-begrijpelijke-taal",
+        "published": "vrijdag 18 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Sloop oude Postkantoor en Getronicsgebouw in de Botter staan voor volgend jaar op de agenda",
+        "link": "https://radiolelystad.nl/sloop-oude-postkantoor-en-getronicsgebouw-in-de-botter-staan-voor-volgend-jaar-op-de-agenda",
+        "published": "vrijdag 18 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Deel begraafplaats wordt bestemd als ‘bijzondere begraafplaats’",
+        "link": "https://radiolelystad.nl/deel-begraafplaats-wordt-bestemd-als-bijzondere-begraafplaats-voor-kerkelijke-genootschappen",
+        "published": "donderdag 17 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Aviodrome opent nieuwe presentatie van iconische Dakota PH-PBA",
+        "link": "https://radiolelystad.nl/aviodrome-opent-nieuwe-presentatie-van-iconische-dakota-ph-pba",
+        "published": "donderdag 17 september 2026",
+        "summary": ""
+      },
+      {
+        "title": "Krapte op de arbeidsmarkt blijft voelbaar in Lelystad en omgeving",
+        "link": "https://radiolelystad.nl/krapte-op-de-arbeidsmarkt-blijft-voelbaar-in-lelystad-en-omgeving",
+        "published": "donderdag 17 september 2026",
         "summary": ""
       }
     ],

@@ -1,22 +1,13 @@
 {
-  "updated": "2026-10-04T14:27:06.487898+00:00",
+  "updated": "2026-10-04T18:25:15.669788+00:00",
   "sources": {
-    "Nu.nl": [],
-    "NOS": [
+    "Radio Lelystad": [
       {
-        "title": "Na bezoek aan Amsterdam wordt het schip de Batavia voorgoed op het droge gezet",
-        "link": "https://nos.nl/l/2633297",
-        "published": "Thu, 1 Oct 2026 18:39:00 +0200",
+        "title": "Unicum verliest op eigen veld van SV Losser, blijft vijfde op de ranglijst",
+        "link": "https://radiolelystad.nl/unicum-verliest-op-eigen-veld-van-sv-losser-blijft-vijfde-op-de-ranglijst",
+        "published": "zondag 04 oktober 2026",
         "summary": ""
       },
-      {
-        "title": "Batavia is terug in Lelystad: 'Fijn dat hij er weer is'",
-        "link": "https://nos.nl/l/2633288",
-        "published": "Thu, 1 Oct 2026 18:14:38 +0200",
-        "summary": ""
-      }
-    ],
-    "Radio Lelystad": [
       {
         "title": "Twee locaties in beeld voor uitbreiding standplaatsen voor woonwagens",
         "link": "https://radiolelystad.nl/twee-locaties-in-beeld-voor-uitbreiding-standplaatsen-voor-woonwagens",
@@ -310,15 +301,48 @@
         "link": "https://radiolelystad.nl/krapte-op-de-arbeidsmarkt-blijft-voelbaar-in-lelystad-en-omgeving",
         "published": "donderdag 17 september 2026",
         "summary": ""
+      }
+    ],
+    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Na bezoek aan Amsterdam wordt het schip de Batavia voorgoed op het droge gezet",
+        "link": "https://nos.nl/l/2633297",
+        "published": "Thu, 1 Oct 2026 18:39:00 +0200",
+        "summary": ""
       },
       {
-        "title": "Coffeeshop gaat volgend jaar terug naar Stationsgebied, vlakbij eerdere locatie",
-        "link": "https://radiolelystad.nl/coffeeshop-gaat-volgend-jaar-terug-naar-locatie-in-stationsgebied-vlakbij-eerdere-locatie",
-        "published": "donderdag 17 september 2026",
+        "title": "Batavia is terug in Lelystad: 'Fijn dat hij er weer is'",
+        "link": "https://nos.nl/l/2633288",
+        "published": "Thu, 1 Oct 2026 18:14:38 +0200",
         "summary": ""
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Westerdreef in Lelystad vanaf maandag drie maanden in onderhoud",
+        "link": "https://www.omroepflevoland.nl/nieuws/526222/westerdreef-in-lelystad-vanaf-maandag-drie-maanden-in-onderhoud",
+        "published": "Sun, 04 Oct 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Dan maar als vereniging vuurwerk afsteken? Dat gaat niet lukken in Flevoland",
+        "link": "https://www.omroepflevoland.nl/nieuws/525133/dan-maar-als-vereniging-vuurwerk-afsteken-dat-gaat-niet-lukken-in-flevoland",
+        "published": "Sun, 04 Oct 2026 17:15:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Tijd dringt voor zieke ondernemer, Defensie zou hem uitkopen maar wanneer?",
+        "link": "https://www.omroepflevoland.nl/nieuws/525278/tijd-dringt-voor-zieke-ondernemer-defensie-zou-hem-uitkopen-maar-wanneer",
+        "published": "Sun, 04 Oct 2026 16:30:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - Omrijden over de N50 noodzakelijk door volledige afsluiting Ketelbrug",
+        "link": "https://www.omroepflevoland.nl/nieuws/526200/omrijden-over-de-n50-noodzakelijk-door-volledige-afsluiting-ketelbrug",
+        "published": "Sun, 04 Oct 2026 14:41:28 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Noordoostpolder - Ketelbrug komende avond en nacht in beide richtingen dicht voor wegverkeer",
         "link": "https://www.omroepflevoland.nl/nieuws/526200/ketelbrug-komende-avond-en-nacht-in-beide-richtingen-dicht-voor-wegverkeer",
@@ -593,30 +617,6 @@
         "title": "Lelystad - Werkzaamheden aan natte-voeten-tunnel onder Larserdreef in Lelystad begonnen",
         "link": "https://www.omroepflevoland.nl/nieuws/525500/werkzaamheden-aan-natte-voeten-tunnel-onder-larserdreef-in-lelystad-begonnen",
         "published": "Mon, 28 Sep 2026 13:15:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Provinciehuis gaat eind 2027 op de schop: 'Eerder lukt niet vanwege het ontwerp'",
-        "link": "https://www.omroepflevoland.nl/nieuws/525490/provinciehuis-gaat-eind-2027-op-de-schop:-'eerder-lukt-niet-vanwege-het-ontwerp'",
-        "published": "Mon, 28 Sep 2026 12:14:26 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Brandende bakwagen op A6 bij Lelystad veroorzaakt dikke rookwolken en file",
-        "link": "https://www.omroepflevoland.nl/nieuws/525498/brandende-bakwagen-op-a6-bij-lelystad-veroorzaakt-dikke-rookwolken-en-file",
-        "published": "Mon, 28 Sep 2026 11:53:13 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Brandende bakwagen op A6 bij Lelystad veroorzaakte dikke rookwolken en file",
-        "link": "https://www.omroepflevoland.nl/nieuws/525498/brandende-bakwagen-op-a6-bij-lelystad-veroorzaakte-dikke-rookwolken-en-file",
-        "published": "Mon, 28 Sep 2026 11:53:13 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Bakwagen in brand op A6 bij Lelystad veroorzaakt dikke rookwolken en file",
-        "link": "https://www.omroepflevoland.nl/nieuws/525498/bakwagen-in-brand-op-a6-bij-lelystad-veroorzaakt-dikke-rookwolken-en-file",
-        "published": "Mon, 28 Sep 2026 11:53:13 GMT+0200",
         "summary": ""
       }
     ],

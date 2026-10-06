@@ -1,15 +1,15 @@
 {
-  "updated": "2026-10-06T16:18:01.715098+00:00",
+  "updated": "2026-10-06T21:18:28.828555+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Na bezoek aan Amsterdam wordt het schip de Batavia voorgoed op het droge gezet",
-        "link": "https://nos.nl/l/2633297",
-        "published": "Thu, 1 Oct 2026 18:39:00 +0200",
-        "summary": ""
-      }
-    ],
+    "Nu.nl": [],
+    "NOS": [],
     "De Stentor": [
+      {
+        "title": "Lelystad keurt achteraf goed wat niet mocht: college deelde geheime stukken zonder toestemming",
+        "link": "https://www.destentor.nl/lelystad/lelystad-keurt-achteraf-goed-wat-niet-mocht-college-deelde-geheime-stukken-zonder-toestemming~aeede4fe/",
+        "published": "Tue, 06 Oct 2026 20:30:03 GMT",
+        "summary": ""
+      },
       {
         "title": "Film over queer ouderschap te zien in Lelystad",
         "link": "https://www.destentor.nl/lelystad/film-over-queer-ouderschap-te-zien-in-lelystad~a4c1b976/",
@@ -303,15 +303,15 @@
         "link": "https://www.destentor.nl/lelystad/meer-vertraging-voor-komst-zwaarbeveiligde-rechtbank-in-lelystad~a19314f5/",
         "published": "Sun, 20 Sep 2026 09:45:13 GMT",
         "summary": ""
-      },
-      {
-        "title": "Heb jij Miney, Laura of Eva gezien? Deze vijf huisdieren worden in Lelystad vermist",
-        "link": "https://www.destentor.nl/lelystad/heb-jij-miney-laura-of-eva-gezien-deze-vijf-huisdieren-worden-in-lelystad-vermist~a45ec749/",
-        "published": "Sun, 20 Sep 2026 09:11:02 GMT",
-        "summary": ""
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 06/10 | Den Bosch inspiratie voor Kasteel Almere • Chaos na actie met gratis ijs",
+        "link": "https://www.omroepflevoland.nl/nieuws/526235/nieuwsoverzicht-0610-or-den-bosch-inspiratie-voor-kasteel-almere-*-chaos-na-actie-met-gratis-ijs",
+        "published": "Tue, 06 Oct 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Lelystadse scholieren ontbijten met burgemeester Baltus: 'Gezonde start van de dag'",
         "link": "https://www.omroepflevoland.nl/nieuws/526465/lelystadse-scholieren-ontbijten-met-burgemeester-baltus:-'gezonde-start-van-de-dag'",
@@ -604,12 +604,6 @@
         "title": "Lelystad - Kunstroute in Natuurpark Lelystad stopt door vernielingen en geldgebrek",
         "link": "https://www.omroepflevoland.nl/nieuws/525611/kunstroute-in-natuurpark-lelystad-stopt-door-vernielingen-en-geldgebrek",
         "published": "Tue, 29 Sep 2026 13:26:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Meerdere kunstwerken vernield in Natuurpark Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/525550/meerdere-kunstwerken-vernield-in-natuurpark-lelystad",
-        "published": "Tue, 29 Sep 2026 06:16:00 GMT+0200",
         "summary": ""
       }
     ],
@@ -914,7 +908,6 @@
         "published": "zaterdag 19 september 2026",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

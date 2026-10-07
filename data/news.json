@@ -1,8 +1,6 @@
 {
-  "updated": "2026-10-06T21:18:28.828555+00:00",
+  "updated": "2026-10-07T01:02:55.197898+00:00",
   "sources": {
-    "Nu.nl": [],
-    "NOS": [],
     "De Stentor": [
       {
         "title": "Lelystad keurt achteraf goed wat niet mocht: college deelde geheime stukken zonder toestemming",
@@ -908,6 +906,8 @@
         "published": "zaterdag 19 september 2026",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [],
+    "Nu.nl": []
   }
 }

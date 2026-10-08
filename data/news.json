@@ -1,8 +1,13 @@
 {
-  "updated": "2026-10-08T14:05:31.429940+00:00",
+  "updated": "2026-10-08T20:15:28.993798+00:00",
   "sources": {
-    "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Door burgemeester na explosie gesloten woning wordt weer vrijgegeven",
+        "link": "https://www.destentor.nl/lelystad/door-burgemeester-na-explosie-gesloten-woning-wordt-weer-vrijgegeven~ab157d5b/",
+        "published": "Thu, 08 Oct 2026 17:00:58 GMT",
+        "summary": ""
+      },
       {
         "title": "Drie bedrijven in Lelystad delen voortaan hun stroomruimte om te kunnen groeien",
         "link": "https://www.destentor.nl/lelystad/drie-bedrijven-in-lelystad-delen-voortaan-hun-stroomruimte-om-te-kunnen-groeien~a898b6b6/",
@@ -295,20 +300,6 @@
         "title": "Eerste paal de grond in: hier worden in Lelystad vanaf 2028 tienduizenden pakketten per dag verwerkt",
         "link": "https://www.destentor.nl/lelystad/eerste-paal-de-grond-in-hier-worden-in-lelystad-vanaf-2028-tienduizenden-pakketten-per-dag-verwerkt~ab0fd3c2/",
         "published": "Wed, 23 Sep 2026 13:09:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Afgelopen week 41 meldingen van de gemeente over bouw en sloop in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-41-meldingen-van-de-gemeente-over-bouw-en-sloop-in-lelystad~a281e6c0/",
-        "published": "Wed, 23 Sep 2026 09:01:45 GMT",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "'Driftende' motorrijder krijgt taakstraf voor dodelijk ongeluk Lelystad",
-        "link": "https://nos.nl/l/2634047",
-        "published": "Wed, 7 Oct 2026 18:36:54 +0200",
         "summary": ""
       }
     ],
@@ -614,7 +605,34 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "'Driftende' motorrijder krijgt taakstraf voor dodelijk ongeluk Lelystad",
+        "link": "https://nos.nl/l/2634047",
+        "published": "Wed, 7 Oct 2026 18:36:54 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 08/10 | Provincies willen alweer af van EBS • Verwarring over natuurvergunning vliegveld",
+        "link": "https://www.omroepflevoland.nl/nieuws/526237/nieuwsoverzicht-0810-or-provincies-willen-alweer-af-van-ebs-*-verwarring-over-natuurvergunning-vliegveld",
+        "published": "Thu, 08 Oct 2026 18:45:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Wel of geen natuurvergunning voor vliegveld? Minister Karremans veroorzaakt verwarring met zijn uitspraken",
+        "link": "https://www.omroepflevoland.nl/nieuws/526742/wel-of-geen-natuurvergunning-voor-vliegveld-minister-karremans-veroorzaakt-verwarring-met-zijn-uitspraken",
+        "published": "Thu, 08 Oct 2026 18:33:28 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - EBS rijdt zich financieel vast: provincies grijpen in en beëindigen contract voortijdig",
+        "link": "https://www.omroepflevoland.nl/nieuws/526709/ebs-rijdt-zich-financieel-vast:-provincies-grijpen-in-en-beeindigen-contract-voortijdig",
+        "published": "Thu, 08 Oct 2026 15:08:33 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Flevoland en buurprovincies beëindigen contract met busvervoerder EBS zes jaar eerder",
         "link": "https://www.omroepflevoland.nl/nieuws/526709/flevoland-en-buurprovincies-beeindigen-contract-met-busvervoerder-ebs-zes-jaar-eerder",
@@ -895,24 +913,6 @@
         "title": "Lelystad - Westerdreef in Lelystad vanaf maandag drie maanden in onderhoud",
         "link": "https://www.omroepflevoland.nl/nieuws/525905/westerdreef-in-lelystad-vanaf-maandag-drie-maanden-in-onderhoud",
         "published": "Thu, 01 Oct 2026 19:43:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 01/10 | Batavia terug in Lelystad • Oud-raadslid Urk veroordeeld",
-        "link": "https://www.omroepflevoland.nl/nieuws/525894/nieuwsoverzicht-0110-or-batavia-terug-in-lelystad-*-oud-raadslid-urk-veroordeeld",
-        "published": "Thu, 01 Oct 2026 18:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Bewoners vragen om camera's na diefstal scootmobielen, Centrada ziet geen noodzaak",
-        "link": "https://www.omroepflevoland.nl/nieuws/525850/bewoners-vragen-om-camera's-na-diefstal-scootmobielen-centrada-ziet-geen-noodzaak",
-        "published": "Thu, 01 Oct 2026 17:43:58 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - 42 boetes bij verkeerscontrole in Lelystad, vier voertuigen in beslag genomen",
-        "link": "https://www.omroepflevoland.nl/nieuws/525879/42-boetes-bij-verkeerscontrole-in-lelystad-vier-voertuigen-in-beslag-genomen",
-        "published": "Thu, 01 Oct 2026 16:53:11 GMT+0200",
         "summary": ""
       }
     ]

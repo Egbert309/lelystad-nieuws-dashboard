@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T19:04:48.841181+00:00",
+  "updated": "2026-10-09T23:36:18.968050+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -303,6 +303,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Coloriet breidt hospicezorg in Flevoland uit en onthult nieuwe naam voor hospice",
@@ -605,7 +606,14 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "'Driftende' motorrijder krijgt taakstraf voor dodelijk ongeluk Lelystad",
+        "link": "https://nos.nl/l/2634047",
+        "published": "Wed, 7 Oct 2026 18:36:54 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Werk aan verbinding wegen bij station is klaar, weken eerder dan gepland",
@@ -905,14 +913,6 @@
         "title": "Extra Beveiligde Zittingzaal blijkt lastig in te passen bij gevangenis vanwege veiligheidszone",
         "link": "https://radiolelystad.nl/extra-beveiligde-zittingzaal-blijkt-lastig-in-te-passen-bij-gevangenis-vanwege-veiligheidszone",
         "published": "woensdag 23 september 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "'Driftende' motorrijder krijgt taakstraf voor dodelijk ongeluk Lelystad",
-        "link": "https://nos.nl/l/2634047",
-        "published": "Wed, 7 Oct 2026 18:36:54 +0200",
         "summary": ""
       }
     ]

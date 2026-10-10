@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-10T09:07:03.821377+00:00",
+  "updated": "2026-10-10T15:35:15.311528+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Flevolanders leveren 180 kilo aan vuurwerk in bij actie",
+        "link": "https://www.omroepflevoland.nl/nieuws/526860/flevolanders-leveren-180-kilo-aan-vuurwerk-in-bij-actie",
+        "published": "Sat, 10 Oct 2026 10:20:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Resultaat vuurwerkinleveractie bekend, maar 2,4% uit Flevoland",
         "link": "https://www.omroepflevoland.nl/nieuws/526860/resultaat-vuurwerkinleveractie-bekend-maar-24percent-uit-flevoland",
@@ -294,21 +300,6 @@
         "title": "Almere - Na vertrek vol verdriet uit SP moet Hart voor Almere uitgroeien tot 'brede volkspartij'",
         "link": "https://www.omroepflevoland.nl/nieuws/526149/na-vertrek-vol-verdriet-uit-sp-moet-hart-voor-almere-uitgroeien-tot-'brede-volkspartij'",
         "published": "Sun, 04 Oct 2026 09:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Jamie (17) kreeg geen jeugdhulp: 'Ik ben er goed uitgekomen, maar het had mijn dood kunnen worden'",
-        "link": "https://www.omroepflevoland.nl/nieuws/526148/jamie-(17)-kreeg-geen-jeugdhulp:-'ik-ben-er-goed-uitgekomen-maar-het-had-mijn-dood-kunnen-worden'",
-        "published": "Sun, 04 Oct 2026 08:30:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "'Driftende' motorrijder krijgt taakstraf voor dodelijk ongeluk Lelystad",
-        "link": "https://nos.nl/l/2634047",
-        "published": "Wed, 7 Oct 2026 18:36:54 +0200",
         "summary": ""
       }
     ],
@@ -614,7 +605,28 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "'Driftende' motorrijder krijgt taakstraf voor dodelijk ongeluk Lelystad",
+        "link": "https://nos.nl/l/2634047",
+        "published": "Wed, 7 Oct 2026 18:36:54 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [],
     "Radio Lelystad": [
+      {
+        "title": "Fietsbrug tussen Jagersveld en Zuiderzeewijk wordt vervangen door iets bredere brug",
+        "link": "https://radiolelystad.nl/fietsbrug-tussen-jagersveld-en-zuiderzeewijk-wordt-vervangen-door-iets-bredere-brug",
+        "published": "zaterdag 10 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Wegslepen van voertuigen van onbekende eigenaar gaat de gemeente tienduizenden euro’s kosten",
+        "link": "https://radiolelystad.nl/wegslepen-van-voertuigen-van-onbekende-eigenaar-gaat-de-gemeente-tienduizenden-euros-kosten",
+        "published": "zaterdag 10 oktober 2026",
+        "summary": ""
+      },
       {
         "title": "Zes voetbalvelden, 10 tennis- en 10 padelbanen op nieuw sportpark Zuiderhage",
         "link": "https://radiolelystad.nl/zes-voetbalvelden-10-tennis-en-10-padelbanen-op-nieuw-sportpark-zuiderhage",
@@ -901,18 +913,6 @@
         "title": "Sportfestival Lelystad 2026 (video)",
         "link": "https://radiolelystad.nl/sportfestival-lelystad-2026-video",
         "published": "donderdag 24 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Burgemeester besluit naast sluiten woning ook tot cameratoezicht in Punter 20",
-        "link": "https://radiolelystad.nl/burgemeester-besluit-naast-sluiten-woning-ook-tot-cameratoezicht-in-punter-20",
-        "published": "woensdag 23 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Budget van vier miljoen euro voor gezamenlijk verjaardagsfeest stad en koning",
-        "link": "https://radiolelystad.nl/budget-van-vier-miljoen-euro-voor-gezamenlijke-verjaardagsfeest-stad-en-koning",
-        "published": "woensdag 23 september 2026",
         "summary": ""
       }
     ]

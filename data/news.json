@@ -1,6 +1,14 @@
 {
-  "updated": "2026-10-10T22:58:48.927267+00:00",
+  "updated": "2026-10-11T01:31:50.659590+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "'Driftende' motorrijder krijgt taakstraf voor dodelijk ongeluk Lelystad",
+        "link": "https://nos.nl/l/2634047",
+        "published": "Wed, 7 Oct 2026 18:36:54 +0200",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Een halve eeuw scouting in Lelystad: \"Het is goed voor je\"!",
@@ -300,14 +308,6 @@
         "title": "Flevoland - Wat was toch die 'scheepstoeter' die de afgelopen avonden op veel plekken te horen was?",
         "link": "https://www.omroepflevoland.nl/nieuws/526206/wat-was-toch-die-'scheepstoeter'-die-de-afgelopen-avonden-op-veel-plekken-te-horen-was",
         "published": "Sun, 04 Oct 2026 13:40:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "'Driftende' motorrijder krijgt taakstraf voor dodelijk ongeluk Lelystad",
-        "link": "https://nos.nl/l/2634047",
-        "published": "Wed, 7 Oct 2026 18:36:54 +0200",
         "summary": ""
       }
     ],
@@ -613,7 +613,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Fietsbrug tussen Jagersveld en Zuiderzeewijk wordt vervangen door iets bredere brug",
@@ -915,6 +914,7 @@
         "published": "donderdag 24 september 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

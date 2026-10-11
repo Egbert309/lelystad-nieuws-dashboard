@@ -1,14 +1,6 @@
 {
-  "updated": "2026-10-11T01:31:50.659590+00:00",
+  "updated": "2026-10-11T07:53:45.437588+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "'Driftende' motorrijder krijgt taakstraf voor dodelijk ongeluk Lelystad",
-        "link": "https://nos.nl/l/2634047",
-        "published": "Wed, 7 Oct 2026 18:36:54 +0200",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Een halve eeuw scouting in Lelystad: \"Het is goed voor je\"!",
@@ -613,7 +605,21 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "'Driftende' motorrijder krijgt taakstraf voor dodelijk ongeluk Lelystad",
+        "link": "https://nos.nl/l/2634047",
+        "published": "Wed, 7 Oct 2026 18:36:54 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
+      {
+        "title": "Geen interesse voor huur ruimtes vijfde etage Stadhuis, huur is te hoog",
+        "link": "https://radiolelystad.nl/geen-interesse-voor-huur-ruimtes-vijfde-etage-stadhuis-huur-is-te-hoog",
+        "published": "zondag 11 oktober 2026",
+        "summary": ""
+      },
       {
         "title": "Fietsbrug tussen Jagersveld en Zuiderzeewijk wordt vervangen door iets bredere brug",
         "link": "https://radiolelystad.nl/fietsbrug-tussen-jagersveld-en-zuiderzeewijk-wordt-vervangen-door-iets-bredere-brug",
@@ -905,12 +911,6 @@
       {
         "title": "Enorme explosie verwoest achterkant van woning in de Breehorn",
         "link": "https://radiolelystad.nl/enorme-explosie-verwoest-achterkant-van-woning-in-de-breehorn",
-        "published": "donderdag 24 september 2026",
-        "summary": ""
-      },
-      {
-        "title": "Sportfestival Lelystad 2026 (video)",
-        "link": "https://radiolelystad.nl/sportfestival-lelystad-2026-video",
         "published": "donderdag 24 september 2026",
         "summary": ""
       }

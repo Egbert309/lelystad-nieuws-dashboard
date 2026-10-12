@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T23:14:13.755847+00:00",
+  "updated": "2026-10-12T02:43:25.980200+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -606,6 +606,14 @@
       }
     ],
     "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "'Driftende' motorrijder krijgt taakstraf voor dodelijk ongeluk Lelystad",
+        "link": "https://nos.nl/l/2634047",
+        "published": "Wed, 7 Oct 2026 18:36:54 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Unicum wint overtuigend van Alcides, maar blijft vijfde op de ranglijst",
@@ -905,14 +913,6 @@
         "title": "De Borg in de Landerijen van het gas af en aangesloten op warmtenet",
         "link": "https://radiolelystad.nl/de-borg-in-de-landerijen-van-het-gas-af-en-aangesloten-op-warmtenet",
         "published": "donderdag 24 september 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "'Driftende' motorrijder krijgt taakstraf voor dodelijk ongeluk Lelystad",
-        "link": "https://nos.nl/l/2634047",
-        "published": "Wed, 7 Oct 2026 18:36:54 +0200",
         "summary": ""
       }
     ]

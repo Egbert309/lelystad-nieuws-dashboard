@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-13T01:39:14.708216+00:00",
+  "updated": "2026-10-13T08:32:57.463695+00:00",
   "sources": {
     "De Stentor": [
+      {
+        "title": "Particuliere verhuurders in Lelystad doen bezit opnieuw van de hand: afgelopen jaar 165 huurhuizen minder",
+        "link": "https://www.destentor.nl/lelystad/particuliere-verhuurders-in-lelystad-doen-bezit-opnieuw-van-de-hand-afgelopen-jaar-165-huurhuizen-minder~a5364def/",
+        "published": "Tue, 13 Oct 2026 04:30:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Zo botst de zoektocht naar woonwagenplekken in Lelystad met de liefde voor stadsgroen",
         "link": "https://www.destentor.nl/lelystad/zo-botst-de-zoektocht-naar-woonwagenplekken-in-lelystad-met-de-liefde-voor-stadsgroen~affc369a/",
@@ -295,16 +301,24 @@
         "link": "https://www.destentor.nl/lelystad/burgemeester-lelystad-sluit-woning-na-enorme-knal-oorzaak-nog-steeds-niet-duidelijk~aa5ed8d7/",
         "published": "Fri, 25 Sep 2026 10:56:00 GMT",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Explosief verwoest hoekhuis in Lelystad, politie bewaakt woning",
-        "link": "https://www.destentor.nl/lelystad/explosief-verwoest-hoekhuis-in-lelystad-politie-bewaakt-woning~ad6092b3/",
-        "published": "Thu, 24 Sep 2026 17:00:57 GMT",
+        "title": "Lege schappen, app en site nog altijd onbereikbaar, dit weten we nu over Albert Heijn",
+        "link": "https://nos.nl/l/2634764",
+        "published": "Tue, 13 Oct 2026 09:41:54 +0200",
         "summary": ""
       }
     ],
     "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Fakkeloptocht door 'hooligans' Unicum zette buurt rond voetbalclub op stelten",
+        "link": "https://www.omroepflevoland.nl/nieuws/526770/fakkeloptocht-door-'hooligans'-unicum-zette-buurt-rond-voetbalclub-op-stelten",
+        "published": "Tue, 13 Oct 2026 06:30:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 12/10 | Lelystadse aangehouden in witwasonderzoek • 40 maanden cel geëist in verkrachtingszaak",
         "link": "https://www.omroepflevoland.nl/nieuws/527209/nieuwsoverzicht-1210-or-lelystadse-aangehouden-in-witwasonderzoek-*-40-maanden-cel-geeist-in-verkrachtingszaak",
@@ -597,12 +611,6 @@
         "title": "Lelystad - Jeugdhulp krijgen voor Rudy (10) was een zware strijd voor zijn ouders: 'We kwamen geen stap verder'",
         "link": "https://www.omroepflevoland.nl/nieuws/526056/jeugdhulp-krijgen-voor-rudy-(10)-was-een-zware-strijd-voor-zijn-ouders:-'we-kwamen-geen-stap-verder'",
         "published": "Mon, 05 Oct 2026 11:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Westerdreef in Lelystad vanaf maandag drie maanden in onderhoud",
-        "link": "https://www.omroepflevoland.nl/nieuws/526222/westerdreef-in-lelystad-vanaf-maandag-drie-maanden-in-onderhoud",
-        "published": "Sun, 04 Oct 2026 18:45:00 GMT+0200",
         "summary": ""
       }
     ],
@@ -907,7 +915,6 @@
         "published": "vrijdag 25 september 2026",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

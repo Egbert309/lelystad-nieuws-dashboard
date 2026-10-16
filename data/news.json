@@ -1,9 +1,22 @@
 {
-  "updated": "2026-10-16T05:11:02.402371+00:00",
+  "updated": "2026-10-16T10:10:56.763607+00:00",
   "sources": {
+    "Nu.nl": [],
     "Omroep Flevoland": [
       {
-        "title": "Lelystad - Van koffie serveren naar zingen voor publiek: downies van Brownies treden één avond op",
+        "title": "Lelystad - Excuses van supporters VV Unicum aan omwonenden voor fakkeltocht door wijken",
+        "link": "https://www.omroepflevoland.nl/nieuws/527686/Excuses-van-supporters-VV-Unicum-aan-omwonenden-voor-fakkeltocht-door-wijken",
+        "published": "Fri, 16 Oct 2026 11:59:32 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Tom Cruise op 'borrelboot' Batavia en muiterij op de eilanden",
+        "link": "https://www.omroepflevoland.nl/nieuws/527176/tom-cruise-op-'borrelboot'-batavia-en-muiterij-op-de-eilanden",
+        "published": "Fri, 16 Oct 2026 07:18:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Van koffie serveren naar zingen voor publiek: Brownies&downieS treden één avond op",
         "link": "https://www.omroepflevoland.nl/nieuws/527625/van-koffie-serveren-naar-zingen-voor-publiek:-downies-van-brownies-treden-een-avond-op",
         "published": "Fri, 16 Oct 2026 07:00:00 GMT+0200",
         "summary": ""
@@ -288,18 +301,6 @@
         "title": "Lelystad - Waarschuwing voor overlast door minder parkeerplekken per woning, raad gaat toch akkoord",
         "link": "https://www.omroepflevoland.nl/nieuws/526561/waarschuwing-voor-overlast-door-minder-parkeerplekken-per-woning-raad-gaat-toch-akkoord",
         "published": "Wed, 07 Oct 2026 20:22:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Noordoostpolder - Nieuwe discobus brengt jongeren uit NOP naar Zwolle om uit te gaan: 'De Snapchats werden uitgewisseld!'",
-        "link": "https://www.omroepflevoland.nl/nieuws/526552/nieuwe-discobus-brengt-jongeren-uit-nop-naar-zwolle-om-uit-te-gaan:-'de-snapchats-werden-uitgewisseld!'",
-        "published": "Wed, 07 Oct 2026 19:45:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 07/10 | Aanvaring op Markermeer • Sluiting restaurant verlengd",
-        "link": "https://www.omroepflevoland.nl/nieuws/526236/nieuwsoverzicht-0710-or-aanvaring-op-markermeer-*-sluiting-restaurant-verlengd",
-        "published": "Wed, 07 Oct 2026 18:45:00 GMT+0200",
         "summary": ""
       }
     ],
@@ -619,8 +620,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Radio Lelystad": [
+      {
+        "title": "Je kunt deze winter schaatsen in het Stadshart, ook als het niet vriest",
+        "link": "https://radiolelystad.nl/je-kunt-deze-winter-schaatsen-in-het-stadshart-ook-als-het-niet-vriest",
+        "published": "vrijdag 16 oktober 2026",
+        "summary": ""
+      },
       {
         "title": "Bezoek van centralisten kustwacht aan reddingboot loopt uit op het echte werk",
         "link": "https://radiolelystad.nl/bezoek-van-centralisten-kustwacht-aanloopt-uit-op-het-echte-werk",
@@ -913,12 +919,6 @@
         "title": "Plan voor Waterfront aangepast na MER en opnieuw naar de gemeenteraad",
         "link": "https://radiolelystad.nl/plan-voor-waterfront-aangepast-na-mer-en-opnieuw-naar-de-gemeenteraad",
         "published": "vrijdag 02 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Huishoudboekje gemeente voor 2027 op orde, echte financiële keuzes volgen begin volgend jaar",
-        "link": "https://radiolelystad.nl/huishoudboekje-gemeente-voor-2027-op-orde-echte-financiele-keuzes-volgen-begin-volgend-jaar",
-        "published": "donderdag 01 oktober 2026",
         "summary": ""
       }
     ]

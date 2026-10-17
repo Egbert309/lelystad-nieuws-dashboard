@@ -1,14 +1,6 @@
 {
-  "updated": "2026-10-17T18:53:55.640897+00:00",
+  "updated": "2026-10-17T21:04:03.941624+00:00",
   "sources": {
-    "Nu.nl": [
-      {
-        "title": "Boerderijen en bedrijven moeten weg voor uitbreiding defensie bij Lelystad Airport",
-        "link": "https://www.nu.nl/binnenland/6413410/boerderijen-en-bedrijven-moeten-weg-voor-uitbreiding-defensie-bij-lelystad-airport.html",
-        "published": "Fri, 16 Oct 2026 15:01:27 +0200",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
       {
         "title": "Gemeente wil accountmanager Stadshart in de benen houden",
@@ -621,6 +613,12 @@
         "summary": ""
       },
       {
+        "title": "Willem (86) bouwde de Batavia met eigen handen en het werd bijna zijn dood: ‘Was het allemaal waard’",
+        "link": "https://www.destentor.nl/lelystad/willem-86-bouwde-de-batavia-met-eigen-handen-en-het-werd-bijna-zijn-dood-was-het-allemaal-waard~ae0a999e/",
+        "published": "Sat, 17 Oct 2026 18:30:00 GMT",
+        "summary": ""
+      },
+      {
         "title": "Nick (32) liep zelf bij de voedselbank, nu filmt hij er zijn eerbetoon aan Lelystad",
         "link": "https://www.destentor.nl/lelystad/nick-32-liep-zelf-bij-de-voedselbank-nu-filmt-hij-er-zijn-eerbetoon-aan-lelystad~a45f77a4/",
         "published": "Sat, 17 Oct 2026 16:00:00 GMT",
@@ -907,12 +905,6 @@
         "link": "https://www.destentor.nl/lelystad/tientallen-boetes-uitgedeeld-bij-controle-van-fatbikes-en-elektrische-steps-in-lelystad~a332f06e/",
         "published": "Thu, 01 Oct 2026 10:03:48 GMT",
         "summary": ""
-      },
-      {
-        "title": "Wel of niet uit woning? Huurder blijft volhouden slachtoffer te zijn van incidenten",
-        "link": "https://www.destentor.nl/lelystad/wel-of-niet-uit-woning-huurder-blijft-volhouden-slachtoffer-te-zijn-van-incidenten~a21262b5/",
-        "published": "Thu, 01 Oct 2026 07:15:41 GMT",
-        "summary": ""
       }
     ],
     "NOS": [
@@ -932,6 +924,14 @@
         "title": "Lege schappen, app en site nog altijd onbereikbaar, dit weten we nu over Albert Heijn",
         "link": "https://nos.nl/l/2634764",
         "published": "Tue, 13 Oct 2026 09:41:54 +0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Boerderijen en bedrijven moeten weg voor uitbreiding defensie bij Lelystad Airport",
+        "link": "https://www.nu.nl/binnenland/6413410/boerderijen-en-bedrijven-moeten-weg-voor-uitbreiding-defensie-bij-lelystad-airport.html",
+        "published": "Fri, 16 Oct 2026 15:01:27 +0200",
         "summary": ""
       }
     ]

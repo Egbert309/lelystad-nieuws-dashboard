@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-17T05:05:48.297389+00:00",
+  "updated": "2026-10-17T09:45:00.869657+00:00",
   "sources": {
     "Radio Lelystad": [
+      {
+        "title": "Gemeente wil accountmanager Stadshart in de benen houden",
+        "link": "https://radiolelystad.nl/gemeente-wil-accountmanager-stadshart-in-de-benen-houden",
+        "published": "zaterdag 17 oktober 2026",
+        "summary": ""
+      },
       {
         "title": "Geen uitzonderingen met ontheffingen voor vuurwerk de komende jaarwisseling",
         "link": "https://radiolelystad.nl/geen-uitzonderingen-met-ontheffingen-voor-vuurwerk-de-komende-jaarwisseling",
@@ -295,12 +301,6 @@
         "link": "https://radiolelystad.nl/lelystedelinge-aangehouden-in-purmerend-als-verdachte-van-drugshandel",
         "published": "zaterdag 03 oktober 2026",
         "summary": ""
-      },
-      {
-        "title": "Zoektocht naar nesten geelpoothoornaar in Flevoland gaat door",
-        "link": "https://radiolelystad.nl/zoektocht-naar-nesten-geelpoothoornaar-in-flevoland-gaat-door",
-        "published": "zaterdag 03 oktober 2026",
-        "summary": ""
       }
     ],
     "Nu.nl": [
@@ -308,6 +308,26 @@
         "title": "Boerderijen en bedrijven moeten weg voor uitbreiding defensie bij Lelystad Airport",
         "link": "https://www.nu.nl/binnenland/6413410/boerderijen-en-bedrijven-moeten-weg-voor-uitbreiding-defensie-bij-lelystad-airport.html",
         "published": "Fri, 16 Oct 2026 15:01:27 +0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Gezinnen en bedrijven bij vliegveld Lelystad moeten weg vanwege uitbreiding defensie",
+        "link": "https://nos.nl/l/2635215",
+        "published": "Fri, 16 Oct 2026 13:33:17 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Dierenambulance krijgt onverwachts 50.000 euro uit erfenis: 'Nooit verwacht'",
+        "link": "https://nos.nl/l/2635084",
+        "published": "Thu, 15 Oct 2026 14:45:21 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Lege schappen, app en site nog altijd onbereikbaar, dit weten we nu over Albert Heijn",
+        "link": "https://nos.nl/l/2634764",
+        "published": "Tue, 13 Oct 2026 09:41:54 +0200",
         "summary": ""
       }
     ],
@@ -615,6 +635,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Flevoland - Verkeer omgeleid bij Van der Valk na botsing op Larserplein",
+        "link": "https://www.omroepflevoland.nl/nieuws/527812/verkeer-omgeleid-bij-van-der-valk-na-botsing-op-larserplein",
+        "published": "Sat, 17 Oct 2026 11:41:59 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Flevoland - Nieuwsoverzicht 16/10 | Excuses van supporters Unicum • Defensie wil maximale ruimte rond vliegveld",
         "link": "https://www.omroepflevoland.nl/nieuws/527751/nieuwsoverzicht-1610-or-excuses-van-supporters-unicum-*-defensie-wil-maximale-ruimte-rond-vliegveld",
         "published": "Fri, 16 Oct 2026 17:58:23 GMT+0200",
@@ -906,32 +932,6 @@
         "title": "Flevoland - EBS rijdt zich financieel vast: provincies grijpen in en beëindigen contract voortijdig",
         "link": "https://www.omroepflevoland.nl/nieuws/526709/ebs-rijdt-zich-financieel-vast:-provincies-grijpen-in-en-beeindigen-contract-voortijdig",
         "published": "Thu, 08 Oct 2026 15:08:33 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Flevoland en buurprovincies beëindigen contract met busvervoerder EBS zes jaar eerder",
-        "link": "https://www.omroepflevoland.nl/nieuws/526709/flevoland-en-buurprovincies-beeindigen-contract-met-busvervoerder-ebs-zes-jaar-eerder",
-        "published": "Thu, 08 Oct 2026 15:08:33 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Gezinnen en bedrijven bij vliegveld Lelystad moeten weg vanwege uitbreiding defensie",
-        "link": "https://nos.nl/l/2635215",
-        "published": "Fri, 16 Oct 2026 13:33:17 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Dierenambulance krijgt onverwachts 50.000 euro uit erfenis: 'Nooit verwacht'",
-        "link": "https://nos.nl/l/2635084",
-        "published": "Thu, 15 Oct 2026 14:45:21 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Lege schappen, app en site nog altijd onbereikbaar, dit weten we nu over Albert Heijn",
-        "link": "https://nos.nl/l/2634764",
-        "published": "Tue, 13 Oct 2026 09:41:54 +0200",
         "summary": ""
       }
     ]

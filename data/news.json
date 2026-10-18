@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-18T21:56:52.878168+00:00",
+  "updated": "2026-10-18T23:48:24.960502+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Gezinnen en bedrijven bij vliegveld Lelystad moeten weg vanwege uitbreiding defensie",
+        "link": "https://nos.nl/l/2635215",
+        "published": "Fri, 16 Oct 2026 13:33:17 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Dierenambulance krijgt onverwachts 50.000 euro uit erfenis: 'Nooit verwacht'",
+        "link": "https://nos.nl/l/2635084",
+        "published": "Thu, 15 Oct 2026 14:45:21 +0200",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Gemeente wil accountmanager Stadshart in de benen houden",
@@ -300,20 +314,6 @@
         "title": "Lelystedelinge aangehouden in Purmerend als verdachte van drugshandel",
         "link": "https://radiolelystad.nl/lelystedelinge-aangehouden-in-purmerend-als-verdachte-van-drugshandel",
         "published": "zaterdag 03 oktober 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Gezinnen en bedrijven bij vliegveld Lelystad moeten weg vanwege uitbreiding defensie",
-        "link": "https://nos.nl/l/2635215",
-        "published": "Fri, 16 Oct 2026 13:33:17 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Dierenambulance krijgt onverwachts 50.000 euro uit erfenis: 'Nooit verwacht'",
-        "link": "https://nos.nl/l/2635084",
-        "published": "Thu, 15 Oct 2026 14:45:21 +0200",
         "summary": ""
       }
     ],
@@ -619,6 +619,14 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [
+      {
+        "title": "Boerderijen en bedrijven moeten weg voor uitbreiding defensie bij Lelystad Airport",
+        "link": "https://www.nu.nl/binnenland/6413410/boerderijen-en-bedrijven-moeten-weg-voor-uitbreiding-defensie-bij-lelystad-airport.html",
+        "published": "Fri, 16 Oct 2026 15:01:27 +0200",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "Defensie belt en staat even later voor de deur bij boer (38): ‘Toen wist ik wel hoe laat het was’",
@@ -918,14 +926,6 @@
         "title": "Explosie in Kampen heeft mogelijk met conflict met stel uit Lelystad te maken",
         "link": "https://www.destentor.nl/kampen/explosie-in-kampen-heeft-mogelijk-met-conflict-met-stel-uit-lelystad-te-maken~a0cb6cd2/",
         "published": "Thu, 01 Oct 2026 19:35:04 GMT",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Boerderijen en bedrijven moeten weg voor uitbreiding defensie bij Lelystad Airport",
-        "link": "https://www.nu.nl/binnenland/6413410/boerderijen-en-bedrijven-moeten-weg-voor-uitbreiding-defensie-bij-lelystad-airport.html",
-        "published": "Fri, 16 Oct 2026 15:01:27 +0200",
         "summary": ""
       }
     ]

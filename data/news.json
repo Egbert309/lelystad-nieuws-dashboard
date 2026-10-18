@@ -1,21 +1,27 @@
 {
-  "updated": "2026-10-18T14:55:00.657238+00:00",
+  "updated": "2026-10-18T17:36:27.979019+00:00",
   "sources": {
-    "NOS": [
+    "Nu.nl": [
       {
-        "title": "Gezinnen en bedrijven bij vliegveld Lelystad moeten weg vanwege uitbreiding defensie",
-        "link": "https://nos.nl/l/2635215",
-        "published": "Fri, 16 Oct 2026 13:33:17 +0200",
-        "summary": ""
-      },
-      {
-        "title": "Dierenambulance krijgt onverwachts 50.000 euro uit erfenis: 'Nooit verwacht'",
-        "link": "https://nos.nl/l/2635084",
-        "published": "Thu, 15 Oct 2026 14:45:21 +0200",
+        "title": "Boerderijen en bedrijven moeten weg voor uitbreiding defensie bij Lelystad Airport",
+        "link": "https://www.nu.nl/binnenland/6413410/boerderijen-en-bedrijven-moeten-weg-voor-uitbreiding-defensie-bij-lelystad-airport.html",
+        "published": "Fri, 16 Oct 2026 15:01:27 +0200",
         "summary": ""
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Even waan je je in India: honderden bezoekers vieren Durga Puja festival in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/527961/even-waan-je-je-in-india:-honderden-bezoekers-vieren-durga-puja-festival-in-lelystad",
+        "published": "Sun, 18 Oct 2026 18:17:39 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Omwonenden Lelystad Airport: \"We hebben het natuurlijk allemaal liever niet, maar we bewegen mee\"",
+        "link": "https://www.omroepflevoland.nl/nieuws/527823/omwonenden-lelystad-airport:-\"we-hebben-het-natuurlijk-allemaal-liever-niet-maar-we-bewegen-mee\"",
+        "published": "Sun, 18 Oct 2026 17:21:42 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Schaatssprinter Julia de Vos gaat voor kwalificatie Worldcup:  'Ik voel me sterker dan ooit'",
         "link": "https://www.omroepflevoland.nl/sport/527909/schaatssprinter-julia-de-vos-gaat-voor-kwalificatie-worldcup:-'ik-voel-me-sterker-dan-ooit'",
@@ -303,21 +309,15 @@
         "link": "https://www.omroepflevoland.nl/nieuws/526794/hospicezorg-in-lelystad-uitgebreid:-nieuwe-naam-polderluwte",
         "published": "Fri, 09 Oct 2026 08:33:21 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Bestuurder bekneld na botsing tussen bestelbus en auto in Lelystad",
-        "link": "https://www.omroepflevoland.nl/nieuws/526795/bestuurder-bekneld-na-botsing-tussen-bestelbus-en-auto-in-lelystad",
-        "published": "Fri, 09 Oct 2026 08:33:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Jonge topsporters sluiten talentenprogramma af, 'Ze hebben nu meer kennis over wie ze zijn'",
-        "link": "https://www.omroepflevoland.nl/nieuws/526766/jonge-topsporters-sluiten-talentenprogramma-af-'ze-hebben-nu-meer-kennis-over-wie-ze-zijn'",
-        "published": "Fri, 09 Oct 2026 07:33:00 GMT+0200",
-        "summary": ""
       }
     ],
     "De Stentor": [
+      {
+        "title": "Defensie belt en staat even later voor de deur bij boer (38): ‘Toen wist ik wel hoe laat het was’",
+        "link": "https://www.destentor.nl/lelystad/defensie-belt-en-staat-even-later-voor-de-deur-bij-boer-38-toen-wist-ik-wel-hoe-laat-het-was~a52cc90e/",
+        "published": "Sun, 18 Oct 2026 17:00:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Heb jij Bluey, Bailey of Gosha gezien? Deze zes huisdieren worden in Lelystad vermist",
         "link": "https://www.destentor.nl/lelystad/heb-jij-bluey-bailey-of-gosha-gezien-deze-zes-huisdieren-worden-in-lelystad-vermist~a823ce2f/",
@@ -611,19 +611,19 @@
         "link": "https://www.destentor.nl/kampen/explosie-in-kampen-heeft-mogelijk-met-conflict-met-stel-uit-lelystad-te-maken~a0cb6cd2/",
         "published": "Thu, 01 Oct 2026 19:35:04 GMT",
         "summary": ""
-      },
-      {
-        "title": "Iconische Batavia is terug in Lelystad (en zal nooit meer het water raken)",
-        "link": "https://www.destentor.nl/lelystad/iconische-batavia-is-terug-in-lelystad-en-zal-nooit-meer-het-water-raken~acce6c88/",
-        "published": "Thu, 01 Oct 2026 14:59:21 GMT",
-        "summary": ""
       }
     ],
-    "Nu.nl": [
+    "NOS": [
       {
-        "title": "Boerderijen en bedrijven moeten weg voor uitbreiding defensie bij Lelystad Airport",
-        "link": "https://www.nu.nl/binnenland/6413410/boerderijen-en-bedrijven-moeten-weg-voor-uitbreiding-defensie-bij-lelystad-airport.html",
-        "published": "Fri, 16 Oct 2026 15:01:27 +0200",
+        "title": "Gezinnen en bedrijven bij vliegveld Lelystad moeten weg vanwege uitbreiding defensie",
+        "link": "https://nos.nl/l/2635215",
+        "published": "Fri, 16 Oct 2026 13:33:17 +0200",
+        "summary": ""
+      },
+      {
+        "title": "Dierenambulance krijgt onverwachts 50.000 euro uit erfenis: 'Nooit verwacht'",
+        "link": "https://nos.nl/l/2635084",
+        "published": "Thu, 15 Oct 2026 14:45:21 +0200",
         "summary": ""
       }
     ],

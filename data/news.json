@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-21T19:41:22.840656+00:00",
+  "updated": "2026-10-21T22:48:58.667428+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Mogelijke winkeldief haalt nat pak in Markermeer, brandweer schiet te hulp",
+        "link": "https://www.omroepflevoland.nl/nieuws/528320/mogelijke-winkeldief-haalt-nat-pak-in-markermeer-brandweer-schiet-te-hulp",
+        "published": "Wed, 21 Oct 2026 21:07:41 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Mogelijke winkeldief haalt nat pak in IJsselmeer, brandweer schiet te hulp",
         "link": "https://www.omroepflevoland.nl/nieuws/528320/mogelijke-winkeldief-haalt-nat-pak-in-ijsselmeer-brandweer-schiet-te-hulp",
@@ -295,14 +301,10 @@
         "link": "https://www.omroepflevoland.nl/nieuws/527329/veel-minder-boetes-voor-fietsers-in-stadshart-lelystad-maar-bezoekers-merken-weinig-verschil",
         "published": "Wed, 14 Oct 2026 07:00:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Vrijwilligers Bultpark balen van schade aan prieel: 'Het verbaast me niet eens meer'",
-        "link": "https://www.omroepflevoland.nl/nieuws/527311/vrijwilligers-bultpark-balen-van-schade-aan-prieel:-'het-verbaast-me-niet-eens-meer'",
-        "published": "Wed, 14 Oct 2026 06:20:00 GMT+0200",
-        "summary": ""
       }
     ],
+    "NOS": [],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Jongeman springt in het water in Lelystad: duikteam van de brandweer moet in actie komen",
@@ -906,8 +908,6 @@
         "published": "dinsdag 06 oktober 2026",
         "summary": ""
       }
-    ],
-    "NOS": [],
-    "Nu.nl": []
+    ]
   }
 }

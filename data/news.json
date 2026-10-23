@@ -1,7 +1,6 @@
 {
-  "updated": "2026-10-23T17:58:47.418970+00:00",
+  "updated": "2026-10-23T20:55:26.022154+00:00",
   "sources": {
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 23/10 | Auto rijdt de dijk af • Grote schrik over vuurwerkvondst",
@@ -304,6 +303,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Niet alleen voor, maar ook door jongeren - en oude mensen (video)",
@@ -606,8 +606,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Kubus gaat open op zaterdag en betaalt dat voorlopig uit eigen portemonnee",
+        "link": "https://www.destentor.nl/lelystad/kubus-gaat-open-op-zaterdag-en-betaalt-dat-voorlopig-uit-eigen-portemonnee~aa3ca4d8/",
+        "published": "Fri, 23 Oct 2026 18:00:19 GMT",
+        "summary": ""
+      },
       {
         "title": "Man (20) regisseerde explosie via Snapchat en moet 30 maanden de cel in",
         "link": "https://www.destentor.nl/lelystad/man-20-regisseerde-explosie-via-snapchat-en-moet-30-maanden-de-cel-in~a5b84588/",
@@ -901,13 +906,8 @@
         "link": "https://www.destentor.nl/lelystad/door-burgemeester-na-explosie-gesloten-woning-wordt-weer-vrijgegeven~ab157d5b/",
         "published": "Thu, 08 Oct 2026 17:00:58 GMT",
         "summary": ""
-      },
-      {
-        "title": "Drie bedrijven in Lelystad delen voortaan hun stroomruimte om te kunnen groeien",
-        "link": "https://www.destentor.nl/lelystad/drie-bedrijven-in-lelystad-delen-voortaan-hun-stroomruimte-om-te-kunnen-groeien~a898b6b6/",
-        "published": "Thu, 08 Oct 2026 12:30:00 GMT",
-        "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

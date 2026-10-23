@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:55:26.022154+00:00",
+  "updated": "2026-10-23T23:35:40.317532+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -303,7 +303,7 @@
         "summary": ""
       }
     ],
-    "NOS": [],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Niet alleen voor, maar ook door jongeren - en oude mensen (video)",
@@ -626,6 +626,12 @@
         "summary": ""
       },
       {
+        "title": "Bouw appartementencomplex in Lelystad stuit op verzet van buurman: ‘Waarom hier?’",
+        "link": "https://www.destentor.nl/lelystad/bouw-appartementencomplex-in-lelystad-stuit-op-verzet-van-buurman-waarom-hier~ae618be4/",
+        "published": "Fri, 23 Oct 2026 14:37:00 GMT",
+        "summary": ""
+      },
+      {
         "title": "Bedrijf dat Houtribcomplex bij Lelystad gaat opknappen bekend: reparatie kost 250 miljoen euro",
         "link": "https://www.destentor.nl/lelystad/bedrijf-dat-houtribcomplex-bij-lelystad-gaat-opknappen-bekend-reparatie-kost-250-miljoen-euro~ab07f975/",
         "published": "Fri, 23 Oct 2026 11:26:02 GMT",
@@ -900,14 +906,8 @@
         "link": "https://www.destentor.nl/lelystad/schatkist-gemeente-lelystad-vorig-jaar-voller-geworden-bijna-170-miljoen-euro-in-kas~a10bfc40/",
         "published": "Fri, 09 Oct 2026 04:07:00 GMT",
         "summary": ""
-      },
-      {
-        "title": "Door burgemeester na explosie gesloten woning wordt weer vrijgegeven",
-        "link": "https://www.destentor.nl/lelystad/door-burgemeester-na-explosie-gesloten-woning-wordt-weer-vrijgegeven~ab157d5b/",
-        "published": "Thu, 08 Oct 2026 17:00:58 GMT",
-        "summary": ""
       }
     ],
-    "Nu.nl": []
+    "NOS": []
   }
 }

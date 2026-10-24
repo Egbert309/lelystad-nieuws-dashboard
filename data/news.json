@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T12:15:27.989929+00:00",
+  "updated": "2026-10-24T16:17:53.678938+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,9 +303,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Levensgrote reeën en damherten langs Flevolandse wegen moeten aanrijdingen voorkomen",
+        "link": "https://www.omroepflevoland.nl/nieuws/528508/levensgrote-reeen-en-damherten-langs-flevolandse-wegen-moeten-aanrijdingen-voorkomen",
+        "published": "Sat, 24 Oct 2026 16:06:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 23/10 | Auto rijdt de dijk af • Grote schrik over vuurwerkvondst",
         "link": "https://www.omroepflevoland.nl/nieuws/528548/nieuwsoverzicht-2310-or-auto-rijdt-de-dijk-af-*-grote-schrik-over-vuurwerkvondst",
@@ -598,12 +602,6 @@
         "title": "Lelystad - Excuses van supporters VV Unicum aan omwonenden voor fakkeltocht door wijken",
         "link": "https://www.omroepflevoland.nl/nieuws/527686/Excuses-van-supporters-VV-Unicum-aan-omwonenden-voor-fakkeltocht-door-wijken",
         "published": "Fri, 16 Oct 2026 11:59:32 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Tom Cruise op 'borrelboot' Batavia en muiterij op de eilanden",
-        "link": "https://www.omroepflevoland.nl/nieuws/527176/tom-cruise-op-'borrelboot'-batavia-en-muiterij-op-de-eilanden",
-        "published": "Fri, 16 Oct 2026 07:18:00 GMT+0200",
         "summary": ""
       }
     ],
@@ -908,6 +906,8 @@
         "published": "Fri, 09 Oct 2026 14:25:00 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": [],
+    "NOS": []
   }
 }

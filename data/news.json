@@ -1,7 +1,322 @@
 {
-  "updated": "2026-10-25T10:12:21.367522+00:00",
+  "updated": "2026-10-25T14:36:13.633358+00:00",
   "sources": {
+    "NOS": [],
+    "Radio Lelystad": [
+      {
+        "title": "Unicum wint overtuigend op eigen veld en klimt naar tweede plek",
+        "link": "https://radiolelystad.nl/unicum-wint-overtuigend-op-eigen-veld-en-klimt-naar-tweede-plek",
+        "published": "zondag 25 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "SV Lelystad '67 wint met 3-1 van Zwolsche Boys",
+        "link": "https://radiolelystad.nl/sv-lelystad-67-wint-met-3-1-van-zwolsche-boys",
+        "published": "zondag 25 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "VV Unicum wint simpel van hekkensluiter DZOH",
+        "link": "https://radiolelystad.nl/vv-unicum-wint-simpel-van-hekkensluiter-dzoh",
+        "published": "zondag 25 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Niet alleen voor, maar ook door jongeren - en oude mensen (video)",
+        "link": "https://radiolelystad.nl/niet-alleen-voor-maar-ook-door-jongeren-en-oude-mensen-video",
+        "published": "vrijdag 23 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Aannemer Heijmans gaat zowel sluizen als bruggen Houtribdijk aanpakken",
+        "link": "https://radiolelystad.nl/aannemer-heijmans-gaat-zowel-sluizen-als-bruggen-houtribdijk-aanpakken",
+        "published": "vrijdag 23 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Tien jaar Buurtbus Lelystad: vrijwilligers  vervoeren duizenden reizigers per jaar",
+        "link": "https://radiolelystad.nl/tien-jaar-buurtbus-lelystad-vrijwilligers-verzorgen-vervoer-voor-duizenden-reizigers-per-jaar",
+        "published": "vrijdag 23 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Politie treft na anonieme tip 3000 kilo illegaal vuurwerk aan in bedrijfspand Werfweg",
+        "link": "https://radiolelystad.nl/politie-treft-enorme-hoeveelheid-illegaal-vuurwerk-aan-in-bedrijfspand",
+        "published": "donderdag 22 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Onenigheid Parkhaven over waterpeil blijft zaak tussen bewoners en waterschap",
+        "link": "https://radiolelystad.nl/onenigheid-wateroverlast-parkhaven-blijft-zaak-tussen-bewoners-en-waterschap",
+        "published": "donderdag 22 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Hajé mag geen laadpalen en drive-thru  plaatsen bij vestigingen langs A6",
+        "link": "https://radiolelystad.nl/haje-mag-geen-drive-thru-en-laadpalen-plaatsen-bij-vestigingen-a6",
+        "published": "woensdag 21 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Websites gemeenten woensdag offline tijdens ‘ernstige PHP-dreiging’",
+        "link": "https://radiolelystad.nl/websites-gemeenten-tijdelijk-offline-tijdens-ernstige-php-dreiging",
+        "published": "woensdag 21 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Subsidie verhuizing naar kleinere woning kan volgend jaar worden behouden",
+        "link": "https://radiolelystad.nl/subsidie-verhuizing-naar-kleinere-woning-kan-volgend-jaar-worden-behouden",
+        "published": "woensdag 21 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week: rapper Shai (Jhairo Stuart)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-rapper-shai-jhairo-stuart",
+        "published": "woensdag 21 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Verhuiskostenregeling naar kleinere woningen moet volgend jaar in stand gehouden worden",
+        "link": "https://radiolelystad.nl/verhuiskostenregeling-naar-kleinere-woningen-moet-volgend-jaar-in-stand-gehouden-worden",
+        "published": "woensdag 21 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "College komt met ander voorstel voor mogelijke nieuwe plekken woonwagens",
+        "link": "https://radiolelystad.nl/college-gaat-opnieuw-kijken-naar-locaties-voor-uitbreiding-aantal-locaties-voor-woonwagens",
+        "published": "dinsdag 20 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Eigen pand en apparatuur voor het strooizout loont voor de gemeente",
+        "link": "https://radiolelystad.nl/eigen-pand-en-apparatuur-voor-het-strooizout-loont-voor-de-gemeente",
+        "published": "dinsdag 20 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Belangenbehartiging gemeente rond militair gebruik Lelystad Airport kost veel geld",
+        "link": "https://radiolelystad.nl/belangenbehartiging-gemeente-rond-militair-gebruik-lelystad-airport-kost-veel-geld",
+        "published": "dinsdag 20 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Verslaafde moeder omgekomen Yara vrijwillig naar behandeling in Portugal",
+        "link": "https://radiolelystad.nl/verslaafde-moeder-omgekomen-yara-vrijwillig-naar-behandeling-in-portugal",
+        "published": "maandag 19 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Vanaf woensdag geen trucks meer over de Houtribdijk: '1500 uur omrijden per dag'",
+        "link": "https://radiolelystad.nl/vanaf-woensdag-geen-trucks-meer-over-de-brug-1500-uur-omrijden-per-dag",
+        "published": "maandag 19 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gemeente wil accountmanager Stadshart in de benen houden",
+        "link": "https://radiolelystad.nl/gemeente-wil-accountmanager-stadshart-in-de-benen-houden",
+        "published": "zaterdag 17 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Geen uitzonderingen met ontheffingen voor vuurwerk de komende jaarwisseling",
+        "link": "https://radiolelystad.nl/geen-uitzonderingen-met-ontheffingen-voor-vuurwerk-de-komende-jaarwisseling",
+        "published": "vrijdag 16 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Vier boerderijen en zes andere bedrijven bij vliegveld moeten wijken voor de F-35",
+        "link": "https://radiolelystad.nl/vier-boerderijen-en-zes-andere-bedrijven-bij-vliegveld-moeten-wijken-voor-f-35",
+        "published": "vrijdag 16 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Je kunt deze winter schaatsen in het Stadshart, ook als het niet vriest",
+        "link": "https://radiolelystad.nl/je-kunt-deze-winter-schaatsen-in-het-stadshart-ook-als-het-niet-vriest",
+        "published": "vrijdag 16 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Bezoek van centralisten kustwacht aan reddingboot loopt uit op het echte werk",
+        "link": "https://radiolelystad.nl/bezoek-van-centralisten-kustwacht-aanloopt-uit-op-het-echte-werk",
+        "published": "donderdag 15 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Oprichter Billy's Ice Cream laat organisatie van dierenambulance vijftig mille na",
+        "link": "https://radiolelystad.nl/oprichter-billys-ice-cream-laat-dierenambulance-vijftig-mille-na",
+        "published": "donderdag 15 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Verhuurder huis Karveel mag contract vooralsnog niet opzeggen om aanslagen",
+        "link": "https://radiolelystad.nl/verhuurder-huis-karveel-mag-contract-vooralsnog-niet-opzeggen-om-aanslagen",
+        "published": "donderdag 15 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Bouw Le Five begint, maar garage De Waag gaat hooguit paar dagen dicht",
+        "link": "https://radiolelystad.nl/bouw-le-five-begint-maar-garage-de-waag-gaat-hooguit-twee-weken-dicht",
+        "published": "donderdag 15 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Sinterklaas arriveert 14 november weer in de Bataviahaven, daarna feest in Stadshart",
+        "link": "https://radiolelystad.nl/sinterklaas-arriveert-14-november-weer-in-de-bataviahaven",
+        "published": "woensdag 14 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Dieuwertje Zantingh voorzitter GOL, de belangenclub van mensen met beperking",
+        "link": "https://radiolelystad.nl/dieuwertje-zantingh-voorzitter-gol-belangenclub-mensen-met-beperking",
+        "published": "woensdag 14 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Nachttrein is geen overdonderend succes, toch wil gemeente verlengen met een jaar",
+        "link": "https://radiolelystad.nl/nachttrein-is-geen-overdonderend-succes-toch-wil-gemeente-verlengen-met-een-jaar",
+        "published": "woensdag 14 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Gedicht van de week: Arie ten Wolde–Koger",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-arie-ten-wolde-koger",
+        "published": "woensdag 14 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Investeringen in communicatie en stadsmarketing in het bijzondere jaar 2027",
+        "link": "https://radiolelystad.nl/investeringen-in-communicatie-en-stadsmarketing-in-het-voor-lelystad-bijzondere-jaar-2027",
+        "published": "dinsdag 13 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Afvalbedrijven stappen naar rechter om einde te maken aan monopolie van HVC",
+        "link": "https://radiolelystad.nl/afvalbedrijven-stappen-naar-rechter-om-monopolie-van-hvc",
+        "published": "dinsdag 13 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Vrouw uit Lelystad vast in landelijk onderzoek naar financiering misdaad",
+        "link": "https://radiolelystad.nl/vrouw-uit-lelystad-vast-in-landelijk-onderzoek-naar-witwassen-crimineel-geld",
+        "published": "maandag 12 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Programmabegroting biedt ook leesplezier voor cijferfetisjisten",
+        "link": "https://radiolelystad.nl/programmabegroting-biedt-ook-leesplezier-voor-cijferfetisjisten",
+        "published": "maandag 12 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "De veiligheidsmarkt is meer dan een spannend spektakel met toeters en bellen (video)",
+        "link": "https://radiolelystad.nl/de-veiligheidsmarkt-is-meer-dan-een-spannend-spektakel-video",
+        "published": "maandag 12 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Unicum wint overtuigend van Alcides, maar blijft vijfde op de ranglijst",
+        "link": "https://radiolelystad.nl/unicum-wint-overtuigend-uitwedstrijd-van-alcides-maar-blijft-vijfde-op-de-ranglijst",
+        "published": "zondag 11 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Geen interesse voor huur ruimtes vijfde etage stadhuis, huur is te hoog",
+        "link": "https://radiolelystad.nl/geen-interesse-voor-huur-ruimtes-vijfde-etage-stadhuis-huur-is-te-hoog",
+        "published": "zondag 11 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Fietsbrug Jagersveld en Zuiderzeewijk wordt vervangen door iets breder exemplaar",
+        "link": "https://radiolelystad.nl/fietsbrug-tussen-jagersveld-en-zuiderzeewijk-wordt-vervangen-door-iets-bredere-brug",
+        "published": "zaterdag 10 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Wegslepen voertuigen van onbekende eigenaar kost gemeente tienduizenden euro’s",
+        "link": "https://radiolelystad.nl/wegslepen-van-voertuigen-van-onbekende-eigenaar-gaat-de-gemeente-tienduizenden-euros-kosten",
+        "published": "zaterdag 10 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Zes voetbalvelden, 10 tennis- en 10 padelbanen op nieuw sportpark Zuiderhage",
+        "link": "https://radiolelystad.nl/zes-voetbalvelden-10-tennis-en-10-padelbanen-op-nieuw-sportpark-zuiderhage",
+        "published": "zaterdag 10 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Werk aan verbinding wegen bij station is klaar, weken eerder dan gepland",
+        "link": "https://radiolelystad.nl/werk-aan-verbinding-wegen-bij-station-is-klaar-eerder-dan-gepland",
+        "published": "vrijdag 09 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad scoort hoog op woningbranden en investeert in Wijkbrandweer",
+        "link": "https://radiolelystad.nl/lelystad-scoort-hoog-op-woningbranden-en-investeert-in-wijkbrandweer",
+        "published": "vrijdag 09 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Hospice 't Hofje heet vanaf nu Polderluwte, met dank aan het publiek",
+        "link": "https://radiolelystad.nl/hospice-t-hofje-heet-vanaf-nu-polderluwte-met-dank-aan-het-publiek",
+        "published": "vrijdag 09 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "College anticipeert op groei van de stad met hogere OZB-inkomsten op de begroting",
+        "link": "https://radiolelystad.nl/college-anticipeert-op-groei-van-de-stad-met-hogere-ozb-inkomsten-op-de-begroting",
+        "published": "vrijdag 09 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Contract voor streekbussen wordt vervroegd opgezegd en stopt al in 2029",
+        "link": "https://radiolelystad.nl/contract-streekbussen-wordt-opengebroken-en-stopt-al-in-2029",
+        "published": "donderdag 08 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "College wil weer meer geld voor gemeentelijke mededelingen in de FlevoPost",
+        "link": "https://radiolelystad.nl/college-wil-weer-meer-geld-voor-gemeentelijke-mededelingen-in-de-flevopost",
+        "published": "donderdag 08 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Fakkeltocht van deel aanhang Unicum is als bedreigend ervaren, club roept op tot rust",
+        "link": "https://radiolelystad.nl/fakkeltocht-van-deel-aanhang-unicum-is-als-bedreigend-ervaren-club-roept-op-tot-rust",
+        "published": "donderdag 08 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Aanbesteding bushokjes kost de gemeente minder en levert zelfs geld op",
+        "link": "https://radiolelystad.nl/aanbesteding-bushokjes-kost-de-gemeente-minder-geld-en-levert-zelfs-inkomsten-op",
+        "published": "donderdag 08 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Drie bedrijven op Noordersluis maken begin met onderling verdelen van stroom",
+        "link": "https://radiolelystad.nl/bedrijven-noordersluis-maken-begin-met-onderling-delen-van-stroom",
+        "published": "donderdag 08 oktober 2026",
+        "summary": ""
+      },
+      {
+        "title": "Taakstraf voor fataal motorongeluk bij straatrace, veroorzaker rijdt nooit meer",
+        "link": "https://radiolelystad.nl/taakstraf-voor-fataal-motorongeluk-bij-straatrace-veroorzaker-rijdt-nooit-meer",
+        "published": "donderdag 08 oktober 2026",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
+      {
+        "title": "Swifterbant - Overijsselseweg tussen Lelystad en Dronten twee nachten dicht vanwege werkzaamheden",
+        "link": "https://www.omroepflevoland.nl/nieuws/528650/overijsselseweg-tussen-lelystad-en-dronten-twee-nachten-dicht-vanwege-werkzaamheden",
+        "published": "Sun, 25 Oct 2026 15:53:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Flevoland - KIJKTIP: De Batavia trilogie - twee schepen, vele verhalen",
+        "link": "https://www.omroepflevoland.nl/nieuws/528243/kijktip:-de-batavia-trilogie-twee-schepen-vele-verhalen",
+        "published": "Sun, 25 Oct 2026 12:29:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Man in Lelystad wordt na tweede kans alsnog uit zijn huis gezet",
         "link": "https://www.omroepflevoland.nl/nieuws/528619/man-in-lelystad-wordt-na-tweede-kans-alsnog-uit-zijn-huis-gezet",
@@ -289,22 +604,16 @@
         "link": "https://www.omroepflevoland.nl/nieuws/527723/kabinet-laat-opnieuw-onderzoek-doen-naar-aanleg-en-financiering-lelylijn",
         "published": "Fri, 16 Oct 2026 16:34:20 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Flevoland - Minister trekt geen geld uit voor renovatie Houtribbruggen, haalt wel geld weg bij verbreding A27",
-        "link": "https://www.omroepflevoland.nl/nieuws/527720/minister-trekt-geen-geld-uit-voor-renovatie-houtribbruggen-haalt-wel-geld-weg-bij-verbreding-a27",
-        "published": "Fri, 16 Oct 2026 15:32:11 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Defensie: 'Maximaal aantal hectares nodig voor F-35's Lelystad Airport'",
-        "link": "https://www.omroepflevoland.nl/nieuws/527703/defensie:-'maximaal-aantal-hectares-nodig-voor-f-35's-lelystad-airport'",
-        "published": "Fri, 16 Oct 2026 13:57:01 GMT+0200",
-        "summary": ""
       }
     ],
     "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Heb jij Bailey, Bibi of Toby gezien? Deze vier huisdieren worden in Lelystad vermist",
+        "link": "https://www.destentor.nl/lelystad/heb-jij-bailey-bibi-of-toby-gezien-deze-vier-huisdieren-worden-in-lelystad-vermist~aef021a8/",
+        "published": "Sun, 25 Oct 2026 10:12:13 GMT",
+        "summary": ""
+      },
       {
         "title": "Deze toren moest stad en natuur verbinden, maar blijkt kwetsbaar en te duur",
         "link": "https://www.destentor.nl/lelystad/deze-toren-moest-stad-en-natuur-verbinden-maar-blijkt-kwetsbaar-en-te-duur~aee9a547/",
@@ -597,315 +906,6 @@
         "title": "In Lelystad is het nu al een beetje kerst dankzij de kerstkringloopwinkel van Els",
         "link": "https://www.destentor.nl/lelystad/in-lelystad-is-het-nu-al-een-beetje-kerst-dankzij-de-kerstkringloopwinkel-van-els~a44da521/",
         "published": "Sat, 10 Oct 2026 18:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Coloriet breidt hospicezorg in Flevoland uit en onthult nieuwe naam voor hospice",
-        "link": "https://www.destentor.nl/lelystad/coloriet-breidt-hospicezorg-in-flevoland-uit-en-onthult-nieuwe-naam-voor-hospice~ad4578d7b/",
-        "published": "Fri, 09 Oct 2026 14:25:00 GMT",
-        "summary": ""
-      }
-    ],
-    "NOS": [],
-    "Radio Lelystad": [
-      {
-        "title": "Niet alleen voor, maar ook door jongeren - en oude mensen (video)",
-        "link": "https://radiolelystad.nl/niet-alleen-voor-maar-ook-door-jongeren-en-oude-mensen-video",
-        "published": "vrijdag 23 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Aannemer Heijmans gaat zowel sluizen als bruggen Houtribdijk aanpakken",
-        "link": "https://radiolelystad.nl/aannemer-heijmans-gaat-zowel-sluizen-als-bruggen-houtribdijk-aanpakken",
-        "published": "vrijdag 23 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Tien jaar Buurtbus Lelystad: vrijwilligers  vervoeren duizenden reizigers per jaar",
-        "link": "https://radiolelystad.nl/tien-jaar-buurtbus-lelystad-vrijwilligers-verzorgen-vervoer-voor-duizenden-reizigers-per-jaar",
-        "published": "vrijdag 23 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Politie treft na anonieme tip 3000 kilo illegaal vuurwerk aan in bedrijfspand Werfweg",
-        "link": "https://radiolelystad.nl/politie-treft-enorme-hoeveelheid-illegaal-vuurwerk-aan-in-bedrijfspand",
-        "published": "donderdag 22 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Onenigheid Parkhaven over waterpeil blijft zaak tussen bewoners en waterschap",
-        "link": "https://radiolelystad.nl/onenigheid-wateroverlast-parkhaven-blijft-zaak-tussen-bewoners-en-waterschap",
-        "published": "donderdag 22 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Hajé mag geen laadpalen en drive-thru  plaatsen bij vestigingen langs A6",
-        "link": "https://radiolelystad.nl/haje-mag-geen-drive-thru-en-laadpalen-plaatsen-bij-vestigingen-a6",
-        "published": "woensdag 21 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Websites gemeenten woensdag offline tijdens ‘ernstige PHP-dreiging’",
-        "link": "https://radiolelystad.nl/websites-gemeenten-tijdelijk-offline-tijdens-ernstige-php-dreiging",
-        "published": "woensdag 21 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Subsidie verhuizing naar kleinere woning kan volgend jaar worden behouden",
-        "link": "https://radiolelystad.nl/subsidie-verhuizing-naar-kleinere-woning-kan-volgend-jaar-worden-behouden",
-        "published": "woensdag 21 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: rapper Shai (Jhairo Stuart)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-rapper-shai-jhairo-stuart",
-        "published": "woensdag 21 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Verhuiskostenregeling naar kleinere woningen moet volgend jaar in stand gehouden worden",
-        "link": "https://radiolelystad.nl/verhuiskostenregeling-naar-kleinere-woningen-moet-volgend-jaar-in-stand-gehouden-worden",
-        "published": "woensdag 21 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "College komt met ander voorstel voor mogelijke nieuwe plekken woonwagens",
-        "link": "https://radiolelystad.nl/college-gaat-opnieuw-kijken-naar-locaties-voor-uitbreiding-aantal-locaties-voor-woonwagens",
-        "published": "dinsdag 20 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Eigen pand en apparatuur voor het strooizout loont voor de gemeente",
-        "link": "https://radiolelystad.nl/eigen-pand-en-apparatuur-voor-het-strooizout-loont-voor-de-gemeente",
-        "published": "dinsdag 20 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Belangenbehartiging gemeente rond militair gebruik Lelystad Airport kost veel geld",
-        "link": "https://radiolelystad.nl/belangenbehartiging-gemeente-rond-militair-gebruik-lelystad-airport-kost-veel-geld",
-        "published": "dinsdag 20 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Verslaafde moeder omgekomen Yara vrijwillig naar behandeling in Portugal",
-        "link": "https://radiolelystad.nl/verslaafde-moeder-omgekomen-yara-vrijwillig-naar-behandeling-in-portugal",
-        "published": "maandag 19 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Vanaf woensdag geen trucks meer over de Houtribdijk: '1500 uur omrijden per dag'",
-        "link": "https://radiolelystad.nl/vanaf-woensdag-geen-trucks-meer-over-de-brug-1500-uur-omrijden-per-dag",
-        "published": "maandag 19 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente wil accountmanager Stadshart in de benen houden",
-        "link": "https://radiolelystad.nl/gemeente-wil-accountmanager-stadshart-in-de-benen-houden",
-        "published": "zaterdag 17 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Geen uitzonderingen met ontheffingen voor vuurwerk de komende jaarwisseling",
-        "link": "https://radiolelystad.nl/geen-uitzonderingen-met-ontheffingen-voor-vuurwerk-de-komende-jaarwisseling",
-        "published": "vrijdag 16 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Vier boerderijen en zes andere bedrijven bij vliegveld moeten wijken voor de F-35",
-        "link": "https://radiolelystad.nl/vier-boerderijen-en-zes-andere-bedrijven-bij-vliegveld-moeten-wijken-voor-f-35",
-        "published": "vrijdag 16 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Je kunt deze winter schaatsen in het Stadshart, ook als het niet vriest",
-        "link": "https://radiolelystad.nl/je-kunt-deze-winter-schaatsen-in-het-stadshart-ook-als-het-niet-vriest",
-        "published": "vrijdag 16 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Bezoek van centralisten kustwacht aan reddingboot loopt uit op het echte werk",
-        "link": "https://radiolelystad.nl/bezoek-van-centralisten-kustwacht-aanloopt-uit-op-het-echte-werk",
-        "published": "donderdag 15 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Oprichter Billy's Ice Cream laat organisatie van dierenambulance vijftig mille na",
-        "link": "https://radiolelystad.nl/oprichter-billys-ice-cream-laat-dierenambulance-vijftig-mille-na",
-        "published": "donderdag 15 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Verhuurder huis Karveel mag contract vooralsnog niet opzeggen om aanslagen",
-        "link": "https://radiolelystad.nl/verhuurder-huis-karveel-mag-contract-vooralsnog-niet-opzeggen-om-aanslagen",
-        "published": "donderdag 15 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Bouw Le Five begint, maar garage De Waag gaat hooguit paar dagen dicht",
-        "link": "https://radiolelystad.nl/bouw-le-five-begint-maar-garage-de-waag-gaat-hooguit-twee-weken-dicht",
-        "published": "donderdag 15 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Sinterklaas arriveert 14 november weer in de Bataviahaven, daarna feest in Stadshart",
-        "link": "https://radiolelystad.nl/sinterklaas-arriveert-14-november-weer-in-de-bataviahaven",
-        "published": "woensdag 14 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Dieuwertje Zantingh voorzitter GOL, de belangenclub van mensen met beperking",
-        "link": "https://radiolelystad.nl/dieuwertje-zantingh-voorzitter-gol-belangenclub-mensen-met-beperking",
-        "published": "woensdag 14 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Nachttrein is geen overdonderend succes, toch wil gemeente verlengen met een jaar",
-        "link": "https://radiolelystad.nl/nachttrein-is-geen-overdonderend-succes-toch-wil-gemeente-verlengen-met-een-jaar",
-        "published": "woensdag 14 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gedicht van de week: Arie ten Wolde–Koger",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-arie-ten-wolde-koger",
-        "published": "woensdag 14 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Investeringen in communicatie en stadsmarketing in het bijzondere jaar 2027",
-        "link": "https://radiolelystad.nl/investeringen-in-communicatie-en-stadsmarketing-in-het-voor-lelystad-bijzondere-jaar-2027",
-        "published": "dinsdag 13 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Afvalbedrijven stappen naar rechter om einde te maken aan monopolie van HVC",
-        "link": "https://radiolelystad.nl/afvalbedrijven-stappen-naar-rechter-om-monopolie-van-hvc",
-        "published": "dinsdag 13 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Vrouw uit Lelystad vast in landelijk onderzoek naar financiering misdaad",
-        "link": "https://radiolelystad.nl/vrouw-uit-lelystad-vast-in-landelijk-onderzoek-naar-witwassen-crimineel-geld",
-        "published": "maandag 12 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Programmabegroting biedt ook leesplezier voor cijferfetisjisten",
-        "link": "https://radiolelystad.nl/programmabegroting-biedt-ook-leesplezier-voor-cijferfetisjisten",
-        "published": "maandag 12 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "De veiligheidsmarkt is meer dan een spannend spektakel met toeters en bellen (video)",
-        "link": "https://radiolelystad.nl/de-veiligheidsmarkt-is-meer-dan-een-spannend-spektakel-video",
-        "published": "maandag 12 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Unicum wint overtuigend van Alcides, maar blijft vijfde op de ranglijst",
-        "link": "https://radiolelystad.nl/unicum-wint-overtuigend-uitwedstrijd-van-alcides-maar-blijft-vijfde-op-de-ranglijst",
-        "published": "zondag 11 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Geen interesse voor huur ruimtes vijfde etage stadhuis, huur is te hoog",
-        "link": "https://radiolelystad.nl/geen-interesse-voor-huur-ruimtes-vijfde-etage-stadhuis-huur-is-te-hoog",
-        "published": "zondag 11 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Fietsbrug Jagersveld en Zuiderzeewijk wordt vervangen door iets breder exemplaar",
-        "link": "https://radiolelystad.nl/fietsbrug-tussen-jagersveld-en-zuiderzeewijk-wordt-vervangen-door-iets-bredere-brug",
-        "published": "zaterdag 10 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Wegslepen voertuigen van onbekende eigenaar kost gemeente tienduizenden euro’s",
-        "link": "https://radiolelystad.nl/wegslepen-van-voertuigen-van-onbekende-eigenaar-gaat-de-gemeente-tienduizenden-euros-kosten",
-        "published": "zaterdag 10 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Zes voetbalvelden, 10 tennis- en 10 padelbanen op nieuw sportpark Zuiderhage",
-        "link": "https://radiolelystad.nl/zes-voetbalvelden-10-tennis-en-10-padelbanen-op-nieuw-sportpark-zuiderhage",
-        "published": "zaterdag 10 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Werk aan verbinding wegen bij station is klaar, weken eerder dan gepland",
-        "link": "https://radiolelystad.nl/werk-aan-verbinding-wegen-bij-station-is-klaar-eerder-dan-gepland",
-        "published": "vrijdag 09 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad scoort hoog op woningbranden en investeert in Wijkbrandweer",
-        "link": "https://radiolelystad.nl/lelystad-scoort-hoog-op-woningbranden-en-investeert-in-wijkbrandweer",
-        "published": "vrijdag 09 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Hospice 't Hofje heet vanaf nu Polderluwte, met dank aan het publiek",
-        "link": "https://radiolelystad.nl/hospice-t-hofje-heet-vanaf-nu-polderluwte-met-dank-aan-het-publiek",
-        "published": "vrijdag 09 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "College anticipeert op groei van de stad met hogere OZB-inkomsten op de begroting",
-        "link": "https://radiolelystad.nl/college-anticipeert-op-groei-van-de-stad-met-hogere-ozb-inkomsten-op-de-begroting",
-        "published": "vrijdag 09 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Contract voor streekbussen wordt vervroegd opgezegd en stopt al in 2029",
-        "link": "https://radiolelystad.nl/contract-streekbussen-wordt-opengebroken-en-stopt-al-in-2029",
-        "published": "donderdag 08 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "College wil weer meer geld voor gemeentelijke mededelingen in de FlevoPost",
-        "link": "https://radiolelystad.nl/college-wil-weer-meer-geld-voor-gemeentelijke-mededelingen-in-de-flevopost",
-        "published": "donderdag 08 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Fakkeltocht van deel aanhang Unicum is als bedreigend ervaren, club roept op tot rust",
-        "link": "https://radiolelystad.nl/fakkeltocht-van-deel-aanhang-unicum-is-als-bedreigend-ervaren-club-roept-op-tot-rust",
-        "published": "donderdag 08 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Aanbesteding bushokjes kost de gemeente minder en levert zelfs geld op",
-        "link": "https://radiolelystad.nl/aanbesteding-bushokjes-kost-de-gemeente-minder-geld-en-levert-zelfs-inkomsten-op",
-        "published": "donderdag 08 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Drie bedrijven op Noordersluis maken begin met onderling verdelen van stroom",
-        "link": "https://radiolelystad.nl/bedrijven-noordersluis-maken-begin-met-onderling-delen-van-stroom",
-        "published": "donderdag 08 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Taakstraf voor fataal motorongeluk bij straatrace, veroorzaker rijdt nooit meer",
-        "link": "https://radiolelystad.nl/taakstraf-voor-fataal-motorongeluk-bij-straatrace-veroorzaker-rijdt-nooit-meer",
-        "published": "donderdag 08 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente laat transformatorhuisjes niet meer zomaar plaatsen",
-        "link": "https://radiolelystad.nl/gemeentelijk-beleidskader-voor-plaatsing-transformatorhuisjes-is-in-de-maak",
-        "published": "woensdag 07 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Petities tegen idee woonwagens of bouw in Houttuinen en langs Bosweg",
-        "link": "https://radiolelystad.nl/petities-tegen-mogelijke-woningbouw-in-houttuinen-en-langs-bosweg",
-        "published": "woensdag 07 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Gemeente faciliteert gesprek tussen Unicum en Omgevingsdienst, maar is zelf geen partij",
-        "link": "https://radiolelystad.nl/gemeente-faciliteert-gesprek-tussen-unicum-en-omgevingsdienst-maar-is-zelf-geen-partij",
-        "published": "woensdag 07 oktober 2026",
         "summary": ""
       }
     ]

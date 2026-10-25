@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T05:24:07.771935+00:00",
+  "updated": "2026-10-25T10:12:21.367522+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -303,6 +303,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Deze toren moest stad en natuur verbinden, maar blijkt kwetsbaar en te duur",
@@ -907,7 +908,6 @@
         "published": "woensdag 07 oktober 2026",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

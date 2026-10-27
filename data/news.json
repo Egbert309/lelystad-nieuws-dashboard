@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T00:59:30.237265+00:00",
+  "updated": "2026-10-27T05:58:27.225665+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,8 +303,19 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Almere - Bodycams bij conducteurs is een succes: 'Je ziet dat mensen rustiger worden'",
+        "link": "https://www.omroepflevoland.nl/nieuws/528915/bodycams-bij-conducteurs-is-een-succes:-'je-ziet-dat-mensen-rustiger-worden'",
+        "published": "Tue, 27 Oct 2026 07:11:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Vier oude zwerfkatten verlangen vanuit kooi naar vrijheid: 'Ze liepen daar de hele dag in de velden'",
+        "link": "https://www.omroepflevoland.nl/nieuws/528886/vier-oude-zwerfkatten-verlangen-vanuit-kooi-naar-vrijheid:-'ze-liepen-daar-de-hele-dag-in-de-velden'",
+        "published": "Tue, 27 Oct 2026 07:00:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad -  Steeds meer Lelystedelingen voelen zich onveilig in eigen buurt",
         "link": "https://www.omroepflevoland.nl/nieuws/528861/steeds-meer-lelystedelingen-voelen-zich-onveilig-in-eigen-buurt",
@@ -592,20 +603,9 @@
         "link": "https://www.omroepflevoland.nl/nieuws/527937/'belangenverstrengeling'-of-democratische-stemming-ruzie-verscheurt-sterk-lokaal-flevoland",
         "published": "Sun, 18 Oct 2026 15:25:08 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Wethouder: Na crisis in jeugdzorg 'gaat het werk nu goed'",
-        "link": "https://www.omroepflevoland.nl/nieuws/527705/wethouder:-na-crisis-in-jeugdzorg-'gaat-het-werk-nu-goed'",
-        "published": "Sun, 18 Oct 2026 09:00:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Noordoostpolder - Lange file rond Ramspolbrug, op hoogtepunt bijna een uur vertraging",
-        "link": "https://www.omroepflevoland.nl/nieuws/527831/lange-file-rond-ramspolbrug-op-hoogtepunt-bijna-een-uur-vertraging",
-        "published": "Sat, 17 Oct 2026 14:39:49 GMT+0200",
-        "summary": ""
       }
     ],
+    "NOS": [],
     "De Stentor": [
       {
         "title": "Kerk in Actie start Nederlandse pilot ‘Shared Futures’ in Lelystad",

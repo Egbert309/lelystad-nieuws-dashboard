@@ -2,7 +2,7 @@ name: Lelystad Nieuws – Dashboard Update
 
 on:
   schedule:
-    - cron: '0 * * * *'   # elk uur, elke dag
+    - cron: '23 3 * * *'   # dagelijks vangnet (UTC); uurlijkse trigger via Hermes
   workflow_dispatch:        # handmatig starten via GitHub UI
 
 jobs:

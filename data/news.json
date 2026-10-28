@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T23:07:58.822818+00:00",
+  "updated": "2026-10-28T00:07:52.124930+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -605,7 +605,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Extra vrachtverkeer op A6 bij Almere door gewichtsbeperking Houtribdijk",
@@ -908,6 +907,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Nu.nl": []
   }
 }

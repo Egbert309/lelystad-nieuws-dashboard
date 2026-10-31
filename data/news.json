@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T10:07:51.385514+00:00",
+  "updated": "2026-10-31T11:08:02.254447+00:00",
   "sources": {
     "NOS": [],
     "De Stentor": [
@@ -304,7 +304,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Nieuwe GOL-voorzitter wil meer begrip voor mensen met een handicap: 'Sta eens stil bij die ander'",
@@ -908,6 +907,7 @@
         "published": "zondag 11 oktober 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

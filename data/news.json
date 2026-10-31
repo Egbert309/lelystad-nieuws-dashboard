@@ -1,7 +1,13 @@
 {
-  "updated": "2026-10-31T18:07:52.363587+00:00",
+  "updated": "2026-10-31T19:07:50.158193+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Lange rijen bij opening eerste Kerstkringloopwinkel in Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/529535/lange-rijen-bij-opening-eerste-kerstkringloopwinkel-in-lelystad",
+        "published": "Sat, 31 Oct 2026 20:19:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - A6 tussen Lelystad en Emmeloord nog twee avonden dicht",
         "link": "https://www.omroepflevoland.nl/nieuws/529497/a6-tussen-lelystad-en-emmeloord-nog-twee-avonden-dicht",
@@ -295,15 +301,15 @@
         "link": "https://www.omroepflevoland.nl/nieuws/528490/na-jaren-nog-altijd-geen-spoor-van-vermiste-poolse-man-zoekacties-voorlopig-gestaakt",
         "published": "Fri, 23 Oct 2026 10:28:32 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Hollandse Hout krijgt andere uitkijktoren, want eerder ontwerp was niet hufterproof",
-        "link": "https://www.omroepflevoland.nl/nieuws/528410/hollandse-hout-krijgt-andere-uitkijktoren-want-eerder-ontwerp-was-niet-hufterproof",
-        "published": "Fri, 23 Oct 2026 08:57:00 GMT+0200",
-        "summary": ""
       }
     ],
     "Radio Lelystad": [
+      {
+        "title": "Flevoland houdt vast aan advies over nieuwe hoogspanningsverbinding",
+        "link": "https://radiolelystad.nl/flevoland-houdt-vast-aan-advies-over-nieuwe-hoogspanningsverbinding",
+        "published": "zaterdag 31 oktober 2026",
+        "summary": ""
+      },
       {
         "title": "Unicum wint weer en wacht nu twee wedstrijden om de koppositie",
         "link": "https://radiolelystad.nl/unicum-wint-weer-en-wacht-nu-twee-wedstrijden-om-de-koppositie",
@@ -597,14 +603,9 @@
         "link": "https://radiolelystad.nl/de-veiligheidsmarkt-is-meer-dan-een-spannend-spektakel-video",
         "published": "maandag 12 oktober 2026",
         "summary": ""
-      },
-      {
-        "title": "Unicum wint overtuigend van Alcides, maar blijft vijfde op de ranglijst",
-        "link": "https://radiolelystad.nl/unicum-wint-overtuigend-uitwedstrijd-van-alcides-maar-blijft-vijfde-op-de-ranglijst",
-        "published": "zondag 11 oktober 2026",
-        "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Bevolkingsdichtheid Lelystad voor het eerst sinds 1996 omlaag",
@@ -907,7 +908,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
-    "Nu.nl": []
+    "NOS": []
   }
 }

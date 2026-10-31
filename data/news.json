@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-31T11:08:02.254447+00:00",
+  "updated": "2026-10-31T12:07:54.781617+00:00",
   "sources": {
-    "NOS": [],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Bevolkingsdichtheid Lelystad voor het eerst sinds 1996 omlaag",
@@ -304,7 +304,14 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - A6 tussen Lelystad en Emmeloord nog twee avonden dicht",
+        "link": "https://www.omroepflevoland.nl/nieuws/529497/a6-tussen-lelystad-en-emmeloord-nog-twee-avonden-dicht",
+        "published": "Sat, 31 Oct 2026 13:45:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Nieuwe GOL-voorzitter wil meer begrip voor mensen met een handicap: 'Sta eens stil bij die ander'",
         "link": "https://www.omroepflevoland.nl/nieuws/529371/nieuwe-gol-voorzitter-wil-meer-begrip-voor-mensen-met-een-handicap:-'sta-eens-stil-bij-die-ander'",
@@ -597,12 +604,6 @@
         "title": "Lelystad - Hollandse Hout krijgt andere uitkijktoren, want eerder ontwerp was niet hufterproof",
         "link": "https://www.omroepflevoland.nl/nieuws/528410/hollandse-hout-krijgt-andere-uitkijktoren-want-eerder-ontwerp-was-niet-hufterproof",
         "published": "Fri, 23 Oct 2026 08:57:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - KIJKEN: Redding en vergelding, hoe de muiterij van de Batavia werd gestopt",
-        "link": "https://www.omroepflevoland.nl/nieuws/527467/kijken:-redding-en-vergelding-hoe-de-muiterij-van-de-batavia-werd-gestopt",
-        "published": "Fri, 23 Oct 2026 06:00:00 GMT+0200",
         "summary": ""
       }
     ],
@@ -907,7 +908,6 @@
         "published": "zondag 11 oktober 2026",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

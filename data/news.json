@@ -1,8 +1,6 @@
 {
-  "updated": "2026-11-01T19:08:03.467974+00:00",
+  "updated": "2026-11-01T20:08:04.782678+00:00",
   "sources": {
-    "NOS": [],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Regio aan Rijk: nieuwe stroomverbinding mag ontwikkeling vliegveld niet beperken",
@@ -908,6 +906,8 @@
         "published": "Fri, 16 Oct 2026 15:32:00 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": [],
+    "NOS": []
   }
 }

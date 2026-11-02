@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T02:08:04.043049+00:00",
+  "updated": "2026-11-02T03:08:04.259523+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -304,7 +304,6 @@
       }
     ],
     "Nu.nl": [],
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Regio aan Rijk: nieuwe stroomverbinding mag ontwikkeling vliegveld niet beperken",
@@ -908,6 +907,7 @@
         "published": "Fri, 16 Oct 2026 15:32:00 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": []
   }
 }

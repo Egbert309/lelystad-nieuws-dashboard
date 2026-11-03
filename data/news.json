@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-03T13:08:06.919973+00:00",
+  "updated": "2026-11-03T14:08:05.779834+00:00",
   "sources": {
+    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Vakbond dreigt met staking om onveilige bussen, EBS herkent kritiek niet",
+        "link": "https://www.omroepflevoland.nl/nieuws/529814/vakbond-dreigt-met-staking-om-onveilige-bussen-ebs-herkent-kritiek-niet",
+        "published": "Tue, 03 Nov 2026 08:55:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Verbeteringen blijven uit in onveilige bussen: vakbond stelt vervoerder EBS ultimatum",
         "link": "https://www.omroepflevoland.nl/nieuws/529814/verbeteringen-blijven-uit-in-onveilige-bussen:-vakbond-stelt-vervoerder-ebs-ultimatum",
@@ -294,12 +301,6 @@
         "title": "Flevoland - Weekweerbericht: Na zachte dag start periode met droog en rustig herfstweer",
         "link": "https://www.omroepflevoland.nl/nieuws/528845/weekweerbericht:-na-zachte-dag-start-periode-met-droog-en-rustig-herfstweer",
         "published": "Mon, 26 Oct 2026 11:06:47 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Swifterbant - Overijsselseweg tussen Lelystad en Dronten twee nachten dicht vanwege werkzaamheden",
-        "link": "https://www.omroepflevoland.nl/nieuws/528650/overijsselseweg-tussen-lelystad-en-dronten-twee-nachten-dicht-vanwege-werkzaamheden",
-        "published": "Sun, 25 Oct 2026 15:53:00 GMT+0200",
         "summary": ""
       }
     ],
@@ -608,6 +609,12 @@
     "Nu.nl": [],
     "De Stentor": [
       {
+        "title": "Vier van de twaalf kunstwerken gingen stuk, nu gooien de kunstenaars het over een andere boeg",
+        "link": "https://www.destentor.nl/lelystad/vier-van-de-twaalf-kunstwerken-gingen-stuk-nu-gooien-de-kunstenaars-het-over-een-andere-boeg~af10a56f/",
+        "published": "Tue, 03 Nov 2026 14:00:35 GMT",
+        "summary": ""
+      },
+      {
         "title": "Heb jij Max, Bella of Beetle gezien? Deze vijf huisdieren worden in Lelystad vermist",
         "link": "https://www.destentor.nl/lelystad/heb-jij-max-bella-of-beetle-gezien-deze-vijf-huisdieren-worden-in-lelystad-vermist~a5cdae0a/",
         "published": "Sun, 01 Nov 2026 10:11:39 GMT",
@@ -900,14 +907,7 @@
         "link": "https://www.destentor.nl/lelystad/nick-32-liep-zelf-bij-de-voedselbank-nu-filmt-hij-er-zijn-eerbetoon-aan-lelystad~a45f77a4/",
         "published": "Sat, 17 Oct 2026 16:00:00 GMT",
         "summary": ""
-      },
-      {
-        "title": "Verzekeraars: vorig jaar minder schadeclaims in Lelystad door woningbrand",
-        "link": "https://www.destentor.nl/lelystad/verzekeraars-vorig-jaar-minder-schadeclaims-in-lelystad-door-woningbrand~aa6a8177/",
-        "published": "Fri, 16 Oct 2026 15:32:00 GMT",
-        "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

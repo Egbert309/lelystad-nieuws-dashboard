@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T04:08:04.173731+00:00",
+  "updated": "2026-11-03T05:08:04.881236+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,8 +303,13 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Noodaggregaten lossen stroomtekort deels op; woningbouw in Flevoland kan doorgaan",
+        "link": "https://www.omroepflevoland.nl/nieuws/529794/noodaggregaten-lossen-stroomtekort-deels-op-woningbouw-in-flevoland-kan-doorgaan",
+        "published": "Tue, 03 Nov 2026 07:02:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Almere - Man verdacht van aanranding minderjarigen en onzedelijk gedrag in Almere",
         "link": "https://www.omroepflevoland.nl/nieuws/529428/man-verdacht-van-aanranding-minderjarigen-en-onzedelijk-gedrag-in-almere",
@@ -597,12 +602,6 @@
         "title": "Flevoland - KIJKTIP: De Batavia trilogie - twee schepen, vele verhalen",
         "link": "https://www.omroepflevoland.nl/nieuws/528243/kijktip:-de-batavia-trilogie-twee-schepen-vele-verhalen",
         "published": "Sun, 25 Oct 2026 12:29:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Man in Lelystad wordt na tweede kans alsnog uit zijn huis gezet",
-        "link": "https://www.omroepflevoland.nl/nieuws/528619/man-in-lelystad-wordt-na-tweede-kans-alsnog-uit-zijn-huis-gezet",
-        "published": "Sat, 24 Oct 2026 18:34:00 GMT+0200",
         "summary": ""
       }
     ],
@@ -908,6 +907,7 @@
         "published": "dinsdag 13 oktober 2026",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": []
   }
 }

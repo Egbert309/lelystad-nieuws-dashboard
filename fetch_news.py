@@ -95,6 +95,30 @@ _RECHTBANK_RE = re.compile(
 _HTML_TAGS_RE = re.compile(r"<[^>]+>")
 
 
+# ---------------------------------------------------------------------------
+# Artikelsleutel
+#
+# Omroep Flevoland en De Stentor passen bij een gewijzigde kop ook de slug in de
+# URL aan; het artikel-id blijft gelijk. Ontdubbelen gebeurt daarom op dit id
+# (overige bronnen: de link zonder slash aan het eind).
+# ---------------------------------------------------------------------------
+
+_SLEUTEL_PATRONEN = [
+    ("omroepflevoland", re.compile(r"omroepflevoland\.nl/nieuws/(\d+)")),
+    ("destentor",       re.compile(r"destentor\.nl/.*~(a[0-9a-f]+)")),
+]
+
+
+def artikel_sleutel(link: str) -> str:
+    """Vaste sleutel per artikel: id als de bron er een in de URL zet, anders de link."""
+    link = (link or "").strip().rstrip("/")
+    for naam, pat in _SLEUTEL_PATRONEN:
+        m = pat.search(link)
+        if m:
+            return f"{naam}:{m.group(1)}"
+    return link
+
+
 def is_lelystad_news(title: str, summary: str) -> bool:
     combined = (title + " " + summary).lower()
     if "lelystad" not in combined:
@@ -240,12 +264,12 @@ def fetch_nos(days_back: int) -> list:
     for url in NOS_FEEDS:
         all_items.extend(fetch_rss("NOS", url, days_back=days_back))
 
-    # Dedupliceer op link (eerste keer gezien wint)
+    # Dedupliceer op artikelsleutel (eerste keer gezien wint)
     seen: dict = {}
     for item in all_items:
-        link = item.get("link", "")
-        if link and link not in seen:
-            seen[link] = item
+        key = artikel_sleutel(item.get("link", ""))
+        if key and key not in seen:
+            seen[key] = item
 
     combined = list(seen.values())
     _min_dt = datetime(2000, 1, 1, tzinfo=timezone.utc)
@@ -296,7 +320,7 @@ def load_existing() -> dict:
 
 
 def merge_and_prune(existing: dict, fresh: dict) -> dict:
-    """Voegt fresh samen met existing, dedupliceert op link en snoeit oud nieuws."""
+    """Voegt fresh samen met existing, dedupliceert op artikelsleutel en snoeit oud nieuws."""
     cutoff = datetime.now(timezone.utc) - timedelta(days=DAYS_BACK)
     _min_dt = datetime(2000, 1, 1, tzinfo=timezone.utc)
     merged: dict = {}
@@ -305,12 +329,12 @@ def merge_and_prune(existing: dict, fresh: dict) -> dict:
         # Nieuwe items hebben prioriteit; dan pas de oude
         combined_raw = fresh.get(source, []) + existing.get(source, [])
 
-        # Dedupliceer op link
+        # Dedupliceer op artikelsleutel; fresh staat voorop, dus de actuele kop wint
         seen: dict = {}
         for item in combined_raw:
-            link = item.get("link", "")
-            if link and link not in seen:
-                seen[link] = item
+            key = artikel_sleutel(item.get("link", ""))
+            if key and key not in seen:
+                seen[key] = item
 
         items = list(seen.values())
 

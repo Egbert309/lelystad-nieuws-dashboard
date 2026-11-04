@@ -1,7 +1,8 @@
 {
-  "updated": "2026-11-04T07:07:46.523474+00:00",
+  "updated": "2026-11-04T08:07:44.798108+00:00",
   "sources": {
     "NOS": [],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Gedicht van de week: Lelystadse wetenswaardigheden (Ger Koreman)",
@@ -907,7 +908,6 @@
         "published": "Sun, 18 Oct 2026 09:10:58 GMT",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

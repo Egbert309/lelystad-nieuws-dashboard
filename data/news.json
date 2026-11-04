@@ -1,8 +1,6 @@
 {
-  "updated": "2026-11-04T14:07:49.458942+00:00",
+  "updated": "2026-11-04T15:07:53.978047+00:00",
   "sources": {
-    "Nu.nl": [],
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Gedicht van de week: Lelystadse wetenswaardigheden (Ger Koreman)",
@@ -313,8 +311,8 @@
         "summary": ""
       },
       {
-        "title": "Lelystad - Gemeenteraad stemt in met 92 sociale huurappartementen in Lelystad Haven, ondanks tekort",
-        "link": "https://www.omroepflevoland.nl/nieuws/529969/gemeenteraad-stemt-in-met-92-sociale-huurappartementen-in-lelystad-haven-ondanks-tekort",
+        "title": "Lelystad - Lelystad Haven krijgt 92 sociale huurappartementen, bouw start in 2027",
+        "link": "https://www.omroepflevoland.nl/nieuws/529969/lelystad-haven-krijgt-92-sociale-huurappartementen-bouw-start-in-2027",
         "published": "Wed, 04 Nov 2026 13:51:42 GMT+0200",
         "summary": ""
       },
@@ -547,6 +545,8 @@
         "summary": ""
       }
     ],
+    "NOS": [],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Stroomstoring op Havenstraat in Lelystad opgelost",

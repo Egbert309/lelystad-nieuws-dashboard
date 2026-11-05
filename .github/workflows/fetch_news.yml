@@ -5,6 +5,10 @@ on:
     - cron: '23 3 * * *'   # dagelijks vangnet (UTC); uurlijkse trigger via Hermes
   workflow_dispatch:        # handmatig starten via GitHub UI
 
+concurrency:
+  group: fetch-news       # nooit twee runs tegelijk (bv. herhaalde dispatch door Hermes)
+  cancel-in-progress: false
+
 jobs:
   update-dashboard:
     runs-on: ubuntu-latest
@@ -33,4 +37,12 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/news.json
           git diff --staged --quiet || git commit -m "chore: update news data [skip ci]"
-          git push
+          # push opnieuw proberen bij tijdelijke GitHub-fout of als main intussen is gewijzigd
+          ok=0
+          for i in 1 2 3; do
+            if git push; then ok=1; break; fi
+            echo "::warning::git push mislukt (poging $i), opnieuw na $((i * 10)) s"
+            sleep $((i * 10))
+            git pull --rebase -X theirs origin main || { git rebase --abort || true; }
+          done
+          [ "$ok" = 1 ]

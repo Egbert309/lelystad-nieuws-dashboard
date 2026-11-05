@@ -1,7 +1,6 @@
 {
-  "updated": "2026-11-05T07:08:00.906565+00:00",
+  "updated": "2026-11-05T08:07:35.496471+00:00",
   "sources": {
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Repareren, ruilen en hergebruiken: Lelystad viert de Nationale Klimaatweek",
@@ -268,6 +267,8 @@
         "summary": ""
       }
     ],
+    "NOS": [],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Twee flatgebouwen  in plaats van drie, en een pumptrackbaan voor Lelystad-Haven",
@@ -817,7 +818,6 @@
         "published": "Tue, 27 Oct 2026 07:11:00 GMT+0200",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

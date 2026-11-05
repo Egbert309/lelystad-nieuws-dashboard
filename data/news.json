@@ -1,8 +1,6 @@
 {
-  "updated": "2026-11-05T22:08:08.827082+00:00",
+  "updated": "2026-11-05T23:08:11.414810+00:00",
   "sources": {
-    "NOS": [],
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Inbreker (20) slaat twee keer toe tijdens kerst, één detail op camerabeelden verraadt hem",
@@ -541,6 +539,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "College wil dat Lelystad meer grip houdt op eigen digitale toekomst",
@@ -842,6 +841,7 @@
         "published": "vrijdag 16 oktober 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

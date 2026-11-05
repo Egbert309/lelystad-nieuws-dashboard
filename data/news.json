@@ -1,6 +1,7 @@
 {
-  "updated": "2026-11-05T14:07:38.558917+00:00",
+  "updated": "2026-11-05T15:07:36.829739+00:00",
   "sources": {
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Gemeenteraad enthousiast over mogelijkheid voor eeuwige grafrust op begraafplaats",
@@ -823,7 +824,6 @@
         "published": "Tue, 27 Oct 2026 07:11:00 GMT+0200",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

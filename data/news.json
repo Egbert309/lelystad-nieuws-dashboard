@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T20:07:53.241241+00:00",
+  "updated": "2026-11-07T21:07:49.023452+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -297,8 +297,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Auto gaat in vlammen op in de Kempenaar in Lelystad",
@@ -902,6 +900,8 @@
         "published": "maandag 19 oktober 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": [],
+    "NOS": []
   }
 }

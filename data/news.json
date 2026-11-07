@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T10:07:49.427355+00:00",
+  "updated": "2026-11-07T10:29:23.764316+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -298,6 +298,12 @@
       }
     ],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Buurtbewoner overmeestert inbreker na poging woninginbraak in Warande Lelystad",
+        "link": "https://www.omroepflevoland.nl/nieuws/530412/buurtbewoner-overmeestert-inbreker-na-poging-woninginbraak-in-warande-lelystad",
+        "published": "Sat, 07 Nov 2026 12:07:42 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - 'Pleegzorg maakt je een rijker mens'",
         "link": "https://www.omroepflevoland.nl/nieuws/530340/'pleegzorg-maakt-je-een-rijker-mens'",
@@ -895,7 +901,7 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": []
+    "NOS": [],
+    "Nu.nl": []
   }
 }

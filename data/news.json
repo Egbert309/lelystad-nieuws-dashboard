@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T11:07:48.903492+00:00",
+  "updated": "2026-11-07T12:07:50.883497+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -606,6 +606,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "De Stentor": [
       {
         "title": "Deze genomineerden in Lelystad maken kans op de vrijwilligersprijs Ed Luza",
@@ -901,7 +902,6 @@
         "published": "Sun, 18 Oct 2026 17:00:00 GMT",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

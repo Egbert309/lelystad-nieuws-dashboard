@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T06:07:47.537705+00:00",
+  "updated": "2026-11-08T07:07:47.786970+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -599,8 +599,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Lelystad haalt elf kinderen weg bij CareForYou na twijfels over zorg en veiligheid",
@@ -902,6 +900,8 @@
         "published": "maandag 19 oktober 2026",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [],
+    "Nu.nl": []
   }
 }

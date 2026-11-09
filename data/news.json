@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T19:07:52.209504+00:00",
+  "updated": "2026-11-09T20:07:50.651871+00:00",
   "sources": {
     "De Stentor": [
       {
@@ -303,9 +303,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Steeds meer cyberaanvallen: Hoe veilig zijn onze gemalen eigenlijk voor hackers?",
+        "link": "https://www.omroepflevoland.nl/nieuws/530683/steeds-meer-cyberaanvallen:-hoe-veilig-zijn-onze-gemalen-eigenlijk-voor-hackers",
+        "published": "Mon, 09 Nov 2026 21:30:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Wegenwacht-staking zorgt voor topdrukte bij autobergers: 'We zijn lekker bezig'",
         "link": "https://www.omroepflevoland.nl/nieuws/530690/wegenwacht-staking-zorgt-voor-topdrukte-bij-autobergers:-'we-zijn-lekker-bezig'",
@@ -599,15 +603,15 @@
         "link": "https://www.omroepflevoland.nl/sport/529090/marathonlopers-kunnen-opnieuw-schitteren-tussen-triatleten-tijdens-challenge-almere-lelystad",
         "published": "Wed, 28 Oct 2026 12:22:53 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad -  Lelystadse raad kritisch op verkeersonderzoek omstreden afvalcentrum: 'Schaamt u zich niet?'",
-        "link": "https://www.omroepflevoland.nl/nieuws/529051/lelystadse-raad-kritisch-op-verkeersonderzoek-omstreden-afvalcentrum:-'schaamt-u-zich-niet'",
-        "published": "Wed, 28 Oct 2026 12:00:00 GMT+0200",
-        "summary": ""
       }
     ],
     "Radio Lelystad": [
+      {
+        "title": "Rekenkamer: raad en college kijken te weinig naar financiën op lange termijn",
+        "link": "https://radiolelystad.nl/rekenkamer-raad-en-college-kijken-te-weinig-naar-financien-op-lange-termijn",
+        "published": "maandag 09 november 2026",
+        "summary": ""
+      },
       {
         "title": "Waterschapslasten gaan volgend jaar waarschijnlijk kleine tien procent omhoog",
         "link": "https://radiolelystad.nl/waterschapslasten-volgend-jaar-waarschijnlijk-kleine-10-procent-hoger",
@@ -901,13 +905,9 @@
         "link": "https://radiolelystad.nl/gedicht-van-de-week-rapper-shai-jhairo-stuart",
         "published": "woensdag 21 oktober 2026",
         "summary": ""
-      },
-      {
-        "title": "Verhuiskostenregeling naar kleinere woningen moet volgend jaar in stand gehouden worden",
-        "link": "https://radiolelystad.nl/verhuiskostenregeling-naar-kleinere-woningen-moet-volgend-jaar-in-stand-gehouden-worden",
-        "published": "woensdag 21 oktober 2026",
-        "summary": ""
       }
-    ]
+    ],
+    "NOS": [],
+    "Nu.nl": []
   }
 }

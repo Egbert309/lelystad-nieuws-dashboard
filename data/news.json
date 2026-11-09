@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-09T11:52:17.800867+00:00",
+  "updated": "2026-11-09T12:07:48.716690+00:00",
   "sources": {
-    "Nu.nl": [],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Buurtbewoner overmeestert inbreker die hem te lijf wil met koevoet",
@@ -304,7 +304,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "De Stentor": [
       {
         "title": "Explosie bij woning Lelystad zorgt voor kapotte ramen en beschadigde deur",
@@ -908,6 +907,7 @@
         "published": "Wed, 28 Oct 2026 10:21:00 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

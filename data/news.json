@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T20:07:36.530906+00:00",
+  "updated": "2026-11-10T21:07:32.979634+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,6 +303,8 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
+    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 10/11 | Oekraïense drones in Marknesse • Vervoersverbod door vogelgriep",
@@ -605,7 +607,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "FlevoMeer Bibliotheek vindt opvolger voor interim-bestuurder Marjolijn Feringa",
@@ -907,7 +908,6 @@
         "published": "Tue, 20 Oct 2026 04:00:00 GMT",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

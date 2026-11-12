@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T09:07:35.313786+00:00",
+  "updated": "2026-11-12T10:07:34.250584+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,7 +303,7 @@
         "summary": ""
       }
     ],
-    "NOS": [],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Gemeente zei dat alle jongeren vervangende zorg hadden, maar deze gezinnen zitten zonder: ‘We horen niets’",
@@ -606,11 +606,10 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
-        "title": "Lelystad - Batavialand krijgt tienduizenden euro's uit Cultuurfonds voor inrichting nieuw gebouw",
-        "link": "https://www.omroepflevoland.nl/nieuws/530974/batavialand-krijgt-tienduizenden-euro's-uit-cultuurfonds-voor-inrichting-nieuw-gebouw",
+        "title": "Lelystad - Vernieuwd Batavialand hoopt eind 2028 deuren te openen als eerste rijksmuseum van Flevoland",
+        "link": "https://www.omroepflevoland.nl/nieuws/530974/vernieuwd-batavialand-hoopt-eind-2028-deuren-te-openen-als-eerste-rijksmuseum-van-flevoland",
         "published": "Thu, 12 Nov 2026 07:40:00 GMT+0200",
         "summary": ""
       },
@@ -908,6 +907,7 @@
         "published": "Thu, 29 Oct 2026 17:17:27 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": []
   }
 }

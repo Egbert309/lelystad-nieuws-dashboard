@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T15:07:34.554170+00:00",
+  "updated": "2026-11-12T16:07:37.550181+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -605,7 +605,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Tegenvaller: nieuwbouw Museum Batavialand 6,6 miljoen euro duurder",
@@ -908,6 +907,7 @@
         "summary": ""
       }
     ],
-    "Nu.nl": []
+    "Nu.nl": [],
+    "NOS": []
   }
 }

@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-12T10:07:34.250584+00:00",
+  "updated": "2026-11-12T11:07:35.699600+00:00",
   "sources": {
     "Radio Lelystad": [
+      {
+        "title": "Centrada mag huurder Horst niet dwingen omstreden camera's weg te halen",
+        "link": "https://radiolelystad.nl/centrada-mag-huurder-horst-niet-dwingen-omstreden-camera-weg-te-halen",
+        "published": "donderdag 12 november 2026",
+        "summary": ""
+      },
       {
         "title": "Museum Batavialand krijgt 70 mille van particulier fonds voor archeologie",
         "link": "https://radiolelystad.nl/museum-batavialand-krijgt-70-mille-van-particulier-fonds-voor-archeologie",
@@ -295,15 +301,10 @@
         "link": "https://radiolelystad.nl/unicum-wint-overtuigend-op-eigen-veld-en-klimt-naar-tweede-plek",
         "published": "zondag 25 oktober 2026",
         "summary": ""
-      },
-      {
-        "title": "SV Lelystad '67 wint met 3-1 van Zwolsche Boys",
-        "link": "https://radiolelystad.nl/sv-lelystad-67-wint-met-3-1-van-zwolsche-boys",
-        "published": "zondag 25 oktober 2026",
-        "summary": ""
       }
     ],
     "Nu.nl": [],
+    "NOS": [],
     "De Stentor": [
       {
         "title": "Gemeente zei dat alle jongeren vervangende zorg hadden, maar deze gezinnen zitten zonder: ‘We horen niets’",
@@ -907,7 +908,6 @@
         "published": "Thu, 29 Oct 2026 17:17:27 GMT+0200",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

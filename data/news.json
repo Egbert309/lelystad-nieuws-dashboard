@@ -1,7 +1,14 @@
 {
-  "updated": "2026-11-12T16:07:37.550181+00:00",
+  "updated": "2026-11-12T17:07:35.892881+00:00",
   "sources": {
+    "NOS": [],
     "Radio Lelystad": [
+      {
+        "title": "Nieuwbouw Museum Batavialand gaat 25 miljoen kosten in plaats van 18,5",
+        "link": "https://radiolelystad.nl/nieuwbouw-museum-batavialand-gaat-25-miljoen-kosten-geen-18-5",
+        "published": "donderdag 12 november 2026",
+        "summary": ""
+      },
       {
         "title": "Centrada mag huurder Horst niet dwingen omstreden camera's weg te halen",
         "link": "https://radiolelystad.nl/centrada-mag-huurder-horst-niet-dwingen-omstreden-camera-weg-te-halen",
@@ -21,7 +28,7 @@
         "summary": ""
       },
       {
-        "title": "Jaarlijkse rituele dans rond de hondenbelasting zou nog best spannend kunnen worden",
+        "title": "Jaarlijkse rituele dans rond hondenbelasting zou nog best spannend kunnen worden",
         "link": "https://radiolelystad.nl/jaarlijkse-rituele-dans-rond-de-hondenbelasting-zou-nog-best-spannend-kunnen-worden",
         "published": "woensdag 11 november 2026",
         "summary": ""
@@ -294,12 +301,6 @@
         "title": "Deelname eigenaren van koophuizen aan renovatieproject in Oost kleiner dan verwacht",
         "link": "https://radiolelystad.nl/deelname-eigenaren-koophuizen-aan-renovatieproject-oost-valt-tegen",
         "published": "maandag 26 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Unicum wint overtuigend op eigen veld en klimt naar tweede plek",
-        "link": "https://radiolelystad.nl/unicum-wint-overtuigend-op-eigen-veld-en-klimt-naar-tweede-plek",
-        "published": "zondag 25 oktober 2026",
         "summary": ""
       }
     ],
@@ -907,7 +908,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": []
+    "Nu.nl": []
   }
 }

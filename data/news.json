@@ -1,9 +1,13 @@
 {
-  "updated": "2026-11-12T05:07:36.108741+00:00",
+  "updated": "2026-11-12T06:07:34.110272+00:00",
   "sources": {
-    "NOS": [],
-    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Batavialand krijgt tienduizenden euro's uit Cultuurfonds voor inrichting nieuw gebouw",
+        "link": "https://www.omroepflevoland.nl/nieuws/530974/batavialand-krijgt-tienduizenden-euro's-uit-cultuurfonds-voor-inrichting-nieuw-gebouw",
+        "published": "Thu, 12 Nov 2026 07:40:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Nieuwsoverzicht 11/11 | Dronten dreigt met onteigening • Moeder en kind moeten woning verlaten",
         "link": "https://www.omroepflevoland.nl/nieuws/530963/nieuwsoverzicht-1111-or-dronten-dreigt-met-onteigening-*-moeder-en-kind-moeten-woning-verlaten",
@@ -296,12 +300,6 @@
         "title": "Noordoostpolder - A6 bij Bant vanavond dicht en snelweg komend weekend rond Ketelbrug afgesloten",
         "link": "https://www.omroepflevoland.nl/nieuws/529160/a6-bij-bant-vanavond-dicht-en-snelweg-komend-weekend-rond-ketelbrug-afgesloten",
         "published": "Thu, 29 Oct 2026 17:17:27 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Komt er een noodbrug bij de Houtribdijk? Rijkswaterstaat onderzoekt de mogelijkheden",
-        "link": "https://www.omroepflevoland.nl/nieuws/529241/komt-er-een-noodbrug-bij-de-houtribdijk-rijkswaterstaat-onderzoekt-de-mogelijkheden",
-        "published": "Thu, 29 Oct 2026 15:11:10 GMT+0200",
         "summary": ""
       }
     ],
@@ -607,11 +605,12 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
       {
-        "title": "Nadat de gemeente het zorgcontract opzegt, valt hulp voor zoon (17) weg: ‘Bij wie moeten we nu terecht?’",
-        "link": "https://www.destentor.nl/lelystad/nadat-de-gemeente-het-zorgcontract-opzegt-valt-hulp-voor-zoon-17-weg-bij-wie-moeten-we-nu-terecht~a15eeed9/",
-        "published": "Wed, 11 Nov 2026 18:00:48 GMT",
+        "title": "Gemeente zei dat alle jongeren vervangende zorg hadden, maar deze gezinnen zitten zonder: ‘We horen niets’",
+        "link": "https://www.destentor.nl/lelystad/gemeente-zei-dat-alle-jongeren-vervangende-zorg-hadden-maar-deze-gezinnen-zitten-zonder-we-horen-niets~a15eeed9/",
+        "published": "Wed, 11 Nov 2026 18:00:00 GMT",
         "summary": ""
       },
       {
@@ -908,6 +907,7 @@
         "published": "Wed, 21 Oct 2026 05:00:05 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": []
   }
 }

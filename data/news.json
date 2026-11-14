@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T15:07:53.532934+00:00",
+  "updated": "2026-11-14T16:07:54.772302+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -303,7 +303,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "De Stentor": [
       {
         "title": "Politie greep niet hard in bij driftwedstrijd waar jongen (18) omkwam: ‘Hij komt niet meer thuis’",
@@ -606,8 +605,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Radio Lelystad": [
+      {
+        "title": "Nieuw poppodium gaat door,  hondenbelasting blijft in ieder geval volgend jaar bestaan (update)",
+        "link": "https://radiolelystad.nl/ontwikkeling-nieuw-poppodium-gaat-door-en-de-hondenbelasting-blijft-in-ieder-geval-volgend-jaar-bestaan",
+        "published": "zaterdag 14 november 2026",
+        "summary": ""
+      },
       {
         "title": "Man die stiefkinderen mishandelde en misbruikte mag terug nu ze zijn verhuisd",
         "link": "https://radiolelystad.nl/man-die-stiefkinderen-misbruikte-en-mishandelde-mag-lelystad-weer-in-nu-ze-zijn-verhuisd",
@@ -617,12 +621,6 @@
       {
         "title": "Danstalent Maddy keert terug naar Barcelona met Han Lammersbeurs op zak",
         "link": "https://radiolelystad.nl/danstalent-maddy-keert-terug-naar-barcelona-met-han-lammersbeurs-op-zak",
-        "published": "vrijdag 13 november 2026",
-        "summary": ""
-      },
-      {
-        "title": "Ontwikkeling nieuw poppodium gaat door en de hondenbelasting blijft in ieder geval volgend jaar bestaan",
-        "link": "https://radiolelystad.nl/ontwikkeling-nieuw-poppodium-gaat-door-en-de-hondenbelasting-blijft-in-ieder-geval-volgend-jaar-bestaan",
         "published": "vrijdag 13 november 2026",
         "summary": ""
       },
@@ -908,6 +906,8 @@
         "published": "woensdag 28 oktober 2026",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": [],
+    "NOS": []
   }
 }

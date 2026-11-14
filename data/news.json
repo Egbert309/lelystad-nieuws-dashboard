@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T22:08:00.865065+00:00",
+  "updated": "2026-11-14T23:07:51.357636+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,6 +303,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "Nu.nl": [],
     "Omroep Flevoland": [
       {
@@ -907,7 +908,6 @@
         "published": "Wed, 21 Oct 2026 16:00:00 GMT",
         "summary": ""
       }
-    ],
-    "NOS": []
+    ]
   }
 }

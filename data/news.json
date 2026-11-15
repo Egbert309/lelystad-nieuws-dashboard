@@ -1,7 +1,6 @@
 {
-  "updated": "2026-11-15T00:07:54.822264+00:00",
+  "updated": "2026-11-15T01:07:52.075114+00:00",
   "sources": {
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Politie greep niet hard in bij driftwedstrijd waar jongen (18) omkwam: ‘Hij komt niet meer thuis’",
@@ -606,7 +605,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Pieten en pepernoten op de kade: kinderen verwelkomen Sinterklaas in Lelystad",
@@ -908,6 +906,8 @@
         "published": "Sun, 01 Nov 2026 10:00:00 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": [],
+    "Nu.nl": []
   }
 }

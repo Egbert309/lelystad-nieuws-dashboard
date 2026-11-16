@@ -1,8 +1,6 @@
 {
-  "updated": "2026-11-16T04:07:52.622255+00:00",
+  "updated": "2026-11-16T05:07:53.644867+00:00",
   "sources": {
-    "Nu.nl": [],
-    "NOS": [],
     "De Stentor": [
       {
         "title": "Heb jij Kitty, Zorro of Milo gezien? Deze drie huisdieren worden in Lelystad vermist",
@@ -607,7 +605,15 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
+    "NOS": [],
     "Omroep Flevoland": [
+      {
+        "title": "Almere - 'Je voelt je een beetje gehoord',  slachtoffers toeslagenaffaire vertellen verhaal aan luisterend schrijver",
+        "link": "https://www.omroepflevoland.nl/nieuws/531176/'je-voelt-je-een-beetje-gehoord'-slachtoffers-toeslagenaffaire-vertellen-verhaal-aan-luisterend-schrijver",
+        "published": "Mon, 16 Nov 2026 06:55:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Toekomstige streekomroep vraagt geld voor voorbereidingen: 60.000 euro nodig om stappen te zetten",
         "link": "https://www.omroepflevoland.nl/nieuws/531379/toekomstige-streekomroep-vraagt-geld-voor-voorbereidingen:-60.000-euro-nodig-om-stappen-te-zetten",
@@ -900,12 +906,6 @@
         "title": "Flevoland - Regio aan Rijk: nieuwe stroomverbinding mag ontwikkeling vliegveld niet beperken",
         "link": "https://www.omroepflevoland.nl/nieuws/529627/regio-aan-rijk:-nieuwe-stroomverbinding-mag-ontwikkeling-vliegveld-niet-beperken",
         "published": "Sun, 01 Nov 2026 15:59:01 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Ongeluk op Midland Circuit Lelystad, één persoon bekneld",
-        "link": "https://www.omroepflevoland.nl/nieuws/529624/ongeluk-op-midland-circuit-lelystad-een-persoon-bekneld",
-        "published": "Sun, 01 Nov 2026 12:55:05 GMT+0200",
         "summary": ""
       }
     ]

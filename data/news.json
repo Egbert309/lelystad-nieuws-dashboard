@@ -1,15 +1,16 @@
 {
-  "updated": "2026-11-17T15:07:53.801885+00:00",
+  "updated": "2026-11-17T16:08:03.700330+00:00",
   "sources": {
+    "NOS": [],
     "Radio Lelystad": [
       {
-        "title": "De kliekjes van twee avonden van politiek debat over de begroting",
+        "title": "De kliekjes van twee avonden debat over de begroting, 'voorbeeld voor Den Haag'",
         "link": "https://radiolelystad.nl/de-kliekjes-van-twee-avonden-van-politiek-debat-over-de-begroting",
         "published": "dinsdag 17 november 2026",
         "summary": ""
       },
       {
-        "title": "Rechtscollege verklaart bijdragen gemeenten aan nachttrein onwettig",
+        "title": "Nachttrein stopt, rechtscollege verklaart bijdragen gemeenten onwettig",
         "link": "https://radiolelystad.nl/rechtscollege-beoordeelt-gemeentelijke-bijdragen-aan-nachttrein-als-onwettig",
         "published": "dinsdag 17 november 2026",
         "summary": ""
@@ -303,8 +304,6 @@
         "summary": ""
       }
     ],
-    "NOS": [],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nachttrein tussen Zwolle en Schiphol stopt per direct na uitspraak rechter",
@@ -607,6 +606,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Nachttrein van Zwolle naar Schiphol stopt per direct met rijden",

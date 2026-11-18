@@ -1,6 +1,7 @@
 {
-  "updated": "2026-11-18T14:08:07.931366+00:00",
+  "updated": "2026-11-18T15:08:12.856989+00:00",
   "sources": {
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Ex-directeur JEL (onlangs actief voor Forum) eist half miljoen vanwege ontslag",
@@ -303,7 +304,21 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
+      {
+        "title": "Beste verhaal in schrijfwedstrijd over polder komt uit Emmeloord, ook prijzen naar Urk en Lelystad",
+        "link": "https://www.destentor.nl/noordoostpolder/beste-verhaal-in-schrijfwedstrijd-over-polder-komt-uit-emmeloord-ook-prijzen-naar-urk-en-lelystad~a274a418/",
+        "published": "Wed, 18 Nov 2026 14:22:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Afgelopen week 24 meldingen van de gemeente over sloop en bomenkap in Lelystad",
         "link": "https://www.destentor.nl/lelystad/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-lelystad~a0a93ebb/",
@@ -596,21 +611,6 @@
         "title": "Man (20) regisseerde explosie via Snapchat en moet 30 maanden de cel in",
         "link": "https://www.destentor.nl/lelystad/man-20-regisseerde-explosie-via-snapchat-en-moet-30-maanden-de-cel-in~a5b84588/",
         "published": "Fri, 23 Oct 2026 15:11:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Buurman heeft waslijst aan bezwaren tegen appartementen in Lelystad en meldt zich bij de rechter",
-        "link": "https://www.destentor.nl/lelystad/buurman-heeft-waslijst-aan-bezwaren-tegen-appartementen-in-lelystad-en-meldt-zich-bij-de-rechter~ae618be4/",
-        "published": "Fri, 23 Oct 2026 14:37:23 GMT",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
         "summary": ""
       }
     ],

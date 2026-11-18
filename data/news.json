@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-18T01:08:08.336833+00:00",
+  "updated": "2026-11-18T02:08:09.713320+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Oud-directeur JEL betwist ontslag bij rechter: 'Rapport geeft geen betrouwbaar beeld'",
@@ -305,6 +313,12 @@
     ],
     "Radio Lelystad": [
       {
+        "title": "Gedicht van de week: Jouw zoete dromen (Ruige Poez)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-jouw-zoete-dromen-ruige-poez",
+        "published": "woensdag 18 november 2026",
+        "summary": ""
+      },
+      {
         "title": "De kliekjes van twee avonden debat over de begroting, 'voorbeeld voor Den Haag'",
         "link": "https://radiolelystad.nl/de-kliekjes-van-twee-avonden-van-politiek-debat-over-de-begroting",
         "published": "dinsdag 17 november 2026",
@@ -596,20 +610,6 @@
         "title": "Gemeente start mediation tussen voetbalclub Unicum en omwonenden",
         "link": "https://radiolelystad.nl/gemeente-start-mediation-tussen-voetbalclub-unicum-en-omwonenden",
         "published": "vrijdag 30 oktober 2026",
-        "summary": ""
-      },
-      {
-        "title": "Nieuwe bordjes gaan fietsers de weg wijzen via dertien routes door de stad (en verder)",
-        "link": "https://radiolelystad.nl/nieuwe-bordjes-gaan-fietsers-de-weg-wijzen-via-dertien-routes-door-de-stad",
-        "published": "vrijdag 30 oktober 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
         "summary": ""
       }
     ],

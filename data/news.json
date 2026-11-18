@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T21:08:09.330581+00:00",
+  "updated": "2026-11-18T22:08:18.300999+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,7 +303,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Beste verhaal in schrijfwedstrijd over polder komt uit Emmeloord, ook prijzen naar Urk en Lelystad",
@@ -606,6 +605,15 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - OM eist twee maanden cel tegen Maurice de Hond wegens geraffineerde smaad in Deventer moordzaak",
@@ -905,14 +913,6 @@
         "title": "Flevoland - Nieuwsoverzicht 06/11 | Contract jeugdzorgaanbieder opgezegd • Asielkwestie zonder gevolgen",
         "link": "https://www.omroepflevoland.nl/nieuws/530301/nieuwsoverzicht-0611-or-contract-jeugdzorgaanbieder-opgezegd-*-asielkwestie-zonder-gevolgen",
         "published": "Fri, 06 Nov 2026 18:50:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
         "summary": ""
       }
     ]

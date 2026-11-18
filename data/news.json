@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T05:08:16.866603+00:00",
+  "updated": "2026-11-18T06:08:09.487662+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,6 +303,7 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Nachttrein van Zwolle naar Schiphol stopt per direct met rijden",
@@ -615,6 +616,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Lelystad - Van peuterdans in Lelystad naar Barcelona: Maddy (21) danst haar droom achterna",
+        "link": "https://www.omroepflevoland.nl/nieuws/531775/van-peuterdans-in-lelystad-naar-barcelona:-maddy-(21)-danst-haar-droom-achterna",
+        "published": "Wed, 18 Nov 2026 07:12:00 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Lelystad - Oud-directeur JEL betwist ontslag bij rechter: 'Rapport geeft geen betrouwbaar beeld'",
         "link": "https://www.omroepflevoland.nl/nieuws/531741/oud-directeur-jel-betwist-ontslag-bij-rechter:-'rapport-geeft-geen-betrouwbaar-beeld'",
         "published": "Tue, 17 Nov 2026 20:51:00 GMT+0200",
@@ -907,14 +914,7 @@
         "link": "https://www.omroepflevoland.nl/nieuws/530215/lelystad-in-3026:-porteum-leerlingen-ontwerpen-hun-eigen-toekomst",
         "published": "Fri, 06 Nov 2026 09:40:00 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Lelystad wil grip houden op digitale informatie",
-        "link": "https://www.omroepflevoland.nl/nieuws/530181/lelystad-wil-grip-houden-op-digitale-informatie",
-        "published": "Fri, 06 Nov 2026 07:40:00 GMT+0200",
-        "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

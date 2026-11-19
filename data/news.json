@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-19T11:08:08.557961+00:00",
+  "updated": "2026-11-19T11:55:06.340712+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Reizigersorganisatie Rover teleurgesteld: 'Onbegrijpelijk dat nachttrein door juridisch gesteggel verdwijnt'",
@@ -907,14 +915,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
-        "summary": ""
-      }
-    ]
+    "Nu.nl": []
   }
 }

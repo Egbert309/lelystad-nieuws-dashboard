@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-20T05:08:11.837556+00:00",
+  "updated": "2026-11-20T06:08:19.292574+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Buurtbus Lelystad bestaat tien jaar: 'Een rijdend praathuis'",
+        "link": "https://www.omroepflevoland.nl/nieuws/532025/buurtbus-lelystad-bestaat-tien-jaar:-'een-rijdend-praathuis'",
+        "published": "Fri, 20 Nov 2026 07:32:00 GMT+0200",
+        "summary": ""
+      },
+      {
+        "title": "Lelystad - Oekraïense vluchtelingen krijgen mogelijk 144 nieuwe tijdelijke woningen vanwege verouderde opvang",
+        "link": "https://www.omroepflevoland.nl/nieuws/531993/oekraiense-vluchtelingen-krijgen-mogelijk-144-nieuwe-tijdelijke-woningen-vanwege-verouderde-opvang",
+        "published": "Fri, 20 Nov 2026 07:23:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Vermeende roversbende Lelystad voor rechter: 'We hebben een kankervies leven tot we tachtig ruggen vinden'",
         "link": "https://www.omroepflevoland.nl/nieuws/532013/vermeende-roversbende-lelystad-voor-rechter:-'we-hebben-een-kankervies-leven-tot-we-tachtig-ruggen-vinden'",
@@ -288,18 +300,6 @@
         "title": "Flevoland - Nieuwsoverzicht 10/11 | Oekraïense drones in Marknesse • Vervoersverbod door vogelgriep",
         "link": "https://www.omroepflevoland.nl/nieuws/530821/nieuwsoverzicht-1011-or-oekraiense-drones-in-marknesse-*-vervoersverbod-door-vogelgriep",
         "published": "Tue, 10 Nov 2026 19:51:22 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Dag van de Mantelzorg: Jacqueline (72) vertelt hoe zwaar de zorg voor haar man soms valt",
-        "link": "https://www.omroepflevoland.nl/nieuws/530766/dag-van-de-mantelzorg:-jacqueline-(72)-vertelt-hoe-zwaar-de-zorg-voor-haar-man-soms-valt",
-        "published": "Tue, 10 Nov 2026 12:30:05 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad - Vrouw (70) verhuurt kamers, maar zegt nu haar eigen huis niet meer in te durven",
-        "link": "https://www.omroepflevoland.nl/nieuws/530704/vrouw-(70)-verhuurt-kamers-maar-zegt-nu-haar-eigen-huis-niet-meer-in-te-durven",
-        "published": "Tue, 10 Nov 2026 11:41:31 GMT+0200",
         "summary": ""
       }
     ],
@@ -605,15 +605,14 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
-        "summary": ""
-      }
-    ],
+    "Nu.nl": [],
     "Radio Lelystad": [
+      {
+        "title": "Pilot voorrangswoningen voor zorgpersoneel met jaar verlengd",
+        "link": "https://radiolelystad.nl/pilot-voorrangswoningen-voor-zorgpersoneel-met-jaar-verlengd",
+        "published": "vrijdag 20 november 2026",
+        "summary": ""
+      },
       {
         "title": "Van vier naar dertig maanden cel in plaats van vrijspraak voor man met machete",
         "link": "https://radiolelystad.nl/van-4-naar-30-maanden-cel-in-plaats-van-vrijspraak-voor-man-met-machete",
@@ -907,14 +906,15 @@
         "link": "https://radiolelystad.nl/komst-vakantiecharters-leidt-in-de-praktijk-wel-degelijk-tot-nachtvluchten",
         "published": "maandag 02 november 2026",
         "summary": ""
-      },
-      {
-        "title": "Een avondje discozwemmen met griezels (video)",
-        "link": "https://radiolelystad.nl/een-avondje-discozwemmen-met-griezels-video",
-        "published": "maandag 02 november 2026",
-        "summary": ""
       }
     ],
-    "Nu.nl": []
+    "NOS": [
+      {
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
+        "summary": ""
+      }
+    ]
   }
 }

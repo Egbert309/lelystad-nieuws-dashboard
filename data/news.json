@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-20T16:08:23.156596+00:00",
+  "updated": "2026-11-20T17:08:10.328305+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Nieuwsoverzicht 20/11 | 40 jaar Flevoland in tijdcapsule • Appartementen op plek spookpand Almere",
+        "link": "https://www.omroepflevoland.nl/nieuws/532092/nieuwsoverzicht-2011-or-40-jaar-flevoland-in-tijdcapsule-*-appartementen-op-plek-spookpand-almere",
+        "published": "Fri, 20 Nov 2026 19:00:56 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Op twee plekken in Lelystad illegaal vuurwerk gevonden, politie houdt 21-jarige man aan",
         "link": "https://www.omroepflevoland.nl/nieuws/532132/op-twee-plekken-in-lelystad-illegaal-vuurwerk-gevonden-politie-houdt-21-jarige-man-aan",
@@ -295,25 +301,11 @@
         "link": "https://www.omroepflevoland.nl/nieuws/530916/minister-praat-met-bedrijven-over-toekomst-sluizen-kornwerderzand-belangrijk-voor-urk-en-lelystad",
         "published": "Wed, 11 Nov 2026 17:01:41 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Lelystad - Rechter: camera mag aan huurwoning blijven hangen, Centrada vangt bot",
-        "link": "https://www.omroepflevoland.nl/nieuws/530910/rechter:-camera-mag-aan-huurwoning-blijven-hangen-centrada-vangt-bot",
-        "published": "Wed, 11 Nov 2026 15:11:00 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
-        "summary": ""
       }
     ],
     "Radio Lelystad": [
       {
-        "title": "Politie vindt opnieuw vuurwerk in woning na tips - en waarschuwt",
+        "title": "Politie vindt opnieuw vuurwerk in woning na anonieme tip - en waarschuwt",
         "link": "https://radiolelystad.nl/politie-vindt-opnieuw-vuurwerk-in-woning-na-tips-en-waarschuwt",
         "published": "vrijdag 20 november 2026",
         "summary": ""
@@ -615,6 +607,12 @@
     ],
     "De Stentor": [
       {
+        "title": "Jeugdzorg in Lelystad: 7 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 52,8 miljoen euro uit",
+        "link": "https://www.destentor.nl/lelystad/jeugdzorg-in-lelystad-7-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-52-8-miljoen-euro-uit~acd73f4a/",
+        "published": "Fri, 20 Nov 2026 16:29:00 GMT",
+        "summary": ""
+      },
+      {
         "title": "Wapens, geld en hennepkwekerijen: burgemeester Lelystad sluit in korte tijd drie woningen",
         "link": "https://www.destentor.nl/lelystad/wapens-geld-en-hennepkwekerijen-burgemeester-lelystad-sluit-in-korte-tijd-drie-woningen~a20afcf2/",
         "published": "Fri, 20 Nov 2026 15:21:35 GMT",
@@ -907,11 +905,13 @@
         "link": "https://www.destentor.nl/lelystad/flinke-stroomstoring-in-lelystad-opgelost~a83a0986/",
         "published": "Wed, 28 Oct 2026 09:27:52 GMT",
         "summary": ""
-      },
+      }
+    ],
+    "NOS": [
       {
-        "title": "Kerk in Actie start Nederlandse pilot ‘Shared Futures’ in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/kerk-in-actie-start-nederlandse-pilot-shared-futures-in-lelystad~ad42a3ff/",
-        "published": "Mon, 26 Oct 2026 17:30:00 GMT",
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
         "summary": ""
       }
     ],

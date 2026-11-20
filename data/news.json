@@ -1,7 +1,21 @@
 {
-  "updated": "2026-11-20T10:08:10.139110+00:00",
+  "updated": "2026-11-20T11:08:08.326287+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
+      {
+        "title": "Lelystad neemt Koningsdag-stokje over van Dokkum met bijzondere stempel",
+        "link": "https://www.destentor.nl/lelystad/lelystad-neemt-koningsdag-stokje-over-van-dokkum-met-bijzondere-stempel~afde8008/",
+        "published": "Fri, 20 Nov 2026 11:00:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Lelystadse kinderen maken zelf een gezond receptenboekje voor de feestdagen",
         "link": "https://www.destentor.nl/lelystad/lelystadse-kinderen-maken-zelf-een-gezond-receptenboekje-voor-de-feestdagen~aaa1fb13/",
@@ -295,14 +309,9 @@
         "link": "https://www.destentor.nl/lelystad/meer-zorgen-in-lelystad-over-emotionele-mishandeling-in-zes-maanden-130-belletjes~a6c3ca1d/",
         "published": "Mon, 26 Oct 2026 17:30:00 GMT",
         "summary": ""
-      },
-      {
-        "title": "Oprichter van Lelystadse buurtbus onderscheiden met het Stadscompliment",
-        "link": "https://www.destentor.nl/lelystad/oprichter-van-lelystadse-buurtbus-onderscheiden-met-het-stadscompliment~add83bd7/",
-        "published": "Mon, 26 Oct 2026 14:11:00 GMT",
-        "summary": ""
       }
     ],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Pilot voorrangswoningen voor zorgpersoneel met jaar verlengd",
@@ -602,14 +611,6 @@
         "title": "'Komst van vakantiecharters leidt wel degelijk tot nachtvluchten'",
         "link": "https://radiolelystad.nl/komst-vakantiecharters-leidt-in-de-praktijk-wel-degelijk-tot-nachtvluchten",
         "published": "maandag 02 november 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
         "summary": ""
       }
     ],
@@ -914,7 +915,6 @@
         "published": "Wed, 11 Nov 2026 08:40:00 GMT+0200",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

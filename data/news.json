@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T17:08:10.328305+00:00",
+  "updated": "2026-11-20T18:08:10.276967+00:00",
   "sources": {
     "Omroep Flevoland": [
       {
@@ -300,6 +300,14 @@
         "title": "Flevoland - Minister praat met bedrijven over toekomst sluizen Kornwerderzand, belangrijk voor Urk en Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/530916/minister-praat-met-bedrijven-over-toekomst-sluizen-kornwerderzand-belangrijk-voor-urk-en-lelystad",
         "published": "Wed, 11 Nov 2026 17:01:41 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
         "summary": ""
       }
     ],
@@ -605,17 +613,18 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Wapens, geld en hennepkwekerijen: burgemeester Lelystad sluit in korte tijd drie woningen",
+        "link": "https://www.destentor.nl/lelystad/wapens-geld-en-hennepkwekerijen-burgemeester-lelystad-sluit-in-korte-tijd-drie-woningen~a20afcf2/",
+        "published": "Fri, 20 Nov 2026 17:21:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Jeugdzorg in Lelystad: 7 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 52,8 miljoen euro uit",
         "link": "https://www.destentor.nl/lelystad/jeugdzorg-in-lelystad-7-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-52-8-miljoen-euro-uit~acd73f4a/",
         "published": "Fri, 20 Nov 2026 16:29:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Wapens, geld en hennepkwekerijen: burgemeester Lelystad sluit in korte tijd drie woningen",
-        "link": "https://www.destentor.nl/lelystad/wapens-geld-en-hennepkwekerijen-burgemeester-lelystad-sluit-in-korte-tijd-drie-woningen~a20afcf2/",
-        "published": "Fri, 20 Nov 2026 15:21:35 GMT",
         "summary": ""
       },
       {
@@ -906,15 +915,6 @@
         "published": "Wed, 28 Oct 2026 09:27:52 GMT",
         "summary": ""
       }
-    ],
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

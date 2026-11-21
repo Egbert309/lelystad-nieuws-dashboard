@@ -1,14 +1,7 @@
 {
-  "updated": "2026-11-21T05:08:01.515929+00:00",
+  "updated": "2026-11-21T06:07:47.462771+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
-        "summary": ""
-      }
-    ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Wapens, geld en hennepkwekerijen: burgemeester Lelystad sluit in korte tijd drie woningen",
@@ -311,7 +304,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Westerdreef Lelystad kan er weer tegenaan, herstel rotondes volgt nog",
@@ -913,6 +905,14 @@
         "title": "Verwijderen illegale boten gebeurt 'met begrip voor menselijke kant'",
         "link": "https://radiolelystad.nl/verwijderen-illegale-boten-gebeurt-met-begrip-voor-menselijke-kan",
         "published": "dinsdag 03 november 2026",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
         "summary": ""
       }
     ]

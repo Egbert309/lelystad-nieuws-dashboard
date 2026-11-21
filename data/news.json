@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-21T13:07:59.479588+00:00",
+  "updated": "2026-11-21T14:07:51.378615+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "(met video) Onze techneut en alleskunner Egbert kan omroepvrijwilliger van het jaar worden. Stem!!",
@@ -305,6 +313,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Lelystad - 'Geen enkel kind mag buiten spel staan', studenten helpen Sinterklaasfeest mogelijk maken",
+        "link": "https://www.omroepflevoland.nl/nieuws/532023/'geen-enkel-kind-mag-buiten-spel-staan'-studenten-helpen-sinterklaasfeest-mogelijk-maken",
+        "published": "Sat, 21 Nov 2026 15:21:31 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Urk - Starterslening Urk gaat licht omlaag, nodig om meer inwoners te helpen",
         "link": "https://www.omroepflevoland.nl/nieuws/531831/starterslening-urk-gaat-licht-omlaag-nodig-om-meer-inwoners-te-helpen",
         "published": "Sat, 21 Nov 2026 13:12:00 GMT+0200",
@@ -596,21 +610,6 @@
         "title": "Lelystad - Tegenvaller: nieuwbouw Museum Batavialand 6,6 miljoen euro duurder",
         "link": "https://www.omroepflevoland.nl/nieuws/531052/tegenvaller:-nieuwbouw-museum-batavialand-66-miljoen-euro-duurder",
         "published": "Thu, 12 Nov 2026 15:08:34 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Statenbrede aanval op 50PLUS na motie van wantrouwen tegen gedeputeerde: 'Hoe durft u?'",
-        "link": "https://www.omroepflevoland.nl/nieuws/530985/statenbrede-aanval-op-50plus-na-motie-van-wantrouwen-tegen-gedeputeerde:-'hoe-durft-u'",
-        "published": "Thu, 12 Nov 2026 13:40:20 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
         "summary": ""
       }
     ],
@@ -915,6 +914,7 @@
         "published": "Wed, 28 Oct 2026 09:27:52 GMT",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": []
   }
 }

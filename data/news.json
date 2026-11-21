@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-21T18:07:50.239931+00:00",
+  "updated": "2026-11-21T19:07:57.025229+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
+        "summary": ""
+      }
+    ],
     "Nu.nl": [],
     "Omroep Flevoland": [
       {
@@ -306,6 +314,12 @@
     ],
     "De Stentor": [
       {
+        "title": "VOC-replica Batavia ligt op het droge en wordt de blikvanger van een peperduur museum ‘met allure’",
+        "link": "https://www.destentor.nl/lelystad/voc-replica-batavia-ligt-op-het-droge-en-wordt-de-blikvanger-van-een-peperduur-museum-met-allure~a20747f2/",
+        "published": "Sat, 21 Nov 2026 18:10:22 GMT",
+        "summary": ""
+      },
+      {
         "title": "Wapens, geld en hennepkwekerijen: burgemeester Lelystad sluit in korte tijd drie woningen",
         "link": "https://www.destentor.nl/lelystad/wapens-geld-en-hennepkwekerijen-burgemeester-lelystad-sluit-in-korte-tijd-drie-woningen~a20afcf2/",
         "published": "Fri, 20 Nov 2026 17:21:00 GMT",
@@ -597,20 +611,6 @@
         "title": "Afgelopen week 28 meldingen van de gemeente over onder meer bouw in Lelystad",
         "link": "https://www.destentor.nl/lelystad/afgelopen-week-28-meldingen-van-de-gemeente-over-onder-meer-bouw-in-lelystad~a0bd0af5/",
         "published": "Wed, 28 Oct 2026 10:03:32 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Flinke stroomstoring in Lelystad opgelost",
-        "link": "https://www.destentor.nl/lelystad/flinke-stroomstoring-in-lelystad-opgelost~a83a0986/",
-        "published": "Wed, 28 Oct 2026 09:27:52 GMT",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
         "summary": ""
       }
     ],

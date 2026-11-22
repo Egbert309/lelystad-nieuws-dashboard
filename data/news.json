@@ -1,6 +1,8 @@
 {
-  "updated": "2026-11-22T19:07:14.548394+00:00",
+  "updated": "2026-11-22T20:07:13.884977+00:00",
   "sources": {
+    "Nu.nl": [],
+    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "SV Lelystad ’67 verliest van koploper VSCO ’61 en ontvangt volgende week de nummer 3 WZC Wapenveld",
@@ -906,8 +908,6 @@
         "published": "Thu, 12 Nov 2026 19:51:00 GMT+0200",
         "summary": ""
       }
-    ],
-    "NOS": [],
-    "Nu.nl": []
+    ]
   }
 }

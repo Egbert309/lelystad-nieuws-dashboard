@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-22T08:07:57.404843+00:00",
+  "updated": "2026-11-22T09:07:48.808263+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - 'Geen enkel kind mag buitenspel staan', studenten helpen Sinterklaasfeest mogelijk maken",
@@ -905,14 +913,6 @@
         "title": "Gedicht van de week: Lelystadse wetenswaardigheden (Ger Koreman)",
         "link": "https://radiolelystad.nl/gedicht-van-de-week-lelystadse-wetenswaardigheden-ger-koreman",
         "published": "woensdag 04 november 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
         "summary": ""
       }
     ]

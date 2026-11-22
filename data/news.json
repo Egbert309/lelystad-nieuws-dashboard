@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T05:07:48.345529+00:00",
+  "updated": "2026-11-22T06:07:50.323958+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -605,6 +605,15 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
+        "summary": ""
+      }
+    ],
     "De Stentor": [
       {
         "title": "VOC-replica Batavia ligt op het droge en wordt de blikvanger van een peperduur museum ‘met allure’",
@@ -906,15 +915,6 @@
         "published": "Wed, 28 Oct 2026 10:03:32 GMT",
         "summary": ""
       }
-    ],
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

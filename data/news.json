@@ -1,14 +1,6 @@
 {
-  "updated": "2026-11-22T11:43:03.074503+00:00",
+  "updated": "2026-11-22T12:07:56.732225+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - 'Geen enkel kind mag buitenspel staan', studenten helpen Sinterklaasfeest mogelijk maken",
@@ -613,6 +605,15 @@
         "summary": ""
       }
     ],
+    "Nu.nl": [],
+    "NOS": [
+      {
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Unicum wint van hekkensluiter en klimt op naar tweede plaats in competitie",
@@ -914,7 +915,6 @@
         "published": "woensdag 04 november 2026",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

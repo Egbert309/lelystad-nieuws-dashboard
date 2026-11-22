@@ -1,6 +1,7 @@
 {
-  "updated": "2026-11-22T16:07:53.012403+00:00",
+  "updated": "2026-11-22T17:08:01.749374+00:00",
   "sources": {
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Heb jij Leon, Mimi of Katharina gezien? Deze drie huisdieren worden in Lelystad vermist",
@@ -303,6 +304,14 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
+        "link": "https://nos.nl/l/2639916",
+        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - 'Geen enkel kind mag buitenspel staan', studenten helpen Sinterklaasfeest mogelijk maken",
@@ -602,15 +611,6 @@
         "title": "Lelystad - Tegenvaller: nieuwbouw Museum Batavialand 6,6 miljoen euro duurder",
         "link": "https://www.omroepflevoland.nl/nieuws/531052/tegenvaller:-nieuwbouw-museum-batavialand-66-miljoen-euro-duurder",
         "published": "Thu, 12 Nov 2026 15:08:34 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [],
-    "NOS": [
-      {
-        "title": "Rechter zet streep door subsidie voor nachttrein Arriva, verbinding stopt per direct",
-        "link": "https://nos.nl/l/2639916",
-        "published": "Tue, 17 Nov 2026 19:03:20 +0100",
         "summary": ""
       }
     ],

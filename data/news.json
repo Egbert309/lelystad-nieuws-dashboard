@@ -1,8 +1,14 @@
 {
-  "updated": "2026-11-23T13:18:25.550995+00:00",
+  "updated": "2026-11-23T14:07:15.448878+00:00",
   "sources": {
     "NOS": [],
     "Radio Lelystad": [
+      {
+        "title": "Critici overwegen juridische stappen tegen plan voor buitendijks bouwen",
+        "link": "https://radiolelystad.nl/beschermers-ijsselmeergebied-overwegen-juridische-stappen-tegen-buitendijks-bouwen",
+        "published": "maandag 23 november 2026",
+        "summary": ""
+      },
       {
         "title": "Leo Schouwenaar (bekend van radio en tv) mag zich Maestro van Lelystad noemen",
         "link": "https://radiolelystad.nl/leo-schouwenaar-bekend-van-radio-en-tv-mag-zich-maestro-van-lelystad-noemen",
@@ -296,14 +302,9 @@
         "link": "https://radiolelystad.nl/gemeenteraad-enthousiast-over-mogelijkheid-voor-eeuwige-grafrust-op-begraafplaats",
         "published": "donderdag 05 november 2026",
         "summary": ""
-      },
-      {
-        "title": "Gevraagd: bijdrage van woordkunstenaars (ook amateurs) aan 60 jaar Lelystad",
-        "link": "https://radiolelystad.nl/gevraagd-bijdrage-van-woordkunstenaars-ook-amateurs-aan-60-jaar-lelystad",
-        "published": "donderdag 05 november 2026",
-        "summary": ""
       }
     ],
+    "Nu.nl": [],
     "De Stentor": [
       {
         "title": "Heb jij Leon, Mimi of Katharina gezien? Deze drie huisdieren worden in Lelystad vermist",
@@ -907,7 +908,6 @@
         "published": "Thu, 12 Nov 2026 19:51:00 GMT+0200",
         "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

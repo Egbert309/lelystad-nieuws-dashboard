@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-23T14:07:15.448878+00:00",
+  "updated": "2026-11-23T15:07:17.226116+00:00",
   "sources": {
-    "NOS": [],
+    "Nu.nl": [],
     "Radio Lelystad": [
       {
         "title": "Critici overwegen juridische stappen tegen plan voor buitendijks bouwen",
@@ -304,8 +304,13 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "De Stentor": [
+      {
+        "title": "Meezingen met klassieke kerstmuziek tijdens workshop van kamerkoor in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/meezingen-met-klassieke-kerstmuziek-tijdens-workshop-van-kamerkoor-in-lelystad~a41e5c07/",
+        "published": "Mon, 23 Nov 2026 14:30:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Heb jij Leon, Mimi of Katharina gezien? Deze drie huisdieren worden in Lelystad vermist",
         "link": "https://www.destentor.nl/lelystad/heb-jij-leon-mimi-of-katharina-gezien-deze-drie-huisdieren-worden-in-lelystad-vermist~a03f6552/",
@@ -598,12 +603,6 @@
         "title": "Van de huizen in Lelystad werd 85 procent binnen drie maanden verkocht",
         "link": "https://www.destentor.nl/lelystad/van-de-huizen-in-lelystad-werd-85-procent-binnen-drie-maanden-verkocht~abb3bbb6/",
         "published": "Wed, 28 Oct 2026 16:30:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Vernietigend rapport over jeugdzorg in Lelystad: ‘Het is extreem, dit zien we nergens anders’",
-        "link": "https://www.destentor.nl/lelystad/vernietigend-rapport-over-jeugdzorg-in-lelystad-het-is-extreem-dit-zien-we-nergens-anders~a89e0e20/",
-        "published": "Wed, 28 Oct 2026 16:13:00 GMT",
         "summary": ""
       }
     ],
@@ -908,6 +907,7 @@
         "published": "Thu, 12 Nov 2026 19:51:00 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "NOS": []
   }
 }

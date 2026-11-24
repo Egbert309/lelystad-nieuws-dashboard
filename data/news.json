@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T04:07:25.502752+00:00",
+  "updated": "2026-11-24T05:07:15.674741+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -303,6 +303,7 @@
         "summary": ""
       }
     ],
+    "NOS": [],
     "De Stentor": [
       {
         "title": "Sabrina (43) zat als tiener in gesloten instellingen: ‘Ik kreeg gedwongen injecties’",
@@ -605,8 +606,14 @@
         "summary": ""
       }
     ],
-    "NOS": [],
+    "Nu.nl": [],
     "Omroep Flevoland": [
+      {
+        "title": "Flevoland - Sinterklaas shopt steeds vaker bij de kringloop: 'Een kinderhand is gauw gevuld'",
+        "link": "https://www.omroepflevoland.nl/nieuws/532232/sinterklaas-shopt-steeds-vaker-bij-de-kringloop:-'een-kinderhand-is-gauw-gevuld'",
+        "published": "Tue, 24 Nov 2026 06:55:00 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Flevoland - Wegen worden weer gestrooid, maar hoe werkt dat eigenlijk?",
         "link": "https://www.omroepflevoland.nl/nieuws/532484/wegen-worden-weer-gestrooid-maar-hoe-werkt-dat-eigenlijk",
@@ -900,14 +907,7 @@
         "link": "https://www.omroepflevoland.nl/nieuws/531182/begroting-lelystad:-door-met-poppodium-hondenbelasting-blijft",
         "published": "Fri, 13 Nov 2026 12:16:12 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Flevoland - Hier kan je Sinterklaas dit weekend zien aankomen",
-        "link": "https://www.omroepflevoland.nl/nieuws/530778/hier-kan-je-sinterklaas-dit-weekend-zien-aankomen",
-        "published": "Fri, 13 Nov 2026 11:55:31 GMT+0200",
-        "summary": ""
       }
-    ],
-    "Nu.nl": []
+    ]
   }
 }

@@ -1,7 +1,6 @@
 {
-  "updated": "2026-11-24T21:07:19.039176+00:00",
+  "updated": "2026-11-24T22:07:17.995453+00:00",
   "sources": {
-    "NOS": [],
     "Radio Lelystad": [
       {
         "title": "Gemeenteraad neemt nog geen besluit over eeuwigdurende grafrust",
@@ -606,7 +605,6 @@
         "summary": ""
       }
     ],
-    "Nu.nl": [],
     "Omroep Flevoland": [
       {
         "title": "Lelystad - Kopstukken Kempenaar Groep horen 12 jaar cel eisen voor reeks misdrijven",
@@ -908,6 +906,8 @@
         "published": "Sat, 14 Nov 2026 12:15:51 GMT+0200",
         "summary": ""
       }
-    ]
+    ],
+    "Nu.nl": [],
+    "NOS": []
   }
 }

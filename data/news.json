@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-25T05:07:16.429497+00:00",
+  "updated": "2026-11-25T06:07:14.972817+00:00",
   "sources": {
     "Radio Lelystad": [
+      {
+        "title": "Gedicht van de week: Hoe schrijf ik een gedicht  (Teabag)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-hoe-schrijf-ik-een-gedicht-teabag",
+        "published": "woensdag 25 november 2026",
+        "summary": ""
+      },
       {
         "title": "Gemeente gaat nogmaals op zoek naar oplossing voor bootbewoners",
         "link": "https://radiolelystad.nl/gemeente-gaat-nogmaals-op-zoek-naar-oplossing-voor-bootbewoners",
@@ -293,12 +299,6 @@
       {
         "title": "Lelystad haalt elf kinderen weg bij CareForYou na twijfels over zorg en veiligheid",
         "link": "https://radiolelystad.nl/lelystad-haalt-elf-kinderen-weg-bij-careforyou-na-twijfels-over-kwaliteit-zorg-en-veiligheid",
-        "published": "vrijdag 06 november 2026",
-        "summary": ""
-      },
-      {
-        "title": "Aanklager vindt beeld niet overtuigend, rechter wel: cel in voor drie inbraken",
-        "link": "https://radiolelystad.nl/aanklager-vindt-beelden-niet-overtuigend-rechter-wel-cel-voor-drie-inbraken",
         "published": "vrijdag 06 november 2026",
         "summary": ""
       }
@@ -609,6 +609,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Lelystad - Een puppy is schattig, maar past hij ook bij je? 'Kijk verder dan alleen dat leuke koppie'",
+        "link": "https://www.omroepflevoland.nl/nieuws/532640/een-puppy-is-schattig-maar-past-hij-ook-bij-je-'kijk-verder-dan-alleen-dat-leuke-koppie'",
+        "published": "Wed, 25 Nov 2026 07:44:00 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Lelystad - Kopstukken Kempenaar Groep horen 12 jaar cel eisen voor reeks misdrijven",
         "link": "https://www.omroepflevoland.nl/nieuws/532638/kopstukken-kempenaar-groep-horen-12-jaar-cel-eisen-voor-reeks-misdrijven",
         "published": "Tue, 24 Nov 2026 21:11:24 GMT+0200",
@@ -900,12 +906,6 @@
         "title": "Flevoland - Follow the Money: provincie wilde verkiezingen beïnvloeden met campagne voor Lelystad Airport",
         "link": "https://www.omroepflevoland.nl/nieuws/531215/follow-the-money:-provincie-wilde-verkiezingen-beinvloeden-met-campagne-voor-lelystad-airport",
         "published": "Sat, 14 Nov 2026 12:20:41 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Nieuwsoverzicht 13/11 | Bootbewoners weigeren vertrek • GGD vertraagt Woo-verzoeken",
-        "link": "https://www.omroepflevoland.nl/nieuws/531208/nieuwsoverzicht-1311-or-bootbewoners-weigeren-vertrek-*-ggd-vertraagt-woo-verzoeken",
-        "published": "Sat, 14 Nov 2026 12:15:51 GMT+0200",
         "summary": ""
       }
     ]

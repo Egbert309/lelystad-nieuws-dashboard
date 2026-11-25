@@ -1,14 +1,6 @@
 {
-  "updated": "2026-11-25T13:14:38.631432+00:00",
+  "updated": "2026-11-25T14:07:27.292009+00:00",
   "sources": {
-    "Nu.nl": [
-      {
-        "title": "Meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in Lelystad",
-        "link": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
-        "published": "Wed, 25 Nov 2026 09:12:00 +0100",
-        "summary": ""
-      }
-    ],
     "De Stentor": [
       {
         "title": "Presentator Leo Schouwenaar kroont zich tot Maestro Lelystad 2026",
@@ -29,8 +21,8 @@
         "summary": ""
       },
       {
-        "title": "LIVE | Vier slachtoffers naar ziekenhuis  na botsing bus en vrachtwagen • Twee kinderen onder de gewonden",
-        "link": "https://www.destentor.nl/lelystad/live-vier-slachtoffers-naar-ziekenhuis-na-botsing-bus-en-vrachtwagen-twee-kinderen-onder-de-gewonden~ab42195d/",
+        "title": "LIVE | Vier slachtoffers naar ziekenhuis na botsing bus en vrachtwagen • Bestuurders aangehouden en verhoord",
+        "link": "https://www.destentor.nl/lelystad/live-vier-slachtoffers-naar-ziekenhuis-na-botsing-bus-en-vrachtwagen-bestuurders-aangehouden-en-verhoord~ab42195d/",
         "published": "Wed, 25 Nov 2026 08:04:00 GMT",
         "summary": ""
       },
@@ -325,7 +317,7 @@
         "summary": ""
       },
       {
-        "title": "Vijf zwaargewonden door aanrijding tussen bus en vrachtwagen op Larserweg",
+        "title": "Vier zwaargewonden door aanrijding tussen bus en vrachtwagen op Larserweg (update)",
         "link": "https://radiolelystad.nl/vijf-zwaargewonden-door-aanrijding-tussen-bus-en-vrachtwagen-op-larserweg",
         "published": "woensdag 25 november 2026",
         "summary": ""
@@ -613,20 +605,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
-        "link": "https://nos.nl/l/2640944",
-        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Zeker vijf zwaargewonden bij ongeluk tussen vrachtwagen en lijnbus bij Lelystad",
-        "link": "https://nos.nl/l/2640937",
-        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Man filmde zichzelf tijdens rit die eindigde in dodelijk ongeluk: drie jaar cel geëist",
@@ -635,8 +613,8 @@
         "summary": ""
       },
       {
-        "title": "Lelystad - Twee kinderen onder vijf zwaargewonden bij busongeluk op Larserweg",
-        "link": "https://www.omroepflevoland.nl/nieuws/532684/twee-kinderen-onder-vijf-zwaargewonden-bij-busongeluk-op-larserweg",
+        "title": "Lelystad - Vier buspassagiers naar ziekenhuis na botsing met vrachtwagen bij Lelystad, ook twee kinderen gewond",
+        "link": "https://www.omroepflevoland.nl/nieuws/532684/vier-buspassagiers-naar-ziekenhuis-na-botsing-met-vrachtwagen-bij-lelystad-ook-twee-kinderen-gewond",
         "published": "Wed, 25 Nov 2026 09:37:18 GMT+0200",
         "summary": ""
       },
@@ -926,6 +904,34 @@
         "title": "Lelystad - Pieten en pepernoten op de kade: kinderen verwelkomen Sinterklaas in Lelystad",
         "link": "https://www.omroepflevoland.nl/nieuws/531375/pieten-en-pepernoten-op-de-kade:-kinderen-verwelkomen-sinterklaas-in-lelystad",
         "published": "Sat, 14 Nov 2026 16:55:00 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Bestuurders van lijnbus en vrachtwagen aangehouden na ongeluk in Lelystad",
+        "link": "https://www.nu.nl/binnenland/6417752/bestuurders-van-lijnbus-en-vrachtwagen-aangehouden-na-ongeluk-in-lelystad.html",
+        "published": "Wed, 25 Nov 2026 14:36:10 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in Lelystad",
+        "link": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
+        "published": "Wed, 25 Nov 2026 09:12:00 +0100",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
+        "link": "https://nos.nl/l/2640944",
+        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Lijnbus wordt opengereten door vrachtwagen met heipalen, meerdere gewonden",
+        "link": "https://nos.nl/l/2640937",
+        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
         "summary": ""
       }
     ]

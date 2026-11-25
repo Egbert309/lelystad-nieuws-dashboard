@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-25T10:07:16.445154+00:00",
+  "updated": "2026-11-25T11:07:17.527134+00:00",
   "sources": {
+    "NOS": [
+      {
+        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
+        "link": "https://nos.nl/l/2640944",
+        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Zeker vijf zwaargewonden bij ongeluk tussen vrachtwagen en lijnbus bij Lelystad",
+        "link": "https://nos.nl/l/2640937",
+        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
+        "summary": ""
+      }
+    ],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Man (29) vervolgd voor veroorzaken dodelijke aanrijding: 'Was met telefoon bezig en reed veel te snel'",
@@ -303,21 +317,21 @@
         "summary": ""
       }
     ],
-    "NOS": [
+    "Nu.nl": [
       {
-        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
-        "link": "https://nos.nl/l/2640944",
-        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Zeker vijf zwaargewonden bij ongeluk tussen vrachtwagen en lijnbus bij Lelystad",
-        "link": "https://nos.nl/l/2640937",
-        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
+        "title": "Meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in Lelystad",
+        "link": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
+        "published": "Wed, 25 Nov 2026 09:12:00 +0100",
         "summary": ""
       }
     ],
     "Radio Lelystad": [
+      {
+        "title": "Lelystadse Sportverkiezingen 2026: 'Op je 59ste nog 230 kilo tillen kan gewoon'",
+        "link": "https://radiolelystad.nl/liefde-voor-sport-centraal-tijdens-sportverkiezingen-2026-op-je-59ste-nog-230-kilo-tillen-kan-gewoon",
+        "published": "woensdag 25 november 2026",
+        "summary": ""
+      },
       {
         "title": "Vijf zwaargewonden door aanrijding tussen bus en vrachtwagen op Larserweg",
         "link": "https://radiolelystad.nl/vijf-zwaargewonden-door-aanrijding-tussen-bus-en-vrachtwagen-op-larserweg",
@@ -611,23 +625,15 @@
         "link": "https://radiolelystad.nl/vv-unicum-speelt-0-0-gelijk-tegen-achilles-12",
         "published": "zondag 08 november 2026",
         "summary": ""
-      },
-      {
-        "title": "Duel SV Lelystad '67 bij 1-1 stand gestaakt na ernstige blessure",
-        "link": "https://radiolelystad.nl/duel-sv-lelystad-67-bij-1-1-stand-gestaakt-na-ernstige-blessure",
-        "published": "zondag 08 november 2026",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in Lelystad",
-        "link": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
-        "published": "Wed, 25 Nov 2026 09:12:00 +0100",
-        "summary": ""
       }
     ],
     "De Stentor": [
+      {
+        "title": "Dit weten we tot nu toe over het ongeluk met de bus en de vrachtwagen in Flevoland",
+        "link": "https://www.destentor.nl/lelystad/dit-weten-we-tot-nu-toe-over-het-ongeluk-met-de-bus-en-de-vrachtwagen-in-flevoland~a301f615/",
+        "published": "Wed, 25 Nov 2026 10:29:03 GMT",
+        "summary": ""
+      },
       {
         "title": "Afgelopen week 32 meldingen van de gemeente over sloop, bomenkap en verkeer in Lelystad",
         "link": "https://www.destentor.nl/lelystad/afgelopen-week-32-meldingen-van-de-gemeente-over-sloop-bomenkap-en-verkeer-in-lelystad~a79490f6/",
@@ -920,12 +926,6 @@
         "title": "Nieuwe hoogspanningslijn dreigt Lelystad 117 miljoen euro te kosten: zo zet Flevoland zich schrap",
         "link": "https://www.destentor.nl/lelystad/nieuwe-hoogspanningslijn-dreigt-lelystad-117-miljoen-euro-te-kosten-zo-zet-flevoland-zich-schrap~a0f42abe/",
         "published": "Sun, 01 Nov 2026 06:00:51 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Bevolkingsdichtheid Lelystad voor het eerst sinds 1996 omlaag",
-        "link": "https://www.destentor.nl/lelystad/bevolkingsdichtheid-lelystad-voor-het-eerst-sinds-1996-omlaag~afd9495d/",
-        "published": "Fri, 30 Oct 2026 16:37:00 GMT",
         "summary": ""
       }
     ]

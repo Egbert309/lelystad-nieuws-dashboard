@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T16:07:19.358530+00:00",
+  "updated": "2026-11-25T17:07:17.802718+00:00",
   "sources": {
     "Radio Lelystad": [
       {
@@ -15,7 +15,7 @@
         "summary": ""
       },
       {
-        "title": "Vier zwaargewonden door aanrijding tussen bus en vrachtwagen op Larserweg (update)",
+        "title": "Laatste udate: 1 zwaargewonde bij crash  bus en truck op Larserweg",
         "link": "https://radiolelystad.nl/vijf-zwaargewonden-door-aanrijding-tussen-bus-en-vrachtwagen-op-larserweg",
         "published": "woensdag 25 november 2026",
         "summary": ""
@@ -300,26 +300,6 @@
         "title": "Buurtbewoner overmeestert inbreker die hem met koevoet te lijf wil na achtervolging",
         "link": "https://radiolelystad.nl/buurtbewoner-overmeestert-inbreker-die-hem-te-lijf-wil-met-koevoet",
         "published": "maandag 09 november 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Podcast De Monarchie: waarom zijn er zo weinig vrouwen commissaris van de Koning?",
-        "link": "https://nos.nl/l/2640989",
-        "published": "Wed, 25 Nov 2026 16:30:02 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
-        "link": "https://nos.nl/l/2640944",
-        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Lijnbus wordt opengereten door vrachtwagen met heipalen, meerdere gewonden",
-        "link": "https://nos.nl/l/2640937",
-        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
         "summary": ""
       }
     ],
@@ -636,6 +616,26 @@
         "title": "Heb jij Max, Bella of Beetle gezien? Deze vijf huisdieren worden in Lelystad vermist",
         "link": "https://www.destentor.nl/lelystad/heb-jij-max-bella-of-beetle-gezien-deze-vijf-huisdieren-worden-in-lelystad-vermist~a5cdae0a/",
         "published": "Sun, 01 Nov 2026 10:11:39 GMT",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Podcast De Monarchie: waarom zijn er zo weinig vrouwen commissaris van de Koning?",
+        "link": "https://nos.nl/l/2640989",
+        "published": "Wed, 25 Nov 2026 16:30:02 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
+        "link": "https://nos.nl/l/2640944",
+        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Lijnbus wordt opengereten door vrachtwagen met heipalen, meerdere gewonden",
+        "link": "https://nos.nl/l/2640937",
+        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
         "summary": ""
       }
     ],

@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T18:07:13.346555+00:00",
+  "updated": "2026-11-26T19:07:17.469840+00:00",
   "sources": {
     "De Stentor": [
+      {
+        "title": "Geen dna of voetsporen, wel urenlang afgeluisterde gesprekken. Voldoende bewijs tegen de Kempenaarbende?",
+        "link": "https://www.destentor.nl/lelystad/geen-dna-of-voetsporen-wel-urenlang-afgeluisterde-gesprekken-voldoende-bewijs-tegen-de-kempenaarbende~abed3da6/",
+        "published": "Thu, 26 Nov 2026 18:10:41 GMT",
+        "summary": ""
+      },
       {
         "title": "Borstkankeronderzoek: zes op de tien vrouwen uit Lelystad deden mee",
         "link": "https://www.destentor.nl/lelystad/borstkankeronderzoek-zes-op-de-tien-vrouwen-uit-lelystad-deden-mee~a71ec706/",
@@ -294,12 +300,6 @@
         "title": "Agenten posten in Lelystad voor fatbikes, 31 fietsers gaan op de bon",
         "link": "https://www.destentor.nl/lelystad/agenten-posten-in-lelystad-voor-fatbikes-31-fietsers-gaan-op-de-bon~a0264c48/",
         "published": "Tue, 03 Nov 2026 17:59:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Lelystad vraagt professionals om mee te denken over gebied rond ziekenhuis",
-        "link": "https://www.destentor.nl/lelystad/lelystad-vraagt-professionals-om-mee-te-denken-over-gebied-rond-ziekenhuis~aeeb2bc8/",
-        "published": "Tue, 03 Nov 2026 17:00:00 GMT",
         "summary": ""
       }
     ],
@@ -605,6 +605,40 @@
         "summary": ""
       }
     ],
+    "NOS": [
+      {
+        "title": "Podcast De Monarchie: waarom zijn er zo weinig vrouwen commissaris van de Koning?",
+        "link": "https://nos.nl/l/2640989",
+        "published": "Wed, 25 Nov 2026 16:30:02 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
+        "link": "https://nos.nl/l/2640944",
+        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Lijnbus wordt opengereten door vrachtwagen met heipalen, meerdere gewonden",
+        "link": "https://nos.nl/l/2640937",
+        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Bestuurders van lijnbus en vrachtwagen aangehouden na ongeluk in Lelystad",
+        "link": "https://www.nu.nl/binnenland/6417752/bestuurders-van-lijnbus-en-vrachtwagen-aangehouden-na-ongeluk-in-lelystad.html",
+        "published": "Wed, 25 Nov 2026 14:36:10 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in Lelystad",
+        "link": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
+        "published": "Wed, 25 Nov 2026 09:12:00 +0100",
+        "summary": ""
+      }
+    ],
     "Radio Lelystad": [
       {
         "title": "Poppodium Corneel duikt de kerstsfeer in met ‘Crazy Christmas', foute trui toegestaan",
@@ -904,40 +938,6 @@
         "title": "Heel Lelystad zingt (dat kan althans) eind deze maand voor publiek in De Kubus",
         "link": "https://radiolelystad.nl/heel-lelystad-zingt-dat-kan-althans-eind-deze-maand-in-de-kubus",
         "published": "dinsdag 10 november 2026",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Podcast De Monarchie: waarom zijn er zo weinig vrouwen commissaris van de Koning?",
-        "link": "https://nos.nl/l/2640989",
-        "published": "Wed, 25 Nov 2026 16:30:02 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
-        "link": "https://nos.nl/l/2640944",
-        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Lijnbus wordt opengereten door vrachtwagen met heipalen, meerdere gewonden",
-        "link": "https://nos.nl/l/2640937",
-        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Bestuurders van lijnbus en vrachtwagen aangehouden na ongeluk in Lelystad",
-        "link": "https://www.nu.nl/binnenland/6417752/bestuurders-van-lijnbus-en-vrachtwagen-aangehouden-na-ongeluk-in-lelystad.html",
-        "published": "Wed, 25 Nov 2026 14:36:10 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in Lelystad",
-        "link": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
-        "published": "Wed, 25 Nov 2026 09:12:00 +0100",
         "summary": ""
       }
     ]

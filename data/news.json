@@ -1,26 +1,6 @@
 {
-  "updated": "2026-11-26T09:07:19.434386+00:00",
+  "updated": "2026-11-26T10:07:17.103588+00:00",
   "sources": {
-    "NOS": [
-      {
-        "title": "Podcast De Monarchie: waarom zijn er zo weinig vrouwen commissaris van de Koning?",
-        "link": "https://nos.nl/l/2640989",
-        "published": "Wed, 25 Nov 2026 16:30:02 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
-        "link": "https://nos.nl/l/2640944",
-        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Lijnbus wordt opengereten door vrachtwagen met heipalen, meerdere gewonden",
-        "link": "https://nos.nl/l/2640937",
-        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
-        "summary": ""
-      }
-    ],
     "Radio Lelystad": [
       {
         "title": "Gemeente wil meningen horen over plannen voor omgeving ziekenhuis",
@@ -938,6 +918,26 @@
         "title": "Heb jij Max, Bella of Beetle gezien? Deze vijf huisdieren worden in Lelystad vermist",
         "link": "https://www.destentor.nl/lelystad/heb-jij-max-bella-of-beetle-gezien-deze-vijf-huisdieren-worden-in-lelystad-vermist~a5cdae0a/",
         "published": "Sun, 01 Nov 2026 10:11:39 GMT",
+        "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Podcast De Monarchie: waarom zijn er zo weinig vrouwen commissaris van de Koning?",
+        "link": "https://nos.nl/l/2640989",
+        "published": "Wed, 25 Nov 2026 16:30:02 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
+        "link": "https://nos.nl/l/2640944",
+        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Lijnbus wordt opengereten door vrachtwagen met heipalen, meerdere gewonden",
+        "link": "https://nos.nl/l/2640937",
+        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
         "summary": ""
       }
     ]

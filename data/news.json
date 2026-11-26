@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T16:07:29.007192+00:00",
+  "updated": "2026-11-26T17:07:24.380183+00:00",
   "sources": {
     "Omroep Flevoland": [
+      {
+        "title": "Lelystad - Lelystad wil bijna twee miljoen euro uittrekken voor voetbalclubs: ook mogelijke verhuizing Unicum",
+        "link": "https://www.omroepflevoland.nl/nieuws/532878/lelystad-wil-bijna-twee-miljoen-euro-uittrekken-voor-voetbalclubs:-ook-mogelijke-verhuizing-unicum",
+        "published": "Thu, 26 Nov 2026 18:14:12 GMT+0200",
+        "summary": ""
+      },
       {
         "title": "Lelystad - Lelystad ruimt bootwrakken op in Gelderse Diep, grote grijper ingezet",
         "link": "https://www.omroepflevoland.nl/nieuws/532721/lelystad-ruimt-bootwrakken-op-in-gelderse-diep-grote-grijper-ingezet",
@@ -295,35 +301,29 @@
         "link": "https://www.omroepflevoland.nl/nieuws/531603/nieuwsoverzicht-1611-or-moordenaar-hoeft-mogelijk-geen-dwangverpleging-meer-*-mcdonald's-vergunning-ingetrokken",
         "published": "Mon, 16 Nov 2026 19:54:09 GMT+0200",
         "summary": ""
-      },
-      {
-        "title": "Almere - Donald Duck beleeft een avontuur in Flevoland: 'Alsof een droom werkelijkheid wordt'",
-        "link": "https://www.omroepflevoland.nl/nieuws/531592/donald-duck-beleeft-een-avontuur-in-flevoland:-'alsof-een-droom-werkelijkheid-wordt'",
-        "published": "Mon, 16 Nov 2026 18:30:00 GMT+0200",
-        "summary": ""
       }
     ],
-    "NOS": [
+    "Nu.nl": [
       {
-        "title": "Podcast De Monarchie: waarom zijn er zo weinig vrouwen commissaris van de Koning?",
-        "link": "https://nos.nl/l/2640989",
-        "published": "Wed, 25 Nov 2026 16:30:02 +0100",
+        "title": "Bestuurders van lijnbus en vrachtwagen aangehouden na ongeluk in Lelystad",
+        "link": "https://www.nu.nl/binnenland/6417752/bestuurders-van-lijnbus-en-vrachtwagen-aangehouden-na-ongeluk-in-lelystad.html",
+        "published": "Wed, 25 Nov 2026 14:36:10 +0100",
         "summary": ""
       },
       {
-        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
-        "link": "https://nos.nl/l/2640944",
-        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Lijnbus wordt opengereten door vrachtwagen met heipalen, meerdere gewonden",
-        "link": "https://nos.nl/l/2640937",
-        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
+        "title": "Meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in Lelystad",
+        "link": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
+        "published": "Wed, 25 Nov 2026 09:12:00 +0100",
         "summary": ""
       }
     ],
     "Radio Lelystad": [
+      {
+        "title": "Ruzie om illegale huur belandt bij rechter, nu komt er straks een woning vrij",
+        "link": "https://radiolelystad.nl/ruzie-om-illegale-huur-belandt-bij-rechter-nu-komt-er-straks-een-woning-vrij",
+        "published": "donderdag 26 november 2026",
+        "summary": ""
+      },
       {
         "title": "Zonder vrijwilligers gaan een hoop grote en kleine dingen niet door  (video)",
         "link": "https://radiolelystad.nl/zonder-vrijwilligers-gaan-een-hoop-grote-en-kleine-dingen-niet-door-video",
@@ -617,29 +617,35 @@
         "link": "https://radiolelystad.nl/rekenkamer-raad-en-college-kijken-te-weinig-naar-financien-op-lange-termijn",
         "published": "maandag 09 november 2026",
         "summary": ""
-      },
-      {
-        "title": "Waterschapslasten gaan volgend jaar waarschijnlijk kleine tien procent omhoog",
-        "link": "https://radiolelystad.nl/waterschapslasten-volgend-jaar-waarschijnlijk-kleine-10-procent-hoger",
-        "published": "maandag 09 november 2026",
-        "summary": ""
       }
     ],
-    "Nu.nl": [
+    "NOS": [
       {
-        "title": "Bestuurders van lijnbus en vrachtwagen aangehouden na ongeluk in Lelystad",
-        "link": "https://www.nu.nl/binnenland/6417752/bestuurders-van-lijnbus-en-vrachtwagen-aangehouden-na-ongeluk-in-lelystad.html",
-        "published": "Wed, 25 Nov 2026 14:36:10 +0100",
+        "title": "Podcast De Monarchie: waarom zijn er zo weinig vrouwen commissaris van de Koning?",
+        "link": "https://nos.nl/l/2640989",
+        "published": "Wed, 25 Nov 2026 16:30:02 +0100",
         "summary": ""
       },
       {
-        "title": "Meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in Lelystad",
-        "link": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
-        "published": "Wed, 25 Nov 2026 09:12:00 +0100",
+        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
+        "link": "https://nos.nl/l/2640944",
+        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Lijnbus wordt opengereten door vrachtwagen met heipalen, meerdere gewonden",
+        "link": "https://nos.nl/l/2640937",
+        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
         "summary": ""
       }
     ],
     "De Stentor": [
+      {
+        "title": "Borstkankeronderzoek: zes op de tien vrouwen uit Lelystad deden mee",
+        "link": "https://www.destentor.nl/lelystad/borstkankeronderzoek-zes-op-de-tien-vrouwen-uit-lelystad-deden-mee~a71ec706/",
+        "published": "Thu, 26 Nov 2026 16:30:00 GMT",
+        "summary": ""
+      },
       {
         "title": "FlevoMeer Bibliotheek Lelystad helpt bezoekers op weg met digitale veiligheid",
         "link": "https://www.destentor.nl/lelystad/flevomeer-bibliotheek-lelystad-helpt-bezoekers-op-weg-met-digitale-veiligheid~aeaf742d/",
@@ -932,12 +938,6 @@
         "title": "Lelystad vraagt professionals om mee te denken over gebied rond ziekenhuis",
         "link": "https://www.destentor.nl/lelystad/lelystad-vraagt-professionals-om-mee-te-denken-over-gebied-rond-ziekenhuis~aeeb2bc8/",
         "published": "Tue, 03 Nov 2026 17:00:00 GMT",
-        "summary": ""
-      },
-      {
-        "title": "Vier van de twaalf kunstwerken gingen stuk, nu gooien de kunstenaars het over een andere boeg",
-        "link": "https://www.destentor.nl/lelystad/vier-van-de-twaalf-kunstwerken-gingen-stuk-nu-gooien-de-kunstenaars-het-over-een-andere-boeg~af10a56f/",
-        "published": "Tue, 03 Nov 2026 14:00:35 GMT",
         "summary": ""
       }
     ]

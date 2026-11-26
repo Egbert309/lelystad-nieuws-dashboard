@@ -1,7 +1,13 @@
 {
-  "updated": "2026-11-26T13:07:17.110455+00:00",
+  "updated": "2026-11-26T14:07:19.220542+00:00",
   "sources": {
     "De Stentor": [
+      {
+        "title": "FlevoMeer Bibliotheek Lelystad helpt bezoekers op weg met digitale veiligheid",
+        "link": "https://www.destentor.nl/lelystad/flevomeer-bibliotheek-lelystad-helpt-bezoekers-op-weg-met-digitale-veiligheid~aeaf742d/",
+        "published": "Thu, 26 Nov 2026 14:00:00 GMT",
+        "summary": ""
+      },
       {
         "title": "Presentator Leo Schouwenaar kroont zich tot Maestro Lelystad 2026",
         "link": "https://www.destentor.nl/lelystad/presentator-leo-schouwenaar-kroont-zich-tot-maestro-lelystad-2026~a381ac55/",
@@ -295,11 +301,25 @@
         "link": "https://www.destentor.nl/lelystad/vier-van-de-twaalf-kunstwerken-gingen-stuk-nu-gooien-de-kunstenaars-het-over-een-andere-boeg~af10a56f/",
         "published": "Tue, 03 Nov 2026 14:00:35 GMT",
         "summary": ""
+      }
+    ],
+    "NOS": [
+      {
+        "title": "Podcast De Monarchie: waarom zijn er zo weinig vrouwen commissaris van de Koning?",
+        "link": "https://nos.nl/l/2640989",
+        "published": "Wed, 25 Nov 2026 16:30:02 +0100",
+        "summary": ""
       },
       {
-        "title": "Heb jij Max, Bella of Beetle gezien? Deze vijf huisdieren worden in Lelystad vermist",
-        "link": "https://www.destentor.nl/lelystad/heb-jij-max-bella-of-beetle-gezien-deze-vijf-huisdieren-worden-in-lelystad-vermist~a5cdae0a/",
-        "published": "Sun, 01 Nov 2026 10:11:39 GMT",
+        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
+        "link": "https://nos.nl/l/2640944",
+        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Lijnbus wordt opengereten door vrachtwagen met heipalen, meerdere gewonden",
+        "link": "https://nos.nl/l/2640937",
+        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
         "summary": ""
       }
     ],
@@ -621,6 +641,12 @@
     ],
     "Omroep Flevoland": [
       {
+        "title": "Lelystad - Lelystad ruimt bootwrakken op in Gelderse Diep, grote grijper ingezet",
+        "link": "https://www.omroepflevoland.nl/nieuws/532721/lelystad-ruimt-bootwrakken-op-in-gelderse-diep-grote-grijper-ingezet",
+        "published": "Thu, 26 Nov 2026 15:25:48 GMT+0200",
+        "summary": ""
+      },
+      {
         "title": "Lelystad - Extra miljoenenbijdrage voor Batavialand zorgt voor twijfels in Provinciale Staten: 'Blijft het hierbij?'",
         "link": "https://www.omroepflevoland.nl/nieuws/532828/extra-miljoenenbijdrage-voor-batavialand-zorgt-voor-twijfels-in-provinciale-staten:-'blijft-het-hierbij'",
         "published": "Thu, 26 Nov 2026 14:13:47 GMT+0200",
@@ -912,32 +938,6 @@
         "title": "Almere - Donald Duck beleeft een avontuur in Flevoland: 'Alsof een droom werkelijkheid wordt'",
         "link": "https://www.omroepflevoland.nl/nieuws/531592/donald-duck-beleeft-een-avontuur-in-flevoland:-'alsof-een-droom-werkelijkheid-wordt'",
         "published": "Mon, 16 Nov 2026 18:30:00 GMT+0200",
-        "summary": ""
-      },
-      {
-        "title": "Flevoland - Moordenaar van 'buurman Joop' in Lelystad mag mogelijk tbs-kliniek verlaten: 'Het gaat heel goed'",
-        "link": "https://www.omroepflevoland.nl/nieuws/531579/moordenaar-van-'buurman-joop'-in-lelystad-mag-mogelijk-tbs-kliniek-verlaten:-'het-gaat-heel-goed'",
-        "published": "Mon, 16 Nov 2026 17:58:23 GMT+0200",
-        "summary": ""
-      }
-    ],
-    "NOS": [
-      {
-        "title": "Podcast De Monarchie: waarom zijn er zo weinig vrouwen commissaris van de Koning?",
-        "link": "https://nos.nl/l/2640989",
-        "published": "Wed, 25 Nov 2026 16:30:02 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
-        "link": "https://nos.nl/l/2640944",
-        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Lijnbus wordt opengereten door vrachtwagen met heipalen, meerdere gewonden",
-        "link": "https://nos.nl/l/2640937",
-        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
         "summary": ""
       }
     ]

@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-28T04:07:17.370547+00:00",
+  "updated": "2026-11-28T05:07:15.952239+00:00",
   "sources": {
+    "Nu.nl": [
+      {
+        "title": "Bestuurders van lijnbus en vrachtwagen aangehouden na ongeluk in Lelystad",
+        "link": "https://www.nu.nl/binnenland/6417752/bestuurders-van-lijnbus-en-vrachtwagen-aangehouden-na-ongeluk-in-lelystad.html",
+        "published": "Wed, 25 Nov 2026 14:36:10 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in Lelystad",
+        "link": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
+        "published": "Wed, 25 Nov 2026 09:12:00 +0100",
+        "summary": ""
+      }
+    ],
     "NOS": [
       {
         "title": "Meer ruimte voor dronevliegers, regels rond vijf luchthavens versoepeld",
@@ -27,319 +41,305 @@
         "summary": ""
       }
     ],
-    "Radio Lelystad": [
+    "De Stentor": [
       {
-        "title": "Lelystedelingen opgepakt voor grootschalige handel in illegale sigaretten",
-        "link": "https://radiolelystad.nl/lelystedelingen-opgepakt-voor-grootschalige-handel-in-illegale-sigaretten",
-        "published": "vrijdag 27 november 2026",
+        "title": "Politie ontdekt grote handel in illegale sigaretten: 16 verdachten opgepakt, waaronder man uit Lelystad",
+        "link": "https://www.destentor.nl/lelystad/politie-ontdekt-grote-handel-in-illegale-sigaretten-16-verdachten-opgepakt-waaronder-man-uit-lelystad~a9e91328/",
+        "published": "Fri, 27 Nov 2026 21:48:00 GMT",
         "summary": ""
       },
       {
-        "title": "Lelystad trekt 7 miljoen uit voor speelplekken: nog 160 renovaties op komst",
-        "link": "https://radiolelystad.nl/lelystad-trekt-7-miljoen-uit-voor-speelplekken-nog-160-renovaties-op-komst",
-        "published": "vrijdag 27 november 2026",
+        "title": "Lelystad vraagt inwoners om ideeën voor gebied rond vernieuwd ziekenhuis",
+        "link": "https://www.destentor.nl/lelystad/lelystad-vraagt-inwoners-om-ideeen-voor-gebied-rond-vernieuwd-ziekenhuis~a7fa746a/",
+        "published": "Fri, 27 Nov 2026 12:47:00 GMT",
         "summary": ""
       },
       {
-        "title": "Oefenen voor als de stroom uitvalt (en een winkel wordt geplunderd) (video)",
-        "link": "https://radiolelystad.nl/oefenen-voor-als-de-stroom-uitvalt-en-een-winkel-wordt-geplunderd-video",
-        "published": "vrijdag 27 november 2026",
+        "title": "Jongens uit Amsterdam (14 en 16) aangehouden wegens explosie bij woning",
+        "link": "https://www.destentor.nl/lelystad/jongens-uit-amsterdam-14-en-16-aangehouden-wegens-explosie-bij-woning~a2c1dc58/",
+        "published": "Fri, 27 Nov 2026 09:13:00 GMT",
         "summary": ""
       },
       {
-        "title": "Voetbalvisie: meer ruimte voor sport, minder overlast voor omwonenden",
-        "link": "https://radiolelystad.nl/voetbalvisie-meer-ruimte-voor-sport-minder-overlast-voor-omwonenden",
-        "published": "vrijdag 27 november 2026",
+        "title": "Lelystad bungelt onderaan op de voetbalkaart: zo moet dat veranderen",
+        "link": "https://www.destentor.nl/lelystad/lelystad-bungelt-onderaan-op-de-voetbalkaart-zo-moet-dat-veranderen~a25ac09f/",
+        "published": "Fri, 27 Nov 2026 05:00:00 GMT",
         "summary": ""
       },
       {
-        "title": "Oud-voorzitter van GroenLinks Eikelenboom directeur Samen Lelystad Oost",
-        "link": "https://radiolelystad.nl/katinka-eikelenboom-nieuwe-directeur-samen-lelystad-oost",
-        "published": "vrijdag 27 november 2026",
+        "title": "Geen dna of voetsporen, wel urenlang afgeluisterde gesprekken. Voldoende bewijs tegen de Kempenaarbende?",
+        "link": "https://www.destentor.nl/lelystad/geen-dna-of-voetsporen-wel-urenlang-afgeluisterde-gesprekken-voldoende-bewijs-tegen-de-kempenaarbende~abed3da6/",
+        "published": "Thu, 26 Nov 2026 18:10:41 GMT",
         "summary": ""
       },
       {
-        "title": "Applaus voor bijzondere talenten met een uitdaging en voor hun bazen (video)",
-        "link": "https://radiolelystad.nl/video-applaus-voor-talenten-met-een-uitdaging-en-hun-bazen",
-        "published": "vrijdag 27 november 2026",
+        "title": "Borstkankeronderzoek: zes op de tien vrouwen uit Lelystad deden mee",
+        "link": "https://www.destentor.nl/lelystad/borstkankeronderzoek-zes-op-de-tien-vrouwen-uit-lelystad-deden-mee~a71ec706/",
+        "published": "Thu, 26 Nov 2026 16:30:00 GMT",
         "summary": ""
       },
       {
-        "title": "Poppodium Corneel duikt de kerstsfeer in met ‘Crazy Christmas', foute trui toegestaan",
-        "link": "https://radiolelystad.nl/poppodium-corneel-duikt-de-kerstsfeer-in-met-crazy-christmas-feest",
-        "published": "donderdag 26 november 2026",
+        "title": "FlevoMeer Bibliotheek Lelystad helpt bezoekers op weg met digitale veiligheid",
+        "link": "https://www.destentor.nl/lelystad/flevomeer-bibliotheek-lelystad-helpt-bezoekers-op-weg-met-digitale-veiligheid~aeaf742d/",
+        "published": "Thu, 26 Nov 2026 14:00:00 GMT",
         "summary": ""
       },
       {
-        "title": "Ruzie om illegale huur belandt bij rechter, nu komt er straks een woning vrij",
-        "link": "https://radiolelystad.nl/ruzie-om-illegale-huur-belandt-bij-rechter-nu-komt-er-straks-een-woning-vrij",
-        "published": "donderdag 26 november 2026",
+        "title": "Presentator Leo Schouwenaar kroont zich tot Maestro Lelystad 2026",
+        "link": "https://www.destentor.nl/lelystad/presentator-leo-schouwenaar-kroont-zich-tot-maestro-lelystad-2026~a381ac55/",
+        "published": "Wed, 25 Nov 2026 11:36:00 GMT",
         "summary": ""
       },
       {
-        "title": "Zonder vrijwilligers gaan een hoop grote en kleine dingen niet door  (video)",
-        "link": "https://radiolelystad.nl/zonder-vrijwilligers-gaan-een-hoop-grote-en-kleine-dingen-niet-door-video",
-        "published": "donderdag 26 november 2026",
+        "title": "Kinderen gewond en bus opengereten: dit weten we nu over ernstig ongeluk in Flevoland",
+        "link": "https://www.destentor.nl/lelystad/kinderen-gewond-en-bus-opengereten-dit-weten-we-nu-over-ernstig-ongeluk-in-flevoland~a301f615/",
+        "published": "Wed, 25 Nov 2026 10:29:00 GMT",
         "summary": ""
       },
       {
-        "title": "Gemeente wil meningen horen over plannen voor omgeving ziekenhuis",
-        "link": "https://radiolelystad.nl/gemeente-wil-meningen-horen-over-plannen-voor-omgeving-ziekenhuis",
-        "published": "woensdag 25 november 2026",
+        "title": "Afgelopen week 32 meldingen van de gemeente over sloop, bomenkap en verkeer in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/afgelopen-week-32-meldingen-van-de-gemeente-over-sloop-bomenkap-en-verkeer-in-lelystad~a79490f6/",
+        "published": "Wed, 25 Nov 2026 10:02:09 GMT",
         "summary": ""
       },
       {
-        "title": "Lelystadse Sportverkiezingen 2026: 'Op je 59ste nog 230 kilo tillen kan gewoon'",
-        "link": "https://radiolelystad.nl/liefde-voor-sport-centraal-tijdens-sportverkiezingen-2026-op-je-59ste-nog-230-kilo-tillen-kan-gewoon",
-        "published": "woensdag 25 november 2026",
+        "title": "Betonpalen van vrachtwagen doorboren lijnbus bij Lelystad: vier gewonden",
+        "link": "https://www.destentor.nl/lelystad/betonpalen-van-vrachtwagen-doorboren-lijnbus-bij-lelystad-vier-gewonden~ab42195d/",
+        "published": "Wed, 25 Nov 2026 08:04:00 GMT",
         "summary": ""
       },
       {
-        "title": "Laatste udate: 1 zwaargewonde bij crash  bus en truck op Larserweg",
-        "link": "https://radiolelystad.nl/vijf-zwaargewonden-door-aanrijding-tussen-bus-en-vrachtwagen-op-larserweg",
-        "published": "woensdag 25 november 2026",
+        "title": "Vermeend kopstuk van Kempenaarbende vluchtte naar Spanje: nu eist OM 12 jaar tegen hem",
+        "link": "https://www.destentor.nl/lelystad/vermeend-kopstuk-van-kempenaarbende-vluchtte-naar-spanje-nu-eist-om-12-jaar-tegen-hem~abdc437c/",
+        "published": "Tue, 24 Nov 2026 19:16:00 GMT",
         "summary": ""
       },
       {
-        "title": "Gedicht van de week: Hoe schrijf ik een gedicht  (Teabag)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-hoe-schrijf-ik-een-gedicht-teabag",
-        "published": "woensdag 25 november 2026",
+        "title": "Muziekgroep Flevum wint Ed Luzaprijs 2026",
+        "link": "https://www.destentor.nl/lelystad/muziekgroep-flevum-wint-ed-luzaprijs-2026~a45fb35f/",
+        "published": "Tue, 24 Nov 2026 07:00:00 GMT",
         "summary": ""
       },
       {
-        "title": "Gemeente gaat nogmaals op zoek naar oplossing voor bootbewoners",
-        "link": "https://radiolelystad.nl/gemeente-gaat-nogmaals-op-zoek-naar-oplossing-voor-bootbewoners",
-        "published": "dinsdag 24 november 2026",
+        "title": "Sabrina (43) zat als tiener in gesloten instellingen: ‘Ik kreeg gedwongen injecties’",
+        "link": "https://www.destentor.nl/lelystad/sabrina-43-zat-als-tiener-in-gesloten-instellingen-ik-kreeg-gedwongen-injecties~ac9bb57a/",
+        "published": "Mon, 23 Nov 2026 18:50:56 GMT",
         "summary": ""
       },
       {
-        "title": "Raad stelt besluit eeuwige grafrust uit en kijkt ook naar paardenweide",
-        "link": "https://radiolelystad.nl/gemeenteraad-neemt-nog-geen-besluit-over-eeuwigdurende-grafrust",
-        "published": "dinsdag 24 november 2026",
+        "title": "Meezingen met klassieke kerstmuziek tijdens workshop van kamerkoor in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/meezingen-met-klassieke-kerstmuziek-tijdens-workshop-van-kamerkoor-in-lelystad~a41e5c07/",
+        "published": "Mon, 23 Nov 2026 14:30:00 GMT",
         "summary": ""
       },
       {
-        "title": "Dorée de Kruijk vormde scholieren tot filmers op internationaal toneel",
-        "link": "https://radiolelystad.nl/doree-de-kruijk-vormde-scholieren-tot-filmers-op-internationaal-toneel",
-        "published": "dinsdag 24 november 2026",
+        "title": "Heb jij Leon, Mimi of Katharina gezien? Deze drie huisdieren worden in Lelystad vermist",
+        "link": "https://www.destentor.nl/lelystad/heb-jij-leon-mimi-of-katharina-gezien-deze-drie-huisdieren-worden-in-lelystad-vermist~a03f6552/",
+        "published": "Sun, 22 Nov 2026 10:10:57 GMT",
         "summary": ""
       },
       {
-        "title": "Werk aan Westerdreef voorlopig klaar, opknappen rotondes volgt pas in april",
-        "link": "https://radiolelystad.nl/werk-aan-westerdreef-voorlopig-klaar-rotondes-volgen-in-april",
-        "published": "dinsdag 24 november 2026",
+        "title": "VOC-replica Batavia ligt op het droge en wordt de blikvanger van een peperduur museum ‘met allure’",
+        "link": "https://www.destentor.nl/lelystad/voc-replica-batavia-ligt-op-het-droge-en-wordt-de-blikvanger-van-een-peperduur-museum-met-allure~a20747f2/",
+        "published": "Sat, 21 Nov 2026 18:10:22 GMT",
         "summary": ""
       },
       {
-        "title": "Critici overwegen juridische stappen tegen plan voor verleggen dijk",
-        "link": "https://radiolelystad.nl/beschermers-ijsselmeergebied-overwegen-juridische-stappen-tegen-buitendijks-bouwen",
-        "published": "maandag 23 november 2026",
+        "title": "Wapens, geld en hennepkwekerijen: burgemeester Lelystad sluit in korte tijd drie woningen",
+        "link": "https://www.destentor.nl/lelystad/wapens-geld-en-hennepkwekerijen-burgemeester-lelystad-sluit-in-korte-tijd-drie-woningen~a20afcf2/",
+        "published": "Fri, 20 Nov 2026 17:21:00 GMT",
         "summary": ""
       },
       {
-        "title": "Leo Schouwenaar (bekend van radio en tv) mag zich Maestro van Lelystad noemen",
-        "link": "https://radiolelystad.nl/leo-schouwenaar-bekend-van-radio-en-tv-mag-zich-maestro-van-lelystad-noemen",
-        "published": "maandag 23 november 2026",
+        "title": "Jeugdzorg in Lelystad: 7 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 52,8 miljoen euro uit",
+        "link": "https://www.destentor.nl/lelystad/jeugdzorg-in-lelystad-7-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-52-8-miljoen-euro-uit~acd73f4a/",
+        "published": "Fri, 20 Nov 2026 16:29:00 GMT",
         "summary": ""
       },
       {
-        "title": "GOL Ed Luzaprijs dit jaar naar musici met een verstandelijke beperking (video)",
-        "link": "https://radiolelystad.nl/muziekgroep-flevum-wint-dit-jaar-de-gol-ed-luzaprijs-video",
-        "published": "maandag 23 november 2026",
+        "title": "Lelystad neemt Koningsdag-stokje over van Dokkum met bijzondere stempel",
+        "link": "https://www.destentor.nl/lelystad/lelystad-neemt-koningsdag-stokje-over-van-dokkum-met-bijzondere-stempel~afde8008/",
+        "published": "Fri, 20 Nov 2026 11:00:00 GMT",
         "summary": ""
       },
       {
-        "title": "SV Lelystad ’67 verliest van koploper VSCO ’61 en ontvangt volgende week de nummer 3 WZC Wapenveld",
-        "link": "https://radiolelystad.nl/sv-lelystad-67-verliest-van-koploper-vsco-61-en-ontvangt-volgende-week-de-nummer-3-wzc-wapenveld",
-        "published": "zondag 22 november 2026",
+        "title": "Lelystadse kinderen maken zelf een gezond receptenboekje voor de feestdagen",
+        "link": "https://www.destentor.nl/lelystad/lelystadse-kinderen-maken-zelf-een-gezond-receptenboekje-voor-de-feestdagen~aaa1fb13/",
+        "published": "Fri, 20 Nov 2026 08:00:00 GMT",
         "summary": ""
       },
       {
-        "title": "Unicum wint van hekkensluiter en klimt op naar tweede plaats in competitie",
-        "link": "https://radiolelystad.nl/unicum-wint-van-hekkensluiter-en-klimt-op-naar-tweede-plaats-in-competitie",
-        "published": "zaterdag 21 november 2026",
+        "title": "Studio Flevokunst moet in Lelystad een ontmoetingsplek voor kunstenaars en publiek uit de hele polder worden",
+        "link": "https://www.destentor.nl/lelystad/studio-flevokunst-moet-in-lelystad-een-ontmoetingsplek-voor-kunstenaars-en-publiek-uit-de-hele-polder-worden~a260456b/",
+        "published": "Thu, 19 Nov 2026 10:00:00 GMT",
         "summary": ""
       },
       {
-        "title": "(met video) Onze techneut en alleskunner Egbert kan omroepvrijwilliger van het jaar worden. Stem!!",
-        "link": "https://radiolelystad.nl/met-video-onze-techneut-en-alleskunner-egbert-kan-omroepvrijwilliger-van-het-jaar-worden-stem",
-        "published": "zaterdag 21 november 2026",
+        "title": "Stroomstoring in Lelystad opgelost",
+        "link": "https://www.destentor.nl/lelystad/stroomstoring-in-lelystad-opgelost~af7e10f5/",
+        "published": "Thu, 19 Nov 2026 09:29:54 GMT",
         "summary": ""
       },
       {
-        "title": "Politie vindt opnieuw vuurwerk in woning na anonieme tip - en waarschuwt",
-        "link": "https://radiolelystad.nl/politie-vindt-opnieuw-vuurwerk-in-woning-na-tips-en-waarschuwt",
-        "published": "vrijdag 20 november 2026",
+        "title": "Vandaag begint het monsterproces tegen de meest beruchte jeugdbende van Lelystad: dit zijn de 5 verdachten",
+        "link": "https://www.destentor.nl/lelystad/vandaag-begint-het-monsterproces-tegen-de-meest-beruchte-jeugdbende-van-lelystad-dit-zijn-de-5-verdachten~a9b3e7cf/",
+        "published": "Thu, 19 Nov 2026 06:00:24 GMT",
         "summary": ""
       },
       {
-        "title": "Burgemeester sluit drie woningen vanwege onder meer verdovende middelen",
-        "link": "https://radiolelystad.nl/burgemeester-sluit-drie-woningen-vanwege-onder-meer-verdovende-middelen",
-        "published": "vrijdag 20 november 2026",
+        "title": "Beste verhaal in schrijfwedstrijd over polder komt uit Emmeloord, ook prijzen naar Urk en Lelystad",
+        "link": "https://www.destentor.nl/noordoostpolder/beste-verhaal-in-schrijfwedstrijd-over-polder-komt-uit-emmeloord-ook-prijzen-naar-urk-en-lelystad~a274a418/",
+        "published": "Wed, 18 Nov 2026 14:22:00 GMT",
         "summary": ""
       },
       {
-        "title": "Gemeente gaat samenwerken met andere 'arme' groeisteden",
-        "link": "https://radiolelystad.nl/gemeente-gaat-samenwerken-met-andere-arme-groeisteden-in-new-town-alliantie",
-        "published": "vrijdag 20 november 2026",
+        "title": "Afgelopen week 24 meldingen van de gemeente over sloop en bomenkap in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-lelystad~a0a93ebb/",
+        "published": "Wed, 18 Nov 2026 10:05:16 GMT",
         "summary": ""
       },
       {
-        "title": "Pilot voorrangswoningen voor zorgpersoneel met jaar verlengd",
-        "link": "https://radiolelystad.nl/pilot-voorrangswoningen-voor-zorgpersoneel-met-jaar-verlengd",
-        "published": "vrijdag 20 november 2026",
+        "title": "Directeur op staande voet ontslagen na beschuldiging van schrikbewind, nu eist ze vijf ton",
+        "link": "https://www.destentor.nl/lelystad/directeur-op-staande-voet-ontslagen-na-beschuldiging-van-schrikbewind-nu-eist-ze-vijf-ton~af4b0f43/",
+        "published": "Wed, 18 Nov 2026 10:00:00 GMT",
         "summary": ""
       },
       {
-        "title": "Van vier naar dertig maanden cel in plaats van vrijspraak voor man met machete",
-        "link": "https://radiolelystad.nl/van-4-naar-30-maanden-cel-in-plaats-van-vrijspraak-voor-man-met-machete",
-        "published": "donderdag 19 november 2026",
+        "title": "Nachttrein van Zwolle naar Schiphol stopt per direct met rijden",
+        "link": "https://www.destentor.nl/zwolle/nachttrein-van-zwolle-naar-schiphol-stopt-per-direct-met-rijden~a2285fad/",
+        "published": "Tue, 17 Nov 2026 14:19:00 GMT",
         "summary": ""
       },
       {
-        "title": "Burgemeester neemt twaalfde stempel op Elfstedenkaart in Dokkum in ontvangst",
-        "link": "https://radiolelystad.nl/burgemeester-neemt-twaalfde-stempel-op-elfstedenkaart-in-dokkum-in-ontvangst",
-        "published": "donderdag 19 november 2026",
+        "title": "Han Lammersbeurs voor Flevolands talent gaat dit jaar naar 21-jarige danser uit Lelystad",
+        "link": "https://www.destentor.nl/lelystad/han-lammersbeurs-voor-flevolands-talent-gaat-dit-jaar-naar-21-jarige-danser-uit-lelystad~ad29c10d/",
+        "published": "Tue, 17 Nov 2026 13:17:00 GMT",
         "summary": ""
       },
       {
-        "title": "College wil voor Oekraïners 144 tijdelijke woningen bij oude SGL bouwen",
-        "link": "https://radiolelystad.nl/gemeente-wil-oekrainers-verhuizen-naar-144-tijdelijke-woningen-bij-voormalige-sgl-school",
-        "published": "donderdag 19 november 2026",
+        "title": "Heel Lelystad zingt mee tijdens stadsversie van de ‘Sing Along’",
+        "link": "https://www.destentor.nl/lelystad/heel-lelystad-zingt-mee-tijdens-stadsversie-van-de-sing-along~a4b0128d7/",
+        "published": "Mon, 16 Nov 2026 14:30:00 GMT",
         "summary": ""
       },
       {
-        "title": "Gemeente praat met Ikea over mogelijkheden voor kleine vestiging, formaat supermarkt",
-        "link": "https://radiolelystad.nl/gemeente-heeft-contact-met-ikea-om-mogelijkheden-voor-een-kleine-vestiging-te-onderzoeken",
-        "published": "donderdag 19 november 2026",
+        "title": "Heb jij Kitty, Zorro of Milo gezien? Deze drie huisdieren worden in Lelystad vermist",
+        "link": "https://www.destentor.nl/lelystad/heb-jij-kitty-zorro-of-milo-gezien-deze-drie-huisdieren-worden-in-lelystad-vermist~a2300e65/",
+        "published": "Sun, 15 Nov 2026 10:10:46 GMT",
         "summary": ""
       },
       {
-        "title": "Plantage blijft Plantage, ondanks associatie met slavernij, zeggen b. en w.",
-        "link": "https://radiolelystad.nl/plantage-blijft-plantage-ondanks-associatie-met-slavernij-zeggen-b-en-w",
-        "published": "woensdag 18 november 2026",
+        "title": "Politie greep niet hard in bij driftwedstrijd waar jongen (18) omkwam: ‘Hij komt niet meer thuis’",
+        "link": "https://www.destentor.nl/lelystad/politie-greep-niet-hard-in-bij-driftwedstrijd-waar-jongen-18-omkwam-hij-komt-niet-meer-thuis~a8e33d1d/",
+        "published": "Fri, 13 Nov 2026 19:00:56 GMT",
         "summary": ""
       },
       {
-        "title": "Ex-directeur JEL (onlangs actief voor Forum) eist half miljoen vanwege ontslag",
-        "link": "https://radiolelystad.nl/ex-directeur-jel-actief-voor-forum-eist-half-miljoen-vanwege-ontslag",
-        "published": "woensdag 18 november 2026",
+        "title": "Rechter beslist: man (39) mag na straf voor misbruik en mishandeling terug naar oude woonplaats",
+        "link": "https://www.destentor.nl/lelystad/rechter-beslist-man-39-mag-na-straf-voor-misbruik-en-mishandeling-terug-naar-oude-woonplaats~a3264a60/",
+        "published": "Fri, 13 Nov 2026 13:54:40 GMT",
         "summary": ""
       },
       {
-        "title": "Gedicht van de week: Jouw zoete dromen (Ruige Poez)",
-        "link": "https://radiolelystad.nl/gedicht-van-de-week-jouw-zoete-dromen-ruige-poez",
-        "published": "woensdag 18 november 2026",
+        "title": "Als het gaat om natuur en milieu scoort Lelystad beter dan de meeste gemeenten",
+        "link": "https://www.destentor.nl/lelystad/als-het-gaat-om-natuur-en-milieu-scoort-lelystad-beter-dan-de-meeste-gemeenten~a2adfd1d4/",
+        "published": "Fri, 13 Nov 2026 05:30:00 GMT",
         "summary": ""
       },
       {
-        "title": "De kliekjes van twee avonden debat over de begroting, 'voorbeeld voor Den Haag'",
-        "link": "https://radiolelystad.nl/de-kliekjes-van-twee-avonden-van-politiek-debat-over-de-begroting",
-        "published": "dinsdag 17 november 2026",
+        "title": "Lelystad sluit 2027 met zwarte cijfers, maar daarna dreigt een miljoenentekort: ‘Zeer onverstandig’",
+        "link": "https://www.destentor.nl/lelystad/lelystad-sluit-2027-met-zwarte-cijfers-maar-daarna-dreigt-een-miljoenentekort-zeer-onverstandig~aa4383e1/",
+        "published": "Fri, 13 Nov 2026 05:00:00 GMT",
         "summary": ""
       },
       {
-        "title": "Nachttrein stopt, rechtscollege verklaart bijdragen gemeenten onwettig",
-        "link": "https://radiolelystad.nl/rechtscollege-beoordeelt-gemeentelijke-bijdragen-aan-nachttrein-als-onwettig",
-        "published": "dinsdag 17 november 2026",
+        "title": "Gemeente zei dat alle jongeren vervangende zorg hadden, maar deze gezinnen zitten zonder: ‘We horen niets’",
+        "link": "https://www.destentor.nl/lelystad/gemeente-zei-dat-alle-jongeren-vervangende-zorg-hadden-maar-deze-gezinnen-zitten-zonder-we-horen-niets~a15eeed9/",
+        "published": "Wed, 11 Nov 2026 18:00:00 GMT",
         "summary": ""
       },
       {
-        "title": "Donald Duck en de zijnen beleven weer een avontuur in Lelystad en wijde omgeving",
-        "link": "https://radiolelystad.nl/donald-duck-en-de-zijnen-beleven-weer-een-avontuur-in-flevoland",
-        "published": "maandag 16 november 2026",
+        "title": "Winterverlichting moet bezoekers Bataviakwartier weg wijzen langs opvallende locaties",
+        "link": "https://www.destentor.nl/lelystad/winterverlichting-moet-bezoekers-bataviakwartier-weg-wijzen-langs-opvallende-locaties~acd34ada/",
+        "published": "Wed, 11 Nov 2026 15:00:00 GMT",
         "summary": ""
       },
       {
-        "title": "Radio Lelystad gaat de vergaderingen van de gemeenteraad live uitzenden op tv",
-        "link": "https://radiolelystad.nl/radio-lelystad-gaat-vergaderingen-gemeenteraad-live-uitzenden",
-        "published": "maandag 16 november 2026",
+        "title": "Afgelopen week 29 meldingen van de gemeente over sloop en natuur in Lelystad",
+        "link": "https://www.destentor.nl/lelystad/afgelopen-week-29-meldingen-van-de-gemeente-over-sloop-en-natuur-in-lelystad~a6ca0066/",
+        "published": "Wed, 11 Nov 2026 10:02:39 GMT",
         "summary": ""
       },
       {
-        "title": "Unicum speelt ook tegen koploper Go Ahead Kampen gelijk",
-        "link": "https://radiolelystad.nl/unicum-speelt-ook-tegen-koploper-go-ahead-kampen-gelijk",
-        "published": "zondag 15 november 2026",
+        "title": "Na twee explosies vindt woonstichting het genoeg: moeder met kind van 5 jaar op straat gezet",
+        "link": "https://www.destentor.nl/lelystad/na-twee-explosies-vindt-woonstichting-het-genoeg-moeder-met-kind-van-5-jaar-op-straat-gezet~a9328c36/",
+        "published": "Wed, 11 Nov 2026 05:00:46 GMT",
         "summary": ""
       },
       {
-        "title": "SV Lelystad ’67 speelt gelijk Zalk en wacht nu de uitwedstrijd tegen koploper VSCO ‘61",
-        "link": "https://radiolelystad.nl/sv-lelystad-67-speelt-gelijk-zalk-en-wacht-nu-de-uitwedstrijd-tegen-koploper-vsco-61",
-        "published": "zondag 15 november 2026",
+        "title": "FlevoMeer Bibliotheek vindt opvolger voor interim-bestuurder Marjolijn Feringa",
+        "link": "https://www.destentor.nl/lelystad/flevomeer-bibliotheek-vindt-opvolger-voor-interim-bestuurder-marjolijn-feringa~a1c5381e/",
+        "published": "Mon, 09 Nov 2026 13:30:00 GMT",
         "summary": ""
       },
       {
-        "title": "Update: Nieuw poppodium komt er,  hondenbelasting blijft zeker volgend jaar nog",
-        "link": "https://radiolelystad.nl/ontwikkeling-nieuw-poppodium-gaat-door-en-de-hondenbelasting-blijft-in-ieder-geval-volgend-jaar-bestaan",
-        "published": "zaterdag 14 november 2026",
+        "title": "Explosie bij woning Lelystad zorgt voor kapotte ramen en beschadigde deur",
+        "link": "https://www.destentor.nl/lelystad/explosie-bij-woning-lelystad-zorgt-voor-kapotte-ramen-en-beschadigde-deur~a61df95b0/",
+        "published": "Mon, 09 Nov 2026 11:09:00 GMT",
         "summary": ""
       },
       {
-        "title": "Man die stiefkinderen mishandelde en misbruikte mag terug nu ze zijn verhuisd",
-        "link": "https://radiolelystad.nl/man-die-stiefkinderen-misbruikte-en-mishandelde-mag-lelystad-weer-in-nu-ze-zijn-verhuisd",
-        "published": "vrijdag 13 november 2026",
+        "title": "Heb jij Saint gezien? Dit huisdier wordt in Lelystad vermist",
+        "link": "https://www.destentor.nl/lelystad/heb-jij-saint-gezien-dit-huisdier-wordt-in-lelystad-vermist~a96acedc/",
+        "published": "Sun, 08 Nov 2026 10:11:38 GMT",
         "summary": ""
       },
       {
-        "title": "Danstalent Maddy keert terug naar Barcelona met Han Lammersbeurs op zak",
-        "link": "https://radiolelystad.nl/danstalent-maddy-keert-terug-naar-barcelona-met-han-lammersbeurs-op-zak",
-        "published": "vrijdag 13 november 2026",
+        "title": "Lelystad steekt 3,5 miljoen extra in nieuw poppodium: gemeente kan dat betalen dankzij een meevaller",
+        "link": "https://www.destentor.nl/lelystad/lelystad-steekt-3-5-miljoen-extra-in-nieuw-poppodium-gemeente-kan-dat-betalen-dankzij-een-meevaller~a5ed4a73/",
+        "published": "Sun, 08 Nov 2026 10:00:28 GMT",
         "summary": ""
       },
       {
-        "title": "Zorgen over nieuwe locatie coffeeshop, raad wil op termijn wellicht een andere plek",
-        "link": "https://radiolelystad.nl/zorgen-over-nieuwe-locatie-coffeeshop-raad-wil-op-termijn-wellicht-een-andere-plek",
-        "published": "donderdag 12 november 2026",
+        "title": "Deze genomineerden in Lelystad maken kans op de vrijwilligersprijs Ed Luza",
+        "link": "https://www.destentor.nl/lelystad/deze-genomineerden-in-lelystad-maken-kans-op-de-vrijwilligersprijs-ed-luza~a465820d/",
+        "published": "Fri, 06 Nov 2026 14:28:00 GMT",
         "summary": ""
       },
       {
-        "title": "Nieuwbouw Museum Batavialand gaat 25 miljoen kosten in plaats van 18,5",
-        "link": "https://radiolelystad.nl/nieuwbouw-museum-batavialand-gaat-25-miljoen-kosten-geen-18-5",
-        "published": "donderdag 12 november 2026",
+        "title": "Verdachte (41) van schietincident weet het ineens weer: ‘Ik was bij een zieke vriend. Films kijken’",
+        "link": "https://www.destentor.nl/lelystad/verdachte-41-van-schietincident-weet-het-ineens-weer-ik-was-bij-een-zieke-vriend-films-kijken~aacba45b/",
+        "published": "Fri, 06 Nov 2026 13:22:00 GMT",
         "summary": ""
       },
       {
-        "title": "Centrada mag huurder Horst niet dwingen omstreden camera's weg te halen",
-        "link": "https://radiolelystad.nl/centrada-mag-huurder-horst-niet-dwingen-omstreden-camera-weg-te-halen",
-        "published": "donderdag 12 november 2026",
+        "title": "Lelystad wil minder afhankelijk zijn van buitenlandse techreuzen: zo gaat de gemeente dat aanpakken",
+        "link": "https://www.destentor.nl/lelystad/lelystad-wil-minder-afhankelijk-zijn-van-buitenlandse-techreuzen-zo-gaat-de-gemeente-dat-aanpakken~accdefcbe/",
+        "published": "Fri, 06 Nov 2026 05:00:54 GMT",
         "summary": ""
       },
       {
-        "title": "Museum Batavialand krijgt 70 mille van particulier fonds voor archeologie",
-        "link": "https://radiolelystad.nl/museum-batavialand-krijgt-70-mille-van-particulier-fonds-voor-archeologie",
-        "published": "woensdag 11 november 2026",
+        "title": "Inbreker (20) slaat twee keer toe tijdens kerst, één detail op camerabeelden verraadt hem",
+        "link": "https://www.destentor.nl/lelystad/inbreker-20-slaat-twee-keer-toe-tijdens-kerst-een-detail-op-camerabeelden-verraadt-hem~aee17ff1/",
+        "published": "Thu, 05 Nov 2026 17:07:28 GMT",
         "summary": ""
       },
       {
-        "title": "Swingen op het, verlate, jubileumfeest van Divertido",
-        "link": "https://radiolelystad.nl/swingen-op-het-verlate-jubileumfeest-van-divertido",
-        "published": "woensdag 11 november 2026",
+        "title": "Meer volwassenen in Lelystad vullen hun donorformulier niet in",
+        "link": "https://www.destentor.nl/lelystad/meer-volwassenen-in-lelystad-vullen-hun-donorformulier-niet-in~a78e96dd/",
+        "published": "Thu, 05 Nov 2026 16:30:00 GMT",
         "summary": ""
       },
       {
-        "title": "Jaarlijkse rituele dans rond hondenbelasting zou nog best spannend kunnen worden",
-        "link": "https://radiolelystad.nl/jaarlijkse-rituele-dans-rond-de-hondenbelasting-zou-nog-best-spannend-kunnen-worden",
-        "published": "woensdag 11 november 2026",
+        "title": "Repareren, ruilen en hergebruiken: Lelystad viert de Nationale Klimaatweek",
+        "link": "https://www.destentor.nl/lelystad/repareren-ruilen-en-hergebruiken-lelystad-viert-de-nationale-klimaatweek~a526d678/",
+        "published": "Wed, 04 Nov 2026 16:28:00 GMT",
         "summary": ""
       },
       {
-        "title": "Centrada mag vrouw ondanks kind van vijf uit huis Jol zetten na explosies",
-        "link": "https://radiolelystad.nl/centrada-mag-vrouw-ondanks-kind-van-vijf-uit-huis-jol-zetten-na-explosies",
-        "published": "woensdag 11 november 2026",
-        "summary": ""
-      }
-    ],
-    "Nu.nl": [
-      {
-        "title": "Bestuurders van lijnbus en vrachtwagen aangehouden na ongeluk in Lelystad",
-        "link": "https://www.nu.nl/binnenland/6417752/bestuurders-van-lijnbus-en-vrachtwagen-aangehouden-na-ongeluk-in-lelystad.html",
-        "published": "Wed, 25 Nov 2026 14:36:10 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in Lelystad",
-        "link": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
-        "published": "Wed, 25 Nov 2026 09:12:00 +0100",
+        "title": "Een graf tot de dag des oordeels kost Lelystad in elk geval 68.000 euro aan onderzoek",
+        "link": "https://www.destentor.nl/lelystad/een-graf-tot-de-dag-des-oordeels-kost-lelystad-in-elk-geval-68-000-euro-aan-onderzoek~ab00ead0/",
+        "published": "Wed, 04 Nov 2026 16:01:07 GMT",
         "summary": ""
       }
     ],
@@ -645,305 +645,305 @@
         "summary": ""
       }
     ],
-    "De Stentor": [
+    "Radio Lelystad": [
       {
-        "title": "Politie ontdekt grote handel in illegale sigaretten: 16 verdachten opgepakt, waaronder man uit Lelystad",
-        "link": "https://www.destentor.nl/lelystad/politie-ontdekt-grote-handel-in-illegale-sigaretten-16-verdachten-opgepakt-waaronder-man-uit-lelystad~a9e91328/",
-        "published": "Fri, 27 Nov 2026 21:48:00 GMT",
+        "title": "Lelystedelingen opgepakt voor grootschalige handel in illegale sigaretten",
+        "link": "https://radiolelystad.nl/lelystedelingen-opgepakt-voor-grootschalige-handel-in-illegale-sigaretten",
+        "published": "vrijdag 27 november 2026",
         "summary": ""
       },
       {
-        "title": "Lelystad vraagt inwoners om ideeën voor gebied rond vernieuwd ziekenhuis",
-        "link": "https://www.destentor.nl/lelystad/lelystad-vraagt-inwoners-om-ideeen-voor-gebied-rond-vernieuwd-ziekenhuis~a7fa746a/",
-        "published": "Fri, 27 Nov 2026 12:47:00 GMT",
+        "title": "Lelystad trekt 7 miljoen uit voor speelplekken: nog 160 renovaties op komst",
+        "link": "https://radiolelystad.nl/lelystad-trekt-7-miljoen-uit-voor-speelplekken-nog-160-renovaties-op-komst",
+        "published": "vrijdag 27 november 2026",
         "summary": ""
       },
       {
-        "title": "Jongens uit Amsterdam (14 en 16) aangehouden wegens explosie bij woning",
-        "link": "https://www.destentor.nl/lelystad/jongens-uit-amsterdam-14-en-16-aangehouden-wegens-explosie-bij-woning~a2c1dc58/",
-        "published": "Fri, 27 Nov 2026 09:13:00 GMT",
+        "title": "Oefenen voor als de stroom uitvalt (en een winkel wordt geplunderd) (video)",
+        "link": "https://radiolelystad.nl/oefenen-voor-als-de-stroom-uitvalt-en-een-winkel-wordt-geplunderd-video",
+        "published": "vrijdag 27 november 2026",
         "summary": ""
       },
       {
-        "title": "Lelystad bungelt onderaan op de voetbalkaart: zo moet dat veranderen",
-        "link": "https://www.destentor.nl/lelystad/lelystad-bungelt-onderaan-op-de-voetbalkaart-zo-moet-dat-veranderen~a25ac09f/",
-        "published": "Fri, 27 Nov 2026 05:00:00 GMT",
+        "title": "Voetbalvisie: meer ruimte voor sport, minder overlast voor omwonenden",
+        "link": "https://radiolelystad.nl/voetbalvisie-meer-ruimte-voor-sport-minder-overlast-voor-omwonenden",
+        "published": "vrijdag 27 november 2026",
         "summary": ""
       },
       {
-        "title": "Geen dna of voetsporen, wel urenlang afgeluisterde gesprekken. Voldoende bewijs tegen de Kempenaarbende?",
-        "link": "https://www.destentor.nl/lelystad/geen-dna-of-voetsporen-wel-urenlang-afgeluisterde-gesprekken-voldoende-bewijs-tegen-de-kempenaarbende~abed3da6/",
-        "published": "Thu, 26 Nov 2026 18:10:41 GMT",
+        "title": "Oud-voorzitter van GroenLinks Eikelenboom directeur Samen Lelystad Oost",
+        "link": "https://radiolelystad.nl/katinka-eikelenboom-nieuwe-directeur-samen-lelystad-oost",
+        "published": "vrijdag 27 november 2026",
         "summary": ""
       },
       {
-        "title": "Borstkankeronderzoek: zes op de tien vrouwen uit Lelystad deden mee",
-        "link": "https://www.destentor.nl/lelystad/borstkankeronderzoek-zes-op-de-tien-vrouwen-uit-lelystad-deden-mee~a71ec706/",
-        "published": "Thu, 26 Nov 2026 16:30:00 GMT",
+        "title": "Applaus voor bijzondere talenten met een uitdaging en voor hun bazen (video)",
+        "link": "https://radiolelystad.nl/video-applaus-voor-talenten-met-een-uitdaging-en-hun-bazen",
+        "published": "vrijdag 27 november 2026",
         "summary": ""
       },
       {
-        "title": "FlevoMeer Bibliotheek Lelystad helpt bezoekers op weg met digitale veiligheid",
-        "link": "https://www.destentor.nl/lelystad/flevomeer-bibliotheek-lelystad-helpt-bezoekers-op-weg-met-digitale-veiligheid~aeaf742d/",
-        "published": "Thu, 26 Nov 2026 14:00:00 GMT",
+        "title": "Poppodium Corneel duikt de kerstsfeer in met ‘Crazy Christmas', foute trui toegestaan",
+        "link": "https://radiolelystad.nl/poppodium-corneel-duikt-de-kerstsfeer-in-met-crazy-christmas-feest",
+        "published": "donderdag 26 november 2026",
         "summary": ""
       },
       {
-        "title": "Presentator Leo Schouwenaar kroont zich tot Maestro Lelystad 2026",
-        "link": "https://www.destentor.nl/lelystad/presentator-leo-schouwenaar-kroont-zich-tot-maestro-lelystad-2026~a381ac55/",
-        "published": "Wed, 25 Nov 2026 11:36:00 GMT",
+        "title": "Ruzie om illegale huur belandt bij rechter, nu komt er straks een woning vrij",
+        "link": "https://radiolelystad.nl/ruzie-om-illegale-huur-belandt-bij-rechter-nu-komt-er-straks-een-woning-vrij",
+        "published": "donderdag 26 november 2026",
         "summary": ""
       },
       {
-        "title": "Kinderen gewond en bus opengereten: dit weten we nu over ernstig ongeluk in Flevoland",
-        "link": "https://www.destentor.nl/lelystad/kinderen-gewond-en-bus-opengereten-dit-weten-we-nu-over-ernstig-ongeluk-in-flevoland~a301f615/",
-        "published": "Wed, 25 Nov 2026 10:29:00 GMT",
+        "title": "Zonder vrijwilligers gaan een hoop grote en kleine dingen niet door  (video)",
+        "link": "https://radiolelystad.nl/zonder-vrijwilligers-gaan-een-hoop-grote-en-kleine-dingen-niet-door-video",
+        "published": "donderdag 26 november 2026",
         "summary": ""
       },
       {
-        "title": "Afgelopen week 32 meldingen van de gemeente over sloop, bomenkap en verkeer in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-32-meldingen-van-de-gemeente-over-sloop-bomenkap-en-verkeer-in-lelystad~a79490f6/",
-        "published": "Wed, 25 Nov 2026 10:02:09 GMT",
+        "title": "Gemeente wil meningen horen over plannen voor omgeving ziekenhuis",
+        "link": "https://radiolelystad.nl/gemeente-wil-meningen-horen-over-plannen-voor-omgeving-ziekenhuis",
+        "published": "woensdag 25 november 2026",
         "summary": ""
       },
       {
-        "title": "Betonpalen van vrachtwagen doorboren lijnbus bij Lelystad: vier gewonden",
-        "link": "https://www.destentor.nl/lelystad/betonpalen-van-vrachtwagen-doorboren-lijnbus-bij-lelystad-vier-gewonden~ab42195d/",
-        "published": "Wed, 25 Nov 2026 08:04:00 GMT",
+        "title": "Lelystadse Sportverkiezingen 2026: 'Op je 59ste nog 230 kilo tillen kan gewoon'",
+        "link": "https://radiolelystad.nl/liefde-voor-sport-centraal-tijdens-sportverkiezingen-2026-op-je-59ste-nog-230-kilo-tillen-kan-gewoon",
+        "published": "woensdag 25 november 2026",
         "summary": ""
       },
       {
-        "title": "Vermeend kopstuk van Kempenaarbende vluchtte naar Spanje: nu eist OM 12 jaar tegen hem",
-        "link": "https://www.destentor.nl/lelystad/vermeend-kopstuk-van-kempenaarbende-vluchtte-naar-spanje-nu-eist-om-12-jaar-tegen-hem~abdc437c/",
-        "published": "Tue, 24 Nov 2026 19:16:00 GMT",
+        "title": "Laatste udate: 1 zwaargewonde bij crash  bus en truck op Larserweg",
+        "link": "https://radiolelystad.nl/vijf-zwaargewonden-door-aanrijding-tussen-bus-en-vrachtwagen-op-larserweg",
+        "published": "woensdag 25 november 2026",
         "summary": ""
       },
       {
-        "title": "Muziekgroep Flevum wint Ed Luzaprijs 2026",
-        "link": "https://www.destentor.nl/lelystad/muziekgroep-flevum-wint-ed-luzaprijs-2026~a45fb35f/",
-        "published": "Tue, 24 Nov 2026 07:00:00 GMT",
+        "title": "Gedicht van de week: Hoe schrijf ik een gedicht  (Teabag)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-hoe-schrijf-ik-een-gedicht-teabag",
+        "published": "woensdag 25 november 2026",
         "summary": ""
       },
       {
-        "title": "Sabrina (43) zat als tiener in gesloten instellingen: ‘Ik kreeg gedwongen injecties’",
-        "link": "https://www.destentor.nl/lelystad/sabrina-43-zat-als-tiener-in-gesloten-instellingen-ik-kreeg-gedwongen-injecties~ac9bb57a/",
-        "published": "Mon, 23 Nov 2026 18:50:56 GMT",
+        "title": "Gemeente gaat nogmaals op zoek naar oplossing voor bootbewoners",
+        "link": "https://radiolelystad.nl/gemeente-gaat-nogmaals-op-zoek-naar-oplossing-voor-bootbewoners",
+        "published": "dinsdag 24 november 2026",
         "summary": ""
       },
       {
-        "title": "Meezingen met klassieke kerstmuziek tijdens workshop van kamerkoor in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/meezingen-met-klassieke-kerstmuziek-tijdens-workshop-van-kamerkoor-in-lelystad~a41e5c07/",
-        "published": "Mon, 23 Nov 2026 14:30:00 GMT",
+        "title": "Raad stelt besluit eeuwige grafrust uit en kijkt ook naar paardenweide",
+        "link": "https://radiolelystad.nl/gemeenteraad-neemt-nog-geen-besluit-over-eeuwigdurende-grafrust",
+        "published": "dinsdag 24 november 2026",
         "summary": ""
       },
       {
-        "title": "Heb jij Leon, Mimi of Katharina gezien? Deze drie huisdieren worden in Lelystad vermist",
-        "link": "https://www.destentor.nl/lelystad/heb-jij-leon-mimi-of-katharina-gezien-deze-drie-huisdieren-worden-in-lelystad-vermist~a03f6552/",
-        "published": "Sun, 22 Nov 2026 10:10:57 GMT",
+        "title": "Dorée de Kruijk vormde scholieren tot filmers op internationaal toneel",
+        "link": "https://radiolelystad.nl/doree-de-kruijk-vormde-scholieren-tot-filmers-op-internationaal-toneel",
+        "published": "dinsdag 24 november 2026",
         "summary": ""
       },
       {
-        "title": "VOC-replica Batavia ligt op het droge en wordt de blikvanger van een peperduur museum ‘met allure’",
-        "link": "https://www.destentor.nl/lelystad/voc-replica-batavia-ligt-op-het-droge-en-wordt-de-blikvanger-van-een-peperduur-museum-met-allure~a20747f2/",
-        "published": "Sat, 21 Nov 2026 18:10:22 GMT",
+        "title": "Werk aan Westerdreef voorlopig klaar, opknappen rotondes volgt pas in april",
+        "link": "https://radiolelystad.nl/werk-aan-westerdreef-voorlopig-klaar-rotondes-volgen-in-april",
+        "published": "dinsdag 24 november 2026",
         "summary": ""
       },
       {
-        "title": "Wapens, geld en hennepkwekerijen: burgemeester Lelystad sluit in korte tijd drie woningen",
-        "link": "https://www.destentor.nl/lelystad/wapens-geld-en-hennepkwekerijen-burgemeester-lelystad-sluit-in-korte-tijd-drie-woningen~a20afcf2/",
-        "published": "Fri, 20 Nov 2026 17:21:00 GMT",
+        "title": "Critici overwegen juridische stappen tegen plan voor verleggen dijk",
+        "link": "https://radiolelystad.nl/beschermers-ijsselmeergebied-overwegen-juridische-stappen-tegen-buitendijks-bouwen",
+        "published": "maandag 23 november 2026",
         "summary": ""
       },
       {
-        "title": "Jeugdzorg in Lelystad: 7 procent van de jongeren krijgt hulp, gemeente gaf vorig jaar minstens 52,8 miljoen euro uit",
-        "link": "https://www.destentor.nl/lelystad/jeugdzorg-in-lelystad-7-procent-van-de-jongeren-krijgt-hulp-gemeente-gaf-vorig-jaar-minstens-52-8-miljoen-euro-uit~acd73f4a/",
-        "published": "Fri, 20 Nov 2026 16:29:00 GMT",
+        "title": "Leo Schouwenaar (bekend van radio en tv) mag zich Maestro van Lelystad noemen",
+        "link": "https://radiolelystad.nl/leo-schouwenaar-bekend-van-radio-en-tv-mag-zich-maestro-van-lelystad-noemen",
+        "published": "maandag 23 november 2026",
         "summary": ""
       },
       {
-        "title": "Lelystad neemt Koningsdag-stokje over van Dokkum met bijzondere stempel",
-        "link": "https://www.destentor.nl/lelystad/lelystad-neemt-koningsdag-stokje-over-van-dokkum-met-bijzondere-stempel~afde8008/",
-        "published": "Fri, 20 Nov 2026 11:00:00 GMT",
+        "title": "GOL Ed Luzaprijs dit jaar naar musici met een verstandelijke beperking (video)",
+        "link": "https://radiolelystad.nl/muziekgroep-flevum-wint-dit-jaar-de-gol-ed-luzaprijs-video",
+        "published": "maandag 23 november 2026",
         "summary": ""
       },
       {
-        "title": "Lelystadse kinderen maken zelf een gezond receptenboekje voor de feestdagen",
-        "link": "https://www.destentor.nl/lelystad/lelystadse-kinderen-maken-zelf-een-gezond-receptenboekje-voor-de-feestdagen~aaa1fb13/",
-        "published": "Fri, 20 Nov 2026 08:00:00 GMT",
+        "title": "SV Lelystad ’67 verliest van koploper VSCO ’61 en ontvangt volgende week de nummer 3 WZC Wapenveld",
+        "link": "https://radiolelystad.nl/sv-lelystad-67-verliest-van-koploper-vsco-61-en-ontvangt-volgende-week-de-nummer-3-wzc-wapenveld",
+        "published": "zondag 22 november 2026",
         "summary": ""
       },
       {
-        "title": "Studio Flevokunst moet in Lelystad een ontmoetingsplek voor kunstenaars en publiek uit de hele polder worden",
-        "link": "https://www.destentor.nl/lelystad/studio-flevokunst-moet-in-lelystad-een-ontmoetingsplek-voor-kunstenaars-en-publiek-uit-de-hele-polder-worden~a260456b/",
-        "published": "Thu, 19 Nov 2026 10:00:00 GMT",
+        "title": "Unicum wint van hekkensluiter en klimt op naar tweede plaats in competitie",
+        "link": "https://radiolelystad.nl/unicum-wint-van-hekkensluiter-en-klimt-op-naar-tweede-plaats-in-competitie",
+        "published": "zaterdag 21 november 2026",
         "summary": ""
       },
       {
-        "title": "Stroomstoring in Lelystad opgelost",
-        "link": "https://www.destentor.nl/lelystad/stroomstoring-in-lelystad-opgelost~af7e10f5/",
-        "published": "Thu, 19 Nov 2026 09:29:54 GMT",
+        "title": "(met video) Onze techneut en alleskunner Egbert kan omroepvrijwilliger van het jaar worden. Stem!!",
+        "link": "https://radiolelystad.nl/met-video-onze-techneut-en-alleskunner-egbert-kan-omroepvrijwilliger-van-het-jaar-worden-stem",
+        "published": "zaterdag 21 november 2026",
         "summary": ""
       },
       {
-        "title": "Vandaag begint het monsterproces tegen de meest beruchte jeugdbende van Lelystad: dit zijn de 5 verdachten",
-        "link": "https://www.destentor.nl/lelystad/vandaag-begint-het-monsterproces-tegen-de-meest-beruchte-jeugdbende-van-lelystad-dit-zijn-de-5-verdachten~a9b3e7cf/",
-        "published": "Thu, 19 Nov 2026 06:00:24 GMT",
+        "title": "Politie vindt opnieuw vuurwerk in woning na anonieme tip - en waarschuwt",
+        "link": "https://radiolelystad.nl/politie-vindt-opnieuw-vuurwerk-in-woning-na-tips-en-waarschuwt",
+        "published": "vrijdag 20 november 2026",
         "summary": ""
       },
       {
-        "title": "Beste verhaal in schrijfwedstrijd over polder komt uit Emmeloord, ook prijzen naar Urk en Lelystad",
-        "link": "https://www.destentor.nl/noordoostpolder/beste-verhaal-in-schrijfwedstrijd-over-polder-komt-uit-emmeloord-ook-prijzen-naar-urk-en-lelystad~a274a418/",
-        "published": "Wed, 18 Nov 2026 14:22:00 GMT",
+        "title": "Burgemeester sluit drie woningen vanwege onder meer verdovende middelen",
+        "link": "https://radiolelystad.nl/burgemeester-sluit-drie-woningen-vanwege-onder-meer-verdovende-middelen",
+        "published": "vrijdag 20 november 2026",
         "summary": ""
       },
       {
-        "title": "Afgelopen week 24 meldingen van de gemeente over sloop en bomenkap in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-24-meldingen-van-de-gemeente-over-sloop-en-bomenkap-in-lelystad~a0a93ebb/",
-        "published": "Wed, 18 Nov 2026 10:05:16 GMT",
+        "title": "Gemeente gaat samenwerken met andere 'arme' groeisteden",
+        "link": "https://radiolelystad.nl/gemeente-gaat-samenwerken-met-andere-arme-groeisteden-in-new-town-alliantie",
+        "published": "vrijdag 20 november 2026",
         "summary": ""
       },
       {
-        "title": "Directeur op staande voet ontslagen na beschuldiging van schrikbewind, nu eist ze vijf ton",
-        "link": "https://www.destentor.nl/lelystad/directeur-op-staande-voet-ontslagen-na-beschuldiging-van-schrikbewind-nu-eist-ze-vijf-ton~af4b0f43/",
-        "published": "Wed, 18 Nov 2026 10:00:00 GMT",
+        "title": "Pilot voorrangswoningen voor zorgpersoneel met jaar verlengd",
+        "link": "https://radiolelystad.nl/pilot-voorrangswoningen-voor-zorgpersoneel-met-jaar-verlengd",
+        "published": "vrijdag 20 november 2026",
         "summary": ""
       },
       {
-        "title": "Nachttrein van Zwolle naar Schiphol stopt per direct met rijden",
-        "link": "https://www.destentor.nl/zwolle/nachttrein-van-zwolle-naar-schiphol-stopt-per-direct-met-rijden~a2285fad/",
-        "published": "Tue, 17 Nov 2026 14:19:00 GMT",
+        "title": "Van vier naar dertig maanden cel in plaats van vrijspraak voor man met machete",
+        "link": "https://radiolelystad.nl/van-4-naar-30-maanden-cel-in-plaats-van-vrijspraak-voor-man-met-machete",
+        "published": "donderdag 19 november 2026",
         "summary": ""
       },
       {
-        "title": "Han Lammersbeurs voor Flevolands talent gaat dit jaar naar 21-jarige danser uit Lelystad",
-        "link": "https://www.destentor.nl/lelystad/han-lammersbeurs-voor-flevolands-talent-gaat-dit-jaar-naar-21-jarige-danser-uit-lelystad~ad29c10d/",
-        "published": "Tue, 17 Nov 2026 13:17:00 GMT",
+        "title": "Burgemeester neemt twaalfde stempel op Elfstedenkaart in Dokkum in ontvangst",
+        "link": "https://radiolelystad.nl/burgemeester-neemt-twaalfde-stempel-op-elfstedenkaart-in-dokkum-in-ontvangst",
+        "published": "donderdag 19 november 2026",
         "summary": ""
       },
       {
-        "title": "Heel Lelystad zingt mee tijdens stadsversie van de ‘Sing Along’",
-        "link": "https://www.destentor.nl/lelystad/heel-lelystad-zingt-mee-tijdens-stadsversie-van-de-sing-along~a4b0128d7/",
-        "published": "Mon, 16 Nov 2026 14:30:00 GMT",
+        "title": "College wil voor Oekraïners 144 tijdelijke woningen bij oude SGL bouwen",
+        "link": "https://radiolelystad.nl/gemeente-wil-oekrainers-verhuizen-naar-144-tijdelijke-woningen-bij-voormalige-sgl-school",
+        "published": "donderdag 19 november 2026",
         "summary": ""
       },
       {
-        "title": "Heb jij Kitty, Zorro of Milo gezien? Deze drie huisdieren worden in Lelystad vermist",
-        "link": "https://www.destentor.nl/lelystad/heb-jij-kitty-zorro-of-milo-gezien-deze-drie-huisdieren-worden-in-lelystad-vermist~a2300e65/",
-        "published": "Sun, 15 Nov 2026 10:10:46 GMT",
+        "title": "Gemeente praat met Ikea over mogelijkheden voor kleine vestiging, formaat supermarkt",
+        "link": "https://radiolelystad.nl/gemeente-heeft-contact-met-ikea-om-mogelijkheden-voor-een-kleine-vestiging-te-onderzoeken",
+        "published": "donderdag 19 november 2026",
         "summary": ""
       },
       {
-        "title": "Politie greep niet hard in bij driftwedstrijd waar jongen (18) omkwam: ‘Hij komt niet meer thuis’",
-        "link": "https://www.destentor.nl/lelystad/politie-greep-niet-hard-in-bij-driftwedstrijd-waar-jongen-18-omkwam-hij-komt-niet-meer-thuis~a8e33d1d/",
-        "published": "Fri, 13 Nov 2026 19:00:56 GMT",
+        "title": "Plantage blijft Plantage, ondanks associatie met slavernij, zeggen b. en w.",
+        "link": "https://radiolelystad.nl/plantage-blijft-plantage-ondanks-associatie-met-slavernij-zeggen-b-en-w",
+        "published": "woensdag 18 november 2026",
         "summary": ""
       },
       {
-        "title": "Rechter beslist: man (39) mag na straf voor misbruik en mishandeling terug naar oude woonplaats",
-        "link": "https://www.destentor.nl/lelystad/rechter-beslist-man-39-mag-na-straf-voor-misbruik-en-mishandeling-terug-naar-oude-woonplaats~a3264a60/",
-        "published": "Fri, 13 Nov 2026 13:54:40 GMT",
+        "title": "Ex-directeur JEL (onlangs actief voor Forum) eist half miljoen vanwege ontslag",
+        "link": "https://radiolelystad.nl/ex-directeur-jel-actief-voor-forum-eist-half-miljoen-vanwege-ontslag",
+        "published": "woensdag 18 november 2026",
         "summary": ""
       },
       {
-        "title": "Als het gaat om natuur en milieu scoort Lelystad beter dan de meeste gemeenten",
-        "link": "https://www.destentor.nl/lelystad/als-het-gaat-om-natuur-en-milieu-scoort-lelystad-beter-dan-de-meeste-gemeenten~a2adfd1d4/",
-        "published": "Fri, 13 Nov 2026 05:30:00 GMT",
+        "title": "Gedicht van de week: Jouw zoete dromen (Ruige Poez)",
+        "link": "https://radiolelystad.nl/gedicht-van-de-week-jouw-zoete-dromen-ruige-poez",
+        "published": "woensdag 18 november 2026",
         "summary": ""
       },
       {
-        "title": "Lelystad sluit 2027 met zwarte cijfers, maar daarna dreigt een miljoenentekort: ‘Zeer onverstandig’",
-        "link": "https://www.destentor.nl/lelystad/lelystad-sluit-2027-met-zwarte-cijfers-maar-daarna-dreigt-een-miljoenentekort-zeer-onverstandig~aa4383e1/",
-        "published": "Fri, 13 Nov 2026 05:00:00 GMT",
+        "title": "De kliekjes van twee avonden debat over de begroting, 'voorbeeld voor Den Haag'",
+        "link": "https://radiolelystad.nl/de-kliekjes-van-twee-avonden-van-politiek-debat-over-de-begroting",
+        "published": "dinsdag 17 november 2026",
         "summary": ""
       },
       {
-        "title": "Gemeente zei dat alle jongeren vervangende zorg hadden, maar deze gezinnen zitten zonder: ‘We horen niets’",
-        "link": "https://www.destentor.nl/lelystad/gemeente-zei-dat-alle-jongeren-vervangende-zorg-hadden-maar-deze-gezinnen-zitten-zonder-we-horen-niets~a15eeed9/",
-        "published": "Wed, 11 Nov 2026 18:00:00 GMT",
+        "title": "Nachttrein stopt, rechtscollege verklaart bijdragen gemeenten onwettig",
+        "link": "https://radiolelystad.nl/rechtscollege-beoordeelt-gemeentelijke-bijdragen-aan-nachttrein-als-onwettig",
+        "published": "dinsdag 17 november 2026",
         "summary": ""
       },
       {
-        "title": "Winterverlichting moet bezoekers Bataviakwartier weg wijzen langs opvallende locaties",
-        "link": "https://www.destentor.nl/lelystad/winterverlichting-moet-bezoekers-bataviakwartier-weg-wijzen-langs-opvallende-locaties~acd34ada/",
-        "published": "Wed, 11 Nov 2026 15:00:00 GMT",
+        "title": "Donald Duck en de zijnen beleven weer een avontuur in Lelystad en wijde omgeving",
+        "link": "https://radiolelystad.nl/donald-duck-en-de-zijnen-beleven-weer-een-avontuur-in-flevoland",
+        "published": "maandag 16 november 2026",
         "summary": ""
       },
       {
-        "title": "Afgelopen week 29 meldingen van de gemeente over sloop en natuur in Lelystad",
-        "link": "https://www.destentor.nl/lelystad/afgelopen-week-29-meldingen-van-de-gemeente-over-sloop-en-natuur-in-lelystad~a6ca0066/",
-        "published": "Wed, 11 Nov 2026 10:02:39 GMT",
+        "title": "Radio Lelystad gaat de vergaderingen van de gemeenteraad live uitzenden op tv",
+        "link": "https://radiolelystad.nl/radio-lelystad-gaat-vergaderingen-gemeenteraad-live-uitzenden",
+        "published": "maandag 16 november 2026",
         "summary": ""
       },
       {
-        "title": "Na twee explosies vindt woonstichting het genoeg: moeder met kind van 5 jaar op straat gezet",
-        "link": "https://www.destentor.nl/lelystad/na-twee-explosies-vindt-woonstichting-het-genoeg-moeder-met-kind-van-5-jaar-op-straat-gezet~a9328c36/",
-        "published": "Wed, 11 Nov 2026 05:00:46 GMT",
+        "title": "Unicum speelt ook tegen koploper Go Ahead Kampen gelijk",
+        "link": "https://radiolelystad.nl/unicum-speelt-ook-tegen-koploper-go-ahead-kampen-gelijk",
+        "published": "zondag 15 november 2026",
         "summary": ""
       },
       {
-        "title": "FlevoMeer Bibliotheek vindt opvolger voor interim-bestuurder Marjolijn Feringa",
-        "link": "https://www.destentor.nl/lelystad/flevomeer-bibliotheek-vindt-opvolger-voor-interim-bestuurder-marjolijn-feringa~a1c5381e/",
-        "published": "Mon, 09 Nov 2026 13:30:00 GMT",
+        "title": "SV Lelystad ’67 speelt gelijk Zalk en wacht nu de uitwedstrijd tegen koploper VSCO ‘61",
+        "link": "https://radiolelystad.nl/sv-lelystad-67-speelt-gelijk-zalk-en-wacht-nu-de-uitwedstrijd-tegen-koploper-vsco-61",
+        "published": "zondag 15 november 2026",
         "summary": ""
       },
       {
-        "title": "Explosie bij woning Lelystad zorgt voor kapotte ramen en beschadigde deur",
-        "link": "https://www.destentor.nl/lelystad/explosie-bij-woning-lelystad-zorgt-voor-kapotte-ramen-en-beschadigde-deur~a61df95b0/",
-        "published": "Mon, 09 Nov 2026 11:09:00 GMT",
+        "title": "Update: Nieuw poppodium komt er,  hondenbelasting blijft zeker volgend jaar nog",
+        "link": "https://radiolelystad.nl/ontwikkeling-nieuw-poppodium-gaat-door-en-de-hondenbelasting-blijft-in-ieder-geval-volgend-jaar-bestaan",
+        "published": "zaterdag 14 november 2026",
         "summary": ""
       },
       {
-        "title": "Heb jij Saint gezien? Dit huisdier wordt in Lelystad vermist",
-        "link": "https://www.destentor.nl/lelystad/heb-jij-saint-gezien-dit-huisdier-wordt-in-lelystad-vermist~a96acedc/",
-        "published": "Sun, 08 Nov 2026 10:11:38 GMT",
+        "title": "Man die stiefkinderen mishandelde en misbruikte mag terug nu ze zijn verhuisd",
+        "link": "https://radiolelystad.nl/man-die-stiefkinderen-misbruikte-en-mishandelde-mag-lelystad-weer-in-nu-ze-zijn-verhuisd",
+        "published": "vrijdag 13 november 2026",
         "summary": ""
       },
       {
-        "title": "Lelystad steekt 3,5 miljoen extra in nieuw poppodium: gemeente kan dat betalen dankzij een meevaller",
-        "link": "https://www.destentor.nl/lelystad/lelystad-steekt-3-5-miljoen-extra-in-nieuw-poppodium-gemeente-kan-dat-betalen-dankzij-een-meevaller~a5ed4a73/",
-        "published": "Sun, 08 Nov 2026 10:00:28 GMT",
+        "title": "Danstalent Maddy keert terug naar Barcelona met Han Lammersbeurs op zak",
+        "link": "https://radiolelystad.nl/danstalent-maddy-keert-terug-naar-barcelona-met-han-lammersbeurs-op-zak",
+        "published": "vrijdag 13 november 2026",
         "summary": ""
       },
       {
-        "title": "Deze genomineerden in Lelystad maken kans op de vrijwilligersprijs Ed Luza",
-        "link": "https://www.destentor.nl/lelystad/deze-genomineerden-in-lelystad-maken-kans-op-de-vrijwilligersprijs-ed-luza~a465820d/",
-        "published": "Fri, 06 Nov 2026 14:28:00 GMT",
+        "title": "Zorgen over nieuwe locatie coffeeshop, raad wil op termijn wellicht een andere plek",
+        "link": "https://radiolelystad.nl/zorgen-over-nieuwe-locatie-coffeeshop-raad-wil-op-termijn-wellicht-een-andere-plek",
+        "published": "donderdag 12 november 2026",
         "summary": ""
       },
       {
-        "title": "Verdachte (41) van schietincident weet het ineens weer: ‘Ik was bij een zieke vriend. Films kijken’",
-        "link": "https://www.destentor.nl/lelystad/verdachte-41-van-schietincident-weet-het-ineens-weer-ik-was-bij-een-zieke-vriend-films-kijken~aacba45b/",
-        "published": "Fri, 06 Nov 2026 13:22:00 GMT",
+        "title": "Nieuwbouw Museum Batavialand gaat 25 miljoen kosten in plaats van 18,5",
+        "link": "https://radiolelystad.nl/nieuwbouw-museum-batavialand-gaat-25-miljoen-kosten-geen-18-5",
+        "published": "donderdag 12 november 2026",
         "summary": ""
       },
       {
-        "title": "Lelystad wil minder afhankelijk zijn van buitenlandse techreuzen: zo gaat de gemeente dat aanpakken",
-        "link": "https://www.destentor.nl/lelystad/lelystad-wil-minder-afhankelijk-zijn-van-buitenlandse-techreuzen-zo-gaat-de-gemeente-dat-aanpakken~accdefcbe/",
-        "published": "Fri, 06 Nov 2026 05:00:54 GMT",
+        "title": "Centrada mag huurder Horst niet dwingen omstreden camera's weg te halen",
+        "link": "https://radiolelystad.nl/centrada-mag-huurder-horst-niet-dwingen-omstreden-camera-weg-te-halen",
+        "published": "donderdag 12 november 2026",
         "summary": ""
       },
       {
-        "title": "Inbreker (20) slaat twee keer toe tijdens kerst, één detail op camerabeelden verraadt hem",
-        "link": "https://www.destentor.nl/lelystad/inbreker-20-slaat-twee-keer-toe-tijdens-kerst-een-detail-op-camerabeelden-verraadt-hem~aee17ff1/",
-        "published": "Thu, 05 Nov 2026 17:07:28 GMT",
+        "title": "Museum Batavialand krijgt 70 mille van particulier fonds voor archeologie",
+        "link": "https://radiolelystad.nl/museum-batavialand-krijgt-70-mille-van-particulier-fonds-voor-archeologie",
+        "published": "woensdag 11 november 2026",
         "summary": ""
       },
       {
-        "title": "Meer volwassenen in Lelystad vullen hun donorformulier niet in",
-        "link": "https://www.destentor.nl/lelystad/meer-volwassenen-in-lelystad-vullen-hun-donorformulier-niet-in~a78e96dd/",
-        "published": "Thu, 05 Nov 2026 16:30:00 GMT",
+        "title": "Swingen op het, verlate, jubileumfeest van Divertido",
+        "link": "https://radiolelystad.nl/swingen-op-het-verlate-jubileumfeest-van-divertido",
+        "published": "woensdag 11 november 2026",
         "summary": ""
       },
       {
-        "title": "Repareren, ruilen en hergebruiken: Lelystad viert de Nationale Klimaatweek",
-        "link": "https://www.destentor.nl/lelystad/repareren-ruilen-en-hergebruiken-lelystad-viert-de-nationale-klimaatweek~a526d678/",
-        "published": "Wed, 04 Nov 2026 16:28:00 GMT",
+        "title": "Jaarlijkse rituele dans rond hondenbelasting zou nog best spannend kunnen worden",
+        "link": "https://radiolelystad.nl/jaarlijkse-rituele-dans-rond-de-hondenbelasting-zou-nog-best-spannend-kunnen-worden",
+        "published": "woensdag 11 november 2026",
         "summary": ""
       },
       {
-        "title": "Een graf tot de dag des oordeels kost Lelystad in elk geval 68.000 euro aan onderzoek",
-        "link": "https://www.destentor.nl/lelystad/een-graf-tot-de-dag-des-oordeels-kost-lelystad-in-elk-geval-68-000-euro-aan-onderzoek~ab00ead0/",
-        "published": "Wed, 04 Nov 2026 16:01:07 GMT",
+        "title": "Centrada mag vrouw ondanks kind van vijf uit huis Jol zetten na explosies",
+        "link": "https://radiolelystad.nl/centrada-mag-vrouw-ondanks-kind-van-vijf-uit-huis-jol-zetten-na-explosies",
+        "published": "woensdag 11 november 2026",
         "summary": ""
       }
     ]

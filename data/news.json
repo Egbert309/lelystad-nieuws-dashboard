@@ -1,17 +1,29 @@
 {
-  "updated": "2026-11-28T06:07:17.890816+00:00",
+  "updated": "2026-11-28T07:07:15.579301+00:00",
   "sources": {
-    "Nu.nl": [
+    "NOS": [
       {
-        "title": "Bestuurders van lijnbus en vrachtwagen aangehouden na ongeluk in Lelystad",
-        "link": "https://www.nu.nl/binnenland/6417752/bestuurders-van-lijnbus-en-vrachtwagen-aangehouden-na-ongeluk-in-lelystad.html",
-        "published": "Wed, 25 Nov 2026 14:36:10 +0100",
+        "title": "Meer ruimte voor dronevliegers, regels rond vijf luchthavens versoepeld",
+        "link": "https://nos.nl/l/2641257",
+        "published": "Fri, 27 Nov 2026 15:16:21 +0100",
         "summary": ""
       },
       {
-        "title": "Meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in Lelystad",
-        "link": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
-        "published": "Wed, 25 Nov 2026 09:12:00 +0100",
+        "title": "Podcast De Monarchie: waarom zijn er zo weinig vrouwen commissaris van de Koning?",
+        "link": "https://nos.nl/l/2640989",
+        "published": "Wed, 25 Nov 2026 16:30:02 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
+        "link": "https://nos.nl/l/2640944",
+        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Lijnbus wordt opengereten door vrachtwagen met heipalen, meerdere gewonden",
+        "link": "https://nos.nl/l/2640937",
+        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
         "summary": ""
       }
     ],
@@ -619,32 +631,6 @@
         "summary": ""
       }
     ],
-    "NOS": [
-      {
-        "title": "Meer ruimte voor dronevliegers, regels rond vijf luchthavens versoepeld",
-        "link": "https://nos.nl/l/2641257",
-        "published": "Fri, 27 Nov 2026 15:16:21 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Podcast De Monarchie: waarom zijn er zo weinig vrouwen commissaris van de Koning?",
-        "link": "https://nos.nl/l/2640989",
-        "published": "Wed, 25 Nov 2026 16:30:02 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Gewonden bij botsing tussen bus en vrachtwagen bij Lelystad",
-        "link": "https://nos.nl/l/2640944",
-        "published": "Wed, 25 Nov 2026 10:26:03 +0100",
-        "summary": ""
-      },
-      {
-        "title": "Lijnbus wordt opengereten door vrachtwagen met heipalen, meerdere gewonden",
-        "link": "https://nos.nl/l/2640937",
-        "published": "Wed, 25 Nov 2026 10:07:35 +0100",
-        "summary": ""
-      }
-    ],
     "Omroep Flevoland": [
       {
         "title": "Flevoland - Nieuwsoverzicht 27/11 | Schaatskoorts is er, ijs nog (net) niet • Bijzondere onderscheiding voor moed bij schietpartij",
@@ -944,6 +930,20 @@
         "title": "Lelystad - Collega mishandeld met machete en gedwongen om 2.000 euro te betalen",
         "link": "https://www.omroepflevoland.nl/nieuws/531868/collega-mishandeld-met-machete-en-gedwongen-om-2.000-euro-te-betalen",
         "published": "Wed, 18 Nov 2026 21:03:00 GMT+0200",
+        "summary": ""
+      }
+    ],
+    "Nu.nl": [
+      {
+        "title": "Bestuurders van lijnbus en vrachtwagen aangehouden na ongeluk in Lelystad",
+        "link": "https://www.nu.nl/binnenland/6417752/bestuurders-van-lijnbus-en-vrachtwagen-aangehouden-na-ongeluk-in-lelystad.html",
+        "published": "Wed, 25 Nov 2026 14:36:10 +0100",
+        "summary": ""
+      },
+      {
+        "title": "Meerdere zwaargewonden door botsing tussen vrachtwagen en lijnbus in Lelystad",
+        "link": "https://www.nu.nl/binnenland/6417710/meerdere-zwaargewonden-door-botsing-tussen-vrachtwagen-en-lijnbus-in-lelystad.html",
+        "published": "Wed, 25 Nov 2026 09:12:00 +0100",
         "summary": ""
       }
     ]
